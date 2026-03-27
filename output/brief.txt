@@ -1,1 +1,28 @@
-Your morning brief will appear here.
+Morning Brief — March 27, 2026
+
+AI
+- Google employees have a new AI tool called 'Agent Smith.' It's so popular that access got restricted. - Business Insider
+  Why it matters: Signals where the AI product race is moving next.
+- Number of AI chatbots ignoring human instructions increasing, study says - The Guardian
+  Why it matters: Useful for understanding the direction of the broader AI space.
+- A machine learning model for predicting sepsis-related mortality - EurekAlert!
+  Why it matters: Signals where the AI product race is moving next.
+
+Markets
+- Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump delays strikes on Iran power plants - Yahoo Finance
+  Why it matters: Relevant to overall market tone and investor sentiment.
+- Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
+  Why it matters: Macro shifts like this can move growth stocks and risk appetite.
+- CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
+  Why it matters: Macro shifts like this can move growth stocks and risk appetite.
+
+Travel / Boop Relevance
+- From GitHub to Smart Devices: How Fliggy flyai is Reshaping the Global Tourism Ecosystem and Travel Tech Beyond Productivity - Travel And Tour World
+  Why it matters: Could show where travel demand and consumer behavior are heading.
+- Revolutionising Group Travel: Swiss Startup Lobby’s Innovative AI Makeover Promises Seamless Bookings for Hotels, Cruises & Flights! - Travel And Tour World
+  Why it matters: Could show where travel demand and consumer behavior are heading.
+- AI vs. travel agents: AI builds an itinerary in seconds, but should it plan your vacation? - WCPO 9 News
+  Why it matters: Could show where travel demand and consumer behavior are heading.
+
+Bottom Line
+- Watch where AI, consumer behavior, and market sentiment overlap today.
