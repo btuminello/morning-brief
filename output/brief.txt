@@ -1,28 +1,63 @@
 Morning Brief — March 27, 2026
 
+Must Read Today
+- [Markets] Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGdLbTAzRjdrQ0lHT256dDg1eF9ydkF6RURjUzdqdDdrVjJ5MXlRWW4xdjQyb1RqQmcya3VfLUctTnNfSW83RWY2MVFFNE1hZlBVV3QxdHNGeTNnVllQeUhyV3l1bjcwenVqb3k2SDFhQy1kZ0JCMDN6c21sX0hGZHRHdUZ5YnJWQ1V3bnFpYUFreTBsN3FjYWxoeTBOeUx3NWtJeVF1U1M4YlJJM0c4UGNTQU90THIyWDBkSjVjb9IBxAFBVV95cUxOWVp6WDNrSWNwVk1Ya3RSQTJhV0l2dzY3c2JPc3Nhbnk1ZEVGNkVScWxNQTJUNEpram9CekZ4MW05OExmUUlaWnBucG1xTnVkaU1GN1hIVm84RlVWZ1k1bXlFSDljdzhqUUNQZzUxUDk0UERhTk83NjJMMHdicTRBaTBxdk5VejlYS1ZRZzAtbWVYcE44UkJYcU1iT2dSbHB1eTdFeWJmdURCcU1hcFFVa2dWMEJxWlpPTHVkS0FPRHdodllH?oc=5
+
+- [AI] Agentic AI for Consumer Applications Market Towards USD 44.3 Billion By 2034 - vocal.media
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMExlek03WXJJTjgzMUE4bjBoNDNVNFprRERCdXgxSE5WVG1rWjRsRVVnbGlSVFNnZE1QS3BfVGJKTGtYS0xoSjlCV3FSbVFrbFhOX0k4Ulp2RUFHdHVFMFRFUDVFWU9Gb2I4ZTF6MXhUUHZ2WUpYUnVUYlN5alllSVpNRWxhV0NWVHR1Y01LMDhiQ1pQTjJYbjZRaVVXVFlIU1M0ZndCY0E?oc=5
+
+- [Markets] CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
+
+- [Travel / Boop Relevance] Travel demand surges for 2026 as AI planning rises and cruise bookings rebound - itij.com
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1NS1MycDExM3l1SGloV0RsLTJtdW1oTWM3ajJYcDZTMFRSZ2UtTkJYRFlxYTBycjZjVXhnWElENFRkY1ZkanlmdDlITTlJWWRfUDY2MHFnT2ZJcHRpUWZ6STMwbjFwM0NpR29Nd3JVZ0hKeTlyNnVfeDFJS3ZrNlRxSmRURFNJdDF3WEF4YlBzaFE4bUx5YmpQRVo5ekJucEx4XzFRcw?oc=5
+
+- [Travel / Boop Relevance] Lobby Raises $2.2 Million to Streamline Hotel and Group Travel Bookings | - Hotel Technology News
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGFycTAwZHd2NXB0X01kSnN3a2JsUHQ3NGZ0aDFzazNid05DLTcyVkt2UTEwNXNtNkN2X0h3MDMwU050eFpqTDlxR3pmVDhWZHNBU3lkVmxJS3hGUWpkQWl6blFHNTIya2VJam96NjBaRU9EZ1EyUmh1X3JzZU5CemNIUlkwTlYxakV0aEhlTWptcWM5djZYTFVHWVBwN1k4X3VzcDlOM0VmdXZWZ1Zpdw?oc=5
+
+
 AI
+- Agentic AI for Consumer Applications Market Towards USD 44.3 Billion By 2034 - vocal.media
+  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMExlek03WXJJTjgzMUE4bjBoNDNVNFprRERCdXgxSE5WVG1rWjRsRVVnbGlSVFNnZE1QS3BfVGJKTGtYS0xoSjlCV3FSbVFrbFhOX0k4Ulp2RUFHdHVFMFRFUDVFWU9Gb2I4ZTF6MXhUUHZ2WUpYUnVUYlN5alllSVpNRWxhV0NWVHR1Y01LMDhiQ1pQTjJYbjZRaVVXVFlIU1M0ZndCY0E?oc=5
+
+- HUMAIN and Turing Build AI Agent Marketplace to Accelerate Superintelligence Adoption - TechAfrica News
+  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0VWMXRmeFd0S1FCUVNKYnlRVENiNDVtWnEwQjhGc0tWQndKZ3h5a1c5MERGbUVpYTFvT0RpV3ozQ0YyVHJLS051U0VWU2JWdFZ3eF9nU3N1SDJmTUJxb1RLZENZVXdRWV9pZHBseENUZHIzcFhoWm1RSGxPSllXSmtldGVnN0Y3c25nNGtkUXhXQmlTLVZad3pUVFNVcl93R3RoU3h2RGxBdEdhclp5ZFF2UUk1WFlPS3RDNWJWQkctZw?oc=5
+
 - Google employees have a new AI tool called 'Agent Smith.' It's so popular that access got restricted. - Business Insider
-  Why it matters: Signals where the AI product race is moving next.
-- Number of AI chatbots ignoring human instructions increasing, study says - The Guardian
-  Why it matters: Useful for understanding the direction of the broader AI space.
-- A machine learning model for predicting sepsis-related mortality - EurekAlert!
-  Why it matters: Signals where the AI product race is moving next.
+  Why it matters: Signals big-tech AI product expansion and stronger competition across the space.
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkRrOXVwemNicTVvbTN6dllIVEJOWlk1Q25BVXJuNnhPUkZrQnhzeFAzVkpPZ0E3QU1VSTFzVzl5b1hPOFRndEFTWUVWQWVlNEd3Skl1bEI3UlpxYllkd01IWlEtNlA3RU1Td0RMQkZsblVMRlBtWkt6aVJZMnBnTlZuc3BoT0ZyQ25pVg?oc=5
+
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump delays strikes on Iran power plants - Yahoo Finance
-  Why it matters: Relevant to overall market tone and investor sentiment.
 - Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
-  Why it matters: Macro shifts like this can move growth stocks and risk appetite.
+  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGdLbTAzRjdrQ0lHT256dDg1eF9ydkF6RURjUzdqdDdrVjJ5MXlRWW4xdjQyb1RqQmcya3VfLUctTnNfSW83RWY2MVFFNE1hZlBVV3QxdHNGeTNnVllQeUhyV3l1bjcwenVqb3k2SDFhQy1kZ0JCMDN6c21sX0hGZHRHdUZ5YnJWQ1V3bnFpYUFreTBsN3FjYWxoeTBOeUx3NWtJeVF1U1M4YlJJM0c4UGNTQU90THIyWDBkSjVjb9IBxAFBVV95cUxOWVp6WDNrSWNwVk1Ya3RSQTJhV0l2dzY3c2JPc3Nhbnk1ZEVGNkVScWxNQTJUNEpram9CekZ4MW05OExmUUlaWnBucG1xTnVkaU1GN1hIVm84RlVWZ1k1bXlFSDljdzhqUUNQZzUxUDk0UERhTk83NjJMMHdicTRBaTBxdk5VejlYS1ZRZzAtbWVYcE44UkJYcU1iT2dSbHB1eTdFeWJmdURCcU1hcFFVa2dWMEJxWlpPTHVkS0FPRHdodllH?oc=5
+
 - CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
-  Why it matters: Macro shifts like this can move growth stocks and risk appetite.
+  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq futures slide after Trump delays strikes on Iran power plants - Yahoo Finance
+  Why it matters: Helpful for gauging overall market tone heading into the day.
+  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb2ZzWHI2UGl2NkZFMkVodEtIY1Y0bXphNy1SWHJBYVpyYWVyTC1XczdZdXhPa01sSGlkSEdZZkkwT01BLXFaeUtuUE9rZEl2SEhXU1RUU3RXQmdROVRySnJKY09MckxLZXl1RWZod0d6TEw3U1BlNWdMY0VLX0d4UmpTNVJsc3I4cGFpeExSbHQxRGc2LWhWdjBmR3V2LXdDdDVIMExnLU5KSVBhTmYzdVpoWk9DV3JsNUY1WENac1I4SjZfT0ZwZ3pQT0lIRm9EdXd5VkoyclFsVWxvclE?oc=5
+
 
 Travel / Boop Relevance
-- From GitHub to Smart Devices: How Fliggy flyai is Reshaping the Global Tourism Ecosystem and Travel Tech Beyond Productivity - Travel And Tour World
-  Why it matters: Could show where travel demand and consumer behavior are heading.
-- Revolutionising Group Travel: Swiss Startup Lobby’s Innovative AI Makeover Promises Seamless Bookings for Hotels, Cruises & Flights! - Travel And Tour World
-  Why it matters: Could show where travel demand and consumer behavior are heading.
-- AI vs. travel agents: AI builds an itinerary in seconds, but should it plan your vacation? - WCPO 9 News
-  Why it matters: Could show where travel demand and consumer behavior are heading.
+- Travel demand surges for 2026 as AI planning rises and cruise bookings rebound - itij.com
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1NS1MycDExM3l1SGloV0RsLTJtdW1oTWM3ajJYcDZTMFRSZ2UtTkJYRFlxYTBycjZjVXhnWElENFRkY1ZkanlmdDlITTlJWWRfUDY2MHFnT2ZJcHRpUWZ6STMwbjFwM0NpR29Nd3JVZ0hKeTlyNnVfeDFJS3ZrNlRxSmRURFNJdDF3WEF4YlBzaFE4bUx5YmpQRVo5ekJucEx4XzFRcw?oc=5
+
+- Lobby Raises $2.2 Million to Streamline Hotel and Group Travel Bookings | - Hotel Technology News
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGFycTAwZHd2NXB0X01kSnN3a2JsUHQ3NGZ0aDFzazNid05DLTcyVkt2UTEwNXNtNkN2X0h3MDMwU050eFpqTDlxR3pmVDhWZHNBU3lkVmxJS3hGUWpkQWl6blFHNTIya2VJam96NjBaRU9EZ1EyUmh1X3JzZU5CemNIUlkwTlYxakV0aEhlTWptcWM5djZYTFVHWVBwN1k4X3VzcDlOM0VmdXZWZ1Zpdw?oc=5
+
+- India’s Travel Market to Hit USD 132 Billion by 2032: Unveiling the Surging Demand for Leisure and Business Bookings Amid Economic Growth - Travel And Tour World
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxOb1o4aXh4cWxOYjJucXVKSlhKMF90Y3hKb3BLbm9oRFMyRkpweUxNa3NNMWZRdnJyVFFLaDZrRENfbXNDNndVakZYRkQyUGdjSlJnbEI3NU5PTmRFcWk0WlQtYUt3Rm01RkxZVGNIZ3JrUENuNDJvRFJCSUwtS1BJS2VZdVU4bUJxQUJ2S3BLYkY4OC00QzA1S0lsVk93R0x2QVM5YjYxX2VWNXRya05OeTVFdmxFUTVGekRPLW9kY2liZnkzd0RGT3FWS2VNUnhJdEVlRS1mdWNHWkJMT3djdTZ3bjZ4amYyTURyLU1YWjE0a0pDMW1yeGdqYjgwOXdGeTN0QkhqR09UV05kd3VWQXh3?oc=5
+
 
 Bottom Line
 - Watch where AI, consumer behavior, and market sentiment overlap today.
