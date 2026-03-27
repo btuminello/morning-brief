@@ -6,7 +6,6 @@ import feedparser
 
 OUTPUT_PATH = "output/brief.txt"
 
-# Broad news searches — not limited to specific companies
 FEEDS = {
     "AI": [
         "https://news.google.com/rss/search?q=artificial+intelligence",
@@ -39,6 +38,7 @@ FEEDS = {
         "https://news.google.com/rss/search?q=travel+startup"
     ]
 }
+
 AI_KEYWORDS = [
     "ai", "artificial intelligence", "machine learning", "llm", "agent",
     "model", "generative ai", "chatbot", "reasoning", "chip", "data center",
@@ -100,7 +100,8 @@ def dedupe(items):
 
 
 def score_item(item, section):
-    text = f'{item["title"]} {item["summary"]}'.lower()
+    text = f'{item["title"]} {item.get("summary", "")}'.lower()
+    title = item["title"].lower()
     score = 0
 
     if section == "AI":
@@ -115,14 +116,26 @@ def score_item(item, section):
         score += sum(2 for kw in TRAVEL_KEYWORDS if kw in text)
         score += sum(1 for kw in AI_KEYWORDS if kw in text)
 
+    strong_words = [
+        "launch", "release", "funding", "raises", "acquisition", "earnings",
+        "inflation", "fed", "regulation", "policy", "booking", "startup",
+        "agent", "chips", "data center", "demand", "consumer"
+    ]
+    score += sum(2 for word in strong_words if word in title)
+
+    weak_words = ["opinion", "editorial", "podcast", "review"]
+    score -= sum(2 for word in weak_words if word in title)
+
     published = item.get("published")
     if published:
         hours_old = (datetime.now(timezone.utc) - published).total_seconds() / 3600
         if hours_old <= 12:
-            score += 3
+            score += 4
         elif hours_old <= 24:
-            score += 2
+            score += 3
         elif hours_old <= 48:
+            score += 2
+        elif hours_old <= 72:
             score += 1
 
     return score
@@ -177,18 +190,20 @@ def build_section(section_name, urls, limit=3):
     ranked = [item for item in ranked if score_item(item, section_name) > 0][:limit]
 
     lines = [section_name]
+
     if not ranked:
         lines.append("- No strong headlines found.")
-        return "\n".join(lines)
+        return "\n".join(lines), []
 
-for item in ranked:
-    lines.append(f'- {item["title"]}')
-    lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
-    lines.append(f'  Link: {item["link"]}')
-    lines.append("")
+    for item in ranked:
+        lines.append(f'- {item["title"]}')
+        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+        lines.append(f'  Link: {item["link"]}')
+        lines.append("")
 
-    return "\n".join(lines)
-    
+    return "\n".join(lines), ranked
+
+
 def build_must_read_section(all_section_items, limit=5):
     combined = []
 
@@ -198,82 +213,20 @@ def build_must_read_section(all_section_items, limit=5):
                 "section": section_name,
                 "title": item["title"],
                 "link": item["link"],
-                "score": def score_item(item, section):
-    text = f'{item["title"]} {item["summary"]}'.lower()
-    score = 0
-
-    if section == "AI":
-        score += sum(2 for kw in AI_KEYWORDS if kw in text)
-        score += sum(1 for kw in MARKET_KEYWORDS if kw in text)
-
-    elif section == "Markets":
-        score += sum(2 for kw in MARKET_KEYWORDS if kw in text)
-        score += sum(1 for kw in AI_KEYWORDS if kw in text)
-
-    elif section == "Travel / Boop Relevance":
-        score += sum(2 for kw in TRAVEL_KEYWORDS if kw in text)
-        score += sum(1 for kw in AI_KEYWORDS if kw in text)
-
-    title = item["title"].lower()
-
-    strong_words = [
-        "launch", "release", "funding", "raises", "acquisition", "earnings",
-        "inflation", "fed", "regulation", "policy", "booking", "startup",
-        "agent", "chips", "data center", "demand", "consumer"
-    ]
-
-    score += sum(2 for word in strong_words if word in title)
-
-    weak_words = [
-        "opinion", "editorial", "podcast", "review"
-    ]
-
-    score -= sum(2 for word in weak_words if word in title)
-
-    published = item.get("published")
-    if published:
-        hours_old = (datetime.now(timezone.utc) - published).total_seconds() / 3600
-        if hours_old <= 12:
-            score += 4
-        elif hours_old <= 24:
-            score += 3
-        elif hours_old <= 48:
-            score += 2
-        elif hours_old <= 72:
-            score += 1
-
-    return score
-            
+                "score": score_item(item, section_name)
+            })
 
     combined = sorted(combined, key=lambda x: x["score"], reverse=True)[:limit]
 
     lines = ["Must Read Today"]
+
     for item in combined:
         lines.append(f'- [{item["section"]}] {item["title"]}')
         lines.append(f'  Link: {item["link"]}')
         lines.append("")
 
- def build_section(section_name, urls, limit=3):
-    items = []
-    for url in urls:
-        items.extend(fetch_feed_items(url))
+    return "\n".join(lines)
 
-    items = dedupe(items)
-    ranked = sorted(items, key=lambda x: score_item(x, section_name), reverse=True)
-    ranked = [item for item in ranked if score_item(item, section_name) > 0][:limit]
-
-    lines = [section_name]
-    if not ranked:
-        lines.append("- No strong headlines found.")
-        return "\n".join(lines), []
-
- for item in ranked:
-    lines.append(f'- {item["title"]}')
-    lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
-    lines.append(f'  Link: {item["link"]}')
-    lines.append("")
-
-    return "\n".join(lines), ranked
 
 def main():
     today = datetime.now().strftime("%B %d, %Y")
