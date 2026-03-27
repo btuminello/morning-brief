@@ -267,11 +267,11 @@ def build_must_read_section(all_section_items, limit=5):
         lines.append("- No strong headlines found.")
         return "\n".join(lines), []
 
-    for item in ranked:
-        lines.append(f'- {item["title"]}')
-        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
-        lines.append(f'  Link: {item["link"]}')
-        lines.append("")
+ for item in ranked:
+    lines.append(f'- {item["title"]}')
+    lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+    lines.append(f'  Link: {item["link"]}')
+    lines.append("")
 
     return "\n".join(lines), ranked
 
