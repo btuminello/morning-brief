@@ -12,34 +12,33 @@ FEEDS = {
         "https://news.google.com/rss/search?q=artificial+intelligence",
         "https://news.google.com/rss/search?q=AI+agents",
         "https://news.google.com/rss/search?q=generative+AI",
-        "https://news.google.com/rss/search?q=machine+learning",
+        "https://news.google.com/rss/search?q=AI+infrastructure",
+        "https://news.google.com/rss/search?q=AI+enterprise+adoption",
         "https://news.google.com/rss/search?q=AI+regulation",
-        "https://news.google.com/rss/search?q=AI+startup",
-        "https://news.google.com/rss/search?q=AI+consumer+apps",
-        "https://news.google.com/rss/search?q=AI+enterprise+software"
+        "https://news.google.com/rss/search?q=AI+funding",
+        "https://news.google.com/rss/search?q=consumer+AI"
     ],
     "Markets": [
         "https://news.google.com/rss/search?q=stock+market",
         "https://news.google.com/rss/search?q=financial+markets",
-        "https://news.google.com/rss/search?q=market+outlook",
-        "https://news.google.com/rss/search?q=interest+rates",
-        "https://news.google.com/rss/search?q=inflation+markets",
         "https://news.google.com/rss/search?q=tech+stocks",
+        "https://news.google.com/rss/search?q=growth+stocks",
+        "https://news.google.com/rss/search?q=inflation+markets",
+        "https://news.google.com/rss/search?q=interest+rates",
         "https://news.google.com/rss/search?q=AI+stocks",
-        "https://news.google.com/rss/search?q=venture+capital+AI"
+        "https://news.google.com/rss/search?q=semiconductor+demand"
     ],
     "Travel / Boop Relevance": [
         "https://news.google.com/rss/search?q=travel+technology",
-        "https://news.google.com/rss/search?q=travel+startup",
         "https://news.google.com/rss/search?q=online+travel",
+        "https://news.google.com/rss/search?q=digital+booking+travel",
         "https://news.google.com/rss/search?q=travel+planning+app",
-        "https://news.google.com/rss/search?q=digital+travel+booking",
-        "https://news.google.com/rss/search?q=creator+travel",
-        "https://news.google.com/rss/search?q=consumer+internet+travel",
-        "https://news.google.com/rss/search?q=trip+planning+AI"
+        "https://news.google.com/rss/search?q=AI+travel+planning",
+        "https://news.google.com/rss/search?q=travel+consumer+behavior",
+        "https://news.google.com/rss/search?q=creator+economy+travel",
+        "https://news.google.com/rss/search?q=travel+startup"
     ]
 }
-
 AI_KEYWORDS = [
     "ai", "artificial intelligence", "machine learning", "llm", "agent",
     "model", "generative ai", "chatbot", "reasoning", "chip", "data center",
@@ -189,22 +188,117 @@ def build_section(section_name, urls, limit=3):
     lines.append("")
 
     return "\n".join(lines)
+    
+def build_must_read_section(all_section_items, limit=5):
+    combined = []
 
+    for section_name, items in all_section_items.items():
+        for item in items:
+            combined.append({
+                "section": section_name,
+                "title": item["title"],
+                "link": item["link"],
+                "score": def score_item(item, section):
+    text = f'{item["title"]} {item["summary"]}'.lower()
+    score = 0
+
+    if section == "AI":
+        score += sum(2 for kw in AI_KEYWORDS if kw in text)
+        score += sum(1 for kw in MARKET_KEYWORDS if kw in text)
+
+    elif section == "Markets":
+        score += sum(2 for kw in MARKET_KEYWORDS if kw in text)
+        score += sum(1 for kw in AI_KEYWORDS if kw in text)
+
+    elif section == "Travel / Boop Relevance":
+        score += sum(2 for kw in TRAVEL_KEYWORDS if kw in text)
+        score += sum(1 for kw in AI_KEYWORDS if kw in text)
+
+    title = item["title"].lower()
+
+    strong_words = [
+        "launch", "release", "funding", "raises", "acquisition", "earnings",
+        "inflation", "fed", "regulation", "policy", "booking", "startup",
+        "agent", "chips", "data center", "demand", "consumer"
+    ]
+
+    score += sum(2 for word in strong_words if word in title)
+
+    weak_words = [
+        "opinion", "editorial", "podcast", "review"
+    ]
+
+    score -= sum(2 for word in weak_words if word in title)
+
+    published = item.get("published")
+    if published:
+        hours_old = (datetime.now(timezone.utc) - published).total_seconds() / 3600
+        if hours_old <= 12:
+            score += 4
+        elif hours_old <= 24:
+            score += 3
+        elif hours_old <= 48:
+            score += 2
+        elif hours_old <= 72:
+            score += 1
+
+    return score
+            
+
+    combined = sorted(combined, key=lambda x: x["score"], reverse=True)[:limit]
+
+    lines = ["Must Read Today"]
+    for item in combined:
+        lines.append(f'- [{item["section"]}] {item["title"]}')
+        lines.append(f'  Link: {item["link"]}')
+        lines.append("")
+
+ def build_section(section_name, urls, limit=3):
+    items = []
+    for url in urls:
+        items.extend(fetch_feed_items(url))
+
+    items = dedupe(items)
+    ranked = sorted(items, key=lambda x: score_item(x, section_name), reverse=True)
+    ranked = [item for item in ranked if score_item(item, section_name) > 0][:limit]
+
+    lines = [section_name]
+    if not ranked:
+        lines.append("- No strong headlines found.")
+        return "\n".join(lines), []
+
+    for item in ranked:
+        lines.append(f'- {item["title"]}')
+        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+        lines.append(f'  Link: {item["link"]}')
+        lines.append("")
+
+    return "\n".join(lines), ranked
 
 def main():
     today = datetime.now().strftime("%B %d, %Y")
 
-    sections = []
-    for section_name, urls in FEEDS.items():
-        sections.append(build_section(section_name, urls))
+    ai_text, ai_items = build_section("AI", FEEDS["AI"])
+    markets_text, markets_items = build_section("Markets", FEEDS["Markets"])
+    travel_text, travel_items = build_section("Travel / Boop Relevance", FEEDS["Travel / Boop Relevance"])
+
+    all_section_items = {
+        "AI": ai_items,
+        "Markets": markets_items,
+        "Travel / Boop Relevance": travel_items
+    }
+
+    must_read = build_must_read_section(all_section_items)
 
     brief = f"""Morning Brief — {today}
 
-{sections[0]}
+{must_read}
 
-{sections[1]}
+{ai_text}
 
-{sections[2]}
+{markets_text}
+
+{travel_text}
 
 Bottom Line
 - Watch where AI, consumer behavior, and market sentiment overlap today.
