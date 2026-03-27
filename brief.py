@@ -183,8 +183,10 @@ def build_section(section_name, urls, limit=3):
         return "\n".join(lines)
 
     for item in ranked:
-        lines.append(f'- {item["title"]}')
-        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+    lines.append(f'- {item["title"]}')
+    lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+    lines.append(f'  Link: {item["link"]}')
+    lines.append("")
 
     return "\n".join(lines)
 
