@@ -133,27 +133,39 @@ def why_it_matters(section, title):
     t = title.lower()
 
     if section == "AI":
-        if any(word in t for word in ["regulation", "policy", "law"]):
-            return "Could affect the pace of AI adoption and which companies benefit."
-        if any(word in t for word in ["model", "agent", "launch", "release"]):
-            return "Signals where the AI product race is moving next."
-        return "Useful for understanding the direction of the broader AI space."
+        if "google" in t:
+            return "Signals big-tech AI product expansion and stronger competition across the space."
+        if "openai" in t or "anthropic" in t:
+            return "Useful for tracking where frontier model competition is heading."
+        if "agent" in t or "agents" in t:
+            return "Shows the shift from chatbots toward AI systems that can complete workflows."
+        if "regulation" in t or "policy" in t:
+            return "Could affect the speed of AI adoption and which companies benefit."
+        if "chip" in t or "data center" in t or "inference" in t:
+            return "Relevant to the infrastructure side of the AI trade."
+        return "Useful for understanding where the broader AI space is moving."
 
     if section == "Markets":
-        if any(word in t for word in ["inflation", "fed", "rates"]):
-            return "Macro shifts like this can move growth stocks and risk appetite."
-        if any(word in t for word in ["earnings", "valuation", "stocks"]):
-            return "Helpful for judging how the market is pricing growth and AI exposure."
-        return "Relevant to overall market tone and investor sentiment."
+        if "fed" in t or "inflation" in t or "rates" in t:
+            return "Macro changes here can move tech valuations and overall risk appetite."
+        if "nasdaq" in t or "s&p" in t or "dow" in t:
+            return "Helpful for gauging overall market tone heading into the day."
+        if "earnings" in t or "valuation" in t:
+            return "Relevant for how investors are pricing growth and AI exposure."
+        return "Useful for understanding how markets are reacting to current events."
 
     if section == "Travel / Boop Relevance":
-        if any(word in t for word in ["booking", "trip", "travel", "hotel", "airline"]):
-            return "Could show where travel demand and consumer behavior are heading."
-        if any(word in t for word in ["creator", "discovery", "app"]):
-            return "Relevant to how people discover experiences and convert interest into bookings."
-        return "Potentially useful for spotting product and consumer trends in travel."
+        if "booking" in t or "trip" in t or "itinerary" in t:
+            return "Shows how people are moving from inspiration to planning and booking."
+        if "ai" in t:
+            return "Reinforces the trend toward AI-powered travel planning and personalization."
+        if "startup" in t or "travel tech" in t:
+            return "Useful for spotting where product innovation is happening in travel."
+        if "creator" in t or "discovery" in t:
+            return "Relevant to how travel interest turns into action and conversion."
+        return "Helpful for understanding travel consumer behavior and product trends."
 
-    return "Relevant to your overall brief."
+    return "Relevant to today’s broader themes."
 
 
 def build_section(section_name, urls, limit=3):
