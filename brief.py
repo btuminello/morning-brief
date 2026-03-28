@@ -1,10 +1,15 @@
 import os
-from datetime import datetime, timezone
+import smtplib
+from datetime import datetime, timezone, timedelta
+from email.mime.text import MIMEText
 from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 
 import feedparser
+import requests
 
 OUTPUT_PATH = "output/brief.txt"
+LOCAL_TZ = os.getenv("BRIEF_TZ", "America/New_York")
 
 FEEDS = {
     "AI": [
@@ -57,12 +62,26 @@ TRAVEL_KEYWORDS = [
     "consumer internet", "creator", "discovery"
 ]
 
+BREAKING_WORDS = [
+    "breaking", "just in", "urgent", "surges", "slumps", "plunges",
+    "soars", "rate hike", "inflation", "fed", "launch", "release",
+    "funding", "raises", "acquisition", "earnings", "guidance"
+]
 
-def normalize(text):
+WEAK_SOURCES = [
+    "vocal.media"
+]
+
+
+def now_local() -> datetime:
+    return datetime.now(ZoneInfo(LOCAL_TZ))
+
+
+def normalize(text: str) -> str:
     return (text or "").strip()
 
 
-def parse_datetime(value):
+def parse_datetime(value: str):
     if not value:
         return None
     try:
@@ -74,34 +93,51 @@ def parse_datetime(value):
         return None
 
 
-def fetch_feed_items(url):
+def clean_link(link: str) -> str:
+    return (link or "").strip()
+
+
+def fetch_feed_items(url: str):
     feed = feedparser.parse(url)
     items = []
-    for entry in feed.entries[:8]:
+
+    for entry in feed.entries[:10]:
+        link = clean_link(entry.get("link"))
+        title = normalize(entry.get("title"))
+        summary = normalize(entry.get("summary"))
+        published = parse_datetime(entry.get("published") or entry.get("updated"))
+
+        if not title or not link:
+            continue
+
         items.append({
-            "title": normalize(entry.get("title")),
-            "summary": normalize(entry.get("summary")),
-            "link": normalize(entry.get("link")),
-            "published": parse_datetime(entry.get("published") or entry.get("updated"))
+            "title": title,
+            "summary": summary,
+            "link": link,
+            "published": published,
         })
+
     return items
 
 
 def dedupe(items):
     seen = set()
     out = []
+
     for item in items:
-        title = item["title"].lower()
-        if not title or title in seen:
+        key = (item["title"].lower(), item["link"])
+        if key in seen:
             continue
-        seen.add(title)
+        seen.add(key)
         out.append(item)
+
     return out
 
 
 def score_item(item, section):
     text = f'{item["title"]} {item.get("summary", "")}'.lower()
     title = item["title"].lower()
+    link = item["link"].lower()
     score = 0
 
     if section == "AI":
@@ -126,16 +162,21 @@ def score_item(item, section):
     weak_words = ["opinion", "editorial", "podcast", "review"]
     score -= sum(2 for word in weak_words if word in title)
 
+    if any(domain in link for domain in WEAK_SOURCES):
+        score -= 4
+
     published = item.get("published")
     if published:
-        hours_old = (datetime.now(timezone.utc) - published).total_seconds() / 3600
-        if hours_old <= 12:
+        age_hours = (datetime.now(timezone.utc) - published).total_seconds() / 3600
+        if age_hours <= 6:
+            score += 6
+        elif age_hours <= 12:
             score += 4
-        elif hours_old <= 24:
+        elif age_hours <= 24:
             score += 3
-        elif hours_old <= 48:
+        elif age_hours <= 48:
             score += 2
-        elif hours_old <= 72:
+        elif age_hours <= 72:
             score += 1
 
     return score
@@ -180,35 +221,78 @@ def why_it_matters(section, title):
     return "Relevant to today’s broader themes."
 
 
-def build_section(section_name, urls, limit=3):
-    items = []
-    for url in urls:
-        items.extend(fetch_feed_items(url))
+def collect_ranked_items():
+    sections = {}
 
-    items = dedupe(items)
-    ranked = sorted(items, key=lambda x: score_item(x, section_name), reverse=True)
-    ranked = [item for item in ranked if score_item(item, section_name) > 0][:limit]
+    for section_name, urls in FEEDS.items():
+        items = []
+        for url in urls:
+            items.extend(fetch_feed_items(url))
 
-    lines = [section_name]
+        items = dedupe(items)
+        ranked = sorted(items, key=lambda x: score_item(x, section_name), reverse=True)
+        ranked = [item for item in ranked if score_item(item, section_name) > 0]
+        sections[section_name] = ranked
 
-    if not ranked:
-        lines.append("- No strong headlines found.")
-        return "\n".join(lines), []
+    return sections
 
-    for item in ranked:
-        lines.append(f'- {item["title"]}')
-        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+
+def build_breaking_news_section(all_section_items, used_links, limit=3):
+    candidates = []
+    now_utc = datetime.now(timezone.utc)
+
+    for section_name, items in all_section_items.items():
+        for item in items:
+            if item["link"] in used_links:
+                continue
+
+            published = item.get("published")
+            is_recent = False
+            if published:
+                age_hours = (now_utc - published).total_seconds() / 3600
+                is_recent = age_hours <= 12
+
+            text = f'{item["title"]} {item.get("summary", "")}'.lower()
+            has_breaking_signal = any(word in text for word in BREAKING_WORDS)
+
+            if is_recent or has_breaking_signal:
+                candidates.append({
+                    "section": section_name,
+                    "title": item["title"],
+                    "link": item["link"],
+                    "score": score_item(item, section_name) + (5 if has_breaking_signal else 0)
+                })
+
+    candidates = sorted(candidates, key=lambda x: x["score"], reverse=True)
+
+    lines = ["Breaking News"]
+    added = 0
+
+    for item in candidates:
+        if item["link"] in used_links:
+            continue
+        used_links.add(item["link"])
+        lines.append(f'- [{item["section"]}] {item["title"]}')
         lines.append(f'  Link: {item["link"]}')
         lines.append("")
+        added += 1
+        if added >= limit:
+            break
 
-    return "\n".join(lines), ranked
+    if added == 0:
+        lines.append("- No major breaking items this morning.")
+        lines.append("")
+
+    return "\n".join(lines)
 
 
-def build_must_read_section(all_section_items, limit=5):
+def build_must_read_section(all_section_items, used_links, limit=5):
     combined = []
 
     for section_name, items in all_section_items.items():
         for item in items:
+            if item["link"] in used_links:
+                continue
             combined.append({
                 "section": section_name,
                 "title": item["title"],
@@ -216,34 +300,165 @@ def build_must_read_section(all_section_items, limit=5):
                 "score": score_item(item, section_name)
             })
 
-    combined = sorted(combined, key=lambda x: x["score"], reverse=True)[:limit]
+    combined = sorted(combined, key=lambda x: x["score"], reverse=True)
 
     lines = ["Must Read Today"]
+    added = 0
 
     for item in combined:
+        if item["link"] in used_links:
+            continue
+        used_links.add(item["link"])
         lines.append(f'- [{item["section"]}] {item["title"]}')
         lines.append(f'  Link: {item["link"]}')
+        lines.append("")
+        added += 1
+        if added >= limit:
+            break
+
+    if added == 0:
+        lines.append("- No must-read items found.")
         lines.append("")
 
     return "\n".join(lines)
 
 
+def build_section(section_name, ranked_items, used_links, limit=3):
+    lines = [section_name]
+    added = 0
+
+    for item in ranked_items:
+        if item["link"] in used_links:
+            continue
+
+        used_links.add(item["link"])
+        lines.append(f'- {item["title"]}')
+        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+        lines.append(f'  Link: {item["link"]}')
+        lines.append("")
+        added += 1
+
+        if added >= limit:
+            break
+
+    if added == 0:
+        lines.append("- No additional unique headlines.")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def get_espn_scoreboard(sport_path: str, date_yyyymmdd: str):
+    url = f"https://site.api.espn.com/apis/site/v2/sports/{sport_path}/scoreboard"
+    try:
+        r = requests.get(url, params={"dates": date_yyyymmdd}, timeout=15)
+        r.raise_for_status()
+        return r.json()
+    except Exception:
+        return {}
+
+
+def extract_team_game_note(scoreboard_json, target_team: str):
+    events = scoreboard_json.get("events", [])
+    target = target_team.lower()
+
+    for event in events:
+        competitions = event.get("competitions", [])
+        if not competitions:
+            continue
+
+        comp = competitions[0]
+        competitors = comp.get("competitors", [])
+
+        team_names = []
+        for c in competitors:
+            team = c.get("team", {})
+            display = team.get("displayName", "")
+            short = team.get("shortDisplayName", "")
+            abbr = team.get("abbreviation", "")
+            team_names.extend([display, short, abbr])
+
+        if not any(target in (name or "").lower() for name in team_names):
+            continue
+
+        names = []
+        for c in competitors:
+            team = c.get("team", {})
+            names.append(team.get("displayName", "Unknown"))
+
+        status = event.get("status", {}).get("type", {}).get("shortDetail", "")
+        matchup = " vs ".join(names)
+
+        return f"- {matchup} — {status}"
+
+    return None
+
+
+def build_sports_note():
+    today_local = now_local()
+    date_yyyymmdd = today_local.strftime("%Y%m%d")
+    notes = []
+
+    mariners = get_espn_scoreboard("baseball/mlb", date_yyyymmdd)
+    mariners_note = extract_team_game_note(mariners, "Seattle Mariners")
+    if mariners_note:
+        notes.append(mariners_note)
+
+    seahawks = get_espn_scoreboard("football/nfl", date_yyyymmdd)
+    seahawks_note = extract_team_game_note(seahawks, "Seattle Seahawks")
+    if seahawks_note:
+        notes.append(seahawks_note)
+
+    if not notes:
+        return ""
+
+    return "Seattle Sports Today\n" + "\n".join(notes) + "\n"
+
+
+def send_email(subject: str, body: str):
+    sender = os.getenv("BRIEF_EMAIL_FROM")
+    recipient = os.getenv("BRIEF_EMAIL_TO")
+    app_password = os.getenv("BRIEF_EMAIL_APP_PASSWORD")
+
+    if not sender or not recipient or not app_password:
+        print("Email secrets not set; skipping email send.")
+        return
+
+    msg = MIMEText(body)
+    msg["Subject"] = subject
+    msg["From"] = sender
+    msg["To"] = recipient
+
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+        server.login(sender, app_password)
+        server.send_message(msg)
+
+    print(f"Sent email to {recipient}")
+
+
 def main():
-    today = datetime.now().strftime("%B %d, %Y")
+    today_local = now_local()
+    today_label = today_local.strftime("%B %d, %Y")
 
-    ai_text, ai_items = build_section("AI", FEEDS["AI"])
-    markets_text, markets_items = build_section("Markets", FEEDS["Markets"])
-    travel_text, travel_items = build_section("Travel / Boop Relevance", FEEDS["Travel / Boop Relevance"])
+    ranked_sections = collect_ranked_items()
+    used_links = set()
 
-    all_section_items = {
-        "AI": ai_items,
-        "Markets": markets_items,
-        "Travel / Boop Relevance": travel_items
-    }
+    sports_note = build_sports_note()
+    breaking_news = build_breaking_news_section(ranked_sections, used_links, limit=3)
+    must_read = build_must_read_section(ranked_sections, used_links, limit=5)
 
-    must_read = build_must_read_section(all_section_items)
+    ai_text = build_section("AI", ranked_sections["AI"], used_links, limit=3)
+    markets_text = build_section("Markets", ranked_sections["Markets"], used_links, limit=3)
+    travel_text = build_section(
+        "Travel / Boop Relevance",
+        ranked_sections["Travel / Boop Relevance"],
+        used_links,
+        limit=3
+    )
 
-    brief = f"""Morning Brief — {today}
+    brief = f"""Morning Brief — {today_label}
+
+{sports_note}{breaking_news}
 
 {must_read}
 
@@ -261,6 +476,7 @@ Bottom Line
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write(brief)
 
+    send_email(f"Morning Brief — {today_label}", brief)
     print("Wrote output/brief.txt")
 
 
