@@ -1,34 +1,34 @@
-Morning Brief — March 27, 2026
+Morning Brief — March 28, 2026
 
 Must Read Today
 - [Markets] Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
   Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGdLbTAzRjdrQ0lHT256dDg1eF9ydkF6RURjUzdqdDdrVjJ5MXlRWW4xdjQyb1RqQmcya3VfLUctTnNfSW83RWY2MVFFNE1hZlBVV3QxdHNGeTNnVllQeUhyV3l1bjcwenVqb3k2SDFhQy1kZ0JCMDN6c21sX0hGZHRHdUZ5YnJWQ1V3bnFpYUFreTBsN3FjYWxoeTBOeUx3NWtJeVF1U1M4YlJJM0c4UGNTQU90THIyWDBkSjVjb9IBxAFBVV95cUxOWVp6WDNrSWNwVk1Ya3RSQTJhV0l2dzY3c2JPc3Nhbnk1ZEVGNkVScWxNQTJUNEpram9CekZ4MW05OExmUUlaWnBucG1xTnVkaU1GN1hIVm84RlVWZ1k1bXlFSDljdzhqUUNQZzUxUDk0UERhTk83NjJMMHdicTRBaTBxdk5VejlYS1ZRZzAtbWVYcE44UkJYcU1iT2dSbHB1eTdFeWJmdURCcU1hcFFVa2dWMEJxWlpPTHVkS0FPRHdodllH?oc=5
 
-- [AI] Agentic AI for Consumer Applications Market Towards USD 44.3 Billion By 2034 - vocal.media
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMExlek03WXJJTjgzMUE4bjBoNDNVNFprRERCdXgxSE5WVG1rWjRsRVVnbGlSVFNnZE1QS3BfVGJKTGtYS0xoSjlCV3FSbVFrbFhOX0k4Ulp2RUFHdHVFMFRFUDVFWU9Gb2I4ZTF6MXhUUHZ2WUpYUnVUYlN5alllSVpNRWxhV0NWVHR1Y01LMDhiQ1pQTjJYbjZRaVVXVFlIU1M0ZndCY0E?oc=5
-
 - [Markets] CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
   Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
 
-- [Travel / Boop Relevance] Travel demand surges for 2026 as AI planning rises and cruise bookings rebound - itij.com
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1NS1MycDExM3l1SGloV0RsLTJtdW1oTWM3ajJYcDZTMFRSZ2UtTkJYRFlxYTBycjZjVXhnWElENFRkY1ZkanlmdDlITTlJWWRfUDY2MHFnT2ZJcHRpUWZ6STMwbjFwM0NpR29Nd3JVZ0hKeTlyNnVfeDFJS3ZrNlRxSmRURFNJdDF3WEF4YlBzaFE4bUx5YmpQRVo5ekJucEx4XzFRcw?oc=5
+- [Markets] Markets lean toward Fed hike as energy shock stirs inflation fears - mpamag.com
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTDBiU2ZyVlNJbFhCaVhVR0w3eng1eWpUVEpEd2RGUDd4dTg3b0ExbnhLWGUycXhQOV9YOEJMV0dqS1pkMG4tXzl6ZktEeW9kYXl0YlJMbWtaTllWYnlOMEpOeWowV29JN0RHUkZ0LWJYdVFsdnpJaW1UNVdqZThKeXdTQ3Exb20teWxNOFdjbVlVZDVqLUNPamtYSkFwckY1cHFwaTZmZGtfbmR1bWd3a3NwalV5elBjcV8wZG8zSDhLWGh4Q2EtRjZIUUd3Zw?oc=5
+
+- [AI] OpenAI backs a nine-month-old startup building swarms of AI agents at a $650 million valuation - The Next Web
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmE3S21lLVRBLTZidl9DR0VuRGpWZ0FCOHdibTk3OWhkUExXU3NoV1plbHZiMG5XODVlM0lITlFMRVkzb2dTalg2aEswVUxCWGZabVB6eEl2ZDlNTUN5Wl9KcTV0cHdPZHFPaXlncUVqTkRQNzZTYjhWdw?oc=5
 
 - [Travel / Boop Relevance] Lobby Raises $2.2 Million to Streamline Hotel and Group Travel Bookings | - Hotel Technology News
   Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGFycTAwZHd2NXB0X01kSnN3a2JsUHQ3NGZ0aDFzazNid05DLTcyVkt2UTEwNXNtNkN2X0h3MDMwU050eFpqTDlxR3pmVDhWZHNBU3lkVmxJS3hGUWpkQWl6blFHNTIya2VJam96NjBaRU9EZ1EyUmh1X3JzZU5CemNIUlkwTlYxakV0aEhlTWptcWM5djZYTFVHWVBwN1k4X3VzcDlOM0VmdXZWZ1Zpdw?oc=5
 
 
 AI
-- Agentic AI for Consumer Applications Market Towards USD 44.3 Billion By 2034 - vocal.media
-  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMExlek03WXJJTjgzMUE4bjBoNDNVNFprRERCdXgxSE5WVG1rWjRsRVVnbGlSVFNnZE1QS3BfVGJKTGtYS0xoSjlCV3FSbVFrbFhOX0k4Ulp2RUFHdHVFMFRFUDVFWU9Gb2I4ZTF6MXhUUHZ2WUpYUnVUYlN5alllSVpNRWxhV0NWVHR1Y01LMDhiQ1pQTjJYbjZRaVVXVFlIU1M0ZndCY0E?oc=5
+- OpenAI backs a nine-month-old startup building swarms of AI agents at a $650 million valuation - The Next Web
+  Why it matters: Useful for tracking where frontier model competition is heading.
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmE3S21lLVRBLTZidl9DR0VuRGpWZ0FCOHdibTk3OWhkUExXU3NoV1plbHZiMG5XODVlM0lITlFMRVkzb2dTalg2aEswVUxCWGZabVB6eEl2ZDlNTUN5Wl9KcTV0cHdPZHFPaXlncUVqTkRQNzZTYjhWdw?oc=5
 
-- HUMAIN and Turing Build AI Agent Marketplace to Accelerate Superintelligence Adoption - TechAfrica News
+- Meta is running intensive AI training weeks to get employees testing agents and coding with Claude - Business Insider
   Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0VWMXRmeFd0S1FCUVNKYnlRVENiNDVtWnEwQjhGc0tWQndKZ3h5a1c5MERGbUVpYTFvT0RpV3ozQ0YyVHJLS051U0VWU2JWdFZ3eF9nU3N1SDJmTUJxb1RLZENZVXdRWV9pZHBseENUZHIzcFhoWm1RSGxPSllXSmtldGVnN0Y3c25nNGtkUXhXQmlTLVZad3pUVFNVcl93R3RoU3h2RGxBdEdhclp5ZFF2UUk1WFlPS3RDNWJWQkctZw?oc=5
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHdUUHFONXQ3elRuWlVyQ0FSOWplTi1NVHM3cWZfWFlkcThXeGowNDFzODh4UEF6OTU4NEUwTVJHTEZSOWxjLWRGSW9nRTBaWkdqUUl0U2dZYVU2ZF8wTzIwbXZfOFVvRTMzRW1qQUUxc0JMTmU4S29hM2I1TVZqTHhVdVMteFlPXzRYdVBTY183ZWN6VlFERlppOA?oc=5
 
-- Google employees have a new AI tool called 'Agent Smith.' It's so popular that access got restricted. - Business Insider
-  Why it matters: Signals big-tech AI product expansion and stronger competition across the space.
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkRrOXVwemNicTVvbTN6dllIVEJOWlk1Q25BVXJuNnhPUkZrQnhzeFAzVkpPZ0E3QU1VSTFzVzl5b1hPOFRndEFTWUVWQWVlNEd3Skl1bEI3UlpxYllkd01IWlEtNlA3RU1Td0RMQkZsblVMRlBtWkt6aVJZMnBnTlZuc3BoT0ZyQ25pVg?oc=5
+- Alibaba bets big on AI agents that can power 'one-person companies' — a growing phenomenon in China - Business Insider
+  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlGN2pxMEFVQmRCOTU0dzFMYU5YdG1TaWJkOElZZ2oyc1BWSXpYVEdhVFRNZFVQRnhsYjF5ZHdMWF9xRWd6eHViQm9jdHotbzBHSE9DMG5uR1hnb3VNelZ6SHJnczlrZmQxMmlxNUM5ZmRsS3l3UUhKbGNqaF9IMjRCay16TjhULTJwN3p5UVhHaWVZZXRUdWIxUzE1MmxrSXNvcQ?oc=5
 
 
 Markets
@@ -40,19 +40,19 @@ Markets
   Why it matters: Macro changes here can move tech valuations and overall risk appetite.
   Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq futures slide after Trump delays strikes on Iran power plants - Yahoo Finance
-  Why it matters: Helpful for gauging overall market tone heading into the day.
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb2ZzWHI2UGl2NkZFMkVodEtIY1Y0bXphNy1SWHJBYVpyYWVyTC1XczdZdXhPa01sSGlkSEdZZkkwT01BLXFaeUtuUE9rZEl2SEhXU1RUU3RXQmdROVRySnJKY09MckxLZXl1RWZod0d6TEw3U1BlNWdMY0VLX0d4UmpTNVJsc3I4cGFpeExSbHQxRGc2LWhWdjBmR3V2LXdDdDVIMExnLU5KSVBhTmYzdVpoWk9DV3JsNUY1WENac1I4SjZfT0ZwZ3pQT0lIRm9EdXd5VkoyclFsVWxvclE?oc=5
+- Markets lean toward Fed hike as energy shock stirs inflation fears - mpamag.com
+  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTDBiU2ZyVlNJbFhCaVhVR0w3eng1eWpUVEpEd2RGUDd4dTg3b0ExbnhLWGUycXhQOV9YOEJMV0dqS1pkMG4tXzl6ZktEeW9kYXl0YlJMbWtaTllWYnlOMEpOeWowV29JN0RHUkZ0LWJYdVFsdnpJaW1UNVdqZThKeXdTQ3Exb20teWxNOFdjbVlVZDVqLUNPamtYSkFwckY1cHFwaTZmZGtfbmR1bWd3a3NwalV5elBjcV8wZG8zSDhLWGh4Q2EtRjZIUUd3Zw?oc=5
 
 
 Travel / Boop Relevance
-- Travel demand surges for 2026 as AI planning rises and cruise bookings rebound - itij.com
-  Why it matters: Shows how people are moving from inspiration to planning and booking.
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1NS1MycDExM3l1SGloV0RsLTJtdW1oTWM3ajJYcDZTMFRSZ2UtTkJYRFlxYTBycjZjVXhnWElENFRkY1ZkanlmdDlITTlJWWRfUDY2MHFnT2ZJcHRpUWZ6STMwbjFwM0NpR29Nd3JVZ0hKeTlyNnVfeDFJS3ZrNlRxSmRURFNJdDF3WEF4YlBzaFE4bUx5YmpQRVo5ekJucEx4XzFRcw?oc=5
-
 - Lobby Raises $2.2 Million to Streamline Hotel and Group Travel Bookings | - Hotel Technology News
   Why it matters: Shows how people are moving from inspiration to planning and booking.
   Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGFycTAwZHd2NXB0X01kSnN3a2JsUHQ3NGZ0aDFzazNid05DLTcyVkt2UTEwNXNtNkN2X0h3MDMwU050eFpqTDlxR3pmVDhWZHNBU3lkVmxJS3hGUWpkQWl6blFHNTIya2VJam96NjBaRU9EZ1EyUmh1X3JzZU5CemNIUlkwTlYxakV0aEhlTWptcWM5djZYTFVHWVBwN1k4X3VzcDlOM0VmdXZWZ1Zpdw?oc=5
+
+- Vuelo secures €64 million in Seed funding to build an AI-native travel booking experience - EU-Startups
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOUW43Ums4TkQ5VHFidTVnYzkyZzdjZXpSRWFLNWI3UnIteXhwVmNzbFcySTZZSU5DbXpUVkRwR0QteTR5cFZHb1JmM1U4YUVoR2xKS1ota0IzT2NJTE1VcXdka3FWY3JqUkcxU3lxYXhkNEdfdWdYdlFPUE5pY3hWZkhGXzFTaGlEd0xfZi0xaFFTX1E0bWdEQlBhc1JjM3o4ZXBhamJhRUJndEpMNUgtTUFvMTh4c29UTmJJcHpsdlJnY3o2?oc=5
 
 - India’s Travel Market to Hit USD 132 Billion by 2032: Unveiling the Surging Demand for Leisure and Business Bookings Amid Economic Growth - Travel And Tour World
   Why it matters: Shows how people are moving from inspiration to planning and booking.
