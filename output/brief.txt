@@ -1,75 +1,75 @@
-Morning Brief — March 29, 2026
+Morning Brief — March 30, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Cleveland Guardians — 3/29 - 7:20 PM EDT
+- Seattle Mariners vs New York Yankees — 3/30 - 9:40 PM EDT
 Breaking News
+- [Markets] Don't look now, but the Federal Reserve's March inflation forecast just worsened - MSN
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPNFlORVdLYXUybm5qX3lVSEczeXc1elNaY2JBczAtM0lHNldEc0pHd1ZkT1dUVGh1VFBrV1BkYXdYSjIwVmZLWmNMMlFDcnJSWEVIQnJwVlcwb0t6UV8yYmhEcWNxN3VIaml1VnF4WlZndGhNSEpoVzE0MmxfU05qd0hiTmdrUkRhaW1qbFdNeUdfb1c1SGRRVkw1NzFUSTQ1c0I2ZVVLZGNEdHUyb2Q2M1lQYmJwN3JzRC1XQlRIOVdlMEJxT2RkREFfQQ?oc=5
+
 - [Markets] CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
   Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
 
-- [Markets] US: Inflation is rising, the Fed is waiting, and forecasts are getting weaker - marketpulse.com
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNWi1CR1dkUEVzOWpvdk56b2FnRFVPNXlaVC1rMHZ0T2xGaXFzaUtMRzVHaEp6NWM0THZDUURpdnRrbDk3LS1XaUFDQ2FYcGNpM2VOS21LbXJ5TjFreUJtMW1Za3hYUkZISkdxdExlejVyV3o5T0hjSERLN1VNVklZR1IyRXFGUEl5N3lzZnljNnUzRmZ0LVphdFc5cGdpUFBZUk5VQ2tfUWZxTk45SWx1Mw?oc=5
-
-- [Markets] Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
-  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGdLbTAzRjdrQ0lHT256dDg1eF9ydkF6RURjUzdqdDdrVjJ5MXlRWW4xdjQyb1RqQmcya3VfLUctTnNfSW83RWY2MVFFNE1hZlBVV3QxdHNGeTNnVllQeUhyV3l1bjcwenVqb3k2SDFhQy1kZ0JCMDN6c21sX0hGZHRHdUZ5YnJWQ1V3bnFpYUFreTBsN3FjYWxoeTBOeUx3NWtJeVF1U1M4YlJJM0c4UGNTQU90THIyWDBkSjVjb9IBxAFBVV95cUxOWVp6WDNrSWNwVk1Ya3RSQTJhV0l2dzY3c2JPc3Nhbnk1ZEVGNkVScWxNQTJUNEpram9CekZ4MW05OExmUUlaWnBucG1xTnVkaU1GN1hIVm84RlVWZ1k1bXlFSDljdzhqUUNQZzUxUDk0UERhTk83NjJMMHdicTRBaTBxdk5VejlYS1ZRZzAtbWVYcE44UkJYcU1iT2dSbHB1eTdFeWJmdURCcU1hcFFVa2dWMEJxWlpPTHVkS0FPRHdodllH?oc=5
+- [Markets] Bond investors see growth shock ahead as markets focus on inflation (BND:NASDAQ) - Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2VDTlpEVDQ4aE1nRzlIMjh5c2xaX2RlMzcyMTdRRG43M3NBWDVGZHNydHByWUYxdExyd0FlUEY4SDFQbFhCclBxRTZXLWR5VlFqRnp6VjRqTWRTLS1uOTBMU2hrQmFKVVF3RHZ5cTl4ZEZIclFZOGd3ejAzU1JtY2llakN4MThZWVdUUjNJYkVTeW1vWGxQdGZSRmFyTUdWOGRYRmJFdk0?oc=5
 
 
 Must Read Today
-- [AI] AI Agents Redefine Enterprise Cybersecurity Risk - bankinfosecurity.com
-  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0tUSW1jVXZXRVlPMWlMZDVvWEZSbFlvQVBGbnVtajNTQ1oxbmVLM1VrcHBXbG5rZFdFTHpmRXczd0xGQjJSWFhQUFVkTm5ROGMxV0FzdnFqYmMxdmlKS1NaSjlocmMwdE1Ea3NaRlpWc01XMFM5QjB3YWMyTFFuMEk2U0FOQWJRem51enFCeUR1N0E?oc=5
+- [Travel / Boop Relevance] Reimagining Hotel Stays: How Prateek Singh Built a Flexible Booking Model for Modern Travelers - Indian Startup Times
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTFpOXFMcVpMMVF5UzFyWnlBbDhCTlBMTmREZkdPcHVNUi1HbE81WmF4Ni1qUTg2dXhLTVpmX0FGajYzOFR5MnFNTkp5eTgtcGhOMmxUVFc2bWtrWHBCczFRenFYN3pSNWdnVGNLdWlxeVRzS1VnaktDMllCQkZmaWNHcFgyLThBQ0J3bXF6REpkM3g2MS15NW1CSHpKdG11dktsSWxXQlBfMmhpY3l0dlFJbG9RYkl2ZkZFWWZVUC1pMVFEa3BOZ0RjLTVGcDBFS0QtRjFmaw?oc=5
 
-- [Markets] Markets lean toward Fed hike as energy shock stirs inflation fears - mpamag.com
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTDBiU2ZyVlNJbFhCaVhVR0w3eng1eWpUVEpEd2RGUDd4dTg3b0ExbnhLWGUycXhQOV9YOEJMV0dqS1pkMG4tXzl6ZktEeW9kYXl0YlJMbWtaTllWYnlOMEpOeWowV29JN0RHUkZ0LWJYdVFsdnpJaW1UNVdqZThKeXdTQ3Exb20teWxNOFdjbVlVZDVqLUNPamtYSkFwckY1cHFwaTZmZGtfbmR1bWd3a3NwalV5elBjcV8wZG8zSDhLWGh4Q2EtRjZIUUd3Zw?oc=5
+- [AI] Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses - Nature
+  Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQmZFSzVqTzRrZGY5bURTbTRPQm1HNl9BZ0RyWDEyMW5lbzEwaVN5MTdjWk5JNmZpelZWTGVobS1EVF9zTHdpSHlJQ0VvUHlrdzR5eFoxdVd1dkJiaFhJ?oc=5
 
-- [Markets] Zoomex launches earning initiative as inflation drives shift toward capital efficiency in crypto markets - Crypto Briefing
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxObkpwNk5FeDJEOE9QTGZPWHBwc2dHam9FT0UzRnlOSkdUbVpIM09TX0t3VHR6SzhDT2hZQl9lMFRPdk5UVldtQ2lUYk9hOVNLOXhldGFYNnBVUVR5b2lvaFlPeTZQNUlBdllkOGM4VDA5ajZEVzJQeU00Sm5rbHBVOVdsOVlReDBKazQzM2phMmZMZHNzVWxTSThjNlp3TnhucnZwbWNFMlY4UHk1cWw2Tk1uYnY2TFlfZlQ2QWsxeHI4RHJlQ3ZiMjJjbE0?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures rise entering shortened week featuring jobs data, war uncertainty - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWTFRTVAyQ29IWFctYl9WM2U4dGRIVHlLcjgxY2JPNVpuYXdYSDJqVFpUYlVGSmZjdkpiUXVmVVBfZFE2SHpqbWhDMHhrUHR5akVYR1dLVkxfUTg2cVBIazNUUEFrS1MzT3Y4X2NqY2s3cDVtRE56STk4ak8wM25GYWFfLVRlYmQ5aDJIQjM5M2FNNEpwSlZIN294MGNjWHcwNHdzSC03WnBRdUVvZDdSYWY2bzM2Y3hVUTZJcTduVEw4TE5hdzh0WVZYOWpUMXdhVjJpUzhFdlFydnNSM3phbzFsQzAzbzVfVUNmT3RMWkRyUQ?oc=5
 
-- [Markets] Oil Over $100, a War in the Middle East, and the Fed on Hold. Here's How to Protect Your Artificial Intelligence (AI) Portfolio in 2026. - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUFDNXcwaDU1QWw4RjFLdzh6WnQ2LUY3U0VsSFFjVjZWaFIzaDBRYTc1eVZ0UTZCbG9UUld3R21VcXpSRnZPSWVwWnlzTV90dmN4SHUteHFFOFA2OHAtaXVBQTRBUERINTFDOVVRTXZJLVJTWXRsQ1JtbkFPek9zTjY1NEhCNEFuUU1mNVp4bFFoMGUt?oc=5
+- [AI] Dell's CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion - Fortune
+  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX09qX2RPZVFtLXpfTmlvTnZfaC1FRVhndVVGYU1IbVA3aU1vYW03RmlmZHdaN1ZQS2cwaDNPdXFvdU92Z2E2YXNiZ1BVRWJ0ZUdvYWpxYjIya0JjY2poRG5EOGNxd0xHQnR2dWFaTVJBd1RoZVEwd0lSejFnaU54TDJFOUE3WHVwWGNiUlhZYjBIZ0hmZlJZNFhUbFlmZExRTzk2cGFCbjNHaTA2d3N5RWxRYW14SDlLRDhjbWNEWEVLX1Q4WnpqZWk1eVVTVWlnOE1nMHhB?oc=5
 
-- [Travel / Boop Relevance] Maldives Targets India, China and Russia with ‘SeaSational Summer’ Digital Blitz to Drive Bookings in 2026 - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYXZIMGtjV01MU3pCQk5mWTZCYXpQUGpJRmMwSGd3WGtPWERoSG1YdVItemE4ZmZMZjB6OUJyMU9ZNWJ0N09SZE1DTWZMRWN5aV84eThnX0RMVm1fcjc3U091ZnFRSm5LcUZ0SV9fbmJOTEM1Z18wZjhkM014MTJGLWk1S2F5MmxMSlZxUDZISldaemdlU3p6eTdGSjNTbHZZeWM5S2hscEtWbk1ETzZybF94RnhHU0pUZVNaQkNKbnVwLXgteG92M04tdXRCQk5OdmxpbE9wTjRzNGpSMG9RZHh5dmVFSVE?oc=5
+- [AI] The Enterprise’s New Hire Is an AI Agent - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2ZVQUxBaG90VzBwdGNYTWM5cm1jOUhKYVRDelZhWl9rU0JXUTh4TFlMdlhpNmVqUURCRU14Z0RKU1dBYnlxRkUtQV93ektxZUlpTFlveHcyME93ZzIwaXh0cEg1cXdlbVhiaG5TUWl2d0ZVc0NjRl8zUDJUeFFXcTZvZktpZWphZHVWNFBTSWR2MDUxcUhwMV9n?oc=5
 
 
 AI
-- This Artificial Intelligence (AI) Stock Could Handily Outperform Management's Own Guidance. Buy It Now. - The Motley Fool
+- Mistral secures $830 million in debt financing to fund AI data center - CNBC
+  Why it matters: Relevant to the infrastructure side of the AI trade.
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlM2VmZ1X2hQZXo1OE9KMzExLVMwR0s1cWZ0MXJoWmNEWXhOdW1UckpVTl9uYTQtbFRpMDJ2UmZieVFCZmFzNGcycERUQ2pzTlY1S1Rrd0xQMVpLV0dBaWgzbWtXNDRVRm9pdXd3bkNsalNGSU5nTGdISGhoVlNUcy1pSjZPa19CZjctTVZ3YWdHZ9IBlwFBVV95cUxPbjBtaVBJVUFhU3ZKLVl0eE1RNmplUHVuUjYtS2lDRUtsbXkxTWkyWV9SS3REamRoTUlvZ0JZVUNTektiVzlIcWR1eW81RkxodjRKNUp5S3drWlFHLW1DRnBWS0Q2am1nT00xYXJuYkN2Zk5Wb2dQMU9iT1Zzb1pSTEVSeWJNQ0QzTWk3cWNfM0lxQm12Wjcw?oc=5
+
+- Study Finds 40-Point Gap in AI Trust Between Brands, Consumers - MarTech Cube
   Why it matters: Useful for understanding where the broader AI space is moving.
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNeExDYlM3TjlCVFFhcGRoanlIbUV5djJfVEt1ZzB0SmZYcko2ZlhGOGZGTW93NVhuM1NxUFJkVWxhaGVtUWVRdWJYdDMycEI1cXRxYlZDRkV1M2d1ekpGWTBsT05PdWFkbkFITkc0XzAtQXdKZ1pyR3VFTUZCUGR5VFZoQjgyVWVqVDJ0ZUtOWlNUQQ?oc=5
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGppVU9GOHFEdGhJdWpadXcxcnM2Rjd6eU9yTGVxQ0hyeENiTTBKYlRRTDVzeU5LRlhKajVzd0ZDd0lqb1dVUDFhU2wtOTRiWGJDTDZZRkFqQ1NtbEstcVdBQ09LMkZqRUNHdGZCTU1iczluYncyM1NoVzA4ZkpWc21QU1J5anV3enpzdnpLazJLWUpU?oc=5
 
-- Solo.io launches agentevals to solve agentic AI’s “biggest unsolved problem” - The New Stack
-  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5FbnRrdzZrNWh2c1ptVkwySnJrdTdqTG9JdV9xVml0Y1dHZENUZVJxYWRxalZRYTBGV2U4djVNa3JzTXRKazZvbkxLTWVnTGdadl95c0o3WTB5VDVmRzJRaERHMDRfZVBBcVJKLTlB?oc=5
-
-- Meta is training employees to work with AI agents that can do coding and reports - India Today
-  Why it matters: Shows the shift from chatbots toward AI systems that can complete workflows.
-  Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGk4TGZkdVZMSVZnWUF4MGpmbnN1T0ZGSWhvTUNlZXRHanI4bG1LdlFJME81VVl5OV9BdnNYbFlqSlJpUUNEVjRtQTlPc1REWXk3eE1xbk44VENhOXZnYVJCUkRvTDRwOFNPYTNjQ25US0hEUWZOZW1rQ3h0MUlzZmZhVXg4aW1xejBKZ2NNVU5CMV9VSHpxN1RmcXBHYnFic0pLQ0s1UmpsV0Q1UFBHVGVxby1ra1k2aTJvZVBJa0Y2WUExZWZEXzRGdTk4aGJyaE5CcTBLSy1uQdIB3wFBVV95cUxNekxDQ2d6Tm5oSTY5N2dIVW96M2FOWnVER0VUMVA4M2dPdS1wRXQyTVhPR3ItbVpNRENlbDNkUGtLSmVJcWhQZ1gzeXRYLW0wcno0bWllQzBBYWd2NElhUmhFdkNFbk43NGRmOXZILWl0V1NWTGlkc3IzMFRQU0ZsTWZmdjdSZ2hIMGJlOTJUODZBcTF0cWVCS0hsNFYzMjRXOVNJcF9mdjRvNzRqSEZhSHFoNmwzcGdEWmFiRFpLbXRXVlBsQ0hpUFp6SGFuX1Y5VmRraTBVMGxvNGY0TEUw?oc=5
+- How Palantir's Artificial Intelligence (AI) is Becoming a Sports-Betting Watchdog - The Motley Fool
+  Why it matters: Useful for understanding where the broader AI space is moving.
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlR0Ynl2VzBPMy1ISEV0WWRFYk0tTUxSZkpDMm41RE5rSXd4cHdCM211Rlp2dmFzOHFKLTVndkpKTzV4RGtMbTliYW05cncxcVVfUUY2SEZGbkV5SDN5QjdZZ1VLWHVpSi1DMmVEWENlT2d3Uno2X2JQS1hDWWNuWnlhbDhwQjBIRlprYzdBb0NIODVibW9ZSw?oc=5
 
 
 Markets
-- The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance
-  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5
-
-- Fed Officials Signal That Rate Cuts May Be Over - WSJ
-  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
-  Link: https://news.google.com/rss/articles/CBMipwNBVV95cUxOd0dYWllQUnFqd0swOU9aV2lyakpyQUxzWDBURVoyd3dJQ1F2RFRiMlY0amd0WTE4MEtjLUstQlFYUnBqbUhkNmo1TWJMWmxFNHdhTS02anREaVBPVDdSZGswTWo3NUdLNkI0ajNCb0x6ZEVNYTdZeEpaOXJHcElsNjQ5Qm1zMzZVejF4V3NqbGpFUl9HbXhYZldrSXpZYnczeTR6bV9UQnR6LW5KTzdTZEJhQ0FURU9ydFAxR09wR2NsOXpNYnlWaGx0Ui16bklFUl9pQS1uOU96RzM3NVdJZTU3eUhOVGczMVdTZ080QXVHU21TbHdfTjBxR1dqSkttckFTUlF4REJ1WWtLa0UwX2pCYjg0U1czMDYwS0JLX1lMZW9YM2tXcmp6Q2V6OGVKVVVfNUZ4bkJ2N0FRZHBFVWhDLWo1N0h4MG9SMFJSZlZOSjRqT25nV2M2aldoYmJiZ1JYVWZrOWxDVTQxTnNaYW04ZXVOZjZVZDlxOU83elhNM3pDcFZyTlhiR1lZVlM5WC1hZEU0TEExSmdnczVITDRCTFVMdU0?oc=5
-
-- This Artificial Intelligence (AI) Stock Could Handily Outperform Management's Own Guidance. Buy It Now. - Yahoo Finance
+- JX Metals President: Semiconductor Demand Surges, Plans to Expand Investment in Chip Materials - Shanghai Metals Market
   Why it matters: Useful for understanding how markets are reacting to current events.
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTUtSllfQktrTVI1ZjZTeUdvazZZU05kMTF3UHBiMXRGdWVHUWdVRWQwYkcxZXFrY1l3U09Hc2hlZVdPY1VPRHA1TTRTaGEzX1lUcjZxM3pBOWhfM1ByTUNBM2J1QnNpS25fVjBrRjRMNDdxTGF2azdlVkRBMHlPaTEwNWZKMS13MXVzWEFqaUVYcTh2ckU0a0NNcEU5M1F6NnZzZ2xn?oc=5
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblVickxqdnhVOE41NHBCc1E5QnRYakxYblZqV1drVVJ5UjlHUHo1NUxlWmlyYU1Id1NxQlgxNFdoMjVoUGhXdVc4REJ3ejlzcEJzRk9salg1X2V6TjBjb2JwR3NLSWZSWXg5dFlyR3FSRVZKWTVKbjl1T0t2b3p5SXNzV0pST0dYakE4ZEZXVGY1OHREN2JCaHpaUl9TalhvdEZPYXFNbENKdW01c05NTXVyTlgzc0FLUUE2WkdBelJ3M2ZDNDN6emNiYUtkWVRGblEyMnBtYw?oc=5
+
+- Markets now see the Fed's next move as a potential rate hike as inflation fears mount - CNBC
+  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGdLbTAzRjdrQ0lHT256dDg1eF9ydkF6RURjUzdqdDdrVjJ5MXlRWW4xdjQyb1RqQmcya3VfLUctTnNfSW83RWY2MVFFNE1hZlBVV3QxdHNGeTNnVllQeUhyV3l1bjcwenVqb3k2SDFhQy1kZ0JCMDN6c21sX0hGZHRHdUZ5YnJWQ1V3bnFpYUFreTBsN3FjYWxoeTBOeUx3NWtJeVF1U1M4YlJJM0c4UGNTQU90THIyWDBkSjVjb9IBxAFBVV95cUxOWVp6WDNrSWNwVk1Ya3RSQTJhV0l2dzY3c2JPc3Nhbnk1ZEVGNkVScWxNQTJUNEpram9CekZ4MW05OExmUUlaWnBucG1xTnVkaU1GN1hIVm84RlVWZ1k1bXlFSDljdzhqUUNQZzUxUDk0UERhTk83NjJMMHdicTRBaTBxdk5VejlYS1ZRZzAtbWVYcE44UkJYcU1iT2dSbHB1eTdFeWJmdURCcU1hcFFVa2dWMEJxWlpPTHVkS0FPRHdodllH?oc=5
+
+- Markets lean toward Fed hike as energy shock stirs inflation fears - mpamag.com
+  Why it matters: Macro changes here can move tech valuations and overall risk appetite.
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTDBiU2ZyVlNJbFhCaVhVR0w3eng1eWpUVEpEd2RGUDd4dTg3b0ExbnhLWGUycXhQOV9YOEJMV0dqS1pkMG4tXzl6ZktEeW9kYXl0YlJMbWtaTllWYnlOMEpOeWowV29JN0RHUkZ0LWJYdVFsdnpJaW1UNVdqZThKeXdTQ3Exb20teWxNOFdjbVlVZDVqLUNPamtYSkFwckY1cHFwaTZmZGtfbmR1bWd3a3NwalV5elBjcV8wZG8zSDhLWGh4Q2EtRjZIUUd3Zw?oc=5
 
 
 Travel / Boop Relevance
+- RBC and HTS (Hopper Technology Solutions) Come Together to Elevate the Travel Booking Experience for Canadians - Financial Times
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVREcWxQRExEdnRvTjFxNXh5clpVUllxNUZhMzg0Qlk1eGMyODlEY19MSjF2c0VjelRyc0ZWSG45eUJEaXh3a2JZbE9UVm9STUl5NHdTa1o5dHlqNVhGVzFpck5VOS0tSTNGaGZUaWt5eWlmMHpCZ0hLWEp2b1dKUEJyOEtPSzY2TWpYVWQ0UnNtdXlnS1E?oc=5
+
+- How to Use AI for Travel Planning to Avoid Costly Mistakes - tripzilla.com
+  Why it matters: Shows how people are moving from inspiration to planning and booking.
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkZTZk9VSHJjZGkyRG5NRUFLN3lyLU9NdjNqZDlUM3VJd0YxMFpzOFFsamwxcXZHeDR4TEk2MkpmZ0ctMzdkSVQ0ZjZUcnZfZ09Bem93RE1qNHZnNXRsd0NLdEVNc3NTMzd2anNCM0dJci1nTzlRNUk4em1mRXV2TEo0ZjkySWZ6RjZwRTdOOEsxWm12?oc=5
+
 - Amgine and Prime Numbers Technology Launch AI-Powered Personalized Booking - Business Travel Executive
   Why it matters: Shows how people are moving from inspiration to planning and booking.
   Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlotdFZxcE5CUUl2NmNSb240ZVh6N2FRUGdjaUNxU0ZUeERab29yQ1hWS25wQmFUbEk2LWVkeEpzbno3VGh6R0drMTZ6ME9mc3h6dlUtLWVNdXRMQmRvdUlaalhTOEZQbl9GSmxjSHNSNW9xdkVyM1JxZ200Yk9ybnhUOXpqZXNsUmhvUWNGa0lNVWx6aVN1MFhuZFNFbXRCSUNxUXlwaHhNVG5WSlg2WDJxQkJkTzhDQy1Odw?oc=5
-
-- Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
-  Why it matters: Shows how people are moving from inspiration to planning and booking.
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
-
-- Vuelo secures €64 million in Seed funding to build an AI-native travel booking experience - EU-Startups
-  Why it matters: Shows how people are moving from inspiration to planning and booking.
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOUW43Ums4TkQ5VHFidTVnYzkyZzdjZXpSRWFLNWI3UnIteXhwVmNzbFcySTZZSU5DbXpUVkRwR0QteTR5cFZHb1JmM1U4YUVoR2xKS1ota0IzT2NJTE1VcXdka3FWY3JqUkcxU3lxYXhkNEdfdWdYdlFPUE5pY3hWZkhGXzFTaGlEd0xfZi0xaFFTX1E0bWdEQlBhc1JjM3o4ZXBhamJhRUJndEpMNUgtTUFvMTh4c29UTmJJcHpsdlJnY3o2?oc=5
 
 
 Bottom Line
