@@ -1,6 +1,8 @@
 import os
+import re
+import html
 import smtplib
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from email.mime.text import MIMEText
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
@@ -79,6 +81,33 @@ def now_local() -> datetime:
 
 def normalize(text: str) -> str:
     return (text or "").strip()
+
+
+def strip_html(text: str) -> str:
+    text = html.unescape(text or "")
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def remove_source_from_title(title: str) -> str:
+    if " - " in title:
+        return title.rsplit(" - ", 1)[0].strip()
+    return title.strip()
+
+
+def first_sentence(text: str, max_len: int = 180) -> str:
+    text = strip_html(text)
+    if not text:
+        return ""
+
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    sentence = parts[0].strip()
+
+    if len(sentence) > max_len:
+        sentence = sentence[:max_len].rsplit(" ", 1)[0].strip() + "..."
+
+    return sentence
 
 
 def parse_datetime(value: str):
@@ -182,43 +211,42 @@ def score_item(item, section):
     return score
 
 
-def why_it_matters(section, title):
+def summarize_item(item, section):
+    title = remove_source_from_title(item["title"])
+    raw_summary = strip_html(item.get("summary", ""))
+
+    if raw_summary:
+        cleaned = raw_summary.replace(title, "").strip(" -:|")
+        sentence = first_sentence(cleaned)
+        if sentence and sentence.lower() != title.lower():
+            return sentence
+
     t = title.lower()
 
     if section == "AI":
-        if "google" in t:
-            return "Signals big-tech AI product expansion and stronger competition across the space."
-        if "openai" in t or "anthropic" in t:
-            return "Useful for tracking where frontier model competition is heading."
-        if "agent" in t or "agents" in t:
-            return "Shows the shift from chatbots toward AI systems that can complete workflows."
-        if "regulation" in t or "policy" in t:
-            return "Could affect the speed of AI adoption and which companies benefit."
-        if "chip" in t or "data center" in t or "inference" in t:
-            return "Relevant to the infrastructure side of the AI trade."
-        return "Useful for understanding where the broader AI space is moving."
+        if "agent" in t:
+            return "The article covers how AI agents are being used to automate more complex workflows."
+        if "funding" in t or "raises" in t or "financing" in t:
+            return "The article explains where AI capital is flowing and what part of the stack investors are backing."
+        if "data center" in t or "chip" in t or "infrastructure" in t:
+            return "The article focuses on the infrastructure needed to support growing AI demand."
+        return title
 
     if section == "Markets":
         if "fed" in t or "inflation" in t or "rates" in t:
-            return "Macro changes here can move tech valuations and overall risk appetite."
-        if "nasdaq" in t or "s&p" in t or "dow" in t:
-            return "Helpful for gauging overall market tone heading into the day."
-        if "earnings" in t or "valuation" in t:
-            return "Relevant for how investors are pricing growth and AI exposure."
-        return "Useful for understanding how markets are reacting to current events."
+            return "The article explains how inflation and Fed expectations are shaping markets today."
+        if "stocks" in t or "futures" in t or "nasdaq" in t or "s&p" in t:
+            return "The article gives a snapshot of how investors are positioning heading into the trading day."
+        return title
 
     if section == "Travel / Boop Relevance":
-        if "booking" in t or "trip" in t or "itinerary" in t:
-            return "Shows how people are moving from inspiration to planning and booking."
+        if "booking" in t or "travel planning" in t or "hotel" in t:
+            return "The article looks at how travel discovery is turning into planning and booking."
         if "ai" in t:
-            return "Reinforces the trend toward AI-powered travel planning and personalization."
-        if "startup" in t or "travel tech" in t:
-            return "Useful for spotting where product innovation is happening in travel."
-        if "creator" in t or "discovery" in t:
-            return "Relevant to how travel interest turns into action and conversion."
-        return "Helpful for understanding travel consumer behavior and product trends."
+            return "The article shows how AI is changing the trip planning and booking experience."
+        return title
 
-    return "Relevant to today’s broader themes."
+    return title
 
 
 def collect_ranked_items():
@@ -333,7 +361,7 @@ def build_section(section_name, ranked_items, used_links, limit=3):
 
         used_links.add(item["link"])
         lines.append(f'- {item["title"]}')
-        lines.append(f'  Why it matters: {why_it_matters(section_name, item["title"])}')
+        lines.append(f'  Summary: {summarize_item(item, section_name)}')
         lines.append(f'  Link: {item["link"]}')
         lines.append("")
         added += 1
@@ -412,7 +440,103 @@ def build_sports_note():
     if not notes:
         return ""
 
-    return "Seattle Sports Today\n" + "\n".join(notes) + "\n"
+    return "Seattle Sports Today\n" + "\n".join(notes) + "\n\n"
+
+
+def build_boston_weather_section():
+    try:
+        geo = requests.get(
+            "https://geocoding-api.open-meteo.com/v1/search",
+            params={"name": "Boston, Massachusetts", "count": 1},
+            timeout=10,
+        )
+        geo.raise_for_status()
+        geo_data = geo.json()
+
+        results = geo_data.get("results", [])
+        if not results:
+            return ""
+
+        lat = results[0]["latitude"]
+        lon = results[0]["longitude"]
+
+        forecast = requests.get(
+            "https://api.open-meteo.com/v1/forecast",
+            params={
+                "latitude": lat,
+                "longitude": lon,
+                "current": "temperature_2m,apparent_temperature,wind_speed_10m",
+                "hourly": "temperature_2m,precipitation_probability",
+                "daily": "temperature_2m_max,temperature_2m_min,precipitation_probability_max",
+                "temperature_unit": "fahrenheit",
+                "wind_speed_unit": "mph",
+                "timezone": "America/New_York",
+            },
+            timeout=10,
+        )
+        forecast.raise_for_status()
+        data = forecast.json()
+
+        current = data.get("current", {})
+        daily = data.get("daily", {})
+        hourly = data.get("hourly", {})
+
+        current_temp = round(current.get("temperature_2m", 0))
+        feels_like = round(current.get("apparent_temperature", 0))
+        wind = round(current.get("wind_speed_10m", 0))
+
+        max_temp = round(daily.get("temperature_2m_max", [0])[0])
+        min_temp = round(daily.get("temperature_2m_min", [0])[0])
+        precip_max = round(daily.get("precipitation_probability_max", [0])[0])
+
+        hours = hourly.get("time", [])
+        temps = hourly.get("temperature_2m", [])
+        today_date = now_local().strftime("%Y-%m-%d")
+
+        morning_temp = None
+        afternoon_temp = None
+        evening_temp = None
+
+        for t, temp in zip(hours, temps):
+            if t == f"{today_date}T08:00":
+                morning_temp = round(temp)
+            elif t == f"{today_date}T14:00":
+                afternoon_temp = round(temp)
+            elif t == f"{today_date}T20:00":
+                evening_temp = round(temp)
+
+        wear = []
+        if max_temp < 45:
+            wear.append("coat")
+        elif max_temp < 60:
+            wear.append("light jacket")
+        else:
+            wear.append("light layer")
+
+        if morning_temp is not None and afternoon_temp is not None and (afternoon_temp - morning_temp) >= 15:
+            wear.append("layers")
+
+        if precip_max >= 40:
+            wear.append("umbrella")
+
+        if wind >= 15:
+            wear.append("wind-resistant outer layer")
+
+        wear_text = ", ".join(wear)
+
+        lines = [
+            "Boston Weather",
+            f"- {min_temp}° to {max_temp}° today. Right now it's {current_temp}° and feels like {feels_like}°.",
+            f"- Around 8 AM: {morning_temp if morning_temp is not None else '?'}° | 2 PM: {afternoon_temp if afternoon_temp is not None else '?'}° | 8 PM: {evening_temp if evening_temp is not None else '?'}°.",
+            f"- Wear: {wear_text}.",
+            ""
+        ]
+
+        return "\n".join(lines)
+
+    except Exception as e:
+        print(f"Weather section failed: {e}")
+        return ""
 
 
 def send_email(subject: str, body: str):
@@ -444,6 +568,7 @@ def main():
     used_links = set()
 
     sports_note = build_sports_note()
+    weather_note = build_boston_weather_section()
     breaking_news = build_breaking_news_section(ranked_sections, used_links, limit=3)
     must_read = build_must_read_section(ranked_sections, used_links, limit=5)
 
@@ -458,7 +583,7 @@ def main():
 
     brief = f"""Morning Brief — {today_label}
 
-{sports_note}{breaking_news}
+{sports_note}{weather_note}{breaking_news}
 
 {must_read}
 
