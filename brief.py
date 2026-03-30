@@ -443,11 +443,11 @@ def build_sports_note():
     return "Seattle Sports Today\n" + "\n".join(notes) + "\n\n"
 
 
-def build_boston_weather_section():
+def build_chestnut_hill_weather_section():
     try:
         geo = requests.get(
             "https://geocoding-api.open-meteo.com/v1/search",
-            params={"name": "Boston, Massachusetts", "count": 1},
+            params={"name": "Chestnut Hill, MA, US", "count": 1},
             timeout=10,
         )
         geo.raise_for_status()
@@ -455,6 +455,7 @@ def build_boston_weather_section():
 
         results = geo_data.get("results", [])
         if not results:
+            print("Weather section failed: no geocoding results found.")
             return ""
 
         lat = results[0]["latitude"]
@@ -525,7 +526,7 @@ def build_boston_weather_section():
         wear_text = ", ".join(wear)
 
         lines = [
-            "Boston Weather",
+            "Chestnut Hill Weather",
             f"- {min_temp}° to {max_temp}° today. Right now it's {current_temp}° and feels like {feels_like}°.",
             f"- Around 8 AM: {morning_temp if morning_temp is not None else '?'}° | 2 PM: {afternoon_temp if afternoon_temp is not None else '?'}° | 8 PM: {evening_temp if evening_temp is not None else '?'}°.",
             f"- Wear: {wear_text}.",
@@ -535,7 +536,8 @@ def build_boston_weather_section():
         return "\n".join(lines)
 
     except Exception as e:
-        print(f"Weather section failed: {e}")
+        import traceback
+        traceback.print_exc()
         return ""
 
 
@@ -568,7 +570,7 @@ def main():
     used_links = set()
 
     sports_note = build_sports_note()
-    weather_note = build_boston_weather_section()
+    weather_note = build_chestnut_hill_weather_section()
     breaking_news = build_breaking_news_section(ranked_sections, used_links, limit=3)
     must_read = build_must_read_section(ranked_sections, used_links, limit=5)
 
@@ -583,7 +585,8 @@ def main():
 
     brief = f"""Morning Brief — {today_label}
 
-{sports_note}{weather_note}{breaking_news}
+{sports_note}{weather_note}
+{breaking_news}
 
 {must_read}
 
