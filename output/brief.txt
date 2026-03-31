@@ -1,77 +1,77 @@
-Morning Brief — March 30, 2026
+Morning Brief — March 31, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs New York Yankees — 3/30 - 9:40 PM EDT
+- Seattle Mariners vs New York Yankees — 3/31 - 9:40 PM EDT
 
 
 Breaking News
-- [Markets] Stock market today: Dow, S&P 500 and Nasdaq slip as chip stocks tank, oil surges - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFJLZWdZeWN0LTNsSE01ejRXc0Fac2RQMU9lb2JIMHZPdUdtcVVhTFVXR0dGUDNWM0taYzRnTHB3NXZCUVNteXR1ODlBdlh1d2g3dG83SGRCRUNYZ0x3dUJpWlN3VzdTekpvMDBTRzIzOTdURGFDb29XMEE5MWhiQVFOZHBXYmJ5RC14LUJPT2YtLW9WTzlpZEdEZ2JQLXdYcWl3aXh1V0dqbEx3LV9ncU9adHhXM1QzRkZaNmhVSW1mQl9RNmc?oc=5
+- [AI] Jimini Health raises funding for AI chatbot targeting complex mental health care - statnews.com
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmpPQWVrTWtJdzUxZmJiVmlVQzZPZU52am9YQm9vSzc4T2UwRzhoVm1QUGdFSGtQaVFmaElXc28xTzNvdjczX1VBWU5aR2tMQ3ZrMFhzUUxYQzFYOWtTOC1aa2hhM011X0hHVVQzNlRhUkpKbjdjbE0wVVBrSVNOWEVJQnhGcldwMTQ0MUtoNzZuTXh4V050UGh2aw?oc=5
 
 - [Travel / Boop Relevance] Hilton launches AI travel planner to personalise hotel booking - Globetrender
   Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNXViWkRQcE1zMGJ3R2t3aTBvTGhveXZQc2cwX1UxeTVpaW42dlNETHlXeFN2U1c1eGRKWmRwRFJrbV9UamhyNzBvQ2xyUnNDcmYzdC1UN1V1Wk9reXBrbENJeTEycUo0S3Ewakx3?oc=5
 
-- [AI] Rebellions Raises $400M to Scale AI Inference, Targets US Expansion - Data Center Knowledge
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUZSWEl3dFBiY291NG9HMmlsY3FBNDBOSzJEd0Z3NHpBNlJCSGhaZ3F6cm5VWDBUV3c2clVrZVhFRVJJZXp5dGpqNVpxb1pxYThZS0t6R19jUF9uY2FSdFgwc3QybUc0NjFFdC03Y1VfeUxEaVQ0WWpmQ1o3eUM2eUo1eDJKY3g5QUJ5VEFwS2R2djRRNkhMNFMyWi1GcFlMbU9vcWVlTDRHb2w5MW1MZ2pPdw?oc=5
+- [AI] Former Coatue partner raises huge $65M seed for enterprise AI agent startup - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTlveElTcDJnRERpSndzRkw0b0ZiTFFLNUJ0REN2SHNhZFlxMTFfQVppODluQ09lcG9qbi1JWVdLUy1wZW85eXFiRm9CYnBpUHNRQkttSEZmNFJUM2Q3eWxCUndRbmNoOGJ2N0k0WkJvSHdlMDIyYk1wYnc4YWlXei1ObmtuemMxQ0lMa2NrSVA4aWtfWVBqamtHMHVhU1h1XzFFWWZJTzhrOWUtd0E?oc=5
 
 
 Must Read Today
-- [Markets] Americans’ expectations for inflation will shape Fed’s response to Iran war, Powell says - CNN
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQdS01RHpPVkstb1QwS3lXOEhoak1ZcWViY2tBeWxhdHNZSVhhU1RDcHBvcW1xeHJYbmZjNlJ6WmFxX1pnUnVuZVEyQmwyam1qNUMyU3J0N1R5eXNySkZWdGh5UXhDa0FmYlY0MDRwNHl3eFQ2WVFHbjl1UXNSRmg3R29n?oc=5
+- [Markets] Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips — AI demand is straining equipment and talent supply - Tom's Hardware
+  Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPanRMdUtHTDNQTEtXeGVKc0dad1RYUDBhMkQ2WTB3VzlGelJzRjZVOHN0c0s1SjczcElEN1MwcUFTMEc1VVc0cW1TSkNTZHdiWnJ4MUoxLWhDR0h1UjVrY25URUdieWtaaEJUbnJ4ajVvUFdqZ18yT2pDV1pTZ1o1VFlBMmhjdUx5cE8zSUdCT00zOVNvcWdJcXB2TE1mWlZtd2NpRnc3RVo2eTFTQUhtTm1ZY255VnZIOXl3X2xXQjdNR0RXOTQ3QXFrTGNaOXcwX3BuU00wOUpQQQ?oc=5
+
+- [AI] Exclusive | Buying the Dip? This AI Agent Will Do It For You - WSJ
+  Link: https://news.google.com/rss/articles/CBMikgNBVV95cUxPd2JNQ3gtWHM4SXR1OW5jVEcxNENsYTIwRFItOXdIVnlMOElvMVpiOXVCdUtzM1E4MXBocFpzRDQzR3pVa3EtSEtQb0c4WEM1a2RadGJ1QUw4ZWdZS3VTUHc4N0hkZWlWaVpLSnc2THZOOXpnUm5MSl9DMUdkUWdZekpUb1c1V3dzTld6bGMtM0ZBcjNvNzA2aEdIdVRXVUlRUXROWF9pbUlWd0JVWTQ1WldxSkpWM05rV2ZpLXNvVGxRWFZQeGlZekdpZDd2N2lxWk43eEcwSUo2Y2pUS2RLQTFnUmFYaHFITGdFc0dYYmZpLUcxNFdSM1REQl9TVzA3UFVrcFBEeExyTVo2WkFNWXlTRTZjZm5IQk1falRMQmpMbS10X1NxcXpYY2lQb3NjU3N4MDBPMEFTczBha3R1OVA1Si1KMm9FelR3LVpYbkZZQlJvM3k0NGJPZng5OXVXaTVZMGZCUG13aVFkVzQ2Qy1MM2liV05TZkwtQnBqdEhad3VUWWdNZ2V5WEJoT3hMdFE?oc=5
+
+- [AI] IBM identifies the data bottleneck blocking agentic AI enterprise success - TechHQ
+  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1fakZ3V3J3MVFOajI2Z2NKbUY0VldrOHpZNXBUZXFGei1pdlhEMWl0Zk9qUmVweXQ5T0hqOEtQbGU1b1hCNXI0UnF4c0dmZEdpT2Robm9kR25NSDVhRDR4NFdMd3ZmT3pxaURQNHd3S3ZtRFhI?oc=5
 
 - [AI] AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round - TechCrunch
   Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNWE9JN2paUXIwX09tNkJKWjBmMlNnalctSXZWUFcweURBeHpYcUNLalBPekFUaUhfeWpWV1hTQzVFV3RlbkVzVUtjdERLQV96NmgzUlYxcEtzNHFsT0Vzc1JtZENIclRlQXBnY0pwT3RGZW1KMjVkNlpJYWpwNWJnSG92YWVmcmZ1T0NxVElrQzhmSVNQQVRqQ2g0SUVDc1gzLU4zbE1QSVZXTXA4bDJxUmx3c1ZRQQ?oc=5
 
-- [Markets] Amid tough job market for young Americans, Fed Chair Powell tells students not to despair - cbsnews.com
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVtNl9HSlBpZnhTX0t0T3Znc0tqTURlLWZGRGUxb19XeEtULVR3RVRjTU5UV2plUWRrbHFaZ3lFd1ZDbnZqTHd0MVExbEdFT2pqci1FTHNyTTljUFkzcnhRQVkxS3hkcVhsRXNVZlpVcTQ5LS1zVkZEQmZKOGFGN282Y2NzOHZXNUZpcEdfN0XSAZYBQVVfeXFMUHZ4aUE3UHVOZV9iakQzVkNwOHcwLWJnX0hBaDRnbnlRbTZpRkxoaXdxY2xqelRMQmp1aGdld253ZUltRl9uNENXNGJuZ3ZJMFFCNzBmMXN2YlN1alMtU3Rrb0dDc2lvOXB6RV9pVVhwd0JxYkUzYVNaTkZ2QVZ5ckdhWHdDYXgwQXAwZHp5YUhtQXhoZEFn?oc=5
-
-- [Markets] CPI Inflation Data May Lower Fed's Guard; S&P 500 Steadies - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJCRzJJbm5QWWV6cnpKY1BYSXRmT0d1T0Q0U0JsMHpydTloVUo1ak5yVVlzQ1lPOXExUm9lR2Z1TjBSNFd2Z0VmU0gzQ1FOcnNkVU5rT1NKb1FqcV9xSlFpVlpBZWtqZ3N1WkdMSHJLbEFaZlNBaWdmVVpNbTFqUWFjaTRVXzQ3LVpOQ3NuRTdiaTQ?oc=5
-
-- [Markets] Jerome Powell Speech Today: Fed Chair Talked Interest Rates, Iran War, Private Credit, and More - Barron's
-  Link: https://news.google.com/rss/articles/CBMiggNBVV95cUxQRVBKREluN0I2ZmJ0aVgwLUI5TkVjUV91anpYVHBzM0dhbS1TNHd6SFlHYktYeER2YklFc2JOS1lNOHlEMGNFMnUxU3N3anllbWJQVzVEM1M1TGRwSUZ4QXBBenFRV2FTRDlZc2dKZVZ4N0tjSzNscUg1V2swOFdyeVphbHdaM1NnYjVHbGZHQkpudGFiLXUwdHMwM3RENVV6V2xGUDBHN0YzOFowa28taWx2V1JzV0g2VXNkZXNBRXMtLVU5cnBjZnpTQXBrcWo2SGVVWXJNd013N3gtSEw0TGJhUm5NUkFucnpsNHU4dWFHd09VQlppbVBLRTZ0X2xDUDh2RFhXZUVTR1NlQmpnX3I2SjUyU2VjRU9oa0JlcHB1T0ZZOGRZRFRBRF9BSERxOHE0ZmVyLWxvMmZmb0FVTUxkMTBTazhnbmxtT1NCd3VveWdLb0RTYXFRVDVxREZWaTZhT01ieWthWUlmOFd5TFNYVkFrQ2ZrRjN3d3BfRC1CUQ?oc=5
+- [Markets] Stock market today: Dow rises, S&P 500 and Nasdaq drop as chip stocks slide, US crude oil surges above $100 - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSkJFaHNQUzdoZDRjaVhKQU5wWVVjTzg5OWFzWjFrcHBBNmJValZkMEt5NmZCWmRuampoZ0N0X0trQlM3Ukk2NHh6VTNwSTdxNklBS2VaUUNYUm9hY2xYV2dVcUgtVWF1VG5FX1puS1lDRG4yWmZDN2tuVEhfcy1ralA2SUFKalppM01CRF9nZ3MzdkFNNU80bEx1Ykg2S29fUVNsNkRmRklPc2xkaVBaaG5SM19ZS3VEeENvWE1hM2NxcWF4bl9neWNQdjJBdXRmMUZNQkJFSGtITmhLZll3QWQwd1dLbi1T?oc=5
 
 
 AI
-- Arkansas Tech launches new artificial intelligence track to meet growing workforce demand - Yahoo
-  Summary: Yahoo
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQU2JWZ05ZbXVMVE8yNG0teFUxLTJFcExZaU91bnJ5VVlfeVF0R0FwTktvOWJRaTV3MFNXa1dPcFJrdk5SSVVwWEk3QXRRd0hwNWZsdi1vUjVrSENRUTRMZ3hSaTdLbFFUQ2hrRS1lR2dNSGNuZGxIZUU5d3RDcl9Jem91ZjlmTW5pS3NzMVU3bkpUYzFpSmNvT3E0X3Atdw?oc=5
-
-- Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java - developers.googleblog.com
-  Summary: developers.googleblog.com
+- Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java - blog.google
+  Summary: blog.google
   Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlRKekZuLUp2ZzBrT1BMdGtsSHdJZnAxRVNJTHZ5ZkU5Q1pVOS10d3Q1MUl4b1J5dWFpWUlSLWZ4X1RwcDBucm8yS0RDY0RNS3VLQzZKelQ3cjBoUkdOMVBkcUxjeUFYN1FMT0dsMmNWdUVudDhpTldFZ3dMMmpmMTFEam9ZSEhrblpOd2FJOXplRGppRmlJWjk1Z3EzSi1TMjk5MUZR?oc=5
 
-- Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses - Nature
-  Summary: Nature
-  Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQmZFSzVqTzRrZGY5bURTbTRPQm1HNl9BZ0RyWDEyMW5lbzEwaVN5MTdjWk5JNmZpelZWTGVobS1EVF9zTHdpSHlJQ0VvUHlrdzR5eFoxdVd1dkJiaFhJ?oc=5
+- 15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026 - crn.com
+  Summary: crn.com
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFU1QWJEbFpORHBhaHdpVFZndzRjOWRRRnlZbFZUVjA1cUxsX0tCMFBrQ19qU3JrYVNxUzdnOWFjd1FLTjNlUnhCSzF4eGhmb1dlMVpPeVJqM1RmaVRmU1hVVU1rZ2ZFenZ3T3htLVJpUHZUQWR2bVBmUmppNUlMS3ZHclhRcHNFQXhKTFRFS2dBdVF1eGhPa2J1SGJpbnQ5cGdv?oc=5
+
+- AI Agents Are Increasingly Evading Safeguards, According to UK Researchers - CNET
+  Summary: CNET
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNdk0xWEo0azZUYThSQzRQRmZXZGlFdjY0TTZTeGotNVNPQk8xdjRlX0JpM0ItQ2RacWhtSGo3YlcycTgtTEV5Si1BT21PQmFEVXlZU05zcFJfRWU3Tk8zYnFvQ1lRUmk2czREd3lHQ3FFQ05kdzJTd2xOZGJ2eGN1OW1wVEhjcnBWcktMd3V2R2VvaktRSDhvdUswVG13YzFrSW9CTi1vRQ?oc=5
 
 
 Markets
-- Fed Chair Powell sees no threat of private credit 'contagion,' says interest rates are in a 'good place' - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaXh3blZWWlBFOUY4TUF2dUhYTko4QkNjVm9Yd1FxczRGdzh5VEVnUWd3Z1BGdVJCRUFQYktiMGtPTUFJMEotVEcwWjlpMWx5VjVHS05FaHpUN21uSHlQQ0pMNHdoenpWMHUzdzNfemFKVDdUeExOY1dlSU8zckJEcHBEdU5NMV8xUEliTEx4bmN2WWRiU2JxbUFLNjVUb2tmeEJ4czRYaXMxTE9wREI4Tzh5WFJQWFNLejZvT1U0dzB3Vmp3WHFJN0txaU5LLTNEamRkVFU4Z1JVZzctM2c?oc=5
+- Asian Stocks Wipe Out 2026 Gains as War Drives Inflation Worries - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0RmMjdVOEFkVVVpd0ZHWFFXNm5kUTBlOXlpdk5YZkZjdmVSbkNCdHpFcHNSNVRpTC0ySmRSLXg5SjNRbEZDdWtOUHYzb2ZGSkFNeXVIUmJhcFdGSXBzRVBGRHBMbDYzV3g2QmdoUUtIaGlqYzlUd21SVTU1RldsQ0pfZk9Td1Q1Zkk5QWlfQk8wbk9Nd3djbHo2Tk9sR1FDLXY0MGZ2Qm14RGQ5em16NkFWQktsdw?oc=5
 
-- Tech stocks today: Chip stocks resume sell-off, Mistral AI raises $830 million - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXZGRWhzaElMcGRCeDhqU2w0QklwR1FEQ1ZSYVBEanpPeFRwNTBfSW01enZ5c2VEeXR6NE50RVhIdlBPb3pMWXNlTTk2Z0VyR1dpVWx0cFN6SnpUTXZCbUgyNUtkcHRPUHdjYzBKZkhQVkpqbDdzWjllRmw1V3RlRjNlSk1qN25oOUhpOVlPa00xaHo1UnBwS1RKaXFtNjJ1M3Y2UkJXRGhBQnJ0RC1mZ1l4RTNXbFJ1ZjIxVnpoYkE0VmxB?oc=5
+- Americans’ expectations for inflation will shape Fed’s response to Iran war, Powell says - CNN
+  Summary: CNN
+  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQdS01RHpPVkstb1QwS3lXOEhoak1ZcWViY2tBeWxhdHNZSVhhU1RDcHBvcW1xeHJYbmZjNlJ6WmFxX1pnUnVuZVEyQmwyam1qNUMyU3J0N1R5eXNySkZWdGh5UXhDa0FmYlY0MDRwNHl3eFQ2WVFHbjl1UXNSRmg3R29n?oc=5
 
-- Bond investors see growth shock ahead as markets focus on inflation (BND:NASDAQ) - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2VDTlpEVDQ4aE1nRzlIMjh5c2xaX2RlMzcyMTdRRG43M3NBWDVGZHNydHByWUYxdExyd0FlUEY4SDFQbFhCclBxRTZXLWR5VlFqRnp6VjRqTWRTLS1uOTBMU2hrQmFKVVF3RHZ5cTl4ZEZIclFZOGd3ejAzU1JtY2llakN4MThZWVdUUjNJYkVTeW1vWGxQdGZSRmFyTUdWOGRYRmJFdk0?oc=5
+- Powell says Fed can 'wait and see' how war affects inflation - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFQwVVllSVJBNkdoR2pVc2hNUVF2ZllNVVgyMzF4dXhXM3prNjlWeUxkUTFCU1hhclpFcXVwSDRvNVZGRU9MaE9RcUkzVkRJZ0d5WjdxdkdBQlFiTFdCNXdWXzMyc21qeW5vR2JwN29LSnVOUy1vcGtpVkMzUkNZcUF5TVYtaU96N19xUXZqZmxIT1ZXWE9STXdqNUw2QTBZUXg1UjcyMFlyR3I3TlE?oc=5
 
 
 Travel / Boop Relevance
-- Mauritius Launches Game-Changing AI Travel Planner That Designs Perfect Road Trips With Weather Tracking and Local Secrets Built In! - Travel And Tour World
+- How Digital Surge is Revolutionizing Travel in Croatia: The Online Platforms Driving Record Tourist Bookings in 2026 - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxQYmJIQ3VGLXZXYVo0ZmUxX1lIUEJDaFlBaXBNRzdrb2hKQzZGZm80dFI3ZDIzRkJKQWc4WkEyYjhkdkQyYjdHSVpuTFg3S0FfcXhkdzlWNnl4b0pqWlBybkFWRUxCU3pIakVraWlSdmtFdk9oSlFtSVc4cmViQXhnQ3hheEN1VXFYbFJVT1Q3WUJkVXJFcFA4MkFQd3RTXzlSTzJtcEpVNXd6SE9OSV9YWkI5ZTBMWFRKbW9VSHRrRTkwVHRFN0ZWeDhFemR2bGtTRzZVSDM3VEdlaG9RWUVrZW1EU3FMaHdtR1hUeU1JQmtJeHQ4RXBkNC13VUhpdUhaLTJUQjRZdjlmVHNn?oc=5
+  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHh4ZTB6Vmx4S09VeHZFWUYyb3pIa3g5ellnYlladlB5b2U1WHdOUTdGLWFGZ182SnhSNnV4eVNsOXE0bWZYYzBpdm9SX1hFa08wUkNyX0xSN2lPUFJEWTJxWE5ibjBic3NkQU9BZVVVVkdaTHA1WE9IeHNSVlJWZWdEQ2JJZ21haTUzalVocVVJMmNoZkdjQ2c4Z1N6MkRaRUg5OWJBbW5pXzhDUkUyeEJ4MHFSOUh0S0RTOUxSdDRzZDl3VEttTERVbGhIUHFKdk1FUVZQYU9yUTNDQl9iMlozc0FhOS1CRG5yZDluX1F2N3hnM0kw?oc=5
 
-- ITA Airways and Travelport Seal Strategic Long-Term Deal to Revolutionise Airline Distribution with Next-Gen NDC Technology - Travel And Tour World
-  Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ1daNXhEenA0V0FEeXYwanRNbS1WWTlMTHlNNkVDNWwxQVFEUng0cHNRMmVPSDNWNWpDU3J6YVdDekZ0QlhSQkxPbWR5NmhRanJ4R1NrbTRXX1pCNTVxc1pQa2I3ZWE5Ym5RQ2NSUFJTbGxNdFlQMGZpY1ZyQm55SGlEb0FzdUdJc2Q1MmVrSS1KUXN6eUE1ZWNUMkEyZWhSVmxZUkRIZVptQ2cyUmR3WVBhTzltYzBiMmZFRkRJVjFabTVmVlF4OHhrbXQ3ZDJyR1YtX2RFUUd5MnRhbGdxbTNqX3VOTjVCRmZYb3Z0aVNXYzFUUkJtYkppRmFOcVNFVHc?oc=5
+- RBC and HTS (Hopper Technology Solutions) Come Together to Elevate the Travel Booking Experience for Canadians - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWnZzeVpJOUxhNmRkWE1UM3NGMy1BcjZjajNVaVptN1g5NWNfdFBHMERXWE1wclRPYXVKNFRydWZaMTU4WmM5ZnYwc3d2TFhZaDFESi1TSHNhQXFicmdveE1TenVSU0gwUWFfYjVKa2NuUzZ1U0hURTFmZDFxWUJoaHpLcmFRR1hsVEE4NjNQaUQ4NlRfY2p0ZGx5c3kwWFZBdV9KWXlBNks1VUhjU2daT2JYNkxWWkUtRlhBTzBGdzZSUlFqam1tOEJud3FvNE9FcmZ0LWRIS2w2djZDSUlDeU1pQnFYVEE?oc=5
 
-- RBC and HTS (Hopper Technology Solutions) Come Together to Elevate the Travel Booking Experience for Canadians - rbc.com
-  Summary: rbc.com
-  Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JdlUtWTRpMFItd0lSUWppRWNORDBEY3ZSU1FycmdIZ256ZUZodkpPVGhoMzNIY3JZYjNaT08xajJOTG5rOE5aaTBvSFdXUUM2N3BCc2t2QzM5SmVHWDMwZ1pLSVZwMDA?oc=5
+- Leading Travel Marketplace WINGIE Transforms the Airline Refund Process with AI-Powered Smart Refund Technology - GlobeNewswire
+  Summary: GlobeNewswire
+  Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxOaHBLcFZTZmRQc1dxZ1hFR2VVNmRPOFNXc2FFNVlFRnpsRHhTWU9sTUpsNFNwUlZJVUlrcTlDN0w2QXhlVHFZaHFxUklvYmVyWEhOZF9UbWRpaW52bHdheVBTbndORElTSjA2UFBoMlhnNi1uVWNldHdnZFhid0VJZ2JCcFJYaWRGU0xQSERzbE9BVXpYVTJuOTBrU1kyY3BoNlF6MVNGYVMzeHFmcUJoNFJKUG5qLTdzV3duLWR0ejluN3diT2s0eGRIQWxOMHBfSjFfajAta0xVUE5ueWpCc0hFbzlJcGx6QXgxQVI0Sm1Kd0VDMi1xNVRfRGhZb1pxa2JXdGp1aTE4V3pxamdaaA?oc=5
 
 
 Bottom Line
