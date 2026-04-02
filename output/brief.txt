@@ -1,77 +1,74 @@
-Morning Brief — April 01, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs New York Yankees — 4/1 - 4:10 PM EDT
+Morning Brief — April 02, 2026
 
 
 Breaking News
-- [AI] Anthropic Accidentally Releases Source Code for Claude AI Agent - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTV5aUhmeWRZSTZkeEszZ1VDOTNZa0MxRV96RWs2MGNxcDUweVZ5YjZpek10NlZPX2hLeTIyYVpwZVlobktLM2FxdEx3ZXhaY0RVMnRKX0h2SzNGM0NESHhra0s5SlhHWXRwUURuMTdXUWFUX3Nhd0R1NWZSRXJHNlBGZ0gyUldhZURibzl2THlVUHRZLUZoSXh3Y1RuM2JTcnNzWnkzV1Rpd0dJTEVvMkJMR1M?oc=5
-
-- [Markets] Stock Market News, March 31, 2026: Dow ends up over 1,100 points, S&P 500 and Nasdaq book best day in nearly a year on optimism about U.S. and Iran's potential openness to ending the war - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiswNBVV95cUxPcTU0ekZUSkdQVDczdWRRb1dJYjRXOERGaFl5eVZJM2dtVjFXclgwZll6NC1vTVVQLWdrd1dLbGxralhiOVNXYUNZOGN4Zk5oazZhVUxBVlh5UkJReUYzcXp4R012cDJ5aTM5V3RXZWJhX0szSlR3S0lWMHZiY0d1RmtyTWtyNjZQTDZLa2Z1Z1ZVVTJ1bzJFaWEtNTF5cFVJZU1Sc2htS3RJTWk4a015QnRzVmJBR2tVRHNjT08wUVlqX01QMmhLT2l6MzdGajRqV2xyLUNTMjZRZElBd3FwMlZJdW1kdHNWZXdBQzFBTG9BNUdnXzJKdDRIY1h3MlZMOFlZN3BjMHRDQlY2dTJicWl2VHVZZ0NLY2xVV2FxaFB4aVZ5RldRWDhWdEl2UnBKaWMtOXZqUllaN05WUkx0ZnJqUHdFMXZqMEtQTXdCbHhSSjlIOWQyQlE5VVJURkhYeFdqZldqRWFBcUNYbmRlZHowaEdITmVtMTZuT1FOYTdPZUJFMjhDcUlYLThqUTFZN1FFb3haSWtxRUtXRURueDRDVk1XTWp4amlyVlhuYlpta2c?oc=5
-
 - [Travel / Boop Relevance] AI Travel Startup Lobby Secures Major Funding to Turbocharge Group Bookings: Pascal Mathis Joins Board in Industry Shake-Up! - Travel And Tour World
   Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNT2JuWjNRU2tnUnJjVUZscUlkSlhWUml0aDlxLU9ZZVhZS29sVnZqQmRaNjhlR05mR3RWSE9YQ0hFZllyNXBLeVF1OWhVTHlvWVBQSlBpYUUtcEpqb3o0R2M5MlNTZGxqdFBvWUdab01pZmZKOG9zT0U0MExaZTdBUGZNQ0lXdGxOSkRQZjJWRF9FTDNJSFVSQXk1MVBXbENHWl80M0t6ZzRmOEpnbG53OFFIRG01dG4wQTkyLTRoX2tEUmZZNm9VaUtzeDlOY290SENGdXlodXUzdjRuaFBRNGxqbU1yM1NtRHJ0cmo3WWxtUklWeGRiazZuZzFCS01Z?oc=5
 
+- [AI] Sam Yagan raises $100M for consumer AI investments - Crain's Chicago Business
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWtJeS1ibEVYb0puUk95UzhEVDhCSTF2RVoyM05pRjcwMGoxd1A3c056ZkhGb0RVSUliSm14cW9fcHRfd1ZxTmNRMVdDT1BwWmd4dGtDM29yQXJQb04yN0hvLXcwNUVtTFFDNEJhQ1JHaE4zVnMtb3QtNVQzY0RwV2N6ZkV2MDJaM0lMdE93TkFxTExkUEE?oc=5
+
+- [Markets] Markets are overestimating the Iran war's impact on core inflation: Amundi - CNBC
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlZVX2xHUXZneUZWeHh2RXoyVzlvZHJSSXdmVkl1Y1pPYjFodHhYMnBoUGp1N3hIUEZhMXN3N0JOS1loelRxVjBSamR5aENNY21ZQTY0ZjlVMU9BbENNcUc5T1JGZjhONTIzb01vNVVGZzVGdDI4d2NFVVRxQXNTcEZFT04tVTY5MzdoMFJEVm51Q2NuY1lnUENQVnFJTGc?oc=5
+
 
 Must Read Today
-- [Travel / Boop Relevance] US Travel Giants Booking Joins Delta, Royal Caribbean, United, Marriott and More American Companies are Driving Massive Profits as Cruise Occupancy Rise, Hotel Sector Growing and Airline Sector Show Split Performance Pattern, New Update is Here - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi4wJBVV95cUxQSkx2TWVpRlF2NXJrUlJsanBrb3BOUkxhU180N0JkVXV2Yy1MVXNyMHBjMTU4WnpFRXF3RWx2OWk0bk05TVRQMUVCZWhJX2VLc3NFU21oRV9aRG9SMWZ5VEpUOVF1WW1OVXBGZW5yUWV4MmJpdjhrUHc1UjNFRnRjWG13Q0dYT25IR2FNWFVyZjJnNzZYYWJOMVI1ajhBS2x2c3RMY0VhSGNTZWkxQmdKZ3E5RjUtd0NsMlZNVTFJY1l2SVFWTnpfLTFoX0dLRjJBTGxEWWNFYlZvbFBFbzRkeGRWbGk3S3p4anlaeS0xV1k0UDBEQ2NJUnBCNmxSMUlSM1E4bS1RMmw3UU51Z0pfdVlfQy1TOUxrZnY4Z2toM1dNTXJCMTJPU2F3YUFucWJmU2tNV1ktQ05TZjBxUThIRFpWYzFzVkxHY25tUFRvN3lqWExNYmc2dmx1LW1pZW9QNE9z?oc=5
+- [Travel / Boop Relevance] The Expedia Hotel Booking Platform Fuels Explosive Growth in Travel Tech, Captivating Investors in North America in 2026 - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQd1cxaloyckhkQl9ERnF6Q0wzdEdxMW5Rck01S3pPU1QzUlR3djRCTzdQc3Z5YnVnRExjNG95VDB5U2pPYjNndDdPMHJGTjNrenU5eWRNcFJvT3c3VW5hTVhnM2o1YVEzRHZiYWJqNk4tZUlvNmg0NWI2ZEdsejRRd2ZTN3hqY0FWX0otVjF2WktmeGEyRWVHbE12dWhVSW5XNUk1NGV5VzIyYVpPRWx4UWxJSnFTRlFxcy1uSUNiaWlYNVFwYzhaQno5TzdYS1hZVzJ0X3FxR0l0OS1zMFB0NS1KdXdBLTF6ZTUxUXB3RTFTNTN3ZlNTalA1R0s?oc=5
 
-- [Travel / Boop Relevance] South Africa’s Travel Tech Market Set to Soar: Homegrown Innovations and AI Are Reshaping the Tourism Landscape - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1BKcHM2bkJPSjZjQ3Q1bXlMbS1MWm9xdHI2WGFOY01WYm02dkhfbUZnZEV3U2Q3OHVoRm56eXpkN211Qm5QNUEza0tkdHFwbUY1amtzdFJ3SVprdDZJYm94T09jM3JhUmhvUUw3UEJ0U2RWSUZPU2dEWmVIRXJSbjVvd19qc29PUEJUbTdnUkw4MVFxUVBLejR4eTF2WVFRVERMUktQZzRkZ0Ftc1gxNHAxaW45ZFF4TURIbnE5WW9OOURSb2w3OThnekVwOHFwSFp6RGp6TWFmZTRZNUpjLUZSWnlBWEkza1lHWjBCTQ?oc=5
+- [Travel / Boop Relevance] Dinagat Islands tourism office reminds public to be cautious with online travel bookings - Philippine Information Agency
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUY5eE82NFItV1F2WGJwWHNvaC1jY2thaExyTEo1NDMyVUszSzk0OHExUXU0UjZjdnFmem9ZUDdkUUwzNzBEeFlZV2lMOVVQd29fT0hlNVlEWWxPa0ZnRjJqMkhtMGRnX1FkQ2RvVy1sTm1VTUVBbXJaSUdzeng2czBxeTUzaFJmOC1RY2JZaVhRTTdHRkZXZUtuYUVuNHB3blJ5TFpVdkR2STdmVWlyLWlnZw?oc=5
 
-- [Travel / Boop Relevance] South Africa’s Booming Travel Tech Sector: How Homegrown Innovations and Artificial Intelligence Are Expanding the More Than Two Billion Dollar Industry and Changing Tourism Forever - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMizAJBVV95cUxOQzdra3A0Y3pNcWNZR2tjTHRnSjA3UzNJQ3FlSmRWV2JFdkJReGVHdVV2Wi0wLUxUQ2o3RHhnbEktUmtiVXJqbkNwWjJrVjA5SkJRUnhwVl9feVJhWnVsRHpKWU9SSHNVLUlrNENTYWZtZHZkU3lGa0I2VmJBX1R0OElxY3hJMDE3UC00VlNGa05McUJsZWt3aVRNSW9LcmNmUVp6ZnRIc0tqcXU1ODkyblRmSTNIX2xncTJTSGpvUklEdDlkckYyRXpTOEhUenNkQ3RYbDZQOGRDTTUyWVo5RzBDWmc3MnFpaXFFbjRfU1VNM1NkM211V3dGcEU5ZjJXaVNwNEFaSmNfNVNwT01qUHVLSlB6T292VnlOcFFUMnJNSXdLeXpCMGlqQlRESGtkNnBwLWlqNDBmbFhrUHlaanJTZkxBRGdBMXdsZA?oc=5
+- [AI] 'Not how you build a digital mind': How reasoning failures are preventing AI models from achieving human-level intelligence - Live Science
+  Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxORkhKMzRxeEQ0RHZRd1VEX1NSVl9lLXA2a1hfcjdULUNSbThVeEFjRVhiMzRIVVA3ZXVBQzZ0cWRYWS1hSHc2TUtROEJVT0xmNHRvZjFMVHdIUGl6MlJiTWN0ZlpMTnhjT0FkeVJIVFphZHJyeGJzSEl5X3NSVk9JTjdlMEx3X3l0Ylh1UzJVY0g4MGlZdDZFcTQxN09JZTZZNElIMkp4bkhtbmF6RGtqU0wwaDFWMFVvenVtdE1IMDk4UUI2ZGtsdzBrNTJQMzE3SWNQUVJ5SG81OTVXbDkyOUE2OEM2V1ViOVdDcGg0N1NGZXhyd3BjLUtfTHpLYUVxcFZMM0UyZGJ4Yms?oc=5
 
-- [Travel / Boop Relevance] Hilton launches AI travel planner to personalise hotel booking - Globetrender
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNXViWkRQcE1zMGJ3R2t3aTBvTGhveXZQc2cwX1UxeTVpaW42dlNETHlXeFN2U1c1eGRKWmRwRFJrbV9UamhyNzBvQ2xyUnNDcmYzdC1UN1V1Wk9reXBrbENJeTEycUo0S3Ewakx3?oc=5
+- [AI] Anthropic working to contain leak of code behind Claude AI agent: report - Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQclo3ZjVmSnBYNHB4M1lYSEFOZ0Ixbkh1ZENLdzJrSFlnV1cyaHRneGx0TWVFdFJxWlZUUGVpa2NfdUFmTnRBTTZlbWNJRlZuQUlFd1ZubF96ZHV1aXVFT0UtaS1BeVJsbzNzbWVGRU5IclRqaUlLbHZzRmtncVlTOFVrd2hmcld1UWZaWW85TUVNczdxdXEzNEFaazc2N2MtME9FSw?oc=5
 
-- [AI] Former Coatue partner raises huge $65M seed for enterprise AI agent startup - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTlveElTcDJnRERpSndzRkw0b0ZiTFFLNUJ0REN2SHNhZFlxMTFfQVppODluQ09lcG9qbi1JWVdLUy1wZW85eXFiRm9CYnBpUHNRQkttSEZmNFJUM2Q3eWxCUndRbmNoOGJ2N0k0WkJvSHdlMDIyYk1wYnc4YWlXei1ObmtuemMxQ0lMa2NrSVA4aWtfWVBqamtHMHVhU1h1XzFFWWZJTzhrOWUtd0E?oc=5
+- [Markets] Stock market today: Dow S&P 500, Nasdaq futures stumble after Trump says war with Iran not yet over - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSmIwNG82Z25ISVpjTFNXS25JY1hRTDBaZnNiQnEzWHpXQ21oSlhEMmQ0Q251Mll1MktObHpYN3lSeEV1cVRfcWF1ZTc2Q3VuUWxDUmY4RTZ5RHVaaGhkVlFLUGNkWWJMMjM1by0tX2VpX1ZNVXJDYTdQODZkaWhRc2NCdUdfcTFDbFZvLTRaWGtsazhXSE40dU5PQ1pLUGE4ck9TNTVBQTZSY2l5dHlHMTllZUl6dXJqTXJNSzJkN1V2NS1ieXdrWURXNXYzdW90aW9JMTBMRy01Yk4yN1dscA?oc=5
 
 
 AI
+- Worried About A.I. Taking Your Job? That’s Not Very ‘Agentic’ of You. - The New York Times
+  Summary: The New York Times
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9aTHJVSzBYNUM3RGVjemRVN195Vmp5ZHlpNm00Q1dmS2JDbzB0YkdUTERMU3hKOUI5SWtWQW96ZWlvcXktdjRULXp0cVNWSFRTOEJmVXpnbTNGYWxRVTdILU9qUFpkLUh1NGpfVEYxbkNjMUJSdTBGd1ZVZw?oc=5
+
 - UnitedHealthcare launches Avery, a generative AI companion for members - Fierce Healthcare
   Summary: Fierce Healthcare
   Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmtRWldncWVsQTJ5QTJheFlqZWd4SzR6bGxuemdjNzQ5T3BtV05hTGhMZWN2aFhzekIxWTdCZ0xrRG1jZkU5ZGllVjZZbFBzc3dnSjVNMkhpclB1c2p5dklLMHhweHRiRnhTaVhGaHgxWkM5SVV3U0RZbDNtaUhrTFBNdjRfOW1ENEt5ZUdVV3dPUjBNVXlnR09od1Y5eFZYbFl1ZGx3?oc=5
 
-- Local physician launches new AI service to write prescriptions over the phone - WSBT
-  Summary: WSBT
-  Link: https://news.google.com/rss/articles/CBMi2AJBVV95cUxQeXBuU3RhSXYyQ05WVV92OFpOcnMtZm1TMHhxNGoyUkcxWFlMSU9IckFfa0hkYzMzVmpteHlTNHBaQmYxeG5oMUJjUEQzOXp0YWNMNHM4RGxtUl9TdjFzVnE2eUROSXQyRTBidFlVa3dORmFrRHFUM2loNGtrS3B6aVB5RlpSaFZxcndUcGstNTZfSjl3Z2lWc1hLMEU5SDF2YWRsOTQ5aUhEZzBITnY5QS03Nk95dW9SVTZNUENhV2VkdmppSU1ybzJTa3o3RUIxSlVoOHRiVGIxYUh0OVZMck5qNU9LTHlZb2hZLXREcHQ3MF9NNU41ZzFWNUNjZTRXMWtFZm5zcFBzM3p3X1Y4N1VTeTJSNnJCdFotVkJadW1hekIzajk0Q3B1ME9GX0M1Nk5OUFByV0gxcXVvRGRnOTNvSG1XczVmOUNONGtoLUYyVkNDTGNlSg?oc=5
-
-- If This Wall Street Analyst Is Correct, This Artificial Intelligence (AI) Data Center Stock Will Join Nvidia, Apple, and Meta in the $1 Trillion Club - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmp1dU1RMzNSTTNEZVQwX2VpQUFZZGpHcEpBU3N1VUtoeTRzNjhUZ1VzSXhzazBhdUlUb3lRekRkem14ZVBaRVI3VXJLTDB3T3hqNXRPY0FqdWp0dEFtRnQ3cGhscUJmbWFkQy1aTTdIeGtfV2xyV3VPdWJXLWVockdUSDhWOXdabW54S0RDVUhlbzByQnlsbA?oc=5
+- Trust drives Korea’s generative AI adoption; usability and interaction sustain use - CHOSUNBIZ - Chosunbiz
+  Summary: Chosunbiz
+  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBnMnpqbERjM19jMTFyR1BienZ4MFEzbEhJWEpBa3UzSkJwZnhsWDZUNkFOM3ItemNsanNnY1lCZFFWaDJqeWd2NXZkUlRXX1NjVmtYMWdEYzNnR2NzUkJzT3hzWXB6OFBHdThxZHJZalZydmljeFNYRUR30gGOAUFVX3lxTE5ZczlLLXd3M3ZXTU9XMkM1VEJ1WVY5eC02UVN1NmtNTWtJY0pkZmhNZUI5ajBSRVl2OENBWElsVHdiQWtVUVdZWmJQX05sbnlvMEJJZmt3S0pVTHBlbHdyWWp6bjcwcllReDhLX3M3WlNNUTAwS1hLSXhnX3NFZ2w4TzE5dC1DbG1RM3BEMFE?oc=5
 
 
 Markets
-- Fed Communications and Inflation Expectations - frbsf.org
-  Summary: frbsf.org
-  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOejBwVzFyX3cyWHBfMFNQZUVkeDN0N0MyM0dxcWo3V0QwOUxfQVcybExaUVMyMFNUQkxiX1ZjRmt1QmJkUkIxN0ZsS2plQlpPcnRiblI4ZGtVR3RueEF1RWVMSExJVVVMV0lVUWVxQ0JsOVJKeWFJUDJMd2ppSmRrakRFTDRWRmVwdGlhSkVIdTFxRjBrX0RBSzhDakZNejVmeGkzTHhRZVVkT1kwWS1HNUdPeHdCR2VLNHFCS3p1TDFLODVnclE?oc=5
+- Stock Market Today: Dow set for nearly 500-point retreat, S&P 500 and Nasdaq to fall after Trump leaves Iran conflict options open; Oil spikes $6 as gold falls - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiswNBVV95cUxPWjlHSXcwSXBPUlNzY3BQYkxjQ1F0cm1VbzlDSkJvdVp0U3pPNnk0VDB3c0FJR2NScXNZclNsa1dOdllKZHBhR2JYMHp5SVcwbDRzOENEdDRvMTZscjAyVzJVVlRYaTNEUXZKQ3ZnOUtCb096N2V4V0RLNnlyOFZxY1dOb21CcHgtOWcwTlE3aFlBUlNBTW84SXFtenZDb2RZQThrQVBzNGN4b3lQUWFBN1JwLVBoMUZGaHo0Z1B0Z1pHN2J6UUppdU5HSGpBaUFCUXAzSXVuRldDZ1lqQjNCTW1OM1VvSUZma2drM2JMUEI4SWNqMUozd1RXUFlocDdXRmhhMndoZkZ4a0xLb2M1SUhWVjhERGFqaUtkTXp1RXhtUmlkMXlCSHE0bDJXejlwWE1MREk5VUVQOEVNLW1wcGJNWmZYZVdvS0JiZ1ZWSjFDRTF0Z012cWpYd0tiQjRDWEpxbDBiMTRaR3U0Qlg5MVp5bDlYWE80MWZseXFVd1lVM3JWYTdQTjVxOGZhTk1vSlBpcTdPaEJQNEZpU1hxTFBaR09ZbW9hSzR4YndvMWNRZjg?oc=5
 
-- Asian Stocks Set to Track US Rally on Iran Hopes: Markets Wrap - Bloomberg.com
+- ‘Market’s Latest Shiny Objects’: Optical Stocks Get AI Momentum - Bloomberg.com
   Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3pqbTdITXBiUWxabEl5MjQ3T3YwTk1hdlpvNTlaeGhmOGJuZTlLbGg2M1NmMURNX0pDanNIQlB6TllyVmdidlVkNUlRbml0em1rbkRha1EzeGJMbEF3NnU3QzdrQ3dyOVJGWGRwYUdZS3VyS3ZkTkt3REJZVE5kUWE2UVBtQTR6S1VNZ3Nwbzk0X1RYaFhHaXV4OTl2Ri1sRDg5Ym9pQW9LNFBlc0xKXzJB?oc=5
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXRIY3lIbm9SV1lEX3YyOVFYZU0tRkFZelFWNTdMRkRfcUM4QlUwNE5xMTduTHlxTWxpNUlBSVpsdzFaSVBWQVNyczd3UGplQlF3R2R4YnVXX2o5RXZZQVZDSXVYbjVyc0xpX3I5UWNscUdDQUpmYXEyYnhnMVlUdFRNQnhsaHhDUXY5VWZnX2ZSaDMyZl9GMFFBSW4ySDZHaXdKS3NhU2ZmV3NZOGRCdEln?oc=5
 
-- Asian Growth Stocks With High Insider Ownership And 38% Earnings Growth - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNcHNxNmpkU0MwU1pyZUZBUEV5ODFTWkZOcmZZYlptNnVRemdtZFZtYlREaVVhS0NtVk0zVVQ0emdLeWgxX2hXQTVwdlBKSlZFMEdSejQ1ajVuZWQzN0JsbEhfSzAwSFNfejJsb0ZEdDJDYjBLYm1qYW1lWm51eEJieVdrbGFfU0F3Z2lSeTZSLTBqZkl1ZjZtRkVEM2dvdw?oc=5
+- 2 Under-the-Radar Growth Stocks That Just Got Cheaper Thanks to the Market Sell-Off - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk0tM0F1VFVNZ1c3T2dCN2NseUQxYUM1RENxMjZaY2FYWFZJQ2FnR0pPa2VpNnNqQ3NLLTc0RFNOVVFyQ2k1T0hlLWtjUVp5aXlDdmp6YW5YOERqQVhrOWJLLVVSbWtvNWJ4aEFfZU1BRFFLVzBFUjM4TTB6ZHppZ1p0bkRZRTRPcTRMSlQyRUllMExCMGhwNw?oc=5
 
 
 Travel / Boop Relevance
-- First WiT “Travel Tech Thursdays” to put spotlight on AI and ASEAN - webintravel.com
-  Summary: webintravel.com
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFlidjJXNENKLWRST2hUX1F1cHRoQzM5NGczblFwZXBoZl9IR3J4cExVbWdnQTRhdUFvTnVTdUx2Zk1kd05lUE9USHYtZzB0X0Iyc0M3S2xrMWdEd2xNc3JHSnFvMU1aYy1odzRzR0lLZ0lyeHJ1bFM0cXRGRHZfWEgtNWlaQmd5Q3ByOV84R3czM2hrWGM5Ng?oc=5
+- Hilton launches AI travel planner to personalise hotel booking - Globetrender
+  Summary: Globetrender
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNXViWkRQcE1zMGJ3R2t3aTBvTGhveXZQc2cwX1UxeTVpaW42dlNETHlXeFN2U1c1eGRKWmRwRFJrbV9UamhyNzBvQ2xyUnNDcmYzdC1UN1V1Wk9reXBrbENJeTEycUo0S3Ewakx3?oc=5
 
-- Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
-  Summary: Digital Transactions
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
+- Leading travel marketplace WINGIE transforms the airline refund process with AI-powered smart refund technology - ZAWYA
+  Summary: ZAWYA
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNelliV1psdENfd29iQzJ5cjE5ZVZGQnhBaFlaeUJDTDZtWjdkSFROdWhmTlJtbnVOOGltUEl1U1BhNVRQNURwN2VOYlFQT3VCTTZMVk1vYzkzeU11dHNCQzZOOUNXS0F4dFYyQTJOcWtzSzAxMGRTekhJXzR6SW4tTm1kTGdRWGc5Rjg2QVdzRl9Tb0xtWUxJeHRaV21LOHp6TGU1b0szRDBMTWQ2UDJxbE9Ga1N0bXNlLUVZSkRrWnlxUklxUWxndklDdWFFQlRvNko5WGJWVQ?oc=5
 
-- RBC and HTS (Hopper Technology Solutions) Come Together to Elevate the Travel Booking Experience for Canadians - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWnZzeVpJOUxhNmRkWE1UM3NGMy1BcjZjajNVaVptN1g5NWNfdFBHMERXWE1wclRPYXVKNFRydWZaMTU4WmM5ZnYwc3d2TFhZaDFESi1TSHNhQXFicmdveE1TenVSU0gwUWFfYjVKa2NuUzZ1U0hURTFmZDFxWUJoaHpLcmFRR1hsVEE4NjNQaUQ4NlRfY2p0ZGx5c3kwWFZBdV9KWXlBNks1VUhjU2daT2JYNkxWWkUtRlhBTzBGdzZSUlFqam1tOEJud3FvNE9FcmZ0LWRIS2w2djZDSUlDeU1pQnFYVEE?oc=5
+- Priceline's Big Kill & The Future of Online Travel - AOL.com
+  Summary: AOL.com
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPR25EaUJNZFZLaXgxNUZ1X1ZIbm50UndIUzRpbkFza1plSWZxZ29VUzZ2YVFvdHREREtxb3ZfNzZ6NXBEOHFSS2hrOExjNkZPbERjcG80cjh4N2VwSVVHX19FQmpaQ0ZmS2JUeTdMZXdRcmlQQ1BKR0JIb2hyclNBRFR4VlFRUVZWdlJGaEpWYWJHQQ?oc=5
 
 
 Bottom Line
