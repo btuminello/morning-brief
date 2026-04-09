@@ -1,77 +1,74 @@
-Morning Brief — April 08, 2026
-
-Seattle Sports Today
-- Texas Rangers vs Seattle Mariners — 4/8 - 2:35 PM EDT
+Morning Brief — April 09, 2026
 
 
 Breaking News
-- [AI] AI agent security startup Trent AI launches with $13M in funding - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxONjFmY0tBU3p2VURmZ2hBS0lVT2dHaWstWFZuQjRfcXp4YzMtbS1zWmNPeHVlUUN2LXVRNzdUSEZtbUFFWW51LWdlVl9nT3lBaENTZ0VfdWJKSjhaLTUzZUhnc2pGRG5kWlZlcHFRZWQzQ2F4U2txRTlHSnR2T2lVcFRXVjA3UDVNY2lEand5ekZ6b0VxUElN?oc=5
+- [Markets] Stock Market Today: S&P 500, Dow Jones and Nasdaq set to fall while oil prices climb as questions remain about cease-fire; Fed's favored inflation measure on tap - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmlkZzkyM3g5RF9VRGt0RDVndlhDQXlTZlJwSmkzU3JvNmVPaVJGNURVeHJJdVUyQ2RlNDJYZHprejVnVXpJaXh4OVA4YTVmZElOMnZuMkRFMzhDbE9GMG9meVFTOVRESFVOcnhUdkxUajZMZkpFdEFnenY2M3hjeEZOYW5MNXNmY1hxUlJRd09YS2dOMTlkR0c4TDJ1dXNjSmVjRnpUZjRVMmRT?oc=5
 
-- [Markets] What the market is now pricing for Fed and global central bank interest rates after the cease-fire - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGc4ZFYySjJ6UnJuS19OTjZkWU9TalBCcGJ4cVVDUk5WMTdnUW5BYVdQZHlNVjNfVFh1eFdjcExlNm90Z1c0ZDl0dkR3TVdFWFFBZVQ0Uk9nUWh6cFlnZ294QXYtX2ozOHJlSnFiTzlJZjhiRzJEY2RNN0dHTGdIWlJoVktZbE5CaHREUkdoU3B5dU1DSkQ3TmJnanBDMW4tS0JKendfZFZoVGs5NUUyNkQ0VFlQSVZING1hNldyLUtVcVg0alNqQ002Z0dWcGxRYW1pdWJrT1I?oc=5
+- [Markets] Monetary Policy Through the Lens of Market-Based Inflation - Federal Reserve Bank of San Francisco
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXlJNDFwUXhfb1BMUFJGYlhNWDZyWWpOeWpYX2VVcmJKcW1rMlV4bXV4V3ZjMjJ4MFlWRTRzWjh2bU85T2ZEZ1BkNHJReGVtQW1XNVM0U3p0WWR4SXNCSG9ORjlDMmtCUHpEUkd0U1JFdTcySUZvOU1sXzlJb1V2OGZGbEFvbUpVdHFfSUhINmljcU9qYjZxeGVwdnRMR20ySHgwV2pnQUgtUHJmN0p4U01HN2hicDZsSl95M2djOHZLMi1MWVBOcVZaMzRSazFGVWc?oc=5
 
-- [Markets] Exclusive: Nasdaq 100 Shorts Hit 91% As Inflation Fears Force A Pause On The Small-Cap Rotation - Benzinga
-  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTVPVW96a1R5OW1MRUplZGpqM3I0SnNpczFIdjFPU2RxODFrd0VybnRBaXdObzJMdFk5X1hCenkxVFdGN2VaUmxwS01UZW9pZkVPLXZFcWRPNnM5OGlpSUczN1ZpbDZ3LV9pTGNNZTd3MU1PTy1mUkE5eC01ZVEwSWh2MWVyZTBPMzZzVlJUZ0NlQU1sVkhMUkxqSnBLVFlySHlsVzJteUZsVEFndy02VVdaNXFnQ3BmN1E5ZmE3UW5MYWZhcGNZeVVCb1BDeFJzU3BPanRWNjJGNjV5V1lTWjkxQQ?oc=5
+- [AI] Anthropic launches Claude Managed Agents to speed up AI agent development - SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOd29MR3RvV2JmZnhwaDJqNDJyRHByRlZWdGZ2Yk1iaWpVb0NWdVBKZU1wN2pnUG15SGtHVE12T0hpOEhYYlRPaDZsbVBqNE5kTW9PNFMySGxMeVc5TkpMX0dBelFtWHplUTdyb3pxTlQyNEVkRjB1S3VnTWtqT3RlUHUtdDFWZHFUSG9BWXc1cGRQZ3lxUW1XbW1xcWtfckFVek4tdFRoaw?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] How Mirai’s Innovative AI Booking System Is Revolutionizing Hotel Reservations in Spain and Beyond – Everything You Need to Know About This Game-Changing Travel Technology - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMivgJBVV95cUxOTUdsOFFraVUxa1UwVHdFTUdvcTAySEJLRFdVaUp4bmRKdm5SUVhORkNLbmROblBfZnU3Mmoza0ZHTFNXYTlwLXVCcnRmTXcxQU1DUUt3U0NUazlETUE2c3RQTzhuYzhsMGlWVmk1QV85dWtjZjNxcEdlazZXVHZvMXFlWHhWNkNBbVo4LUl5SVlYclcxRmtscWZsakNNNVRWRGlTM1E4V3YzVHJPM3NzYldMRFk0WmpEeER5VE5HeEdPOVcwNFdBRExJWjZoc01YNmVfeUE5UGd3X21RdlIwNmxZaTVnWHZoVnlaMnFLN3RMTzBnbHJiV19TZVJ4OXdpUzRHYlNRYzM0YnAtSkcwTDF3UFBZaTE2UEZ2X05kMUdHTmFIR2Y3U3owUmdLN3Z1aWtvWDh0OElkNXI3cWc?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures pause rally after Iran says ceasefire has been broken - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWlWTW9vaUlheU5YSWctWF93WU1pa1pPTGticlUxQVFWRVNLWHZZMlZlT3Z0RzNyS0ZKWEcwSWFaSE1SUlJRbWtSXzFxWER5YllBdUxYWm9vaEJ2VUVoSTFBWXF3LTkyeENETW5NQk5oTnNBSjVWUzc0YVB5VWFDbWNLSDhuWS1LZ2pxUTJKZ29Ydk5wUExhOEpMOHotbmNpdG83TzVQLTE5dmJxR2tHeUtNRGphNVF2Q1duYl9ydVpMTTJGMGxNOEwwcGZfZmFfSm1ubHV2MTVHWlFpNjZCNnF3QQ?oc=5
 
-- [Travel / Boop Relevance] Mirai rebuilds booking engine for conversational, agent-driven travel - PhocusWire
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5
+- [AI] New framework lets AI agents rewrite their own skills without retraining the underlying model - VentureBeat
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWFpZGoxLVh6N0U5Z0ZQNFczQV9HbE42S0NvWjdoSVpJV1lzWmN0ekRqRWgzS1lFdVAyTXFwN1Zram00enI1aEhrRTB2cTM1aHE5YWp2M1ZydmVWR0xYbERyZFdjNS0zelFFS0hIQ0ZlOWJUV1QyQnA4cC0yQXNBeFNMMXhpWWJTbDF3eXUxRW1Fa3RYNUhHWk1JSW5nT2pPcTA0TnRINWROWVRJTHhscG1HQy0?oc=5
 
-- [Markets] Stock Market Today: Dow set for 1,100-point gain, S&P 500 and Nasdaq due to jump as oil prices fall below $95 following news of two-week cease-fire - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHZWaC1ySk9MT3d3VURJeVBCV05uaTZJWjhDV0ptN3FrbFNYd1lvR1VRVUEzVWd1TUZ2SGtQYWFDamxHOENSTmk3WDRqbWtFT00wbG00aUc0MDlHWThyTUdRTnhIS2g2cTBfTjRQeTNXem9OVUc5emNhLVhHdGJsdHlGY19acGVBZUdzTWZ2UEtFLU5aZUhJUFlwelluMGttemNiZkdSR3h4TUxJS3RzQjd3?oc=5
+- [AI] AI’s Next Bottleneck: Capital Crunch and Bridge Loans - Data Center Knowledge
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm1pZ2JCNHhQeFlmcXR4Z1QwTXdjRXVzd3lUNWJrQVVvUmtUVlBubjFGVUY5V3BXc3R1NWlzSXA2VTBnZTh6MmEyWUhoWWFRbDJqRGZFZ0o5TGhmRG53djdLa29lcTBhN3pWUlQxT1FQT2h4dEtOTF9Gb0pLbm4wMjhkNWlLakpxaWJITU5NVDJLYWg4dHc?oc=5
 
-- [Travel / Boop Relevance] Revolutionary Yatra Online Partners with Google Cloud’s Gemini AI and Vertex AI to Transform Travel Booking and Expense Management Across India, Redefining Seamless Business Travel Experiences in 2026 - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi2wJBVV95cUxOekN6a2NETEppX0hsX1BWaHFJbDRVeFRvQTNleG1RaVA3SVU2dUgyV3RCQ1lhZi1pYmN1NEpEUjBickVxemNXUjB0NGx1NEZKUjNPZTZaNEowVkU4TkZ2YktpYm91UmZidzhsR0xvQ0M3c2hyby1jdmVsSjMwM1JXaWZWUmdVZHR5eFRHeVM1dDc3eHN1TDFCSk1XdDNaZzcwWHNHSHhYb0FkeEEzVHk5bmxtRnVHbXpxdkt0TVJDOHRaRk1vZ0MxWkF6Y3JSVXE2SDdjSTJ2YmM3MHc2STNlcjJOX3hvenVyV09Lb3U2cTJkVEVUOTdIeDBSN3hFSmxpenhGYk1iOVRzWWVBX3NaZjNnYVhRV0lYREV6UFZmdFdRazRkSkxFZUFQT1VzMDlOWjg5ODBaUUt3NFloNV9rd0FxWUJkdVZiUU5KcFdYNnd2R09TWk9YV0Q2bw?oc=5
+- [Markets] An earnings boom is around the corner, and it could blindside the stock-market bears - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHotQlptQzJXMklQaXQ0M0IybnhzbTV6YmtmSi04aFVRenJvcXFQbmZrbFA3cVFZckN1WWt5U3Rka19LbnJFTmVZLWRVSFN1SDJDV2Uta1RhZlNxeHk4eXk1MmpESExlN0c2X0N3dmphZXFFR2JTUlQxNGxZczI0SFVKbHpFeVFaUWZhWHNMckp5SDlxeGhLVzhUVHdMUzFJMU45YmxuWEdZOE9CSXhUeHdUUzFNMUxMck1oVVgyeVVVNzBU?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures surge on news of two-week US-Iran ceasefire - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlpoWG00ZkxQSDVqV1F1VjFaZzF4cTJNbklRdkc3ZGdrTTlaRHlzZmdrNGUxRXFvNTEwRklvYXZPeFozeVNCdDB1WXdfejR6X0tFVG5yZTA5VzdGRDdDV1VOSGh2TDhwM1NNcGZYR0dpZ0RQeUZXYTZubERfNjktZmUxWWhUckhnWFVUTUJuN3V2ZEVuX2tQejVHTW8tcTlGVkU3QWNtYy1mVTlMZWF4b0xpRGlJUlB2bHc5Y0RHeUZ4Q0JEVnVhN0QxeW5uUEY0OEo5aDRR?oc=5
+- [Markets] Fed official says interest rate hike possible as gas prices, inflation remain elevated - Fox Business
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNbE9PaDFIOHRuRTJCZ0NXU0tndFNkSUZVSDNHN05naDlGbGt2Yll2YU1aZ1JlU2xkek9fV2RFdy1ibTZZSTVRbktoMGlkdHF4NHZiWlpOYzlzblBtdnkyVmV4WTNXY1VVZ0ZwaFktSmQtMWtaMkZkS0Nwc0hyUjZZTXU5SkVtdkh1VGVIekk3SnZaaVlLQjVIRnBuZGhpLTdSMDBNbTZOYkZXQ2F6TXllbGxDc2lhRWVXQ1HSAb8BQVVfeXFMTTFnWTZQR3FPb2p4NXBwR29ENzk5bDdYMENFRnZISUNTcnY5aktuYnl2U1ozY2pXM2laVlZGOWI2VGRXSndmcU1GdnJBQmRvaFpycVpXYjlMaDRmRlFIWTBTUXhjTGJvV2lYbEROaXhtYmgzNWFKQk0tSHpjMm9aUE1ocmhIVW81YVlCb2VQS2ROUF9FOTVYaEhHLXVjYzN0T2VULUI5RkpyVVFyd1d0Y1o1d2tsYkxIYjliV3RFMkE?oc=5
 
 
 AI
-- Nvidia's Artificial Intelligence (AI) Chips Still Need Memory. Here's Why the Micron Sell-Off Has Gone Too Far. - The Motley Fool
+- Codegig secures $2M for carbon tracking and tax-credit automation - Technical.ly
+  Summary: Technical.ly
+  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTdaQVZzVkhmdl9TdGxDNFZkUWZpSW1YTi1tNjNFNmJuWTVJa0Z0RXVldFBCcTlLUEJaa0YwYk5hNjJIczNOQzM2WFotNFpaeHpwOTFRWGpJcThBUzAyVmxpZ2lSS0NhdkZTai1oMWkyMzViMUtmYUdEZl9oVDVEUUt4alQ4RkZPb0Ew?oc=5
+
+- The Battle for AI Isn’t About Models — It’s About Habits - PYMNTS.com
+  Summary: PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjk2Rl9FRlB6YTZMX3dGblpjcVNPbXlIWW1LZzhNM1JjZ1ZTdDd4MVJ5Uml3ZGgydGNxTkxnWG1kT1ZBU0RYVWU4LWdxS2ZUd1ZsN0plclRqMGhXdl9yTmw1bVh1aTNfLUNUeTN4bERFUU9POUdpaW5nNXMtdGpyT3RKd2tfaXVNZlVydG44ZVRydFM1UlduMkNwQTVnbUl4bTJQV2xDby1lUnM?oc=5
+
+- If I Had $5,000 to Invest in Artificial Intelligence (AI) Stocks After the Nasdaq Correction, I'd Buy These 3 - The Motley Fool
   Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHBuTnkzR3huTEU1c0ZfSnIzMkZRNnE3S1JreGdOWXdUZXRoSXdiNmM5WUJiVmJUdUV6Vzc0ZWlmV2EtU0xRNmtwWVdIXzRQTzQxQjgyU3J6NlJoRVNkR1N6cmExVmsyR29OZmdPS0xIS3llUkJJdXhEcUpSOUltd1hGOWpVdjFETmM0QmdFZmRBZw?oc=5
-
-- The 2 Best Artificial Intelligence (AI) Stocks to Buy Now. They Could Soar 35% and 50%, According to Wall Street. - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQczdjSGZmOVZjakNSY0NSaHAwTU9kRkJnRjlwSjRjbXFxTWJqb0xYYzlETkNtUlJpLWI3M19hM0dNSURfRmxERXp4R0M5aG9GbDBialg0ak16bXNWSzFlSjYwdVlmUmlfaE9Ec2FDZHAyT3RpTkZLT21JUHNMdFI1TG1GVEdFUTdfemNvcTVEbE10T0pXaHZmaC05VDNxM28?oc=5
-
-- Perplexity revenue jumps 50% in pivot from search to AI agents - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQRllvMTE1d1VVR2FjSl83OUMwWFNNRFRKc2xSbW8xN2pUMXFFbjhldDV3MGZ4Wm1IRVNsRHcwS1puOUQ5N3ZhcU9PZjNGd0tHbHlXUlMyY3ItZXFTVGVuMEVYczNtOGk0cXE5TS1faXhzeFVCMFAyeVAzVmR1cVphUTBKUWQ?oc=5
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPYllWbzlGLU10ZkRSWTNSS1M3YlRjZ3p4ODQwcDdJSFM2OHF5dk5FT3pvVHZYcTdzZktHdVQ1M1pnZXk2OEtCbUN0dWQ2WVdtV1ZUNjhiMnZscEdmY3RpYlNyT01FVVlxazhrRC15N0doNmRzLS1fTXpvZE80OVEydm1jeElaTDEtZjVDWmxER0s5dEtmMnlwOA?oc=5
 
 
 Markets
-- What Iran ceasefire means for fuel prices, inflation and interest rates in the UK - The Independent
-  Summary: The Independent
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHIwQXFfUUpOdE9sQjk4T3Z0dmI1eWJCZ1h1T0ZNQTZfalFWRVlhbjk1bmlZLXJONjdBOHhTRTYtdm1vWjVtR29neTNfTXZrY3RLa0c1a1ZyeFZ4dDc3a1FOdmhrSmprTDBGSk8xYlI3Smh0NXR0Wnd0Vkc4TWk1UHZhcXA5cy1fel9xRkJNU1JBSVZQZ0lrN3dhRW1semZKUHdPRE96dkdBc2l6dUg3RjBDdkFGVVI4UExwNXJ6TXQ?oc=5
+- Gold up as markets gauge US-Iran ceasefire, await inflation data - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl9EaUlhYS0xVVZsSVBXQ0h2TGpuLTFyZkF1SEdidEJ5UFFIRVoyWmFMTnRPUU9pWGcwSEF2RVRZTnU2X2dHc3NxT0hzVl9fZENrRDJWelpRWU9scmxJTGdreFpHaWxjSW9qM19STjhHeEhoSzA3LW5jc0gxNW5EZmx4MmU5MnpFdVdRUVkxNmVweGs1ZjBCWEh4N1RCUnk2UXIzRjdXaV9rSWdD?oc=5
 
-- The Iran war's tab is coming due: Inflation is set to spike — and Americans are already feeling it - MSN
-  Summary: MSN
-  Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRU5LNklkWFAxUEx2YzJfbHFad240YWVOSkVDQktOZmxaZmZFWmREejJ6aTBaT0lKXzJud1J1cmttT25vUkNBWHhNMGExOV95QTkxN1dnQ0ZvNDBBUEUwVFZieHJvZElydEZuNXV0eEJuelczM0tCbHFCdy1WWkFfeXY0S1BqT3cyR0E0SVowZDQ2Q1NiaVE4ZDAzb2FqbExxTkhMTU9wTWRzc3N1eXdUajJBWWktWERMVXF3MXVTdlEyZmloejFVcmdfeTYyaEVoUTlldGI1ZTNXbFVhVU5rQUZkTTN2Ymp6bUNBS0FIRkdRc1pyaFRKai13?oc=5
+- Interest rates are headed lower — real yields suggest a half-point Fed cut is coming - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWFZZXNjQ1ZpdlZndUJKUEVWekhJMlo4MlpHMTQ3S2xhQktoNGNuTjFIOHVOY1BCdVZGSVVRUFhKOGtIT1YzMlFyMjN1d09iYVlsazF3Rmlhdl92N0JFejlGcy1xb0R6Y1VuNnFaY3B2b2pUbkJKUUtycHpqMlVhRmh0ZFlZN19KNlE5dEI1YUYyU3ZlLVlvUDBqQm9JLXoxV2FqLUFqeTFiSzFIN250OWQxQ1N4dW85UE5NRFp3dEt2R2c?oc=5
 
-- Crude Oil Loses War Premium, but Inflation Impact Remains Embedded - Investing.com
-  Summary: Investing.com
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQOF80NWhhWWZ1T3BMNmdNd1VSMGM4R1JBQ29aeG1DM2E5bWxYM216NlJpakl0VElKZDdpcmttTnpKQTQzbzdFTFhydGFxMlpZazJ4azU3OC10MmNhMnFwN3V4YnZwVTY1UlVTQ3JuSWZhdF9kX0Fob0Y0UW9yVGltQk1oZ19PWllZTVlrVHlzaWlmSC1FdzBrcldpQ3dSamZJX0kySHhjaFJjVllFUXN5UFBka3hSRno4U3NiX2NKaGVLZ3F5?oc=5
+- If I Had $5,000 to Invest in Artificial Intelligence (AI) Stocks After the Nasdaq Correction, I'd Buy These 3 - Yahoo Finance
+  Summary: Yahoo Finance The Nasdaq Is in Correction Territory.
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3h4cU5ESGVDVGJtTWRlaVFPdXg4UUZRdUtQUVU4cDYyX3l2TFctN1QyU2g4bVVLLTZFV2ZFYnFteDM0aXhHUEZDWW5uODFMRnF4d2pKNnhMSjZWOWhEUzg2S09LREpzcldUQUVJVVpCTXJfcFFlWW1OQkxua3hkWU83MF9ZV1RmaW9qdTI0LUJBTldrcG5R?oc=5
 
 
 Travel / Boop Relevance
-- United States Joins Spain, France, Germany, India and United Arab Emirates for Secure Airline Payments and Fraud-Free Travel Booking Innovation : Latest Update - Travel And Tour World
-  Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWk5XVkVWSzVOSmU4U1dHYjhBV2FoN1dIMFJkR1ZrQlRNOU9FdlJTbTJKZ2xVZEtqaklzZ3E2WTMwaGp2TUozbDMzeTZ1dm9VT2x6NlBGd1FHRVNybUhfYlpOSVV5MG5iNTEwVHJWTkhmNmxFS3BzOFJEZ2xjRG1vaG43Y2FXREFTSF81YjJaRTZhRUFnZ29UdjdMYXRxc1pNejZTT2tfMlZyWFMzN1puSi01QU9yNXF5TnhwT1luT3ZQdGNMUjc2U0VNNEpQam1mNHZzMVdCTXRROGlpUGVpVlhqeFJLMTJLMWVMallHVW83UjJTbEtVbXJ3OEtPZkhiUEE1T1o1dWRESzMtdGZBQ0ZSQlJBTUFHVjdKN3VDd3ZMM3oxMFdHU2FNcw?oc=5
+- Mirai rebuilds booking engine for conversational, agent-driven travel - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5
 
-- Hilton launches AI travel planner to personalise hotel booking - Globetrender
-  Summary: Globetrender
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNXViWkRQcE1zMGJ3R2t3aTBvTGhveXZQc2cwX1UxeTVpaW42dlNETHlXeFN2U1c1eGRKWmRwRFJrbV9UamhyNzBvQ2xyUnNDcmYzdC1UN1V1Wk9reXBrbENJeTEycUo0S3Ewakx3?oc=5
+- Dida partners with Tsinghua University for travel tech innovation - Travel Daily Media
+  Summary: Travel Daily Media
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE5mTmNpLXJBUVdpVXNwaXdSU09jbm53OFE0cXdENTFueEtpLUtxWUlfRXp4R2x0TTF5Nl9WNVdvTm5NdzRRQko2WFpHYVM3S1hPdDVnOFRjRkhJdm53ZDlyWXBwRTRtMzhmQUh1a2FFa0VpM0NVVC1PQ3FGX1dfeHRVdjJSdXlySHlRdDBYa0d6eGRxOV8zMGgya0xadzlm?oc=5
 
-- AI vs. travel agents: AI builds an itinerary in seconds, but should it plan your vacation? - WCPO 9 Cincinnati
-  Summary: WCPO 9 Cincinnati
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW9EV2VZZFVmN2wtM09IeVN2S0tpOU1FbDdiSHFSWDRuemxXcmpIS0NUV0NjY1NFQnZyZFdxNHMtQ1RfSkxDS1NDN2EtUktVUFdyY2VxaE5xY3BPVlBrRzhmOVFadTNPS1RmZFB6ajJmNkV4WjVxS21EdG5JUGo0NDhBbzdFYjg1MnlZYWNOMS1XSVhIc3BKVUpPNDBWS2lZOWFjU3dPQmg3TXdEWklUajFDcEk1Zjg4Mm9tLVhHWTcweHhLMUpYZ2FEVWV3bHYtMFNJaFRUcEhkZlJo?oc=5
+- Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
+  Summary: Digital Transactions
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
 
 
 Bottom Line
