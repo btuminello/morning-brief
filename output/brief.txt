@@ -1,74 +1,77 @@
-Morning Brief — April 09, 2026
+Morning Brief — April 10, 2026
+
+Seattle Sports Today
+- Seattle Mariners vs Houston Astros — 4/10 - 9:40 PM EDT
 
 
 Breaking News
-- [Markets] Stock Market Today: S&P 500, Dow Jones and Nasdaq set to fall while oil prices climb as questions remain about cease-fire; Fed's favored inflation measure on tap - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmlkZzkyM3g5RF9VRGt0RDVndlhDQXlTZlJwSmkzU3JvNmVPaVJGNURVeHJJdVUyQ2RlNDJYZHprejVnVXpJaXh4OVA4YTVmZElOMnZuMkRFMzhDbE9GMG9meVFTOVRESFVOcnhUdkxUajZMZkpFdEFnenY2M3hjeEZOYW5MNXNmY1hxUlJRd09YS2dOMTlkR0c4TDJ1dXNjSmVjRnpUZjRVMmRT?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures stall in cautious wait for inflation print, Iran peace talks - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGZOR09nYkltUEtmV2o5MW5XRFVRNHEta1AxOXhuYTAwei1uTkdVaG1qVnRJZzQxaVZ5UHJCSkFEdnpuSFJtVklYUjByTVViZGMwNWM4ZWJvWGJXeVZaQ1Nyc0U5bElwUWhZVksyd1pXMVVkRzAwQjc1NG9FTzdZNHBvbFJId1lkT1NQTUlrWlNwcXVOVDdLM19kM0I4YVVNUy1zRDJvMlZya0FESUEzLUJxLTdFU0ZvaXRtVkhrRVduc2x3Ml8yal9ESklja1lDck45Y3RlTGwyOS1mQVNJd2FRTmE3X3lGcHh3?oc=5
 
-- [Markets] Monetary Policy Through the Lens of Market-Based Inflation - Federal Reserve Bank of San Francisco
-  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXlJNDFwUXhfb1BMUFJGYlhNWDZyWWpOeWpYX2VVcmJKcW1rMlV4bXV4V3ZjMjJ4MFlWRTRzWjh2bU85T2ZEZ1BkNHJReGVtQW1XNVM0U3p0WWR4SXNCSG9ORjlDMmtCUHpEUkd0U1JFdTcySUZvOU1sXzlJb1V2OGZGbEFvbUpVdHFfSUhINmljcU9qYjZxeGVwdnRMR20ySHgwV2pnQUgtUHJmN0p4U01HN2hicDZsSl95M2djOHZLMi1MWVBOcVZaMzRSazFGVWc?oc=5
+- [Markets] Stock Market Today: Dow Futures Waver as Investors Await Inflation Report - WSJ
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzc3UWNKYjNXWkVRU21jOXMtcElGczhiM3NlSC1Ba01yZHRNWDJfdURHeU44WHdGMUhFWlJsSTg3VTlFY0lJMG0tU29CdVpiY0FwaGg2cElXZlYwWE55bFRjNFYzaTFMQnVMV1d5R09SRFoxTWV1VkcwemRaQmcwcA?oc=5
 
-- [AI] Anthropic launches Claude Managed Agents to speed up AI agent development - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOd29MR3RvV2JmZnhwaDJqNDJyRHByRlZWdGZ2Yk1iaWpVb0NWdVBKZU1wN2pnUG15SGtHVE12T0hpOEhYYlRPaDZsbVBqNE5kTW9PNFMySGxMeVc5TkpMX0dBelFtWHplUTdyb3pxTlQyNEVkRjB1S3VnTWtqT3RlUHUtdDFWZHFUSG9BWXc1cGRQZ3lxUW1XbW1xcWtfckFVek4tdFRoaw?oc=5
+- [Markets] Bond Traders Hedge Against More Losses as Inflation Data Looms - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUh3M1NweEExTkxvazVxLTg2a2hTcXFvRE90dzNlRVhEZTlLT0xoQi1uUFBjN1Zpby1pVVJSSDd3NXJRemtSeFJ1RktGbW1IN1BaVWd3cWF6RXVOZDlZYzBKWllQbjZ6QlRoNVJJWnhxSXh5SlItdmdqaXZ3X2Q0cXMtSWl0MjU2RHNxTk9Ea1hGb2V3TldYS2ZZUHBNM2dNRWZIMFc1dGVVS0xQQTdvN0h3SQ?oc=5
 
 
 Must Read Today
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures pause rally after Iran says ceasefire has been broken - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWlWTW9vaUlheU5YSWctWF93WU1pa1pPTGticlUxQVFWRVNLWHZZMlZlT3Z0RzNyS0ZKWEcwSWFaSE1SUlJRbWtSXzFxWER5YllBdUxYWm9vaEJ2VUVoSTFBWXF3LTkyeENETW5NQk5oTnNBSjVWUzc0YVB5VWFDbWNLSDhuWS1LZ2pxUTJKZ29Ydk5wUExhOEpMOHotbmNpdG83TzVQLTE5dmJxR2tHeUtNRGphNVF2Q1duYl9ydVpMTTJGMGxNOEwwcGZfZmFfSm1ubHV2MTVHWlFpNjZCNnF3QQ?oc=5
+- [Markets] TSMC reports forecast-beating revenue with the message that war isn’t denting AI chip demand - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0prOThSRGVDbFRWRW90amVSNzhkTXlBNWRndUpZNFFuT1dFdzItU1BWemw5Q0R4UUxWanNaQ0lmTFBsUFRwRGZFZW1YMTQyc3haMktVWjhieGxWeFFJVWRkbnpBa0tXdG9BUXF1VGZ0QkI5TWdGMzVvblpEd2VIb19MX3RwMFlaZmdhcm1MZURrbVVZaXRtNjlhcmZPNHFQSDBsZnFnQmR1WWJDZ3JBZEFpRDJnZzE0UkE5V0prT3lTR09IUUZGZWR2ZzVRWkE?oc=5
 
-- [AI] New framework lets AI agents rewrite their own skills without retraining the underlying model - VentureBeat
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWFpZGoxLVh6N0U5Z0ZQNFczQV9HbE42S0NvWjdoSVpJV1lzWmN0ekRqRWgzS1lFdVAyTXFwN1Zram00enI1aEhrRTB2cTM1aHE5YWp2M1ZydmVWR0xYbERyZFdjNS0zelFFS0hIQ0ZlOWJUV1QyQnA4cC0yQXNBeFNMMXhpWWJTbDF3eXUxRW1Fa3RYNUhHWk1JSW5nT2pPcTA0TnRINWROWVRJTHhscG1HQy0?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq rebound to extend winning streak, oil rises ahead of US-Iran talks - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTHlDczlvbUxYQmVvN0lTdnhfYnVVazJtWklKd0FYSDdtQ1d6RkhtVEh5RlVUN0p2RE12ZUd4VjNPcWdMVE1WNjMxNkVXME80RFVianlJMEgtRFVfWDRjbTMyTHdjN2NKYldoUmZLV2NTcVFoQk1haHBVZDNIMTZrT1ZGQmw0N012VUdJeFlIZDYzUnRKLWFvSUFuMnJkYlViRnNKY1dTeWExeHVTbUp6c2FKeE9SMzNoR01Ib1RXVFM3WWJrdjNHVUpOMHBTeXRCei0ySDRHUDhPcmdBMk9Ob1hNQzVqRGw2?oc=5
 
-- [AI] AI’s Next Bottleneck: Capital Crunch and Bridge Loans - Data Center Knowledge
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm1pZ2JCNHhQeFlmcXR4Z1QwTXdjRXVzd3lUNWJrQVVvUmtUVlBubjFGVUY5V3BXc3R1NWlzSXA2VTBnZTh6MmEyWUhoWWFRbDJqRGZFZ0o5TGhmRG53djdLa29lcTBhN3pWUlQxT1FQT2h4dEtOTF9Gb0pLbm4wMjhkNWlLakpxaWJITU5NVDJLYWg4dHc?oc=5
+- [Markets] Stock Market Today: S&P 500, Dow Jones and Nasdaq set to stall as oil prices edge higher ahead of weekend Iran-war talks; March CPI data is on tap - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2NBSTB4bWVqZlo0R3V3Mm93NEt6clF1eG5YTEJWWVdiYmYtVlBpS05lcDR5WDhBVEU4cDZDemlJcUZsOVZaZFJCMDRyLXJXT3BDbVZWRkZvUHVoczM5NnBscE1tZloyV3d5S1F6UmloeXhwYjJxSFpaYjEtN0s3MmxodEZpUm41ZXlydFBwaG9WQlBEcUV2enloQXRnOHIwQWp0TmdXWWNucjg?oc=5
 
-- [Markets] An earnings boom is around the corner, and it could blindside the stock-market bears - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHotQlptQzJXMklQaXQ0M0IybnhzbTV6YmtmSi04aFVRenJvcXFQbmZrbFA3cVFZckN1WWt5U3Rka19LbnJFTmVZLWRVSFN1SDJDV2Uta1RhZlNxeHk4eXk1MmpESExlN0c2X0N3dmphZXFFR2JTUlQxNGxZczI0SFVKbHpFeVFaUWZhWHNMckp5SDlxeGhLVzhUVHdMUzFJMU45YmxuWEdZOE9CSXhUeHdUUzFNMUxMck1oVVgyeVVVNzBU?oc=5
+- [Markets] Volatility compression grips crypto markets ahead of U.S. inflation report: Crypto Markets Today - CoinDesk
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUdiZzliZ3RFX29wMkRrUGFMQUxhMGhPSFRfcU14NHFBQVF3TEQ2Q2dvLTFtYXFnU2lxbUdWVjZpSlVQRXBsVWJCbGx5R0pqQTRKNU5qTzNhb0p1eUtJTktoZVZQX3JEV0JISWVKazN2U1VZVmRQNFcxYnpFdlprV0p2Y1FtanVBMU1vWnk5ZWlwSjNKRTVPY3ZUU19GdXViQmUxQ2VXV2ZiS3VYTHc?oc=5
 
-- [Markets] Fed official says interest rate hike possible as gas prices, inflation remain elevated - Fox Business
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNbE9PaDFIOHRuRTJCZ0NXU0tndFNkSUZVSDNHN05naDlGbGt2Yll2YU1aZ1JlU2xkek9fV2RFdy1ibTZZSTVRbktoMGlkdHF4NHZiWlpOYzlzblBtdnkyVmV4WTNXY1VVZ0ZwaFktSmQtMWtaMkZkS0Nwc0hyUjZZTXU5SkVtdkh1VGVIekk3SnZaaVlLQjVIRnBuZGhpLTdSMDBNbTZOYkZXQ2F6TXllbGxDc2lhRWVXQ1HSAb8BQVVfeXFMTTFnWTZQR3FPb2p4NXBwR29ENzk5bDdYMENFRnZISUNTcnY5aktuYnl2U1ozY2pXM2laVlZGOWI2VGRXSndmcU1GdnJBQmRvaFpycVpXYjlMaDRmRlFIWTBTUXhjTGJvV2lYbEROaXhtYmgzNWFKQk0tSHpjMm9aUE1ocmhIVW81YVlCb2VQS2ROUF9FOTVYaEhHLXVjYzN0T2VULUI5RkpyVVFyd1d0Y1o1d2tsYkxIYjliV3RFMkE?oc=5
+- [Markets] Palantir Is Trading at 106 Times Forward Earnings. Here's Why This Artificial Intelligence (AI) Stock Could Still Surprise You. - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVA3OUctTV9nUlpuWUZPQm5CdDJGSXM0UExrMlM3bnlXV3ZLLXgwVkxlUHdFWklrSURjSVVoT0RMbkVIN3p5dDhkdWRlclg5XzQwTmVacjlIM3pXendPMDlMVWVSMXJnLXd2dXBma0lWU0ZacXdodFhEWWhvbDJSNndDdml2X3BiQ0JZYWFscXk4Vm9kYzBTYm5ZVDVZa2lZ?oc=5
 
 
 AI
-- Codegig secures $2M for carbon tracking and tax-credit automation - Technical.ly
-  Summary: Technical.ly
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTdaQVZzVkhmdl9TdGxDNFZkUWZpSW1YTi1tNjNFNmJuWTVJa0Z0RXVldFBCcTlLUEJaa0YwYk5hNjJIczNOQzM2WFotNFpaeHpwOTFRWGpJcThBUzAyVmxpZ2lSS0NhdkZTai1oMWkyMzViMUtmYUdEZl9oVDVEUUt4alQ4RkZPb0Ew?oc=5
+- US summons bank bosses over cyber risks from Anthropic’s latest AI model - The Guardian
+  Summary: The Guardian
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2UyZ2pxRVQ4VzU5U19CRWYtdFBfNk1MbkdiNzJmeVY0cUM2Qjd2QzdpRnhwclpvcW9sbk9GNHhPZ05zejBROVM5aFVSaTEyT3RsMEl6QlNMRm5DQzB1NjVnRHZlTFhlTXlLYUNGSGQ2NTZXVjhJZGJjdVJZcWFsXzNlaE53LWxCS0FZWTFOUVBzQXpsWGlBLUFFNFdxWHI2WldLd0ljaFJFTlhtVDFfbHlJaHdfWmpYUXptN0pwcU5jOWJYTzJCZ09RaGk?oc=5
 
-- The Battle for AI Isn’t About Models — It’s About Habits - PYMNTS.com
-  Summary: PYMNTS.com
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjk2Rl9FRlB6YTZMX3dGblpjcVNPbXlIWW1LZzhNM1JjZ1ZTdDd4MVJ5Uml3ZGgydGNxTkxnWG1kT1ZBU0RYVWU4LWdxS2ZUd1ZsN0plclRqMGhXdl9yTmw1bVh1aTNfLUNUeTN4bERFUU9POUdpaW5nNXMtdGpyT3RKd2tfaXVNZlVydG44ZVRydFM1UlduMkNwQTVnbUl4bTJQV2xDby1lUnM?oc=5
+- Alibaba just revealed it’s behind a viral AI video model dominating leaderboards - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVE3MEo3d194Nzk0bkIzNjdzeXg2OWxIc0RYWU5VU1NTaEVDR21vR2tVZ1laZHE0VjZkV084dmItZFlpbUxvRW45UHFGaHhnZnNIOFREakxlS2pzSjI5c3BjWFFDVWJTdTRjMENPZnpidC1na2RfVV9TSHBVa1hFdUNrQlNaRE1VVTRtUTFsSHTSAZYBQVVfeXFMTlNaZUQtbDk1NHBwbS1SSEdWWXp3M0d1Q2w3NkdVcTREczBFTGgyakJQYjV3ckRmZ2VPTDduZTAyNmdYcG1GUVIyb1lFUm5tY0l2a3QybkRWMjl3Mm40NmFSTGRyVkVzMUN6UEVyYnFCU2pNX05rLXh2Zkl3UmZIaXA3cXhxS0F2ZFh0bGZuQl9jNDMtRTBn?oc=5
 
-- If I Had $5,000 to Invest in Artificial Intelligence (AI) Stocks After the Nasdaq Correction, I'd Buy These 3 - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPYllWbzlGLU10ZkRSWTNSS1M3YlRjZ3p4ODQwcDdJSFM2OHF5dk5FT3pvVHZYcTdzZktHdVQ1M1pnZXk2OEtCbUN0dWQ2WVdtV1ZUNjhiMnZscEdmY3RpYlNyT01FVVlxazhrRC15N0doNmRzLS1fTXpvZE80OVEydm1jeElaTDEtZjVDWmxER0s5dEtmMnlwOA?oc=5
+- Chinese startup ShengShu raises $293 million to advance artificial general intelligence - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkdpSnVHajVGdVFmY0l2X0F1T1Jia2pkY3Z4RnIzVGhBMkRuSzRKcWN1c2poQUNXb0FDZDdtcWtwS3pSckNPZzRCUVhnVW9xVjV1SnUtcTBYaHVWVlF3Y1JxcEprazRkcDR3NFJIb0VKSlMzRWZMV3VOa252bTFfTGYwWkZUSkxwZzJxbGVmUjhONlRkX3NPYzJLOUstbDlHRl9LVms4dEl3T2tDeWFWSDg3N18tTnZIUVNjckxFSGk3YWM?oc=5
 
 
 Markets
-- Gold up as markets gauge US-Iran ceasefire, await inflation data - Reuters
-  Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl9EaUlhYS0xVVZsSVBXQ0h2TGpuLTFyZkF1SEdidEJ5UFFIRVoyWmFMTnRPUU9pWGcwSEF2RVRZTnU2X2dHc3NxT0hzVl9fZENrRDJWelpRWU9scmxJTGdreFpHaWxjSW9qM19STjhHeEhoSzA3LW5jc0gxNW5EZmx4MmU5MnpFdVdRUVkxNmVweGs1ZjBCWEh4N1RCUnk2UXIzRjdXaV9rSWdD?oc=5
+- TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXFOajBvclRZZ0Nxem9tYThILUkwVWRHLTRWMTB5aDNySFM3RHlIeUxvdFNUbGtXRnEySUtWQ0M4RmFWR2hLUEFUTjUzaUdNOVlySWFMZHpIUWU1U2ZMdEEtaHJ5WTE5MXgwR19DUFVwREFfSVF4U05TZk5aVmgtanRySW5OMklP0gGOAUFVX3lxTE11Ul9BWEVTUzFWcER2YkE5SUM4Z09ZV2xNRU82Qlh2Y241ZlZrT242R2F5UENuTFBwTXhaeVNzcWxtX0E2VkUyRVMwa2VWU0pnVVZXczhUWk11U2pReVU4XzV5cHRNWU1mY1BhbW5RbEFnZndNR1FCOGlsaUFwSE5MdlBtZXZsRkktaVk0U2c?oc=5
 
-- Interest rates are headed lower — real yields suggest a half-point Fed cut is coming - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWFZZXNjQ1ZpdlZndUJKUEVWekhJMlo4MlpHMTQ3S2xhQktoNGNuTjFIOHVOY1BCdVZGSVVRUFhKOGtIT1YzMlFyMjN1d09iYVlsazF3Rmlhdl92N0JFejlGcy1xb0R6Y1VuNnFaY3B2b2pUbkJKUUtycHpqMlVhRmh0ZFlZN19KNlE5dEI1YUYyU3ZlLVlvUDBqQm9JLXoxV2FqLUFqeTFiSzFIN250OWQxQ1N4dW85UE5NRFp3dEt2R2c?oc=5
+- TSMC Posts Record Revenue as AI Chip Demand Surges - Let's Data Science
+  Summary: Let's Data Science
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUVmU1hmZG5VdzhnN29wZ1pBVnNVX25jQmExSlZiMFZOZEpwZkMtODV4akVFUTN5c09WZ0ZWLUwwN3YyMDV5dTNRMXh6TzJrMGRFNHBUbmJvdDlpZTl6VFN4WnVBLXFzUDJPLUVNWUdMdmF6UG92MFpSQ2R4STM5M1UtUlhHUlUzWnhWdjRkcVNjZHQxcGdn?oc=5
 
-- If I Had $5,000 to Invest in Artificial Intelligence (AI) Stocks After the Nasdaq Correction, I'd Buy These 3 - Yahoo Finance
-  Summary: Yahoo Finance The Nasdaq Is in Correction Territory.
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3h4cU5ESGVDVGJtTWRlaVFPdXg4UUZRdUtQUVU4cDYyX3l2TFctN1QyU2g4bVVLLTZFV2ZFYnFteDM0aXhHUEZDWW5uODFMRnF4d2pKNnhMSjZWOWhEUzg2S09LREpzcldUQUVJVVpCTXJfcFFlWW1OQkxua3hkWU83MF9ZV1RmaW9qdTI0LUJBTldrcG5R?oc=5
+- TSMC Posts 35% Q1 Revenue Growth to Record Level Fueled by AI Chip Demand - MLQ.ai
+  Summary: MLQ.ai
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3M5ZHBLYjhRSEh0U1B1SGFCQVNYZWl4ZHJzaGYwNFBCamlGb0JGQlBjdkZyRng5YlQ0c01yM1pROG5yaWNnVGFpZ0VPRUtLWUFyVjhxcXdra2hMaHVMckdaTzVTcGMwclAzOEZjMnJKMk5XMXY0bHN3ckFBWFd1X3V4SUZTTFlLekRYYUNtanN1SVhlN0NsQw?oc=5
 
 
 Travel / Boop Relevance
-- Mirai rebuilds booking engine for conversational, agent-driven travel - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5
-
-- Dida partners with Tsinghua University for travel tech innovation - Travel Daily Media
-  Summary: Travel Daily Media
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE5mTmNpLXJBUVdpVXNwaXdSU09jbm53OFE0cXdENTFueEtpLUtxWUlfRXp4R2x0TTF5Nl9WNVdvTm5NdzRRQko2WFpHYVM3S1hPdDVnOFRjRkhJdm53ZDlyWXBwRTRtMzhmQUh1a2FFa0VpM0NVVC1PQ3FGX1dfeHRVdjJSdXlySHlRdDBYa0d6eGRxOV8zMGgya0xadzlm?oc=5
+- The Browser is the New OTA: How AI Travel Booking Agents Are Killing the 100-Tab Trip Plan - RSU by PriceLabs
+  Summary: RSU by PriceLabs
+  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE80NG11MllFYXk5TVJmN2JUMk1iM0NMNWNqT1paZFBUeFlBWmpzYkJXczdyYVFIT1lEWXg0MlVNVHdGck9IeGt5Nm1TYkpMaFlDTjhiUC1QQ2FFVGJtZkNlWk5VV3Nnb09VNEdtUUo5cnZ3d1U5SllLcE9uRExtN2s?oc=5
 
 - Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
   Summary: Digital Transactions
   Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
+
+- Voyagier launches AI luxury travel platform as it gears up for a seed round - Technical.ly
+  Summary: Technical.ly
+  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXVfWEVrenVPTDRjSktIcEFwTzhLR09sZ2tidGJjSHV1SDBzOVJhaDhReWVMcnR0OHRidFJJaVdCRDJFR1dHTE5hajRsQWFoSktGOUNBaDFneGt0NUE4a0lzR244X1hjWDFJSF9Cak9TSWVVZ2NWUlVrUzVXczFqbm5B?oc=5
 
 
 Bottom Line
