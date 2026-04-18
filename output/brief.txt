@@ -1,77 +1,77 @@
-Morning Brief — April 17, 2026
+Morning Brief — April 18, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Texas Rangers — 4/17 - 9:40 PM EDT
+- Seattle Mariners vs Texas Rangers — 4/18 - 7:15 PM EDT
 
 
 Breaking News
-- [AI] Listen: With Little Federal Regulation, States Are Left To Shape the Rules on AI in Health Care - KFF Health News
-  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0ZYUUV5STlBc0xVR1FtWjJQNWxwR3dBamtZcEcyVnJzT0tfQ3c0X2tKQ1Z6WGpRMzF6U3REdWNFUUlCbzBlZENONXB2enFJVHpZU0lwbUZlcFZoTTdIdUdiTThsVnJ1dXI3WThzdDJ1cmh2eXk4REJDRDRSaThoU3hIVVBDcU9ET1VaWFUza1QtU2c?oc=5
-
-- [AI] Nvidia AI chip rivals attract record funding as competition heats up - CNBC
-  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNeW45eTV5OE53ZnBNbU5tTFNzM1FCb3phNDVVVFR2enhBbHEyMEgyOFZlbDB1cjhWMlk1S2hqNjJvQWg5OWxacGZkNjdQQkltX3NBTEQ1aDJyelBtV2JrNUgybGxNZVU1WXhULW5IbTNMcW9Ud2VCanNwWGpTUGFVRjFMQzVHbGFvZVHSAY8BQVVfeXFMTVMwRVRwUHczVzhVYTdvMUhaMjVrdEJZVU5INGh0TlBvd0dNRl9ONVd5cjZqbXlXSzdRMzN3QlZqUldTbTFMb082YlhLbnZLbVdBNmhSWkJVWVFFbkVVX3I3UkhaVG1URWxYb2ZHUXIxMVBfbWRNM0p5c0hPWWtMbTA4YjhxWmJRVWZFQnhwMDg?oc=5
+- [Markets] Semiconductor Stocks Rally on TSMC Earnings & AI Demand Forecast - News and Statistics - IndexBox
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUdJY1Fpc3E3eVNxMVZMOXBCbE5zcTV4QjFaQzRZYy13WVBxejFZV1Q4SEk4RHZON24zR2lFVGx0Zm93YTBEaGxobWQ5VTU1YnpIOGg1OEFHR2N3VEpZRnMwQllJcXlMNWFvNktNY0xYbzJNaXRhZHhYWmdxUHRDVjFZQTcyMEl0eVNwaXJMNWRPMVE?oc=5
 
 - [AI] Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents - VentureBeat
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmwxMU9CRm9DZU5adHczY1F5YVVvTFBWY2lvNzZTVHBYYnFVWnEtS1ZsdHFfSjZWMzVoYmtkVUFWS2RJdUVyU0xjY1NCelEzc1dvYUJMbG9DZzFoVEFhclB0VEt0T0xlOTA4cFpJa1hhSDgtY3FWNGxKcXYxdVdSVDhiamVVWF9QV1NBZU5BdVptY0F5ZjU4YWxIejZCWllRMDVDcFdnT0U2aFZlbnZrR0JlenRhODZiU2FoR3lB?oc=5
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTFiYTVUQlI3TzRtemt1R0RYZWFGZnc4ZVd1T04xSFJPM09SSXBUUWFXWUpSLTYtSkxvR0lxcGs3cTcxamNyVndBVC1oazFhcVdZaWYzMmcwYndvdTBnUUtFTjZOaGk1Sllhc2ZrZWNQVEJKNlpVcjc1bzNlZTl0dG83VzZIYklEMHhiTGJQU1pMdjgxQVNJMnE3cEpHRy03bHg4ZFFLWlF2N3VSNzc0MXI3bDU4akoxX1E5c3RnQVNzLWd6S1Z2Yw?oc=5
+
+- [AI] InsightFinder raises $15M to help companies figure out where AI agents go wrong - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzU5Y3FUQ0pEQV82SnRLVVNzbFQ5UmlqYlNiOVc5Z3Bjczl1SkNQT3hUMmxsQkVMY3JPcGlmbmI4SkIwcmxSdFdTZ2VuM1VhcUQyY0E4NGlCMWJ4cHZ1aFRLTE84NERGdUNSMEo0bWtOdjNLXzNadlRMXzdZOWhrSjhhdlJlRjZnUGFScXg3MkdhVGR2c3lTb3ZwYlFrNmMwNkJuVDl3TFFJWTdkVUFrdnZXYw?oc=5
 
 
 Must Read Today
 - [Travel / Boop Relevance] United States and United Kingdom travel technology trends highlight Sabre as backbone of global booking systems for airlines and hotels - Travel And Tour World
   Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQcHBaLVktSXYtdTM2ZnRNTzNvb3daTXdIUlBVaDRLZjltTU5UU3cxLURZYWF3X1YzeGtLdHk0SWxLR0M4Tmg3cmdfNjc0ZVVjZFhoZHVFVzM5M3pieWJiYzNVQVVfZUU1WTZHVVEzLTJFRjdVZGtielVRQWxPSnRhZGwyZzdXSHd2bFJDUGh4eWlDSEpZYTlvMTE0TG5vWVVNeDU4QXJzNDRKQnF6VnpIRFBTY2NCb3pOQ24yNHUzVXNuaUN3X0EwNnlVNTh4dVZLeUJGY2lQbXV2TWRNNmRXZjVPMmVmeWdMeGN5ejZ6emIxNFhGdFRONnpfSmJuUTlnMGlQN0hPbFpCX1pSa2ZPTTlR?oc=5
 
-- [Travel / Boop Relevance] Spain and United States travel technology growth highlights Amadeus as key driver of global airline and hotel booking systems - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxQS0dmQldrOGFuQ0tNQ0V3TlU5STNhY1V6MnRZYzhQaHRtVktzYXllWGZ3OHdLZ3ZxNFZnR3hVempKdlFHNDRJWkdLeUxQY1ZEVWpmZ0tHcVRLZU5VVjhuelo3d1NSRHMtTlJiOGJOaHFRMHF3dWt2eGtiSUtCNDVtX3BINEVfaTg5N0xNNlgtOU0wTzF3dmk0am1vZi02T01ERm9kUmk0VTlGUXplSmVrUmhPR19DRjdSQzJ4MjlXZGp5Tm5QLURzSENEb280Rm5HNnlMZk1lVVMxLXpSTDVucVpYQjBRbHZFN3ZXaTZjZEhZRkx0OVNLZlQ3dW9pNkxLMk50ag?oc=5
+- [Travel / Boop Relevance] Experience the Future of Travel: ITA Airways Introduces Advanced Digital Solutions for Effortless Bookings - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWWRFT1BPRFVfSFFaYXBveGRQeUNaVlloa1JvbHZGZVNMV2hISnJ6a0d5QkJnZENxZVBfQUYxODc0RHVuVllqVTJqWWFWWUNUUzhCcGk4TFlRbUZsdWRnZHBpV2w0X09LVl9RUzV4ZnZVRHQ4NHZnQWwzQmlHLTMzNlQ1d0c2UVNOWFoxdVN3Qi1JNm5OYk1pcVM1YURCeUdxQ3JzVmNha1hnazVsVDZNVi1kQjE2YkUzZGw3Q09fZWFVTzl4WUpPZTRWX3NqdjJIb1pFLTFwRjV4S3ZUdGpMSElEdTF4a1NOMkE?oc=5
 
-- [AI] AI "agents" can do your shopping. Should you let them? - CBS News
-  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSlZGUHpuSnp3aHI4REVfa0h3cTNlbFdfY0RMeFdNMWxPVHJ5a3RGWUJJZkVmRHpGMUh6MTRjZXJRZDB3Vjl1b3k5Z0V2RGMxR2JFOEdvOXkweXh1Z1lqd2dJeDJNOUhULXhGVjEwcGMzbkRzVDF0WHNKLVAzUDDSAYQBQVVfeXFMTURtZi1ZNEhMS0hnRVVtOWNVYzhtdDhsa2d4YmJVZkMyTG9LZXY5RWFFSTA4ZC1yZy1xaF90M1prY1BZWTRIay1UTE1TMi1FS2hrVWU0MVl0M1NkN0tHSV90bG5rR3A2cTBXS2pXSWtsSDRkVllRd2lnS0c0R1dYNHBXOUVY?oc=5
+- [AI] This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 agents - Fortune
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUVRQZm0xelV1dEpPVFp4eXBvRHNNd2JPRTJlZkRaT19EenVCU3VLVmJTYW5NLUNOZE1Rdi1JMTVCX0RYOGt6Ym9LX0ZLNzVHZ2lzaDgxakVyeHlybF9kZjJjb2RLdWlWS2ZrZDZMQjJKQ1Joc3JJUkpJNVlNY3Z2NGVaSl8yNHVN?oc=5
 
-- [AI] Expert.ai and Microsoft Italy together to Accelerate the Adoption of Agentic Architecture - Morningstar
-  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBaaWdDaE9TM1g2UnNyaXkyYW5tUmNpWDd4VTBuVmJrTXRWY0JFLUx2UGZHOVp0RHhHNUhZOThJOEtWUFFkWV9SNWhrdEFWT3BWWFlDYVhMVVJGT2prdm9jSDdZRC1SVTZQZ2h6QmNMeEgyWXVfaVRDcGdxMTJybDlYVXVEQWhmV29vc3JZNnZ1SXpQMmNnT0pWVTk2bzNhN3l0RDZPMG9RQXo4ZVRVSmNvelpfQlA3QWxESG5kVXBvR1FJbW9oUmxkSDcwR2x3U3N3YWItYkZHY3RUX3JUOGFlUQ?oc=5
+- [Travel / Boop Relevance] Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
 
-- [AI] ‘You wouldn’t leave a child home alone’: Why AI agents need constant supervision - TechInformed
-  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVZZMmFxMi1BN1llTzNwaWpzWlg1TFlpUUpmSjNMMFFENGhzeERhb1RqZUp1Z2Vad0FENkdvLUtjMXBJM0Y4b3hfNGVLSnFCSGtibE1BdFBkWk1LMHNaeEVmTVVabGNabElodEduS3REbVlSanZPVVRYOTJRN3BvSTRraklPbjBDWWxmMThLTGw4eWZMbFpkM3ZfYlVCaTY1aFlZbA?oc=5
+- [Travel / Boop Relevance] India to Revolutionise Travel : MakeMyTrip’s Real‑Time AI Gives Instant Trip Recommendations for Smart Journeys - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlBXb251TjNHUkZMRnN6amZtSEhPOE82dXhacU92WmhPRWJFRE8xVHczVHBpZVJDNW1NYURzeHk5LXVZNEFpNk42aE1WUzNwWTU3dTQwLWtOamFEeWNnYjlmaTdzejlkYnJCck55MG9OenU2UmQxVFFpb2hTMWxpTmgweXd0TzZJNGhSSnZRQzUxaE9sM1hlTWhfcEVqX3hSc0ZXSHpaQzhQZFVwYVlEZG5xcUZkcEl3UHM0NFB3a3lqY092MEJ2d0MzOHFWcUZEV3ljVUJWWE0zQkhzQVkwUl9CdDBGNUh4MHFtR2Rn?oc=5
 
 
 AI
-- Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents - infoq.com
-  Summary: infoq.com
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9IRlhQelh5bEdUNHFMUmFub1VKdkYzZEgxVk9XbUc1VHVGUXBpQ2lVSzN5Nk5FbG0tQlF6dkVEMWNSNUczTXF2SXoxUkE1cEFnd0ZqNmlfS05JNW1xdHFsVUtuVkU2LVpCdzF0NTNXZlF0Tk1VcGc?oc=5
+- Anthropic CEO visits White House amid hacking fears over new AI model - The Washington Post
+  Summary: The Washington Post
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5
 
-- Trust3 AI Launches Trust Agents to Accelerate Enterprise Data and AI Adoption by 10x - AiThority
-  Summary: AiThority
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXhOSzAtS2UxbXNiQjNqdC0tdlRBdHphVW54eTl3S0dwTnR5cjFwX2JieXJCcXB1X2JXYU53N2JYMXFZbHFVUlVFZHZOSEhWSURSSXU3TUZBd2hBeXJsZHRVZlJ5TzRMZTUzbGVxMG90U25falQ2UktOZTZfVXB5c1BMWEVuNHVJdURMT3NCRU9KY2R3OTh4Y2w2anUyLUpCdWhDd2NoMzBEWFI0cV9KQ3J3?oc=5
+- Cloudflare’s AI Platform: an inference layer designed for agents - The Cloudflare Blog
+  Summary: The Cloudflare Blog
+  Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE53UVgwemFBRE42V0FRVTJQVDZqZWp1UXVmOS0zVXBjcEtVbFpSWFlkRy1qQUI1WjVqejFLT05seFA2QkxMd2ppSGU4dWtCMjVQQ3c?oc=5
 
-- Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian
-  Summary: The Guardian
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl9CbGp2Y1FDd2lxRzFsRmhBX2pSbHVJV1Z3SWllMVBDQXlhWUJKTm5sT1lkWVYzS0lMal9TMkUxSUc1TzZLZWp0b0NObjFwSURqNmVOUjJQUXNHeFdQaERyWEtNSUJpeDJ6ODZ2VkZzcUxmTTlhWlJqSjlWY1pmVmd5MDFSUDE2MHJ3N2hwWHlXdnpJQjN3RTU1THhrLVFjTlNjVm5WX1h2NFptZW1IbmVKajFyWEJSWUNsVldTMXBJQVJvNW1rdFpYNXlVQ29TczVPZ0xuSWgwR1h1?oc=5
+- Generative AI News: US Households Are Carving Out Room in Budgets for ChatGPT and AI Subscriptions - crypto.news
+  Summary: crypto.news
+  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE8yd1lDbkZQekk4RUhIY0NndUpSckdsQ0tHc0pXQkhfVThmcDRpWVpCcU0wb2UtM0VCelBfV2dYMWZEWHpWRXZtTFRPaVM5Z0F3Ml9kR2tjWTFwTFk4VXQ4TGNWdHo0VGxCeVcxWkgtcTFxQ28wYnc?oc=5
 
 
 Markets
-- 2 reasons you should wait to pile into the market's resurgent tech trade, according to SocGen's US stock chief - Business Insider
-  Summary: Business Insider
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUlDT0EzWXJBZXFhQmNYalZoemJaZ0h4SXlUUUl3WVBOUlg2Wi1uOWQwRmxFTVdNSDVJdlJPWEpGdG4tMlJEVF8yN0JpT0RDM0N3WF82Q0FHaDNrb3pfMTBrVU41U0NtOWliLVp1NVVPY25LdnhJRklEV05ocDFsV01fajViTVNNdVV3dDEtQ0M4XzR6OEt5YmNmYzZoRnNvZi16QkxLQ00?oc=5
+- Tech stocks today: AMD and other tech stocks trade at record highs, Anthropic releases its newest Claude Opus model - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiigJBVV95cUxOd25GMVJIRjlVZVZMMTZMSC1NalNLdFUyYWpjcmtwQm5VdzUxamhsd3BjOEhMQjlHVGZFeXh4ek5abmljcFNZWkIySk1yd1pqQVFGUHpDUTlkYUg0SVUwOU5fenkwa1VCMlpSV1ZNZHZwMl9GLWtid29nN2w5ZUs0MTdwVzB1LTZRU3k1Z2tRX3lqTDV5UGQxYjk4cmlBWGlMcWQ5bXc4Z2ZjSnZQbEw3RHduZ0VNOFJRWXRBSnlyMDBjTGl6b09aenNSSGJwQk14WXV1OEdfa1h5Wm9iSUpjVDEzNnE3WC1pbU4yX1luNTBPTERCWmtDY1g3aHlXLVNLU3ZqU0ozeXJPdw?oc=5
 
-- Is SoundHound AI the Ultimate AI Stock for Maximum Upside? - The Motley Fool
-  Summary: The Motley Fool 2 AI Stocks Wall Street Says Could Soar 70% or More From Here, and 1 It Says to Sell Immediately Yahoo Finance Why April Could Be the Most Important Earnings...
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzAwZGk0eC1qSU1uR1h1WTh4U2RrN3BtQ1NaalIzaloyX3laY2Q4LUdPYW5ReHNMOVJsZVNCSThCdlBnQVRKREZGcUNtQTFFSVJFakQwNE1acFZaUkVYSW5xblUweEdNVHVva25MX2FhSGJNb2tPVVRpdV94WGtwcUtkWHh4UXNYbXNpTS1SQ2dBOXBvSnl3Mg?oc=5
+- Dividend Stocks Are Beating the Market in 2026. Here Is Why That Makes Sense Right Now. - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWpROVFsR0wxaW14dDd3SXVId3RoNmZLM2xJS0U3dHBTWV9tSFM0VlB2NmFyNEozZlhUVEhSYlNZRm42NkNDSldCVFFoaVM0WnpXTmllSFd6ZXNXeHkzR2lsVl9SZ3d2ZDU3ZEZFRzNJU0hqSTVPMXA1b3NTel91aHRyR0VGQzhBYURpYQ?oc=5
 
-- Stock market today: Dow rises, S&P 500 and Nasdaq notch fresh records as war resolution hopes grow - Yahoo Finance
-  Summary: Yahoo Finance Stock Market News, April 16, 2026: S&P 500 closes at new all-time high, Nasdaq logs longest winning streak since 2009, Dow gains; Netflix results on tap MarketWatch...
-  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQakIxRmdfTWdFTGRnV005cW93NWkybmY0Rzg5WXhhem42M0VpWVRncmJsTU1iQUJFX09zaHRvb0hUMml0R1Yxb2o3SjlOblRwa3FSS2FkNWYwVXFwWkd1aGxMT1lnbHBVUmNoSTVURTJnbXZUbVN0WDVHWDNyX0xVaDJ1YU5MbVMydndWWlp2Y0ctSWY1RWlBQWhwVW1tYW91aFhMaG5fVVZvVTRjNkxQVF9fTVl1eUY1c19uSnM4RV9ZVVhjaGFObUE1ZWhPQ2pQYUk1bzJTN01lMzg3YnRQWkJneUJCdHc?oc=5
+- Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNWll1NVJSWjJya3RKQVY2V2hEWmQzVDRMcUNkY0c5ZEZQVThGTWZJdGJSb3JaZnpaQ1hvcWhBTi1nLUNlcm9LNkhDZGNMdkt0MEx0R0hva0RLYmJ6UDAzMnctdGJIaUp2U2RGWDRneVVydjRmYWxhR3pnR3ZITGs4Y3lHTjBIMDFJNjFkckJmXzE5bWwtYlpuVg?oc=5
 
 
 Travel / Boop Relevance
-- Australia’s Iconic Travel Platform Lastminute Shut Down After 25 Years, Local Customers Directed to Transition to Expedia – What This Major Change Means for Australian Travelers and the Future of Online Booking in Australia - Travel And Tour World
-  Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi1wJBVV95cUxQX2kxYVFhM2hVZDlDeTJjci1BMTJMQkd1RmxNYU5Kai1aQmc3MEEtQXg4MDRubktTWTRWVlR4M0dpenhocFhhbU9Wa3dEQndiRDZEbHotVWRlV21XQ1Vvb3pJQjN5QlA4WDVMamNKMmc3LUYzeTk1eDUxY05jVHhFX1R1eGZVbEFPVng5cGF1Zmg1bHFSZlphV0N4NFZYU1Z2UmgtQTJ1Wng1NE1zNkV5R1NiVkN2cTdDX0t4akxXMExjX3ZneFF2Mk1UYlByVU9rOWFPUWNUT21EeG9mT2dua3RpcGVvWlJxdmlYT1JRTUpmcjFKbUxUelY4QUhhMHoxd09fS2ZPUmJBeks4STNPUUJwQ3lqN2VNNDM1OU9QTkpyeXBtVlV5WUtZNEJvekRGcDNzcGQtenhEajNwTDFLUVlkU3BTSFU1eWYxWnI0Nlp0eEtuVGlv?oc=5
+- Lufthansa Flugticket: Digital Booking Surge Reshapes Travel Economics Now - AD HOC NEWS
+  Summary: AD HOC NEWS
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1hvSFlFZkl2OTl1M0ZCSENYdTIyeHhvZHNYSl9OdkxMdWxYbVJHdGlRUk01WEhXVTJLTXFJZ3RnVHBVRzVCalJpcjZOUzBSZEhuY0s2cTdtZkFDcXZkdU9Ecm5PQ2JOVzNuNTFoRlhjTVY0YlhsTjhRQ0JST01wZV9uUG9aNHZVYjJtM2xES1M1WWZIMnZIbllITVlZNEV5andUa3d3SGxvWmRmemVSNko5cWdOandOM1c0MER6YmEwYzhBT3JsdHF4RQ?oc=5
 
-- PhocusWire's travel tech news briefs: Omio, Mews, Spotnana and more... - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE9FWFQ1bWxfRjJINjRFTkVYWlg1ZGtHQVNKNnY0MDlWdThaVTY2dHVXMTNlZDMyOURsMWpnMm1ybTFjeERnb2xBNWljcVF2Y3RzVk1aZDN1b1hod0l6eXROLXk2bGhyeWp2NEJLUHBoQndGQQ?oc=5
+- Timeshifter Raises New Funding to Scale Circadian Technology Across Travel, Shift Work and Healthcare - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGVqX1gyU0hCLVlTV09QOHhRdzJsUGlTVVM3cWp6S1VTcDZMQ3dMeHBEaDVfcnluWDlFMUtuUXFpSVVkMWcyS2U4VVgzUXlSel80TV9IczFHZ2JENHJXNkRhZTY0TUFOZXl0Q01jUXlLRkxnd0NKdWhIbnJTN3pFc0lXdGlyczdlNmNyZ1AyWWJnY3l2b0xIVXRwZVVvV3otWkIwZlFRLWJPRkx1Z3RIVw?oc=5
 
-- Travel Tech Startup Ringkovation Secures Seed Round From Primer - 코리아스타트업포스트
-  Summary: 코리아스타트업포스트
-  Link: https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XVTdXTGdXTUZETURfY3JIemlhWUJQdWFia0l1LVVURlNVOEg4eGxWMUNVcW9FWHFwRFFtWVFTLXVFcndxXzVIS3ZJejNicURUZjR0Uw?oc=5
+- Four travel companies stop trading with all holidays cancelled - Wales Online
+  Summary: Wales Online
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGpWNFhuQW5Ca3pFR1YyZjlqMGMtOEZYNEdYbHVKenpqNkJfd3VfMzEtZWprMFM4Z05RbC1ERGJGRExWVXl2RlM5dVQzZEJnZDBwTW8yeEdtLURrSTlmeXFQQWJPV3Z4VXdCdVhEUUhPVmpfVld1QkUyRnZPdXZXZm85NlFrZlhyRHJ0YkxoZE5HTk3SAZgBQVVfeXFMT2wtWFVwM0dBNFNXdW90eVp3ckozS2dYWUJPYTB0ZUNueDAxZHUwcWZlbEFNOVB3TGRpTFhMVEU4a2wtbDB0dm1Ja0tuUEVZVjVVOEtEbEVGVWxLb2lPN3Y4aWVGcnh4MnZsZWVhYTFmXzM0Y0dQTEF0d0NDZkhqMDJzVnc4VnltZzd4bGZScEp5UnBkSkpySFU?oc=5
 
 
 Bottom Line
