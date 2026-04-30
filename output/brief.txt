@@ -1,35 +1,32 @@
-Morning Brief — April 29, 2026
-
-Seattle Sports Today
-- Minnesota Twins vs Seattle Mariners — 4/29 - 1:40 PM EDT
+Morning Brief — April 30, 2026
 
 
 Breaking News
-- [Markets] S&P 500 futures are flat as oil rises, traders brace for Fed decision and Big Tech earnings: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5
+- [Markets] Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSdG5DaEVqd01CWDVTV0ZKdm1FNWstTTdIUGNleGEzc3V0cmQyNVBMcUNuVnVsVHpoTDV6THY3MzY4ZkRJdTR2ZjJGeFpkTXgwbml1b0ZTUkJTMlhoS2gtSEdLcWxYZEYwb2JQeHNVQzZLRU9NZmJ6UExWd3JWMWNjUlBTdXFzY0MwaU5RUVEwcTNtUmNVZEFUQ3J0TFJLaHRGVE9BQXZCbHdUNHl2OEtTT1ZpR3lyc1dFS3ZTcGpyWlJCMWVLOVNR?oc=5
 
-- [Markets] European stocks fall as traders wait for tech earnings, Fed meeting - Reuters
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5
+- [Markets] Nvidia, AMD, and Broadcom stocks rise. What big tech earnings mean for AI chips. - MSN
+  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYV9Zcjc1T1ZFMW5WZFZNeU14ZjZRd0x1RTNTY0o4VHFEQWZ5X2kxamszYVpWelJQWjRCSTRSNF9FSzNVU0FDdDRGd3VkQy1ad3pXRjhURXpPU056b3RpRlB1Q29sZHpteGhubU1vdTV2MnhSdHl3eFF4UW1lMFloYk5fSDk4SGJFYnk2ZHJnYjlmSF9ieDNvZ2RtUXlFRkRaOFNqOTZoNTI2bnNPWF9NamxLUTR3UF85bks2UVU2aDFFQUlCbm40NmR1VzljLXVoUG9xbF95VkRaM0EzRVlhb1N3dV9hd2xtZkE?oc=5
 
-- [Markets] Stock Markets Face Biggest Test in Years. The Fed, Tech Earnings, and Oil Are Colliding. - Barron's
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR?oc=5
+- [Markets] Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Gumo Travel: AI Co-Pilot That Turns IG & YT Reels Into Trips With Hotel Research & Booking - Startup Pedia
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE01RGVwTVRwbHFqeV9KakM5MGN0N1hpRm5CWVM1Z2w1V2V2RUtEM0lDa1N6b3FEc3dBSkdRODhCQm4yWXR5MG1kak1Sajk4MlZNVUpNOTVPLTNOdkZrRWV4eURxbkJXWUFWMjd4b2oxRW9tdW9rTGNmakVBM1k?oc=5
+- [AI] Why your data infrastructure — not your AI model — will determine whether Agentic AI scales - Fortune
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVkySnhUOC1BSHhSTmU1cGd6bk0zSWo4dTlaLTl6XzZXMTl1LTRLUFdnWkRmTEh6cFFvVWxWbWhMQVNhM3J3MzdCendpWDAydXp1SUJNZzZqcDFYTlM5ZW1UN2tMdDZfZjZRVXR3dUFtek1ickx2aXFEb1V6d0VpNXlDR2o?oc=5
 
-- [Markets] Markets News, April 28, 2026: Indexes Close Lower on Busy Earnings Day; S&P 500, Nasdaq Retreat From Records as Tech Stocks Fall; Oil Surges Further - Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0pWbWYzOHc3ZXFKaTE2V0JKMFhOQXR2OWhsMWJZNmNVM0FPVnBtV2pYbHBvUC1uSDhPalFtUG8zcjkxUHEtSml3N0ZVX0c3RkEzdF9BTS1fMERBM3VjVXh6bVFQN1R0a245RDNzV050WUQ3ODZRRGdwZVdjOGFUdzJmcTBaZlVNWEpTYmtFR3A?oc=5
+- [Markets] European Central Bank set to hold interest rates as markets weigh future hikes amid rising inflation - FXStreet
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlzZEctTlUydEhidjltRkY0TnlMS05RME1PR1Yycl9fOTV2TU1wbkhvRDVvMzltMHV3UjlaWWNVYlplVk9NY1NQb1V5Y01qM0s2OEZFLVpJLXJWZDVkeko0WmRrZERBWE01b0R4VmVLOXRjVG13NVEwSzV2aXFwb2gxNDRLUmhiYmVhU1o1ZWQ3Q0dYNEl0cjE0Z3FNejU1TzdPNDZkR2RBTzh6OUxxLUlQY3ZQQWllSmV3bExWLXZObGpUdUVpT2xjYzhEdTU1QWc?oc=5
 
-- [Travel / Boop Relevance] ixigo Launches Native Travel Apps on ChatGPT; Brings Conversational Travel Planning Across Flights, Trains, Buses and Hotels - IT Voice Media Pvt. Ltd.
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQzZqU29xUWd2RVJUX1o3dmlCQnRhUVBlV09lYW1CVUc5NWJUSkg2cl80QjdmY1FMaEhnUmYweUxNazF1b3JuQWE4RTdaRzBHUnJUWmdUTmJ2T0pFUGRGbXZjYThULTQ0ZDZqMUFCaWktWDEyUldFanVPYWx4djIxZGhUdW9pRG45clRDYWxWVGxhRnJrM1NpY0VQT0JQY0FQTDl3VzUzOFZMZUN2LVVnQmp5bkFMYlZ1U1VhclJUQTAtR3lrYWhZdFN6M1VFU0pMTkg0U0szM01vMDFh?oc=5
+- [Markets] Iran war fuels bond-market selloff, as inflation fears put future Fed rate cuts in doubt - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0VGeEkxWjZ2c3ZXQ096bVRERVE2aEc4RlRwWjZGWlB2Q1VlVkZETFI3R1FHYWVIekhSaVVERkY0Q1FNYkEwZnRyTXN6T1J6ajVlRXBJSmJrY1BhR19zc3VzTVo4MTQ3Qk9UMFdISXFJUE8xeHZJUl9YaXg4M3dabG90NGNvY1Rvb1M4el9xRW9pcm1KMU9XUXJtMjZxN3NSb2dsZzZhSUU1Uk5sMDZuM0QyUUtJWU1GdU91bWJiODZ0R0Z0YjBQTGNMZ0ppUUE?oc=5
 
-- [Markets] Gold slips as oil prices fuel inflation fears ahead of Fed rate decision - Reuters
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5
+- [Markets] Fed keeps interest rates steady as Iran war fuels inflation - NBC News
+  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWgzOVhRNU9YdXRJR1AyS2ZWS0ZuakFPYlJ3dkhrS2ttNnU5RnhFT1F2U1dnSUhjN3JMWFVPWTROaHQyNG5JX1FhWW5LTGkxV3dQRXBwTXVIOWY4STBsVXFDVmdCejFaSFp4cW5zNEswZkZGRFZpRnZtUHJITWE2bmI5U05NVUQwdEp4cElR?oc=5
 
-- [Markets] OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling - CNBC
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTh6UWN0LUdiWWpBLS0xSERXMjJLTldpV1BMLXRzaW5pZFNibWJFaTdrblJKd3RDVFl3Tm5DYVFQUXJUcXI3cXctR3VUOTk3eVFVYWxCanJ4X3NBVWFqZ2tIYXZ0VHdMSU81ZHFhVnpDRFJ3MHZNbTBwZVpSVnpBU194WmhTb3BfeXFaRjl0LU9wMHBnZkdmQ2xFQk9QTDRfT2paeFlGcDhMSmQ3eDRlZWQyR2ZyQWlPNTExQXlrT0ZqakNFb19Z0gHMAUFVX3lxTFBIckFiYlY0Tno4bWhiWjVCYlN6aDY5cl9HajVCZ21UdmlyQkRHZEg5YnF3d2ZsNFZ0Qi0zUnFjMlVSMkt5SVRtXzk2ZGhTaDR0TEh4NUt1MXBOYldic3dEdlNiR3ZnQ28xMjZiYUEyeVlkRk9GR0hkVmxObnhZaVhsa1N5QUNYbG1jdmd6TGZtTER5LWpkb2d4czhrcG5XOVR4UzZab1hEb1JXSUtzdjMwOE1KUXJLTWpucGNDci1wd0I5THNrZFJ4akRQLQ?oc=5
+- [Travel / Boop Relevance] Travel Technology Market Trends: AI Integration, Smart Booking Solutions & Forecast to 2034 - vocal.media
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnJ0VXJ6aTkwWU1valNvSUluU3VxazZndHpwcGlOZHNqTXMzQ2E0ZDMzT0JpZ3FkOUlaTElFcWhtYTJ2a0YxQ3NuR3hPNVZuMnVjYmt2ckVFWjlSUHNObnhDbUlmcWYtRTNjNTNiN3dncWRldlVySDlTOW9WQjByeFh3Y2RnT2xaRElXLXJNZm5uQTBZSU9ieXdJdDg0SDlzY3Z1NTFmOVB0OEtWTVNGekJlUjR2QXBQbFdBNA?oc=5
 
 
 AI
@@ -37,41 +34,41 @@ AI
   Summary: NVIDIA Blog
   Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5SZlFVS2J4Y2lzN205S1I5SkRmUms3VnRNMWVlLXJyS3hUMTVSNFZSZUZ6NTlyQVdJN2Vyb3lwT1ZHa01sbHN6elJ2YlAwR2xoU1pkb1hQQmUwZGR5eTNlb1RMeGNwdWROcTBFT1ZNLVZsTENLY1BQa2ZzcXU?oc=5
 
-- Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030 - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnJGY01wLV9jWm1haEpaT0VlWDFkR3gweDdsVmVXUElHNmwtZUtYeUd2S0ZLU3c3Uk5OUllURmQxMTM3MmR1UW9IX0E3UEFvY0Y2SEFfLTdlU2ZwbkZUODNPeUxTNmdGQXdVRHZOVk13YmZ0ZDVIYl82VmN6TFE4eTdHTEpwOFNCVnZhMFU0ek5KMWIybzFEVQ?oc=5
+- Exclusive: Citi moves into agentic AI - Axios
+  Summary: Axios
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9pY0pQdzNHemlzajUwTXhKelNfc3drWVRvdnRDS3JOcDVYS2dpaHdZMFVaTjNIVjFlZkxDeDZydk94dWN4bWdSQlpPTzdicEdIZ1lWMVp1N2VfSDNDekxadEFtRVFndTBIbTlxbjluVnhSWjcwT1Rwbg?oc=5
 
-- Scout AI Raises $100M in Series A Funding - FinSMEs
-  Summary: FinSMEs
-  Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2R0MkJVQkRMN1ZaaUtGUXhINHVXODcxRy1mOGlXYzdKZWpOMUMyVGN4ZnBrSGNTTGZ4ZGEzdHU5XzJCam5RaGtYdmhldVFhVW9mS1EweHp0aS1JT29aenlnRDFPUWdqeEJDT3kxM1g5dDVDb2hrcXAzVDhOREJBTUszMA?oc=5
+- Accenture Invests in Netomi to Accelerate Enterprise Adoption of Agentic AI for Customer Experience - Rutland Herald
+  Summary: Rutland Herald
+  Link: https://news.google.com/rss/articles/CBMingJBVV95cUxNbFo0SF9ocUR5OGNEZEhiMWpjdzZzRFNnbDZmX1RNUWUwZWRkMjhtS2lUMTNkSk1xcFVYYXNURk5OYURadzJuOUJreHRqNlVQZjFTakNtMHg5M1h4MjdWT0JFZWdwb3hKSklxejlPMmphY0x0UWF2a1pOSGVaRXlhdzJDM1ItNmxzdy1Oai1uX2kwWE5WNHl0WVJodVA4c2tCX19Tc3ZiYW9fcVFRV2tJTWtvdTFJdV9ESEhzaTUzRUl5UDFHVVlrVy13bVRLa2xSeXZITEVISFh4dkJUUFlkaktZTzhKT0RRY0JXR1NheHVjR1hwVmV2b3VidGxBc1V3eDhLU3d0NTdFZmwxMHpCMDJOdi1QaDlXNkcwR1dB?oc=5
 
 
 Markets
-- Futures Rise; Three AI Stocks Lead Earnings Movers - Investor's Business Daily
-  Summary: Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDcycVBHdjZ1SXFzbGxBNzlkODY2MGJ5aElUaVdldkNUR3lhS0hYQlBDV1FRRnhxdEdabVVQYmkxUWdYWm0xSUliZFVsSzZiSENwRURDMzlwY2VJZVhJUlhoUUtxVGN5VnhSWFM1LWNCNVphcnh6TWd6b3FyTnhsWldvRkE4TGxiQWsyc2Z1Y2RaMi1UREo1THpnU1JxU0N4aE8xdUxIT2hZLTJwN1pfVkxKZzRDZDhQdFI2eE9rWm8zWjE4VE1TZTB2MzE?oc=5
+- A Crude Awakening on Inflation Is Hitting Markets - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEFiaUtTazVpZ29Ga2ZxWFV2N2pLQ2FVVFBZTnNNMjdob2RiRm1MaU1xTnY5dXc1TFBUaFR4SE44T2lZSkV4SmcteXQ0eXFhWW8zUDNiZGRhZDdKcXBjd29uV25YVW1vX28zeW54TldyNVh1bXZlUHM4SjFkZmtKMl9mQ01wd0gzS1doR2d5VnJ4d3NMc09JTmNWemFEZVIxd0RYXzFmQndPQQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks sink on OpenAI report, oil rises - Yahoo Finance
+- Gold Steadies After Three-day Fall as Fed Signals Inflation Risk - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0NaM0g0QzE3NThPdkhjNDkyOXlMbm1DMXlYWk1BTGVsNXhmMmpna081YzlkYXBsdWdzUXczeHdLSVZnV05jY09MVUpVcU5yRlpJcUg2dm85R25NU1J4c1ZGR1lvM3BqOTZ1XzRvbTJSOEROV3ZEX0FqWnlfX3h5OVRDdkpsLWFuNElOclBVemhzRUVLYmJHcnZPekhuTXBISFpNcTFSb2hLZVQxQmFTWmN1RXVENDN5ajVpUTJfamphZVF2cDNFb1VkdDB5cWluZjV0eA?oc=5
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU9TX1J3ZTltclRicjQ3ZVRzaGpTVVJMeEloclp0d2dpUDBGQm5sWFM3YVl1MUpSemFjWWh5SWpURllyOEVQUjhvV05CSTNtMDRyLVg5VWRCaDdFTEkwSVBreDd6eVFheVFON0VmTHlSazRfWWtUZ1owSGdQczUwc3FMOTdGQ1ZNOEt0eHFzWG1qUk45ZEpXaVpncUU2aGs?oc=5
 
-- Interest rates expected to hold steady at Fed meeting likely to be Powell's last as chair - NBC News
-  Summary: NBC News
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWgzOVhRNU9YdXRJR1AyS2ZWS0ZuakFPYlJ3dkhrS2ttNnU5RnhFT1F2U1dnSUhjN3JMWFVPWTROaHQyNG5JX1FhWW5LTGkxV3dQRXBwTXVIOWY4STBsVXFDVmdCejFaSFp4cW5zNEswZkZGRFZpRnZtUHJITWE2bmI5U05NVUQwdEp4cElR?oc=5
+- Mortgage and refinance interest rates today, April 30, 2026: Rates mixed following no-move Fed decision - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnhqTkJxeDRCRWFhZnBnVkl5TGFkSllBQldtV2ZBT2V4b3VhcDlKajRsbF82bDFRZ05Uay12UGdvZnpUN1F2WEQxVV9kQndJSDI4c2NIRzZCcVZNbWtJSUl4S19iQkFkdmFOc3UyX0t4dm1yaWFpbkZ5LVAyQkE3c0xwNktWRllVZ193NjZhNnJuY1A0eEtlcnpUcGJIQ2FJTmRZQTlkVDNtRHA1QXEtSFZFaHJzNks5dlJGZ2lOVXRaaFBrVnA1WF9SajRoZ3RnUFBIRg?oc=5
 
 
 Travel / Boop Relevance
-- Travel Tech in the United States and Canada Is Revolutionized as Leonardo Worldwide and greatEvent Launch Real-Time Event Booking Partnership - Travel And Tour World
+- Tourism Innovation in Japan’s Haneda Airport Integrates Humanoid Robots for Baggage Handling to Solve Staffing Issues and Enhance Passenger Experience with Cutting-Edge Travel Technology - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxNaEs1UHJPZ29tQWdoMEVFU3BEQWhSVkl3eGgta3FYVnZDMV93R2Z3ZjFPTk4tWWdldkc4UGJtbEc0OEUwVE0wc2RlbGc4UFVLcTVHZEVzYldDWDNGRWtFMXRwMHh2T2piakVJNFdqdTJ5M0pqLVBHc0VQbFdRazNuX0VmRER6dVh0alFBc0RMWERTaFR0UXN5elpRaVFWOS1LaXEtZG5pQnNOTmd1S3dpd2dkWmRsdFBNWDhxbGJLNGhGN1lnYW5PclJ4bDNGWXhDVWNBR2szZzR6ejBGeEpiSTJwa0U2VldBTUVzREtxT2RERHNtcHBfUFA0SGtwazViZVJsWWRESXlReFAxbk9hSGNXclotbFY2cWc?oc=5
+  Link: https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZ3h0cS01bWRiXzBuOGZJY0lld2JyZ1E3V1RkVzFKVnl1ZUhadldTZmlDOUJISjJSMUdIRGgyZmtSd2Fwc3lxRkxiN3JwQ1k3aHg4T1RfWHVzcjliQ2tva2xvd0JvdFZYMTQzWWFVZmV0YTZvU3FrX2NkY2NLcExwcE1TcUhucXQ5aW1vWW0xLXFmSDV4OUFuc2pwc1RfaXBzRV9iRGxGUmZtV3ZYcDljUF9JcTY3S1Q4Zi03Z1JhWGtWMFFFTkN3aGl2N2VINVpNMWMwQTdWQmcwcVJNRlhSd2N2M0Rpc3RFamR5SXJRSUZ4MlFWWXcwSmhkRFFKb2FvZ2VORmZiV2JPMDZ4emhDcWFLQnpfU3Radk10VWVEMzRRSm9GeWJxWDQ5NE5qRDVGME5RcURMb3RmekJRbWxlYUpTeldqeW5oNDlUYmpKQm1UaWow?oc=5
 
-- MOFCOM Monitoring: Smart Glasses Online Retail Sales Surge 1.6x in 1Q26; Online Travel Booking Sales Up 33.4% - AASTOCKS.com
-  Summary: AASTOCKS.com
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNQzA4ZXN4VUctZTZaN01qY0tqOGdhTE9TbVgwcnRiVTNHTlJSWkpUTnBYd1lDZHQxVFkyOU9XV1NLUFlRRUxaQ2NHQTZsa3Nwa2xMY1dOaHZwUUU1cHRzR1RiREpyUjRtNkFaV25uWjBYTW5tN0JMTHFXcHNtX0Q1Z1Y0LXk2QQ?oc=5
-
-- France Joins Greece, Germany, UK and Spain in Pressuring Cyprus Tourism Sector as Economic Pressures, Escalating Fuel Prices and Shifting Consumer Travel Behavior Challenge the Island’s Tourist Appeal - Travel And Tour World
+- UN Tourism Champions Innovation at Marrakech Conference, Supporting New Startups to Shape the Future of Sustainable and Inclusive Travel and Tourism Solutions - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi2AJBVV95cUxNMXhiZE9ZZTRiT29kWXdLdVU5ZExUaGdYczFwRU9JYnVObHh5U2trSmtNV3U1SGxnQXljYWhueWNKd1BvOWw3eWFrdURaQ0FTdWU3TGptZUIxZDI1LVpDSngwNmhNSXRLdVBSVUQweGJoczJfU0E1MmpwQVpGLUlIbGFua0pJdjJlbEVxa1lyVFdVLXdOaV8wcl92d0RUTGpIQlRFV3hneVpoYTZuRmkxWXlzak9xZDNmQmZRNFBObmhSVTR1MFpaQW03cjJjb1JEQUc2MjBRUml3QVc2QTNTWTBpSnE5Y2RKVlhTR0JibmNXRk05aDUzQlROak5tbmFRcVRjeUU2NV9IMWJNMXBmSnNJUl95LWZhTkhUb3hMbVBUQXdBNTFPak1sb0lieF9uY3ZhYzE1eDZ0TjI3dUFSSnZiR3lwdHZSdTVtb04xdVo0MF9aNFI5Qg?oc=5
+  Link: https://news.google.com/rss/articles/CBMirwJBVV95cUxOVnFaSEJSekJxTTNueWpBODE1Y3lRUE9tNGRtb3V5RUdHbndGeTlHVVVHZWt0RU50dDh5UG90NWFUQ2NldUNQd21FUnd1NkZnSkZKYWtLUjh0T1Zvb0cyN0JNMWUyZkFiTnZUY0x1MnRNTTdBbGluVzFtb2FhbUdnQ1ByRVRrV3NKZDVtZ3pZZFFvMFRwWHZsRGk2Mnl3QVd0ajQ3NnNkbHdyei02Z2FkMld6RzhncmgzZVBrSUJJQ2JuLW1ybzMyTlowc2tUYjFJTS0xcDl5RWFDWGoyQXpkVU9yaEhYYk5wN1REWDdYN253Z3hLZXB4OGVSemRDZS1SVV9lTEh6S2g3MmxQckRSVmRSalNCbzA3NUFoS3RuX3NzcW5wT01KVjBSZzQzYUk?oc=5
+
+- Uber adds hotel bookings with Expedia partnership - Travel Weekly
+  Summary: Travel Weekly
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlNrNnV3dnNGa1Z1S3FQVm1Ydk5idkpLZlQtOURfdDQyMHgtZkt4TlRZbkNkQnZnNFlhbWhla2lkNEtkUnJoQ0FZeXl1WWJuT3h1ODRSc3RLSEtDenhoY1dBNWl1Z2dsN3JIeF9FQ0tSNGRHd1REcnVMUFFMYW1acTJHeWo1VUd2Y01tTzlFa2Z5WUpPRUJucVRna1UtTlZzLW4wYlNsXy0xYzUy?oc=5
 
 
 Bottom Line
