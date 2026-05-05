@@ -1,77 +1,77 @@
-Morning Brief — May 04, 2026
+Morning Brief — May 05, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Atlanta Braves — 5/4 - 9:40 PM EDT
+- Seattle Mariners vs Atlanta Braves — 5/5 - 9:40 PM EDT
 
 
 Breaking News
-- [Markets] AI Stocks: Winners Shift As Google Leads With Palantir, Arista, CoreWeave Earnings On Deck - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ29aeTNlV1RwU21ydVNpTVRzbFNMRlpTVVBFdWlJX3FIZ0pSTGU1TDN1RUFKQUlJU1ZhN2pfZ2FPSUtoakE1Z0FGQU5rX29zZ2dwaWViRDVSUlNYWGF5c2VxM2FST3c0ZEJ4MzF3RjBxb1BUSHY2Y2RDM3kwQzlURl9Nb3NmMXlUTHlVb0VBMnlZUmI3WF93WFhFTjFhbzRsRE1tVHVndGNHa2pNcG1sdC1nVTc?oc=5
+- [Markets] Stock market today: S&P 500, Nasdaq, Dow futures edge higher with Middle East tensions, earnings in focus - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEhib0lrZi1IRmp3bGlJRFgzWWNVUWdxZ1h3QlZhOVMyVEpES192UjRjN3FjZEl4YnpSc1d5M2pZdlh2RTRXeVBmYmxCYW5uV045Sy1VVHJaTm42OE90TVJtWjBiODJfZkJkdHREajFna0ZvVEREQ2tNZTZXMWF2dmtRdGppdGJKaDYwa1RLQ1Etc2JXNTJfbW9QbWVibDcwX1FZOWNEX1FRWkxi?oc=5
+
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq called higher as oil dips from highs; Palantir slips after results; AMD earnings on tap. - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxONFdEa0JnUlkwUFhyeGlSMXlhXzk0TDl4cXlPVHNDQmhjUFg2dXpSbVA0bklyM002WHNoUGZGdDh2ZmRPNTZOVXhKN0RwN3FMbFVJSW1LSXRyT0pzd0ZxLUQtQmhiT1RpaWJpTGZYclVWc0d0U1pqdUVzSk01Qmg2M01SaUJCQzdJVGYtUjVwUnVqTmM0QXlVVlhYdTJhT251SzN6RllTUWlCbDMtN2N3dTdR?oc=5
+
+- [Markets] Fed rate hike is back on the table as markets fear sticky inflation - Business Insider
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3B6X0U4dzJINlQ3d0FqT2RMcGRoNWlqSG10SXU4WmNjWWFsdFJpeWRmdGw5RDlLUl9rcGtFUG9yMnpJcDdCNDVvN0EyUldRV05rZWZDakIyLTFKRWp0dERsNGsxN0ZSV1NNZHViX0hRSDMyNklGX2pDQnp6X3o5eDIxWnZHcjhua3M5MmVITnVubVRLdmFUOGVZbnFCMzBBTDZZMQ?oc=5
+
+
+Must Read Today
+- [AI] Exclusive: Nace.AI raises $21.5M to build better agents - Axios
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBZLWtudkg2cEZwcUt5NVNXNEg1dk1ORmpjbzBQd1RGQ2JpM2lrZmVITVkzY1hZZ0JYSFdqUnZDUWk5NHE2NDNydFA1b2E4QmY3UlFfenBkMHdoVHlkaWJIOWFBdG1nZWJJbk9YbWF6OUJsclZhS0NzN0pvYWoyNjcwMXlzeW9LV3Z4QzBrS0ZOTlpCRGVhSQ?oc=5
+
+- [AI] OpenAI Eyes Consumer Hardware Leap With AI Agent Phone by 2027 - Benzinga
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDNhVE9mcC1FY2ZVSG1QMDNyYW05YmcxM1J4MzRlcVhCbWdZQXBSdG1pb21YUTB6MHowRHktNmNTSnY2SXltd2FLMU10aTUtUUE5R1pOS01SSnM1bS1BeVhMci1aSTZSUUh6cElaeXBGaFJuYzBKUXZQc3ItdFV6RkZaSU55S1l6TmNVXzkxc2ZsSUk2VjJpUGw0SlRDOUtQNFpCeUlPMXJTY1laUXRVVzBYQVVSdw?oc=5
 
 - [Travel / Boop Relevance] United States, United Kingdom, Europe Travel Technology Shift Gains Momentum as Uber Technologies Inc. Launches Hotel Booking Platform — What Global Travelers Need to Understand Now - Travel And Tour World
   Link: https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY2xhdVBncWxrVURjYm5wcEtYX3NtR29tSjAxVFd4Y3ZmZUpRenM2dEE0eFdRdXpxaWVGWVRrdnZWZC1KSV9zc2ptcjhKcUlEVUExX3ZVWWxIalRuZkpCX0JRR0lYWVhRSUVWY3YxYWM0QV9veGJhVEd0ZnU5WmRoRTBzSGF3LUlhMVVsNmhPRTdqaDFYX09LOTdRMlZqUXo3YlhELVp5MlBOaEZYUVRhNndVV2lRNF94V0lGakJOeS1kNlpBOTRGVmhBNDlPb2w3dVF4OVJxa19peHhwQW5QUmxLVEdiLUNZZlBLd1lMTHRENFJLQkUxX0JuY09ZUVVFZEpsYXZvM1JvTXdFT2xLVUNvZVNfYy1mSGFuaExBZWxKTUR0T2liMHB4X0lRbHZFRlR4THRjWHMxcTF6LW1KVGlPcVV3OWRh?oc=5
 
-- [Markets] Federal Reserve's New Inflation Data is 'Useless,' Says Otavio Costa: Inside Fed's Pivot To Excuse Lower Rates - Benzinga
-  Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaWZoc1RYSjU5MUlwNEx6cWkzUUdVUFEzWkREazAtNmF6QTlhdG9OSnVKbFNGSUlnN085ZThqVjJjMUhLMmktS1FndTNORHpPSWNxZ1d0M2lsbUtla296UmpUcGRDbTY2eWtCTXFWSVhMS2NwVjFlc1gwV0NqMGl0ay1wa184LUNVUWxsSjRla3dYemd5cXdnZmp1SlNmTFJ1c3BfeUhRNmsydEowX1JUX1ktZ0l1bEtuUEYzejlRM0lJYnpPWTRfSzFMcElJbFFqd3ZNRHczRlRtNnRjUmcyZjQzek9QZ1hwRXF2dEdxY1k5WG11OUZETWRB?oc=5
+- [Markets] SoundHound AI Q1 Earnings Ahead — Options Traders Expect an 18% Swing in SOUN Stock - TipRanks
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDBSOXJXS2NlNDhpbkRVOWluYkY2UUhyeDNjSkNtUGlDaGQ0RmtNX29aQzNJOElKaVJWY3lNQkp6eFJWR19tR0hLcmIzdGo3TFVqdk1mOVpjakFGQWVQMDNOVy1JcmpmOTJwMEd5WERkZ3o0OUpfTlNDRTJJQlFRbzV1dFg5Qy11YWVuQTFTbEpMZWFCbWQ4UzBycENJeWlXQklCUXhHdFJkNkE?oc=5
 
-
-Must Read Today
-- [Markets] Dow futures drop 200 points as oil spikes on increased Iran tensions: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1NbHRSUnVDU3l2UlFUbHNoLVVZeHFLLXRZREF4TzRYMXhlejRXTlBrTlA4VXpOak1ZMEQzbWpZeEhXdXJ2N0M3U1N0cWtLN3VfNDZWRldYemhwZWdsZWNaODJqRlFzQWhoTmxRY3hvRF9Gdm5qX01V0gF8QVVfeXFMT05hblJPRWQtc0hQb3VpY1lFRTRVZWJuS181UE9LNThMTFc5M1FIMWwwZmJXTkFNeDQzZG11NzJodkwydWtHczRtb09UYWxzbWV0Wl91MVhuRXV1THJrcjBmYlozTU9hc2hhUEtkMGx6NWhpSmtjOWtxLS0wVg?oc=5
-
-- [AI] Durham startup MuukTest pivots to AI testing agents - The Business Journals
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTN3NTByUUdZNVFocTQ3YmwzaURxSFBKSHVaUUxPaEZ2QmFtdDN5LWEyQ2R6NVpSMzBwU1ZPUHJYYzhfb3pCb01lYTJPLU9XMHVWQ0lia0lRUnROcDZvTGtxUm1Rd2xZaVZ3WWtXSV9FbnctbFhIRGFXenJsa2taUVYySzMyVEdfZnhQUDlsMTBOcnRWWjFKdUEwU04?oc=5
-
-- [AI] AI data center boom is leaving consumer electronics short of chips − even though they don’t use the same kinds - The Conversation
-  Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWRrWlRPc1VvOHBTOVJ5QUtpaXFWSnRFb01uVzlQYTV3Mk5fSi0tR2VuVXgtOGhMcmQxREYyMVdDYVdES2tJMFBXQXFsQnV6SERlZmlielQ4Z2hqTUJUc0hxbU5wbzFnOXV6cVBoR3dkNDF6SXB6RE5Obnk3Mm5oQk4zdjVTWWVZN3hIaEtlMHMtSEZrdDl1bzB4dzNjSmJTampYUExJd0VrRXRjdHdoWmY4ZTBNTVQxV2wydU0xMU1qZXVuOXc3NUI0XzFSZ25ZUy1zRHQyczhCQQ?oc=5
-
-- [Markets] Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2ZqZVBhTHR4cXlhWEdtRG8tTElTR3R6cVo3UWJWcFBOdFRGeVZmTmJDWlZUdENIUDAwV0pkNmZ2SlVILTRJOVlNVS1KYVpCTDk3VkdHaXg5VktTWWd2bkwtMGlxRV9OMjBmTDQ4TW9DeVJta0xZWU8wOVRsajZEdjZyTl9kTFAzeU1HTlpqQzNpRllVSHY1bVhWVy1zc0t6ZUZ0bjBxU251aS1jaERxRktRMnJTMkZSSWdJeTFIWkllZlZDTktBc05BQQ?oc=5
-
-- [AI] Agentic AI is rewiring the SDLC - cio.com
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSUJjRjlnc2RmWVp4Z0VyVVhTNHY5MGo3d1U0N0ZzSTVYaU0yOTVKQ0F6cm9UVXQ4eEZMQW9TSUZQaHdWQkZYWGtPLXZZODBaWTZmcnY0MVkzT1FKNEpVMlFkUnlKcTNXZ3B1d2hIYzRWdDR6SFlxbDgyMzU?oc=5
+- [AI] AI agents don't need to navigate the web like we do - Axios
+  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE5EaWpUbnpZanE0UE93RmxsN3I5U2R6eUdUUGFUQ3JKcE9sU0lvaklEandQOW0xVWF5NnE0SmZXTGg4c3FmX2tPb0VPSjNHWENQSGF6ajREbXFVQWhBbWhRR0N3SGZjdHVEWFpzQ0xjRmJlc3BLQmJNX3lUUmU1QUU?oc=5
 
 
 AI
-- Nokia stock jumps as AI infrastructure demand lifts shares - Investing.com
-  Summary: Investing.com
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFZ1bTVIdGpfejRidUhjZWdqNjZ5UFlOeEVJdE1VcmM4QjU4akNqR2h4U2pKR2pTR2tvLV9nVHdSTnpwek9UbnJ4Y0dQeXNQaFgxUXRBMFVSb2pPQnp2M2UxTDh2WnVOVkdodzg0WUxhaFRlRzUxR3phTWZHb0FxWWVYcmUycGkzeXUxcmFDY3BQVFRHTzdRb29jT0JacU1FVFBfX2hrOHA2NVhQYkdIRVFMVTF3enF3bllYNg?oc=5
+- Billion-Dollar AI Rounds Push April To Third-Highest Startup Funding Month In A Year - Crunchbase News
+  Summary: Crunchbase News
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV21aUHFzUUhLWmV2RWtiRXI2bEdoUUFnU2FYU21JZDdxZmI3ZF9OU2FFV1pJdGRxak5PbVVVOUdXRXA1LVRzLUF1c2JFOEFmdThwV3lIM1Z3Q2l2T29ZNXdSS0pueC1ZYmk3MVplc3VvOER5Nk9RbUc3dUdSeU1rcWxnV3pUNHlqVTRMaDRLbGN3VlY1Q21lN2IxNG1pT2s4N3pLZk5QNjFESlZaV2Y0RHJwSUg0X25uUkMyU04tOWRwQQ?oc=5
 
-- How Qualcomm is building an iconic consumer brand for the AI era - Marketing Dive
-  Summary: Marketing Dive
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVkyc1pDdzg0MzIwNFhrQ1NnVy1DcmtqRUNpRmlpZ21IRmlBZWhydzRJa3RkZzc4aHpFc2VvQ2JhYVhqekE5b1hXY2ZXYVB5UEhjS2gzUEgzUnk2bndMY1ZPLV9IaF9oaVRTYldSSHpxTkxQd0pVYVA5YkJtdUVIQ1pKNXBDVEtZc3h1WGxCMnQtOElxZUJYSlp3Wnp3eEJ1NjRCWDVoQlViUDQ?oc=5
+- AI is supposed to be disinflationary, but so far it's fueling inflation, Goldman Sachs says - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXNSU3JEQjAtNnFNT3Y5dzB3QWRXbzVoQTZPNTFtSGdDWk84WU5Hdk9FQl9GcDh6dnJXUi16WlJmM0JQQ3JLR1FEVE91ZUFWdkozYWlqai10eG9VYTBZYjNXdHpveWlTZnVVa3BqMlVGcFZLajlxZk1zYXItZ1Fsd0ZGWXd1N3FGdU5GeXBBeDFVNFMzRUltR05QOTFTM1BuVS0yU0FuTDY?oc=5
 
-- Meet 3 Upcoming Monster Artificial Intelligence (AI) IPOs That Will Soon Join Meta, Tesla, and Broadcom in the $1 Trillion Club - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOLURWeGdoZGFjZnE3UVJBUUMzTHdzdnRJZEZjQ0sxSmp3clBKbjdEc0ptdkNGU3RvTUtmcWVIOS1COXZEcldxYWJuUmlMYlNOaFNJSkk3TEpCQ3JoNTRocU01aTlfZ1lPWF80REhpXzhUZ2ZSZXZzbHhPa1FyN25zMTNINU5XbG5PTy0xUjRRcmM5U2FDVW5UNQ?oc=5
+- Shapiro administration sues chatbot creator Character.AI - WGAL
+  Summary: WGAL
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxObFFJUWVXUnM1bWtCbkVnZUI4RzBWbWJybmtDQWNjZVFXbXY0azJfQTROU1hNck52N0c3UHd4VFkxNTZJckstajRjak5DNkRhWG54eHpnYlhzU0RnNkR6dFprLURlWjBYenE1QWk5WGZ2UXZnWFh2Nmo4Rnc5SkJRTDg1MU91U3M?oc=5
 
 
 Markets
-- Stock market today: Dow sags, S&P 500 and Nasdaq waver as Hormuz tensions increase - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2c0RTVlcS1FOG5adTZUckpJTWxiYnFyWGtNeW51ZHhOMWllVmFSdkt5SDBaUDE5c3FuWFRpUUh2ZzNDdTdETHZQWnNKUW1LNmtKTnJlTmtNZXVQTk5Ld0lHNnBnSEI1NHhOX0NhTnZncmVhSTc2U05ZMjA2ZnRHTGx2eEdOMDN5Ry1La21LOGhlRGZHSGg0?oc=5
+- Prediction: The best artificial intelligence (AI) growth stocks on the Nasdaq haven't peaked yet. Here's what I'm buying. - MSN
+  Summary: MSN
+  Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxOVi1rMXVlbWhuSlM3ckVjaHpoOEFkTnMxSDVrNENoYWNaZGR4Sk5ySjRERHhoMUhMbW82NXpMRloxWTFfUjhXZVFMblQzVXZwOEh2cXgyemdIYkdyVFJkUGFocHJaX05ZcWVaYW9JYnNENFVVMnlqVENpUG4wTGYtTW9FeHBCdmlzbkJOMzdSODhJeUU2UWc4Q1hnM2VYU0FOdmhaWmtLQk1GakVNemhmUWt2amNwUTZ1c2Y3RTdqQU11NjREYjJpZVFsLXF0d01OYl8tcldfb3VGUUhMV2xoOEE4dkdBbVN3ajFQUGtpaEl0aTg4ZC1lRU1UOTZmLTA1dnRIM2hMb0VodG9paVBMbW95UTJ0dTJqb01iNg?oc=5
 
-- World shares are mixed, with sharp gains for tech stocks, while oil prices bounce back - Newsday
-  Summary: Newsday
-  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTFAyYUxibnFzcVhoQzl2Rlp0eGZqNkk0QS1rWUYzSFVSWk15WnM3MTR5NjZLTnpMam5EWGoycU1kMHpwckdIQzdBQUJYOWs5NmJTOG9yVFpJMUhPZGRmSFRqTGplejFGSl9YbVNldEZtY1NVVjNGUFY3Rw?oc=5
+- Prediction: The Nasdaq's Artificial Intelligence (AI) Rally Has More Room to Run. Here Are the Best Growth Stocks to Own. - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3VONS1TX01qTHh5dVNqaXVxSVp0SGwyZ01zbXFLVUR1dDRTZDdVVDdKckZtM3FEWmgxMTdkMEkxd2tJblcyM2FHSjZwV1NNLUNFU3RkdU1nN3hSQnhzbU5FTDI2blhpNUg2TEdISktJbE42N3ItMkozQmZCQnd6bDNZN1lvVTRBa045dlQtdUY3QUlRNnc?oc=5
 
-- The TSP “Double Squeeze”: How inflation and market volatility are quietly eroding federal retirement savings - Federal News Network
-  Summary: Federal News Network
-  Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmg1UnNhaGpLQzh5ZW9VVHZsbEdETEtNVG5fYWJueFR6amVjRUVGT0lBSDlZZ0ZOOEs1TUpOcUV6TW5oLTZsS3pJMjM0VkNTOW1sd2ZUY0JPUGI2V25iTzJEU1JXdkNTQVZyMElwQ0ZYWVQzWm5DU0hYVEIxMVU2V2ViUFpucVdPaU5zN3QzdDE5Z1FZTGR6dkNldUpWb0UzUm9xMkVEc0J0NmhHdUxTOTFHR3VkczdTdlFqYU84emEyUjNFOUxMMWZnOEVLb256RzRwYVAxaGdXdWp5dGhxVURmSF91TGFwZUN6QUdTNEtkc29D?oc=5
+- Oil and Treasury Yields Surge as Markets Face Inflation Pressures - Investing.com
+  Summary: Investing.com
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnZXS2pYd1pZRW9SMldGa1UwSGdPOTRPNXpKLVpER0VIbTZEd2FYa1dTSWxvT2xIeEU5bDBwc3EtaDAxenYxdFRNSmpyRWdqVDhLNFd1VllyelR4TWhoRmZTS0FQTG5ocVo2NEMxNHVHeWdJcjBSVVltTEo0X3ExVHdyZWVGVGNCc0pUS3U5SHlFQ1JyUnRTRDloRWdaUEMwQ0FHNXExNnF0d0dOS2Jz?oc=5
 
 
 Travel / Boop Relevance
-- Sabre Teams With PayPal And Mindtrip on an Agentic Commerce Travel Booking Platform - Digital Transactions
-  Summary: Digital Transactions
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU25lclZFaHdMM2RWVEdoLXZDN1dZV1hDdzYzelBFVkg1VWZ5Umd4MS1wbnJNZDhwYzV3VjRzY0NEeHhfalF6WjR1aVJ1OGV1Q1BvdVJNOFNiOUZmWlE0bGpOU1p4di0ycjhZS2trQ1Z4SjJHMURLbkVYS2ZfdEtROXFCbjhRcFJWakFkOUVDVHZad2NRM3VITDJSSG5YMUt1YzRCQUo4TVY5QzFCU2Fwb3pxLW5MeG9FRE5J?oc=5
+- Rakuten Travel Unveils AI Booking Revolution with Conversational Hotel Search, Personalized Recommendations, and a New Era of Seamless Digital Journeys: All You Need to Know! - Travel And Tour World
+  Summary: Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMiwAJBVV95cUxOS21YS3U3N0U4TTlEQklwaWp6M2JhSGVvdlhRVFhnSm05MTdzTjBjQ0tyalpPWDRmbU5aZ3VZUGs5RUV3SDNRRFk5cDJnNjJxWm9Qb0VlQUFvUFNBZFlybzhSSEw5Si05T2xZdkNnTGNtUm1lRXJhaW85X2NNci1iWmJLeUVMZnpWY3NORnV6RWtkaWFPWDdYbVNFY2N3Wkw4UnVWa3dBeUgzZFdmbjctdy1lbGtLQVJacUdJYTVQRzdzY0MyY3ZlbHF0MllXSTh5QzdhOFBLQ081WnN3V2ZGRDQwMWhkd0dldnR2b3pwczYtbm5ubklZOVhCZzRrTFhnSUVSeUNaWnBaWXNsdFItcW96LWRTLUtvNE1LNDNZWnkzR2l4UndINFFScUt3X1VCUXJMdVdoWG1lTkQzdi1QOQ?oc=5
 
-- Startup Stage: Altitude AI wants to modernize unmanaged business travel - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPajR5Q3Q5aUY5X1RtbVRUYlhuTFI3SXZOM3Y2Nzl4d2xSdG53Q1M0Rzh6eUNOTFVtQUNYb1hpMkxlZkxXei1aVkk5MWVlQm9URTBDbkZxLXhBTmYxMHYwREZWNktNN3JicWF6S2NUdExjUThHSi1tNDlhbWFBMHpKZHNrNDZMMFJRdFBXYlRvVVN1Zw?oc=5
+- Siam Piwat and Huawei forge global partnership to advance travel tech and expand global tourist base, integrating first-of-its-kind wearable tech into their ecosystem - Nation Thailand
+  Summary: Nation Thailand
+  Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE52M2hIaWNXS3RZbm9Wd3RDTHdkZkxDUTIyQ1V1LXJwUEthNDZsbDJXR0ZORURhT0tsVDUxcXB0WWcxQzFXVGFzMTY0cF95ZWJjNkphX0JsMjJqZ1JIN3ZZTmJwcVFsQQ?oc=5
 
-- Travel Technology Market Trends: AI Integration, Smart Booking Solutions & Forecast to 2034 - vocal.media
-  Summary: vocal.media
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnJ0VXJ6aTkwWU1valNvSUluU3VxazZndHpwcGlOZHNqTXMzQ2E0ZDMzT0JpZ3FkOUlaTElFcWhtYTJ2a0YxQ3NuR3hPNVZuMnVjYmt2ckVFWjlSUHNObnhDbUlmcWYtRTNjNTNiN3dncWRldlVySDlTOW9WQjByeFh3Y2RnT2xaRElXLXJNZm5uQTBZSU9ieXdJdDg0SDlzY3Z1NTFmOVB0OEtWTVNGekJlUjR2QXBQbFdBNA?oc=5
+- Antigua and Barbuda Embraces Digital Innovation with a Focus on Maximizing Direct Bookings at the Direct Booking Summit for Tourism - Travel And Tour World
+  Summary: Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPTG9pMk4yNHFDODBSZzUzdkNOcjZwLW5saHRfbVBUZ0Ryd2xIZ295T01JakhoRkNQaThBeUFxU3pEOHZ1Y0l4ZjZYSVQ4a1NJQVp0MjRJS2xSUVlZaU56ejktMDRNckJYd25OanpsMXdZNlV5dU5RMUt1SmhwRFMxRGFBbmhWeVNKZ3NTV2RScExGYUNmMHRiMnRpeHo5Tk5NUkJWZnBlYVJnUVVVcnBvTDZ5M0NZeFQ3c1JvVGtUa2QwdzV3U2JKd2pJd0FkUnl3bURaeC1Ha0tvMXJUbGJzVHhpRGRVVUd0eWpuZFNhYzZYZjMtc09OdzdFbGRQMC1ldEViY1NEWjZkUDYz?oc=5
 
 
 Bottom Line
