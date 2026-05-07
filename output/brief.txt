@@ -1,77 +1,74 @@
-Morning Brief — May 06, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Atlanta Braves — 5/6 - 4:10 PM EDT
+Morning Brief — May 07, 2026
 
 
 Breaking News
-- [Markets] Stock market today: S&P 500, Nasdaq, Dow rise as oil slides, wave of solid earnings rolls in - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEhib0lrZi1IRmp3bGlJRFgzWWNVUWdxZ1h3QlZhOVMyVEpES192UjRjN3FjZEl4YnpSc1d5M2pZdlh2RTRXeVBmYmxCYW5uV045Sy1VVHJaTm42OE90TVJtWjBiODJfZkJkdHREajFna0ZvVEREQ2tNZTZXMWF2dmtRdGppdGJKaDYwa1RLQ1Etc2JXNTJfbW9QbWVibDcwX1FZOWNEX1FRWkxi?oc=5
+- [Markets] Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVFkTUpiQTNLVDJVSWtnQ0tBLW9ZUm9qSFAzMmJ0ZGNicnFaOGVMcEtuX0dxSDYzR2RIdHNhT2VkV0JnYTR2cUNNb2loTlJBQ1pwYnNfOHdiM3o3aWFyN0FBZTNWX3ZEZklzNVdHc1B0RUNMeGF3OWZLMkpYVm5VaUpuT3pqQm5LdklJemdFQ0UxWHJiMXd0clotQjBuQVBQSHF4OGpPZllmV2lQTnk2ZVBwcFNNZ0M2bHl3V3ZtUzZFR3Q2cHpIWVc2Vl9XN0MwZmZUdzZqaXhidTVLZkpYU2hQaXBwSFRmWUJj?oc=5
 
-- [AI] Regulation of AI in Prior Authorization and Claims Review: A Look at Federal and State Consumer Protections - KFF
-  Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcGZPbHg5dzlTSF8wbFNBTjg5V2JuZmVtTGpwUHJ5SDRSVTliNnh0RjlwWmF5TnJFUkIwVG52R0wtcUR2Nm00QnNUVERoNGxncVBjTTVXM3AtaTczNURrektwYjFWOXpZSHRmTHRuem1jX0NFZFBId3NidUhyamloQ1BVbE9OV0p4dlQxbWR0SGthSklSdjU0NWR1OGFNOUpsMFhKTUZGY0REaHVVb19JUGs3MmdEVWRyMkplN2xQNEdGLTZ1bkJIeVpSQmdsRVNlaVVMak1zTlVUT1RoWE5hN0h0TUJEQjkzVWlrSg?oc=5
+- [Markets] Iran Talks, Fed Rates, Jobs Data, Inflation. This Market Rally Faces Big Tests Soon and 5 Other Things to Know Today. - Barron's
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1cwU1V3R3NJYWhVd2VHUjFJOVF4eHlBczlXb0pCUkFaZ2Nrb1VmTTIzeVY2b2lBMnVWM2Y5eDN6ZkZ1UFNnZEg2dDYwc2kycW1rVVJCVUE1bXVXc2cxdk16RWNtRTVuVkx5dmJjSXNUbGlYeUNJWGpLSWZ4N1NhWER1blJmQWV0eFkzZkVIczlNamJpczRMOWl1MWY3MkpGbFdfMXdVdXA?oc=5
 
-- [Travel / Boop Relevance] United States, United Kingdom, Europe Travel Technology Shift Gains Momentum as Uber Technologies Inc. Launches Hotel Booking Platform — What Global Travelers Need to Understand Now - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY2xhdVBncWxrVURjYm5wcEtYX3NtR29tSjAxVFd4Y3ZmZUpRenM2dEE0eFdRdXpxaWVGWVRrdnZWZC1KSV9zc2ptcjhKcUlEVUExX3ZVWWxIalRuZkpCX0JRR0lYWVhRSUVWY3YxYWM0QV9veGJhVEd0ZnU5WmRoRTBzSGF3LUlhMVVsNmhPRTdqaDFYX09LOTdRMlZqUXo3YlhELVp5MlBOaEZYUVRhNndVV2lRNF94V0lGakJOeS1kNlpBOTRGVmhBNDlPb2w3dVF4OVJxa19peHhwQW5QUmxLVEdiLUNZZlBLd1lMTHRENFJLQkUxX0JuY09ZUVVFZEpsYXZvM1JvTXdFT2xLVUNvZVNfYy1mSGFuaExBZWxKTUR0T2liMHB4X0lRbHZFRlR4THRjWHMxcTF6LW1KVGlPcVV3OWRh?oc=5
+- [Markets] Norway's central bank raises interest rates to curb inflation; European stocks edge higher - CNBC
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDBuNzlpSVhyYjJJV1M4Tm1ZUGNpOGQ3dnBUYjlxZkJaUUFaUU14Q0hWTGkxSWZSUHNxa1duOUs0OTVYTkNpc1IyazRFVEIzblBSU2NXTHBxRUhUS0gtMGo3d0t1cHdMTW8zRl9FNk9qMldQQzhSZ0RkUGx0bG5iWDNhUkF6bjk2UXFaSjJxSDlYTUJxTkptM2YxZUlidVA40gGmAUFVX3lxTE54VG9ndkd0QUJrUHJ2OXRTbGVOdV9lbG4zT1hkMF9yUE5IXzJrQ0s3RV8zbTk1YXFNcW1KRS1SaGp5ZUtGb3lselp5T1N0NDM1WmQ2NVpxWVhfX0VrUnNDamtPREN6TkFVZlRTUzRCMmo1V3E1NXk4VW1Fd21BaGZPLU9JVGVGeVBVX05XWXVmSVlJc29oM2hXeC1PQklzWUNZclpTZFE?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq set to climb on report of memo to end Iran war; AMD, Super Micro shares jump - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUJ2TWNUOVdYWFVvM3NiLVMyQmtIZGdleXItNzJDZE1kY3ItWlhsZ1oxUmlrelFodE5FNk53ejNIU211T0NxenB6Z3l6TEh5VEpmdm5vbXYyTEZKREZxVGlUV1N0eGFDMktqVC1NWXFhTkppMFNPQ3B1WnY5MzA1ZEk0UFFWcXNaUV90aEtRbnA4OGNTZHd3c0d0cU53V0lPQ3BpTHpyTjVaUVE3dkFjV0F5cV9rbDJzWjJ5Sy1XYzNrVzFn?oc=5
+- [Markets] US Stock Market Today S&P 500 Futures Inch Higher As Inflation Worries Ease - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVVSY0hWY0thQWlhVG0wa2g2TjlRaVh3bXdRdXc0SnpfdlZHOVJEeXlJMlBhcGVzUklPQ29JWG9ZN3FMUzRRMWFOZDVNMFdNTVk4UTJNcXR4M2ZzakRIdG4wOHZKNUI3ak1NS2xrWXlLcTFoN202NENrSFM5bHI4N293aGdkV0NCejZUQzFSUEg2dw?oc=5
 
-- [AI] Can AI agents replace human workers? One start‑up put the question to the test - Scientific American
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1RDX3BNRVkyYm9fUWcyd3p0NGI4c3J1ckZBUnBuVEZsdTIwUVJ1Y2JCQlA0eGZZMU9WQjVud3FPWWg2WTVwWERxWWZGQnZ2dzFiX241MGpPaGZuaVdNMnIxREpmZ2NkLUpMVU5qSGd2dTd2SUtIUGJkUzlyMlhfM2tTa1RKTkRTVjFFckJtTHNEV194aVd0RFNhSU93Tk9pWVZ6SUVITUFHVEJjM1VPdzNlTGFQM1hwVDJz?oc=5
+- [Travel / Boop Relevance] Philippines Online Travel Market 2026: Mobile Bookings, Digital Tourism & Smart Travel Platforms Driving Growth - vocal.media
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQkJleWVDNWZUSkRwNDlfZUVvY1E0Sm15cTlWTDRCYTJXNi1nQ040VmRZSV9zbVBOazNEUy1SczFDMGNoN3JSWEJrS2YyNWFQRlBsR0ZMVUhtSjd4aFJ3dVdidG5NTlJnRUs0OWNfYm05SUVwX1c4XzVvQ1NHa3ZYbnozd01qZFFJYk96clJCYXVDZVQ5b1VTQ0tNNEpvdjJUdlYxTHA2YnR1MW0xdXluSGZPTVdfNGNORXJuUnlfcnMxcHhTQzJmZTFSZnR1djhWY3FEXw?oc=5
 
-- [AI] Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing? - The Hacker News
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTFAtRHBPaVNTUTV5OThJbkZNNjk5dlJTREtsOTFScHlDUS1qZF9PNHN1VWtJVEVlam00VjRLcnpYcHBwS25IVWpZUnV1N2l4RFlVcVJvQXRHMC10SFliWDdRS3poWjF4QzJkV1hjbjlSNVBPYkl6M05JcFZ3RmI?oc=5
+- [Travel / Boop Relevance] Mindtrip Flights Launches AI-Powered Platform to Simplify Travel Planning with Personalized Flight Recommendations and Seamless Booking Experience – All You Need to Know - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMivAJBVV95cUxPekxUMXZtdjU2XzMzaTVuMEtmdjVmNVp6MjVaU1FHWW9sMHpwckl3SzlGbl9fSFdEMTZka0RZSUhBQzRkZi1ubktPNXpmVmh2aFN0bkNxVVJWRmtIVEExVG5aODFxaW9Ybm1FZEtEMmw5aTYyU21RUW1QSG1Uc0poc29tU1dGR01lMUpTMzFCNHJFNU52VFFVUkl6ZTBCa0tNaWQxUmhMaDBndXNxSTBjdUVFLTg2SDQxUDh1R3A1RTh6b1QwSWtLaXFTbmVRUVZQcTQzTFpoVmlycVdvaENlcnJyWlU3VjVKMWM0MWxRMTVOSDdBSVVRX0xROXJYMlJ1bmh1eVBkTEpPUEt5UmNXSDdLNnJDQnZEQTk5Yk1xVTN6eTlnbTFmNEtmNHI0YUpVT0RzX1ZZQTh1NjQx?oc=5
 
-- [Markets] Stock market today: S&P 500, Nasdaq, Dow rise as tech stocks gain, oil slides - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxORE1NYThOdTdRS0ViQ1Q4RUVQVF85ZmM3N3dqZW01Z2lLdFlPaWIwM3JlRVdmM05zTFZ1bEJBSlZidDQydDJSSnVzUTJnSUVETXVGd2Z5eThlSVVJUmNESG9LVHB4SGVuV2RFblNYbkRscEpzVUhJSXJ0c2swRzFpeTNDM293NHR1dDgtT2ZxZk0yLWlnVTd6TFR6VUZRdFFDZ29DdVY5clhia1NEaUpzWko2a1JNUEVHTUFlaGNid0hGdEU1VXBUYTNmLW9zQQ?oc=5
+- [Travel / Boop Relevance] Mindtrip Launches Sabre’s Agentic Flight Booking With In-Chat Checkout - Skift
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2Z1cWVCUkRiSEV4MlhfTE9RdEtVeTQ0QTZFbWxFQWFUbFpySjBHZGpiWFFPN051Z0U1eHZubmZRSUxEdEFLem55XzliaDJ1aHdyaDAxWUhMODNmektsOHpSeGh2VTJZMEFIbHkwRkJkU1hEUzhGUEZRQWdoU19oZnU1WXdta1A1T1BhZw?oc=5
 
-- [Markets] Fed rate hike is back on the table as markets fear sticky inflation - Business Insider
-  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3B6X0U4dzJINlQ3d0FqT2RMcGRoNWlqSG10SXU4WmNjWWFsdFJpeWRmdGw5RDlLUl9rcGtFUG9yMnpJcDdCNDVvN0EyUldRV05rZWZDakIyLTFKRWp0dERsNGsxN0ZSV1NNZHViX0hRSDMyNklGX2pDQnp6X3o5eDIxWnZHcjhua3M5MmVITnVubVRLdmFUOGVZbnFCMzBBTDZZMQ?oc=5
+- [AI] "Plumbing" For AI Data Centers Has Top Funds Salivating - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOOV9sNV9kd0wzejZsb1MyZE1zeXRXU0VtWllURUVRNDJzbHRvYU83MDJhdERuTGF2OXZvSDhiQUVBQ0VRZUlOMmZrMnpDaFg1bzZsR282N0JhaDVNbUZvQVNRVURYNkk4MUlXRTlqbG1RcHFHbG1UVURfM2ZDZXkxb1RwNzd6UDJmQXJ4T1FfbWlxVVFYOWdscDlzS04wWG03QTg0Z1AyWXBhQnJsOU1xQ2VR?oc=5
 
 
 AI
-- Meta plans advanced ‘agentic’ AI assistant for consumers - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3ZWMU90TkcwdnMyTTg1OFR5QUJHcUJqWjM2VVZWVUpVR09mczJwTjM1a3hBUVMwRUNzbURhWE9hQWgtbzdiQlNSZGFpMFRGQUNUWmFmTERXV05EcmdKd0hLc2ltQzRHQk55ZUtvRXBEeVpNdDlVdnhXUjNGRmtyeS1jbU4?oc=5
+- Your trusted advocate or your rebellious Frankenstein: how you deploy agentic AI determines which one you get - Fortune
+  Summary: Fortune
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1g5UzduS1dHTkdNbVd2R3BqbWJpX1dJY3BkTzB2OUdQcGY5WEU4SEEtcTVzUWNRM0dGVWZYcmk4ZkdlNGw2V0tRTU50bTVGU2lWQ3ZlTTA4Unh0aHpCT21PZndxSmZPNmxzTmIyRDM5ZHlTZ3BxWTkyamI2U3dmTmZMYjVNaEwycjlHNmljY19YdmlIWG5sY1RZU0J4QQ?oc=5
 
-- 1 No-Brainer Artificial Intelligence (AI) Stock That Could Make a Monster Comeback This Year - The Motley Fool
+- Controversial AI Platform Twinnin Launches First Funding Round & Targets Upwards Of $3M - Deadline
+  Summary: Deadline
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHVSU3BWSnhqWURqa29ZWC1lZHhFbFFpdFJoU3hOa2NJLVkwWTF0NUF5UWJKZFVhU2l4N1k5TWJoTVA0MGJxSGZ2Wlh3V0xqNlUweUdqbkVNb0lBSnRyUmdjQWlNSU1sVWFqNXg5bGRJblVUQ3VmTU1BcmZpSkRZekRBckhuZnB4SFd5R3gyRlVKS0hJV2ExVl9QME5QdkE?oc=5
+
+- Even if the Iran War Ends, These Artificial Intelligence (AI) Growth Stocks Face a Helium Problem That Isn't Going Away - The Motley Fool
   Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXA2OFFjVWpqcDc1c1htUTROYktRdnJyajhsb3BBdGtnRjZYc0hEc09OSXNqVW9TVnVmRllxN1UwdHZYTnFzZHBKVWlaTGRjaEdGM1labkNqRkRuQW94UjAxa2ZBdWRiMUFwS3VjV01vcTZNOGlQb0w3bE9zUU1OSHNqWUJ6SjhSRzFkNE14QlowbXI4Qno0?oc=5
-
-- Research: Why You Shouldn’t Treat AI Agents Like Employees - Harvard Business Review
-  Summary: Harvard Business Review
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOTW9HUmpTbUw5dTluOVVrWUJhTjlkUV9jNnY2TE44ZEllSS03M3RwWnlkSE9FOTFIcXhwMzBsUm9aeVdLVm9rakpJandtV1R1b3lEaDJ6Ym9FTS1FVzg0dVpDZUFmakNmaXdGcEIxeGVVN1lyRWV4WllHdzluY25RZWtSWXJPM3c?oc=5
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHNsLUZ5UEttQXhxS0ZyUTRWbFBzb1ExeTQtTUhjVVgxcGNzcjVtMF9xek16WDJtblVvb2l6SS1Vdzl3ekVzZEhsZl9MRV9sa0J0ZEtFVWdNUDB6bDRjdS1rSW9OeTY5bm5XYm03Y0laMWVsYXRvQzBzcEZFLUpVVHJ4YXNfbWNULUZYOEc0eGUybG85OXVPLQ?oc=5
 
 
 Markets
-- Kevin Warsh Has More Room to Maneuver at the Fed Than Markets See - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUhtWVdLRDNlTXRPOEE4dUlRekNLUTZOUm1Mc3N3LUlYY1k1Rm1xUHVTLW80RVdyM0g3R19OOGJzbVhjamxJWXNuMnJHTWQtWGNPay14bldpSkNkYzJDU2dOMTdhbHdSTHlGa1B4dUQyZGJEbG5PSFlJcGNzU2w0MjQtQ2ZZUncxM3pXcjdhc1dHc21TdG1sMzlkbVVFbDF2RHkyNkgwN2pqTzA?oc=5
-
-- Markets News, May 5, 2026: Nasdaq, S&P 500 Hit New All-Time Highs as Tech Shares Rally; Oil Prices Retreat After Surging on Middle East Tensions - Investopedia
-  Summary: Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHNkdllsSU80d2RTdEVSRnZoN25OWUJsRk9YNkRDUy0xeTBzc01qTklSNWlhMkExNEVxUjZQNG85WFN6Y1FNOHpCTVVaTDZSbF81SDBJRGZiVDlYb01xVGRkUGZmaVlmSnBiSDhBYW5vQTl6QS1lR29lQlZtWTlxQnhlUlVNLWpoTFdkVkxIR0w?oc=5
-
-- Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge - Yahoo Finance
+- Stock market today: Dow, S&P 500, Nasdaq futures tread water in wait for Iran-US deal update - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVdWX2h4TGFMclNZQVNRTEZJRG9ZcU1VMEdxZ0VhaEQxbThmOHdrNzM3Z3FId3l1UHVTSGNpLXhhT2lyTzNGRXRpQ1NodXZnOE14Vm9xX044TkhLYzQzak9Tbk1qU0hhRk1RTXBnU2hVdENDaWhJYklVVG5lZV9UOGQ1VW9sNDMwQ29tU1NHSXVxU1JCX3hkaWZLU0t5Rk90RnZRNXIwdTE?oc=5
+  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdTRxdWN6TlFnaHRwZUx3ZFdhRnI2dUZxTml3VnNYWjFiVkkxMlpaWnJoN2FrSmhXWnV4TFRpYXhvQUlqakZrc0ZVNTc1bTg3bUt5Nm9CWmRqNFNQQ1RpeThlck9pcFhwbWd0YkxWU2dBLTZMZnIwU0R2Rjlzb2NCaGdyQTM5MTk3VHczaTh4VWF0dlpZSkw4bEhZOGh1M2R5d2ltV1RlYW1fRW1jNW1mYUVxMUlUXzVsMExpb1BRZTctV01pajFCblhYNmxwbEF3TjJnNmRkSnFjSDF5aDg5QTZkQQ?oc=5
+
+- Markets News, May 6, 2026: Tech Stocks Power S&P 500, Nasdaq to Records as Indexes Close Higher; Oil Dives on Optimism War May End Soon - Investopedia
+  Summary: Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEhkTDl6c2JzdkdXT0xDMl9nRXgtS3RaMk9lMkRodk9DUl9md0tzU3RfclhDZlJSaWNDXzRweTRyVmJ5WGpzeF9vUUZYV1FUdGpkWktKbGhteHhFSktfUWQ3Si1aMC1ySUZ5ZkcxdnNFZ2g2b1ByMHIzejVkSGN0TTVBX2dHOFFmd3NmdGNzLWM?oc=5
+
+- Fed rate hike is back on the table as markets fear sticky inflation - businessinsider.com
+  Summary: businessinsider.com
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3B6X0U4dzJINlQ3d0FqT2RMcGRoNWlqSG10SXU4WmNjWWFsdFJpeWRmdGw5RDlLUl9rcGtFUG9yMnpJcDdCNDVvN0EyUldRV05rZWZDakIyLTFKRWp0dERsNGsxN0ZSV1NNZHViX0hRSDMyNklGX2pDQnp6X3o5eDIxWnZHcjhua3M5MmVITnVubVRLdmFUOGVZbnFCMzBBTDZZMQ?oc=5
 
 
 Travel / Boop Relevance
-- From itinerary to bookings: Use these free AI tools to plan your summer vacation - The Times of India
-  Summary: The Times of India
-  Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOREJqU2ppcVFNLXE4cUYyTVRuc3RlQXRPSmlNVXdZN3FYREJMYXlSbkw4M3BEWl9HSDZfVXpBUHFSOTQwb0pKSlZMMnNNTWRZTXczdXJjY3VtUjkxSWpndC1tMF9UcGJuc1gyLThQbkJxd0hyQURjdVozQkF3c1BDMVo2NVI5R2pFMEJXRGdFeGhNdk9YUThITUZpTUlZUVZwcmJkZjAxd21iR1o4VHg2RmVxSDk2R1E1SHJTM2htbUhyMmc3dExNQV9sSFFQVmNCUGZ0ek1MYzFPaUxqSEJWaUpJbFZoN3NzSXltcDZRWVBiRzk10gH6AUFVX3lxTFBLRmxNc1dIYUlZS1VqX3NpR2l4N3d6dHI1Qlk3cGRuaDVRcnY5U2VzWnhDQW1oTFIxQXpNNzJLRDhyYTNycUltZWJTNWhuN1RDckxXNE1qUWxjWG5DbGRVQjN5WHNxaU1teVBlemFjbjB1a3dDcmRaTUZ5WEZKZXVWTWNhZGV5NFk2UE5wT3BONW50VWZuMUwzNXBfYm1tRloyaEVYRGpMR3hXaFA0dzdvc0xkTVRSMDdST2FnT3o3clNYU3hOSUJoV19QbHRsQnF4V1h4OVY1QnRJOGlmTV9zdmdtS3VDS3JXYUR4T19sVGVFSXBIMnNVVnc?oc=5
-
-- UN Tourism pushes digital tourism future in Marrakech with AI powered startups and rural development focus - Travel And Tour World
+- South Korea’s Yanolja Finalises Major Acquisition of India’s InnKey to Supercharge Global Hospitality Technology Growth - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFhVdlFTSWVJaW9pNXpBTU9vNGVRa21fWjdreWhsT25ILWVJUkg5Ri1QNlhBUm13RGtIdElIV0lHUEtnSkVuLWFmZWRiNnpkSWpJWWdtaC0wdGstbHRfS0MtWFFRYm1JcXY3M21PQWxqTkU2NFF1V21XREVYbllhSmU2dHpiUEZmVWdFa19sN1ctMVZOSEZzRUlKZ05vR0MwenJ4T21uOG1hWjAwc2dtWFZQcUE0MV9Sc2c0cEhsM0QyTjN1WC1iT3dPUE5DY1VWZU9MTFhwNk4wMXV3dDd4aUFyZDhXOENQOEs4?oc=5
+  Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMlp1V09BR0pHdTVMNXh4TzVlSno1Y3NZNWRELU9VbDBkRFhKYlVGc2VYSjh4dnZIaTRLR2J0c1ZQbFkzeFNIM1pQLXBzdUJoR2RQSGVkNGNRendIYnJ0QmlYcEl0VXNEZXpmRjc4MVB3TTJIZTM5M3NCMURjc2JpT0FhMEI3ZmhxcmhsbUhtWENzYzR2dlBOQWkwdHRwYWprUnNrbGdrODNZTURlUHhHeFgyWnhxbEJvemVHV0RiUUVrT0Q0UVFwR0xxWFE2eVZ4VWlCZmE3dzlXRmJsZU9kT1EtT1hRaFhwUjVXOG5CYUFlVWh1cFhFT09B?oc=5
 
-- Travel Compositor integrates Visagov to sell digital visas inside booking flow - VisaHQ
-  Summary: VisaHQ
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxObU9xMTV0UnJQdXBWdnV3bUdUcHBYVmpOYk5GbFhwVDdkb196bFNVMnZyOUl2ZF9ENXBTSmtqWlBzOGJnWUhES1A0LVRaNXdwWkRUMHoxeHVudW1ETnpVb3ZPanF0T2FPVllVdEJXbVF6WjdJOHItYzhUdnAzV1paYV9oYVlvdTBQY25qcWkyWjJ5YnNTRjFXRHZSWjRPNzdPbmtrZ2x2ajRTY3VzWXhIVjN6clRfSUNpNTlGNXdR?oc=5
+- G Adventures launches incentive linked to new Online Travel Training course - Travel Weekly - Home
+  Summary: G Adventures launches incentive linked to new Online Travel Training course Travel Weekly - Home
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlVHN1lGdWlFalJYdHFnQVJCSUxaenlodDdOQ2xvd2FJcGJiN0xyblMzdUwzbGRYRlQ5S09BaXRsYkV1elZEblpOb2JlZmZmTjU3eURaVUtkb1lRZVNmVk10S2NrRjRxeFl2LVJkeThHSXFJSkVjUHhCZXNnVUtmWktzTmRJUzhCR1I5Rzk3S29mdm1xa0p6RFAzbjhVN1VydTNqbjQybFlaNFU?oc=5
+
+- Trainline Faces Softer Outlook as FTSE 350 Travel Tech Shares Stay in Focus - Kalkine Media
+  Summary: Kalkine Media
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5nejdoQXE2R1FzSWNuc25MNkgwZXlWcWNtRzZkWHZfeHRnNVp3VVlCdjBzQVNBM1h2bjNXSDVGeDJCbWJQcTJQVmloNkNkV1Q2amNXY0NRdUlQMUo4amhadnhhSEhIUTRzUkJqQ2xjMk5Ic01ib3R0UjlyQVZNWUI5ZFNUcU5ZU3VUZ1ZRWkdNWWVCbVY3VGZHa0N4OERFZi1tbFhlcEFCVnJYbktiZjd3MUxqVlp6U1Jz?oc=5
 
 
 Bottom Line
