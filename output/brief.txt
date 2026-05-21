@@ -1,73 +1,70 @@
-Morning Brief — May 20, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Chicago White Sox — 5/20 - 4:10 PM EDT
+Morning Brief — May 21, 2026
 
 
 Breaking News
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures rise in countdown to Nvidia earnings - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTdHV2tfWTJyWnBncUx2Qm4yTnl1Ym1oTFM4MnplbHdQUXVnNFNHdnRYWXlybDc2aUF5N2ZhWVVXUm1Ia2RfTFpERUtGSXRvQjN1MUNLd1M2MjNmWjlKWFZwX3pCdkZKVnFsVHNVYnE0alg3UUFYc0d6NllfSHM0WDM4czMycDFaVlBRSVg3a0tNMFh2VmJzdE9RQnBfU1NGUFMzVjcyeWU2MWdLSVBaM3hUYXRPWEFRbFNHRmQ2OHlBRm1RSUZkSnU4WGVkUW0y?oc=5
+- [Markets] Stock Market Today: Dow Falls Ahead Of Jobless Data; Nvidia Seesaws On Earnings (Live Coverage) - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxORE54UC1qdXV6TDFZYlJJUWJRc0xja29nZG83YWk5ZEVEU1gwQndiN2tnMk02dGx0VHkyZFRCdnU0MGNUY0J5R2gtdFBUWEpZbDAwb283MHdxU2NEZV9jOW1kLTJGczJURXJGUzBqVXRVY2VLUmRnMFJsZklKRk80dVRhaFBQeHprY1RyV2s0QnJqQndSSHBXNGxEMGhIbDBIZDdMWmNSQjFUUEhhOGVKYUZiZndhOGxpczhUS0JNN2IwVkU?oc=5
 
 - [Markets] Navigating Uncertainty: Inflation, Labor Markets, and the Stance of Monetary Policy - Philadelphia Federal Reserve Bank
   Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk52V3A5Y0FhS05YQ3Vlemw1Ym1ITWw4ZXdnZnlWMGI2M3VmTzRXWmhXOTBIekQ4M3daY2puWV8zNzJTLW9JRVd2aGdjeWNpYkJWbEE3em5PM3lUY0VHV1RnNDMtUTlTUzNIMkRUeXNmdVlJclZGMk5uckZiTTU5dml5YWRNOEJZUVlvTndsYmtObzdfY0JXRkxGS3NMVUtlcmc?oc=5
 
-- [AI] Google unveils biggest update to Search in 25 years, including AI agents - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3hfVHk3MzZFTlRGS0NlVU1BY3BpOXNkRG41X3RoZDVsZEZsV1FLQURjM19lTnUyWl9jR0t5bTc4dWNyTE5ENWtjSjliSi0tRWhIY3cydFYycUtzcWFPM1VQTEFra095RWZ6d0VvVjczQm41ZUpsc0tqMEx1dDdCUGFQWTR5enM3aTRmeW9scjBiYW5nNGFiS2JOeXhWcXBoeXREV1FLZXNNTW5mdmt4cGlwUWlkQ1NlRFF4ZTU2eVVya21RaWVWSFZSbzZIMjUyanp1djh3?oc=5
+- [Travel / Boop Relevance] Travel-fintech startup Scapia raises $63 million in funding to expand its business in India - Indian Startup News
+  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcG1aUkJveEZhS0daYmlWX0xVMDA1Yi1iZTJwZUtHZXJMYjZIdFZPVXFfdGpjTE1YNGlVd2RNRXd6elI2aHIzOURIeGRQcmVoeE9TdmRUM3FaUUJtUmNIaU5sMFhrY1VtZWtCbUwxNExQSlo1djNDdUtxTXdoSHVQVElPcFNQZ3lXTXJWQjVSRTZvWlU4TVJ2b21HTlp3QzR6YVNoV3ZMY0tucXhqRkZDbms4WXFsZjFxUUlDcVhjZG5xY2dwLTh1elktZEpKVDE4Wm5F0gHTAUFVX3lxTE1wbVpSQm94RmFLR1piaVZfTFUwMDViLWJlMnBlS0dlckxiNkh0Vk9VcV90amNMTVg0aVV3ZE1Fd3p6UjZocjM5REh4ZFByZWh4T1N2ZFQzcVpRQm1SY0hpTmwwWGtjVW1la0JtTDE0TFBKWjV2M0N1S3FNd2hIdVBUSU9wU1BneVdNclZCNVJFNm9aVThNUnZvbUdOWndDNHphU2hXdkxjS25xeGpGRkNuazhZcWxmMXFRSUNxWGNkbnFjZ3AtOHV6WS1kSkpUMThabkU?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Tourism Recovery in Australia as Online Travel Booking Platforms, Flights, and Hotels Brace for Strong Growth Amid Rising Traveller Confidence and Government Tourism Support - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFB3aVFRS3JkRWtJc2F0NkxYZVk2eDM2bTlvcmtIYVRPY21nTWo0ZHQ4UXRaeTEzU01YdWU5UVVGQnpyZlhQOXF4a1RicFRJbnRYYWJ4RWVEOXBBQnlRZTlRVk00YmtmTWVkd0xaR1dB?oc=5
+- [AI] Exa raises $250m in Series C to develop search engine for AI agents - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUdieU9XR2pLaFVtSmlPLVFyQXJ6M0xJdWpocUJtSTlaT3lrRTR6YjVENFI1RnlsWlZBR1RlSVNCRFBGX25tWXBnTXQ2RndDSU56QXBadFRrMFNZWTI4TmdjejB3YUN0b3FYRUlrVVkyeGQzVGZROVBwNmJ0ZThMUWhOT2JGYUJyb1VxV2FZWnZDbmdLMXR4ZW1R?oc=5
 
-- [Travel / Boop Relevance] Tanzania Launches AI-Powered Tanzania Travel Companion to Advance Travel Technology, Improve Visitor Services and Boost Tourism Growth Ahead of AFCON 2027 - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBmSDM1X0RrNGRYcGRlbWpIYUFRNmxCX1hCQ1lxX2M0eEEzeUhRM01teG5TZXg2MHlUdDgtQnMtUW5DMi1SSmMxLTlSR0gzSVJSRTk2SXo4cXd0WnA3SF9lOFJBTG9BUjJuWHBhUm1B?oc=5
+- [AI] August Robotics Raises $30M in Series B Funding for Autonomous Construction Robotics - AI Insider
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdYd3hBRE9YSXpVQ1lQbVhpTkdnQjlQNktRQkRYTmRuVGVqRTZrU3Y0dklPS0w2QlNtR2VNRlNwbXVTZjBQU3RQbE1YSFpwQ0F4LVY0WkFuUndmdENQYW91VFhNX0FHNW1ZT3RRZ1JYelZWd0poSXAwNy1QLUNaWXV2dFgySXNxTE0xeENESXBCQ04yNFN6MGZyT1N0M0lyT2Y0MWtWeWtnNHJ2eTVKUDJsV3g5S1U3dGdpblRR?oc=5
 
-- [AI] Exclusive: Tribal raises $10M to make agents smarter - Axios
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOelA3Tk9GdzNjYTM4S1Rnc2xGdk5ZZFprWWdhYWQtdXRTNWxXLVhDM240RUxveWtMcl9iSWpJQzJsYkI5emxSVW5ueHhpcDNjZl9VQlRaSjVMbTJFM1pDSmJNeU1udmw4TUdXRUJMdHBETGd3Y3plamJreThKQ0I3Sl90eno5d3N0Z25yNlhZcWFJQWdNblJRY05wcTA?oc=5
+- [AI] SpaceX IPO Filing Recasts Company as AI Infrastructure Giant - Data Center Knowledge
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3pDc3E3dkw4SURISGJvNFVfU19tdmhMa1Z0UGtxd0R2YlNIMHBZNFV0RzBFdHh2enQwc3VWOERHY091WjVuSkQtLU1XX2liU1hwMmtxSU9NT2EwenFxNkFBMElqcWRUR01LNGpTRGQ2QUFxdW5PZ3VNSFh2SE1wSmxycTZLYVl1VllsdW9SVnRPV01uY2lGSUx5OFVPNVUyUHZibkhlT2ZZOHRvRGc?oc=5
 
-- [AI] Tribal AI lands $10M in seed funding to bring metadata-native agents to the enterprise - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNQW9xb1l3VXYycWZ3QVVEanVfVk9KckYxNXdpRjY0ZkxZODl6X0loc1FLSS0yb0lPSEQ1djRpbG0wUU94SGJmQ1ptZ1ExNmtVTlZFYV91U0JENkJqTkUyV2EtbVNOZXc5M1lraFFEbU5VVGpiemswNjc1SGc4cEJVUWdwekhqUllRQzlhNXlpa1YxM0txZzZ4S3V3R2FhLVpPa0JjYW1pMk1ZVjI0VlE?oc=5
+- [Markets] Stocks fall as oil pops, Nvidia is little changed after earnings: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE13STIxdHFhLW1adWZjdXlxOFFjQ2g2TnFLdVdqNU9vb3JmWWVSZE01OVFhUzBXNFJielRaZTAzWUtjNmdvRHI3MnFQeXBBamJiS3p2eng1QlpnTVZ5b1dKU2RQZGtlQ0lXaE83dWJUdW5BY0Q2UzhJ0gF8QVVfeXFMT1RTTkFHc1JNalFsbDZOZ283NVJiQ1BvMFFWNVZ2YmstWi16ZGdHS3ZIWndjaHloeklBOXo5Zkw4OTFCZ2Q1Qk9YUEJqRWh1SjhIdTJMZnRnbkZzdjAxRm91VUpoSFMyQmtpMEFHZ2NWekxiWVNyVUVnb0lLSQ?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures trade flat as inflation worries persist - Yahoo Finance Australia
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHZOQnh2bnZCYzktRHF0OE1CSG01WHp3TTFsOEhxZndWSlQ2VlZHN1NSVC1pV1YtVk1HVHVTdFFjWTRXdHhxX1VFbEpaOXRNSGx6VjJfejRPUm1TTEpzamVhN0R1bkdpQ3didHNqTDktcVB6X2d6V3o5WHUxU1k0Q2JBTW5TMHVabVZNcjRzN2Z2MU9XY1M0a0xid1Fac1haSmRKbzB5VmtzbzM4eXR1SVlUbFNqaUtCRExGMnQtZF9xS1ZTUWx2OEI5czJ1UQ?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures fall after Iranian supreme leader says enriched uranium must stay in country - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxOZ1NJR0taMGxkSDMzWldWOVpXV1lyZ185T25nNC1vYU9JR2EyU3I4ZVpGdFFUaktMVFBvc2pUWEcxcHBLMTNoZVU5STVUNHl2MVVxaUh1REFKR2VIbTFTZzdPWmM1MW1QTnhJN1lxVDFFZFMxVE5UNlJJSGZvUnh5TkhTSW41WURZa3ZjdmRTSXREeG9KNG1acGZ2RlpxRUhXbFplTlBiY2E2LTZscDNVVlZEN3NXY3gyQVpYSjAwblpuUTJvd1hpRzFsbEVMcjZZeGc3N1N3LXNXeWNjVE1aVW5HMUtpRUpqSENUN05Kc0QyZEVXU0Y5WDN2U1dGYzZPNVhqc0dn?oc=5
 
 
 AI
-- Hyro Partners with Five9 to Deliver Healthcare-Specific AI Agents to Contact Centers, Cutting Integration Time to One Hour - PR Newswire
-  Summary: PR Newswire
-  Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZFp3ak9IZ244dUxuaVdwbXZuaTBqcEJmRFZNNTB4UzVOTEhOQVQwMVBpUVdZejBhWkx5YlVvQ0t5NG4wbGUyTFFrSHBMT0xqbGdBaEs4c3haUng2NXNMaUgybTFfTzNPN3RnRW9pZVBKbXk0c19tWHRYRGtJS1R0RnU0eXM0RVRCMk9KUnBmZ1NwdV85eEotYkM4ZXdkVzYtWmxoZi1lM3NUTUVKY09RVlNraW9Zd1pIR01xVGRKMXpoMDBYZVRYUW5Eb05hbTJRQ2Z2WnlkODJ5Q2ZmNWs5bGJPLUNrZ3RtSWZUbEp5WHdOZW02SXVIOXZxTHNvMllfV2hhTHBqLVY?oc=5
+- Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC
+  Summary: CNBC Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent WIRED A new era for AI Search blog.google
+  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5
 
-- How You Handle AI Agents Says More Than You Might Think About Your Company’s Values - corporatecomplianceinsights.com
-  Summary: corporatecomplianceinsights.com
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxObFRZTTE0TDk5QUJodTZWOUxlVmVPZC1nRXNaVVNLNHQ4M1JOT1J5U0R0a21oVjBqZmFiaWw2WTd5LWZOdkx3b3ByUnZiRkpMOWRrYVhaeDQyT1Babko4RV9LT3Q2Uk9MWnBIam90QVUyUnc4c0xPOUtVMHhKTVR0QlBMc09VdlA1Y3l0dw?oc=5
+- Microsoft and EY launch $1 billion AI partnership to accelerate enterprise adoption (MSFT) - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzNHLWluUEI4clVGOFhvLS1ReEw2ZEdrRzR3dHMxcU5RaU9sM1AySXRlRWl4ck40cV9WbnZ6TGtsVEdvZGgyZFNPSl9nNzVMZk1md1NtQ1o3RzNTX1hUeHZNMmE2RHRQc2g2U2otRUc1aHo0eUxJRDJQZEFHdkdnWXZFekhyT2ZGNjFKZU9wUEFSaXVtbm16MWRjd1BPblk?oc=5
 
-- AI Agents Are Here. Security Must Be an Accelerator for AI Transformation - Infosecurity Magazine
-  Summary: Infosecurity Magazine
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPbG1DZnZXejZCb2YzMkdiOU0zcjdXWDd2OTFMdTdOZXVIVGs5UzZndDVOdnVuNU0wMHVUTi16alpPbjFxQzYyaFlJVWJBTmdDWW9UejktMC1Ld3VFak1LY2pCVW9XYzd5ZmdGTHJpY19pWmY1Wm9uZzl4dUt0V0N1bUtSRGlQVHM?oc=5
+- SoftBank Group shares soar 20% as Nvidia earnings signal strong AI momentum - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWE3blBGMHNDZlNabE93WnRDRTFKcTk4Zjd1dEV2UkhCdl8xSTBxaEI5Mnl5bE9qQ0Y0ZXRRcG4xOUZNdEowaDBOTG5ROEthdF8teXM1dkJ1UDR5VC1FQ0VHMWJkWlAzZVdpOXFVazhmaDk0RzNlT25ycmg5a1R5SG51ZVnSAYoBQVVfeXFMTXdTZjFHSzNFRGNPeS0yTWZtX3d5YnJMZTlQU1hPN2h6ZWJNVWtMam9wRjlSY1VrS3RLZHlMTXl3dFpKa0xscTY0OVMzSnQ1RENYd292T1A1NjN6T0xfSmxQa1JHRW43Und4TUpGb0otRkVUNjNYZ1VkY1JVdW1aRkZWWkw4N2RON0p3?oc=5
 
 
 Markets
-- Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says - Business Insider
-  Summary: Business Insider
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn?oc=5
-
-- Could Nvidia Earnings Be the Moment That Defines the Entire AI Trade? - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxON2hkV2F5NE1fSGNpdVpNeXdyb0dNY05CODhmODVIMmpYRUdjY05hNTVaVjczX1BaRWp4UTN1Y0xLTkR6d2xPbkNOQm9sakJhVTZpRUU5MERqYmRoWFR3Qm9vbXFVNnhjdWk2MzFEekdmdzU5WW1zUHRPbHZaUDRoMzRETjRyT3NaQXdxdk5QSjVfaEk0RkFBUA?oc=5
-
-- Tech stocks today: Samsung strike talks break down, tech stocks bounce ahead of Nvidia earnings - Yahoo Finance
+- Bond markets are not so subtly telling the Fed that rates aren't high enough - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS0FxQUZfZHlkb2VZWWhjU2k3d1Z2YjRtNW5fSkZXaUYwcjNTcnY3UFRoSU9PZzZNTklGdnZKU05qNGNkLTlMUmlYcWZoQ2t1M1JYRWVFZkZKZG1LV2tTZnN0QVhTQ2Y1dWduSS1acUI0NURnRVVDcHNmMWU5TG4yRm0yamlqRUVFRDJPWENBWXBZQjdGYWpPcHktNFVIdjlQWHY0VTF1MDBwUVFIR0JsV3JZMHNVenNQRExLemJyTVNFMjZYTHhxN3Q2aGFiUE45SXFZQUswLUg4aXpJNHJPaTBIdVF6LXZHQ0xORXdKdw?oc=5
+  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnZaUVpiWTlwZm5SRUp2a0k0YV9sU3B5VGRlY1U2NDl6dEFkcFE0UHdTLTVlNi1FUkhTS3pKTGFPQlE1bDdKOHE0aWY0eDZpWWhlLWdzUDJhRXRYbXZBN21JRnEwX0tTM1lqT1VlVXdaTFFDV3hvUEYwalJvb3pDd1k4UFh3UnE0M2FVY0hsRWptTnVybExteEZFVi0yS3ZoUzFMY1hjY19NN2NOUmVJbHV5VTdxQmFHbFI3ZHZqTVAtT2dlREVwb0VTVWNQWElMd2ZCQl93?oc=5
+
+- Inflation Rate Hits New High: 8 Key Items Shaping the Stock Market Thursday - TheStreet Pro
+  Summary: TheStreet Pro
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVNHajFHS1FXNHdvZDBHTmplVXFNY0cwM29xNEZ3c1g1ZjF0SDJ0UklmYkhzY3pvak5tRkFKeUxKSkxCSFY0SG1uYkYtVzFEMWtQNnVnX2F0dVh1N3pRUU81d3ZsRnB1WTZQcFh6TTFhbmh2a3VQZGpya2lxNVBOZkZBcGVuTjdtRzJnVF8yZG5Cb1VuUFk3cmRFVkF4Nk9OMmN5T0ZSTWxUNFJSMkFB?oc=5
+
+- AI Energy Demand Reshapes Semiconductor Roadmaps and Data Center Design - News and Statistics - IndexBox
+  Summary: IndexBox
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVdjYS1UQU1ZY0I5VHg5My1TY1hkNVVfZnR1Rk1TNjJGbWNrU19adTF1ZEMybnBKQUFWT19WekxJSV9YeTZZeUdEQXREOVhJSFhCVjFRcXN2ajBOYlVWYUpfXzBEZVhQMGgtbmd2TThJSzExSjF4WmpVRkxmRWJuWmx5NVhucy1sMEo5bTNSQjBkcm4wN3dyYTdvakRqa1d0WXdCWHM4bw?oc=5
 
 
 Travel / Boop Relevance
-- Technology, Managed Travel and Hotel Distribution Gaps Stall Progress Toward the “Perfect Business Trip,” According to New GBTA Research - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxQcmRPSHFHMFVjWXRfakhNXzJJUk42VXhTSFJWVDFmVVlsNmY4aDllWHJnRk95QS1SOXowVmgtLW9IZGNhTElubzRtWmZleUNwV2RWSDlTZ3lUcV9WaFZBeTJkQWtuOGJWaW1QV21mVWVlYXFUQ1JUb0s5TjBDc1JTcjc0MG5yM09neUNuN0ZuVFg4eG5VaVNTTDRVWGNSWG8yZWh0dWpmbjkySWdmYWFSd01qLUt6cmd1cFR4bndDU3l2TzBqSG5IVmtqMlFNdXhqaHRER1BYNVk2ekZJYkdESVFPWkphNUlEZjBKT2NNc0pzVF9pMW5sYlRvZGhvZlBqTTZfUWVTRQ?oc=5
+- New Zealand Launches Revolutionary Travel Visa Overhaul with Enhanced Immigration Online System to Fast-Track Group and Tour Escort Visitor Applications, Simplify Processing, and Boost Tourism in July 2026 - Travel And Tour World
+  Summary: Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5oQlhkb1lrVXl4OUxRLWdQX1Q1Sm9HUm03WWYzVV9QMmZKb3NpNmlhZmdnSFowQ3hSTUtrM3hEOHhPTlA1MkczajgtY3czNmFjV2xLWWgzLXRyMWpCdGxwbVRjM1FhMWRiM0xVc29n?oc=5
 
-- Scottish Startup Tripster Launches With Aim to Reinvent Accommodation Management Model - PA Media
-  Summary: PA Media
-  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkhoYXhSR3p4OEJWbFBRMVU5NTR2aTJETHhMZ19kNlZZdFQzak9EQW9KQUV3N00xdUlUZEtZRHA5YWd0RXBIcEpZN2VqZllnS1doUlpUYzA2YlMwTU9weVN2THRGenZaeHFLSnB3d054OEtLT3VaMDIwU2NkRWFQSWp2azd3N2gyX0c4TjRPU016STF3YkVwTnctclA4cGw3bjZjUVBSdm9vNTc0NkVYaDQtX1hoVEVycWRjOVpEcTJRd1Bad1VnVFhMM3R3bXNrMlZnRw?oc=5
+- Booking CEO Sees AI, Connected Trips Driving Long-Term Travel Growth - MarketBeat
+  Summary: MarketBeat
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkliVDlzZmFjQlV6cEdkTm9aempWLXZTM3hrWlpBRmFEeUk5R3lhUVZyRWtVTEFkeWRKV2M5MGVncmlmbGtrY2E3NmsxQ0N3anYyMFZxSTlncFgyTGxLNWJZRUxXMXpDZC1oZDJMR0JQQ0FNNXNIN05raHM4ekJfVzZwWmhDeWUyMlFwYXYzaGxBV0ZBZktPWEUtYU01NUxMTzZZY1VkNkg4cnczRmJtMTJyNG1WeExOVDVsclpB?oc=5
 
 - Instacoins Travel Launches First Crypto Native Global Booking Platform Enabling Direct Flight, Hotel and Experience Payments in Digital Currencies: What You Need to Know - Travel And Tour World
   Summary: Travel And Tour World
