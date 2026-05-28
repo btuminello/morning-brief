@@ -1,77 +1,74 @@
-Morning Brief — May 27, 2026
-
-Seattle Sports Today
-- Athletics vs Seattle Mariners — 5/27 - 3:05 PM EDT
+Morning Brief — May 28, 2026
 
 
 Breaking News
-- [AI] viaim Secures RMB 100 Million A+ Funding, Joins Forces With Transsion to Reshape the AI Agent Hardware Landscape - Yahoo! Finance Canada
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGE1cUVndkhnUTJzWmU0clJycHV5a2pMcUJmOUp6S0c4T1QxaWxWWWNVU21MdFNRQVhlTmplTVJkZmFSeVZoeU93eTBENlRLaWFpNnZRSlVmYVZ5V0ZhRkJKTXJpR3dJXzdMWFd3dGRpcjFtMHZuNU50MDhrTWhsbEJQYzA?oc=5
+- [Markets] Fed's inflation gauge heated up in April, cementing that interest rates will remain steady for now - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOHpMVjBROWItcVMxcjNsWUR1bkRZeTVsWjlGRXJLNTBrZkRfR2pDMjJwX2prUHdnd19BSzhpWXBCQnZPQjdCQUpJQmxuRXRfd29UQkNKYUZsRjVwVHg2c2w3eEdPdWxxZlNxSEltRTN1eFhpSzRaaTR1YTNOLThMWElBa2FRWm5lRkNQSU5HYUlJY2xvaXQwak5xcjRmUUVaUkVPQ1F0eGkyOGk3Z1hSZjM4MWQtVVRCQnBqMkJxc0xOVkQ2YXpGdlE4SXRZaU5UM0ZqUWFkZC1DLU1HSUVQaXd3cW8yZFc5a3dHaDI5a0stZw?oc=5
 
-- [Markets] Enpro (NPO) Lifts EBITDA Outlook On Semiconductor Demand Are Earnings Now More Cyclical Than Ever? - simplywall.st
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXB6UlM3MTBKTFRpX2ZfWjRscUp1QmlwYlVXRW5Mek9PaDF4Z1FabndiV2t4elFDX2lXZ25sYVdTenBWS3ZielZXdUllMm5RWWVPTl9YTnlwVDZDVWxTRlJjdE9nUl9RX1RFVmE5dUJYRjhMT00yVDFEb3VVbWpPNmQ4NTNWUjVGVkV6ekE1YlI3bnVuOFZ4QlZqWU00ajVTbWRjaHVHRUZra3o0ajB6dmJrTDIyZjFrRi00SHNybGlHU0NP0gHKAUFVX3lxTE9HWExEUUw3OUxCaDZCVWpQYlRrb0tlZE51andYMDNzdnRlNzBSaWtWZUNHMEp6eW1EZXd5a3dwVDk0b3A5UUZHSXI5SFJzb2dWOEFCQWh5cmV4WEl4UXAzaEd6aW90ZHpDam5sMVZXZFNjbXptMVpHalMxbE9jblhnQWk1OUN6cmE4WG5oTUNPRTh5UmdVamRKZ1hQbGlKQno2WG4zWmg5RGdiTnY0WUN4aTI2UExQV2FvaGMySmVGUE51cmV3Z2o5UlE?oc=5
+- [AI] Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote - SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEhqUWJqVlR2SnpqYl9hcDl5NVNlUHlPZ1E5aGsteGdNcEFMZ3B1SC1Yd1pDYm9vR0NfbFE4bWlIZE1TRzhGOUhOM0RJUUIzU3R3OEp1Qm51eFh5NHFtUjVZVi1CYWNMdDJmNEpMMzZDOWVWdXFEM2hnV0FmUE1YX0hzc2ZRUHNkLVJPYUhYbDdqYWVqbV85ckhBWXc?oc=5
 
-- [AI] Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalFGU2tXNTJnS05hbUhmUlJwbjdFOEt2Y2tuZUxzWktRTUhpSTdldy1sOTFTT1ZuS0djclVHTUo2UU02R19fWnUwRWdiUUMtVFhNdDZwSkF2bEpSb0xTRE45U1YyckF1NkpvY2thQkVRdENpcy1uOHFzTkJTREtpQXFaWEtsTVdKeml6OFBpZWxabnhYSlZZZzVXR05DOHFXN2NheUJMUEI?oc=5
+- [AI] Geordie AI Raises $30 Million Series A to Secure Enterprise Adoption of Agentic AI - citybiz
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWpHajFzdTZWcXJxZ2lXUUpmX1ZsTlhnejYyNVRZUUtPYWRXTEtYSkhyOFhxLVpkTjVHdjl6TEN6SzEyVERSbWZ6bkRZMnFBNlRvTzlSTS1ZZ2otYjBQZTlITXpuajl5TW43SndyWTBsX0hBYXlqaGFFb0kzcVRHWkw0YV8zNllDc2drRFctaHM5NUx1c08xTWVJdjVrckVLZXJoT3VteUJHQ24xZDBCUHJHNlU1aElsMXN3YQ?oc=5
 
 
 Must Read Today
-- [AI] Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too - CNBC
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQnZTTEZFVTNYTTg3TGhGblRqcUhNQ2szZEkxS3pnTHU2cFg4UnNvX1otZFVJZ0RRbDlBckRib3lKQ2RQODAyVHp4SFd2dms1QjdYdkp2MWs5MmF6YjBKRlNZMzVBenBtN08zTU5aV2c2QXhDQTlFbzRyNjRYeXpnaFpJaC0wd2dJQnRsbFVoUm1Rd3BVOE9Mb3A4YXJ2SjNoTUVRd3I2T0tMbDlJd3h6eUNfRUk0SS1oZXZ0em8wMkF2dWPSAcgBQVVfeXFMTXFPXzhaUUQxbmNKRTFVVHlHcTFrdHBWNlZPQWduLVBDR0cyN0d4X2pwbXJLcThWQXQ5U3ZvLXp1UzdDSjd0Zkl5NjY5Q2VQOW5VdmFJU0ZWQzdiN0tYMUYzQnRFbFVjZU5ubHo1MG9MdzRaM1g4NmVSS0RFaVpIa2Y4QVZfM3Fua1NXTzRiSDN3czhwLXE4MHFBWmJFV3JrcVBBZkt5VUp6aUUxbld1RjB6emZYdk85dlA0OXU4cTY3b2JaZ19ZTG4?oc=5
+- [Travel / Boop Relevance] New portal looks to simplify hotel agency bookings - Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDBoUUdJTjhZamRnRTZsNFdJVWRVNVBVWm5WbVFOU3hQQnQ2N2lMb2VzVlR4Vy1DZldjc0dGVFhNMmUxVEp6d3dza1NlLURFTVBVNHg1NWItUjFMVUNKbUJ1TUt5YnA0SG8tVWJxRmsxUGhWeWlaai13dmJDRlFPak8ydVM1UWN6NnZKT09ycmxBM0FkeVRuQy1XcmQ3VDdtZzRxbm5QMnNud2UwclpLZ3JVZ1k?oc=5
 
-- [AI] How AI’s Big Appetite for Chips Hits Consumer Wallets - CPA Practice Advisor
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUN0bDlOVjdMTzdZVHc5R3lpcFlsU1A2S2Y5enhPc1paX3doQ0tMWEF4c1FPWElPTXRRNlRxc1Z0Ylh3cTlZd1hFaXdjb3YzNkhIZ2ZoR2l2WVlwMll6bFQ2N2R4S0ZVTXhKb3plWVdkNDBGYUduVk4xQkZVbmN5OUVGT3NOMmdmeHFKLW11M2M3aHpmR2h6NDBwbjZhaW9ZcXl5R2hsNExxZw?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures drop following US strikes in Hormuz - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOamtPRU85VnpEZko0UHZBNlpYVkVzVU5hcURjMHByU3JxbGc3LWl1anduclZkZFQ0UFdkTlJvbTQ2TXpIb1lZMkRwLWczSk02WVRQZVAyY0dZcGRlbUJ2XzA1emtQSG80N1c0TFBYSUlDTEpGNWNLbUN2ckFSNHQ1Wnk4cVUySENFQ1RuV0pwSWYtTVg2Sm1rUzR3WHJVdWswUVYyajROd2tvX1BvX3FSZWYyZkk2RExVOTNndzl4UHZPR3JYYWdZbmNXZWw4alE?oc=5
 
-- [Markets] Robinhood Will Allow Users’ AI Agents To Trade Stocks - Forbes
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTM0aWNJV2FKQWc3TmpNNTB5bjl0RmI3N1Y5RGxfME9vNzdrVDB2cVc5NExFZ0xxSFhQWUdIYU5kNF9rOWVSQWFXMmN1anBmRGRMMmpqQWZ0dnZ1ZnJIV0ZsQ2trVVVBLVV6eEtQUHhfcTJaMkxndFhTRU5TV0JUWWh6VW9lbTVoVTh4dTV5OHBzWUhLS05lWGZzTmI4U05YTTd5cmZDNTI?oc=5
+- [Markets] S&P 500 is little changed as traders evaluate oil rebound and in-line inflation: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1hM1V1MmRicW13c1RpYkdtM0JzR3RUSnRMTVFmdWo2Z0hDUWNoV0VjS29Ld0NNMXczb3p3akg4R3VBYVZveXVJa1ZVdUpQVkVHbWh2Q1VRR1dqQ3FvUE92YmlWdDRCUjM4QVNXX3RZb2duZHFoMFI00gF8QVVfeXFMTVJKVFVEUDZZQmZJa083Uzd3ZVJleFI2cmhtODFpd1F3bmZtQWRKRW01Q0F1aWhfbWE3bm5lc1drTXhlMVZxVGJXcXBRRk5lUFpUMzhaMFlZTVJpX1ZCQTFQQnktVDZEd1puU3pyTFVld29JdUJVTl9sNWtMQw?oc=5
 
-- [Markets] Stock Market Today: Dow Futures Rise, Chip Rally Continues in Asia — Live Updates - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzNJa3MzTWo3S1pEdE93RGZ6NnZ4U1VzWm4xUnA0bFMyNy16Nk9DbE8wU0xDZTA1ZmRSOXduWlBwZW9oTDdVczhLLTRlanNKZ1FfZ0V5a1NCR0tUZ1U4aVJXTEJnZEVSaUhuLWpHM0t3Ykg2V3lkY1J1UEJKcGQ5aUpNNVlzNk0?oc=5
+- [Markets] Fed's Jefferson says he is focusing on inflation as US labour market 'very resilient' - Reuters
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGVja3RkRE1vd05RcXRNVWl1S0dZNzJSa0FYZHJTRTFVRTFXbUJRYWk1Tk5KbVVIeWdDb3RxNDVDSFpsY2M3VlFreFFILXhtWkZwZk1JZ0dPdmhWZEU5NWdoVlVoNWp2Um8zdnFtM3U1ZkFBcEZWbllaTEVPVGtGeHZidDNaNVp0NEtrN0ZqRHphWFdFa05qT3RVVFpkU1Z5aU5kY3BHTC1vbFRyYVYzQmlNYW0xTTg5bHV4VkRrWGZISkk?oc=5
 
-- [Travel / Boop Relevance] Irish Travel Tech Giant CarTrawler Announces Partnership with US Carrier Southwest Airlines - ittn.ie
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFN1U2t6a09zU2c3c0xlQUVtWld3TUx4bFZ2Yi1ybWluWV80WW9QX01nTlpzRTl3MkRXTmlQQnVaRlVsXzVoRmZKdmszWkJOVnJtYU5fSERmdXlSSHNFUHNZVVQyMl9KWVhidjlPT3duN295RG94Yzk3bjhpcWNtZ2Z6YXM1RmRfbkh3OHlZMmE2YXVYUndiNE5PWEpXaEVaRTR4T3lvRjFBNzYxT2R5TjZyV3ZCRXF6bHNFRg?oc=5
+- [Markets] Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape' - CNBC
+  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSU1pQXdKUjZMVGpoWFRoN3ZpaVhFU21SNUg4WnN2VVdEY2VoRG9senIwNUNwdTVLR2otZ2RzMUtESU92RDNWcEdJejhWUmZsN01aanp3Q2I5d3M1Yy03V2NCckFWWGxsM2hESzFHVGRkOFMxM0tCUzJBQXZUZjdLZzh1M21fTDBzYVhr0gGQAUFVX3lxTE9tbmxOSzF1YThKbU0zNUtlQ0ZLQ1MyQVNWQnlHNHRBLVF5Z0Z5czFzVjhaT2xHMVp3RG9IaFlkcWZPdW9iRGhfblFMMEVMZmtuZ1ZSUm9HNjlLR1ItVWxyNk1fVDh3N3VIeDVlbE9wZWdYSXpscnBkUVhQNVdfZXN5WjBaZllWYWc0MXk0ak5Qbw?oc=5
 
 
 AI
-- Broadcom and FuriosaAI Bet on Ethernet AI Fabrics - Data Center Knowledge
-  Summary: Data Center Knowledge
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2tQek9NazZXdVhnaDRwdWt3TWJrWTNELTMwZUdZcEVlaXJ1VS0wZ0hqREc2Qk9lN0hpdFdEamJBd2NUTjlkUmtSbUxiY0pMaWwyZzdJVjJ2Tm1peGJjaWNENFkyRThzelRCU28ybUh1YXR5X20tbGtlRlMwYW5CZnBxZkREcGd5dTFvUDlBbEJLVk4zdkY0UF9wV0sxd3lmdVE?oc=5
+- Teach AI agents when to stop - Fast Company
+  Summary: Fast Company
+  Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE1XVS1McjVhbGRlLVdwYkVpMENleWEwczQ4R045TDA2cWl0OXhkSnNIVnlTZk54RGhuYm13ZlJwRFBLTGRmQXZRYktvYXdTUlRqcWdES2tUakZCeGNhWGRxZDkybzdHRHZxVDZaQXI3X0FfMVE?oc=5
 
-- Maine's Blue Economy Deepens as AI Startup Anchors with $260K Funding - BriefGlance
-  Summary: BriefGlance
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHd2dnRoSkpZb20xQWxYZm40cGdnemFPZkRHWjhvNHV2UTQyQWw0LUZ6STZZRjdpNmliaWlidERqWDE2QXRSQW1xSkdxazI0YUNXRTA2UTh5bzlQX3ZkdDFNSUtpbmVVLTJNay1sX0dHcEEyRHdHZmhoMUdocDgyeFBkeGtzdi1YVWRmR21hTHBtZHk2RGFWM2dvT2dzenBNMFE?oc=5
+- Generative AI Market Trends: Large Language Models, Enterprise Adoption & Forecast to 2034 - vocal.media
+  Summary: vocal.media
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGU2YXptYlFUbFUxT1BOazI5bXItM3dzZWg1SG5JSUd5T01xSzFpRVQwbEZjNEN4YTl6ZGp3aE93aEs4YTIxQWxURHpsQWZJRFU1ek5XVlFrZEtFeEZUc29lOVpqWUdSRnJFRWI2RWxKQ1pEbWJhU18wVlNQMllsMXlyUHdfeDFrV1VYMVFCbDFVOFhlOGtIT2JMZ0V3bXFwNnRiYWFRYXVKRVpyazJVUmZsdXB0UndNNUlZ?oc=5
 
-- Wake plans teacher training in generative AI, district-wide policy for use by fall - WRAL
-  Summary: WRAL
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3poZ19HRU1CUkV1RXh2Um5vTE9WRG5SdXFpQXZrUnF5bVhSQVIzcG5OWlJjNXpQdThSVFpqTXc4MmpLSWVNLVptOENTRHNzMDV0TFA3NUxwcEp0ZXpVUk9fY212S0lLeUlhRnhUT3dqOTBPNE5xeHlGR2xRZk5URWIzOFZRMElSajZnOHdFZlUwTEdZUjNBTFlRUWtxRXVlcDJmdVdUZk0?oc=5
+- Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce Despite AI Funding Boom - Crunchbase News
+  Summary: Crunchbase News
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFlVNF8yZC1hUGRZaF9HdDBLemd4YzJrQ1ZIUk4wZHhQSDhhYUZjdVppaWU2eUtSb2pxOGF0aXJ1aHpxNHo3bnZodjVkSUlyS1VNVFpwb0UzdjdUSEVpcnVwS2Q0SWlRUmZKcTVzZkhybXBGTWRoc1N4R1ZZZndIVWhXWndLZUc2aDdUajlXQjlyMkk?oc=5
 
 
 Markets
-- Stock market today: S&P 500, Dow, Nasdaq rise, oil falls amid US-Iran talks - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmk3WlVrZ080LWwtbXRfdzVuWUROVUdJREw1aGlvb2ZwWU9XMGY2YTQ0ZG9sRE1ZOXRmUzFseWR5dHpZOGFhMFF2MWY4VU1jZ2xkYk5GMUwzbXAwVTZWeUNWei1rc2ZBQW11MF9ja0xYRDJlTXh4WkJoRWw0OEVSTUx1MWU1Y2laM25ZWnplVmQwQS1Sal9vdGYtdXVjc08yUTYwNXJRbXZDWEl2QlZKZFh0ZmJjTTM5UGRxLWZHS1BtZw?oc=5
+- Wall St muted as investors asses inflation data, Mideast peace prospects By Reuters - Investing.com
+  Summary: Investing.com
+  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHFxdXdXZUxkSFYzczhYSTdVZnRHcFBERHkxM09JZzl5ZWtnVzY4X0R6aTZNUUtfRWhFdTRQcUNGQzNoSnM2d2lKSk5ZSy1iQjBadVkzUFlXOTFYYU9TM2ZVeG90bWRGQVg5dVRhcy12NVgxSlF4REY5c0d2RjhiQnFKQ2NQTnRhRFpld3JzTXRXd1lnODJ5WEhfUmRTek5fVk0zZWpHcGNObGlJY0JUZkYxTU15alV2NGNkWTBZZmRTRVpweThB?oc=5
 
-- AI Stocks: SpaceX, OpenAI IPO Buzz Fuel Next Leg Of Rally. Salesforce, Snowflake Earnings Due. - Investor's Business Daily
+- For a yuan in deeper markets, ex-Fed’s Evans cites dollar playbook, flags risks - South China Morning Post
+  Summary: South China Morning Post
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmJEanl1eTNMdmhOcW52blM0bnRXUzU4ZldrZ01DczllaGRjVTg5QmtEc2JmUEZEcXJZOVFGZ1FmYkpsOENTYzY4cE1qMmpxT3ZsZVc3cmpEcmVfNnVfaGJ3VWFxaFRtOHNYSTZpUFRCTXh1aVFtMl84YVNyMXZnSWtRa0p4VHVrZnpyRUFtRmdmemxHaFppS0lTMzNBVnNQOGlCUjhlMTM5MFVkcm5KRkJJTGozWElwRHVXUE9KOGt1bnFUM0ZFb29CUzJlWHRRNmfSAdIBQVVfeXFMTjh2Q0pvRzNJTkF5eExzQ1hQMzkta1VoS183SG5feW1CWWpDRlFWYzJiUzNlelBiUmktMzFvS3JJWWo0WnN1MDA2OFY4SkFYSU54d0N6Q0ZkSWxnV1g0bHdzazZCZlNoQW9KWVlZSkxSaHNHVWZJZ0dMU0p5aGpkN2JfazFSWjdIemhuMUdOeUZ4c0x3eHFQbXhtWE5udGwycWpxMHhsZ3lPbXZRX2NCT3N4Z2U1V2V6a3NTQ2gtOEc4UUQtRjVsMktFMndkNTNOV0pB?oc=5
+
+- Stock Market Today: Indexes Start To Move Into The Black; Snowflake Hits A Year-To-Date High (Live Coverage) - Investor's Business Daily
   Summary: Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZC1MYV9ybVVLVTY5anYxMG9lV0EzTEpvOThfaC1GX0VfX1J4a1U0M1JJT2NhWGdUTl9tWHY4T1ZRWUFXMUh1ampMX3ZzenA3dGtRRk5TeXNwc0FlSkVfblItTG1RSmd3N2dWbW5kYl9DaUhlTkR2U1ZjSzNXNndkQmZuUE1UZWlsWjROWHRkRlI2SUpwbnhpSw?oc=5
-
-- Demand for AI chips is red-hot! Taiwan Semiconductor (TSM.US) is rumored to raise prices for its 3nm process technology by 15% in the second half of the year, with another increase possible next year. - 富途牛牛
-  Summary: 富途牛牛
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxObDc4S0xjMXZCNDVKWDcwMGVOV1E0M2hJRE9hTVMtcnU2dEp5TlhhSUx5Uk5jNnRaaGZydGlwQWt4cm5NeDdGelRZa09kTDFjR2ZTMUYyTGZyTkN6UHBiM2FzaUVGOXNPSHhRSkgweGYwS1drN0xYeWtiNHkwUUpzdVNubWN3YmpUVnk4bXdZZjd6N3VlWGExRVdJOFpyR1U?oc=5
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUxVZmxuSm1wZmJzRHo3bklWQk56eEdwbjVtaXJIOWY1bUNpeDMzNFlVYzBjLVZ1dm1vSm5ySF92aDRkMG5iZzh5UUw2WW9QOFBRQjJqYnRWeXh6QXJleWZ2c3VfR3EyaXJ6eFZVMFE2UVk0cjJqUWkzelE4ZVRxQkJpYXBXZmZnZ0JROGtCWEtMLWMzSXRLYk1fYjA5RnNVMG1aeS14cko1QjBacGwxdXlwOVJ5c1pxMnVraQ?oc=5
 
 
 Travel / Boop Relevance
-- Travelport, Cognizant, and Anthropic Partner to Integrate Anthropic’s AI Models into Travel Technology - geneonline.com
-  Summary: geneonline.com
-  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVJTdFJLWm55NTNVQVRzQi1yUG5UZnk4WkhVdk02Tm8wRWhhUVlOUHdxR1NfaUh5cWhDV3FRa1A1ek9ocE9rV1h5NDZjMmVUaWpJLWJ3blJfaEZadDJzVERPZnl0a2Q0TWpTY1pZSEtYLVRLTlFLVVhLSEJCNGxLSjJzVEhyeXhtTVRXR1NsdkQtTFFOLTdzalhheE51T2t3anRnTVBiOXBNbUJHVEhZdkNBM0FCYmNoNHBsTkdZcTdCZkpCUWc?oc=5
+- USA Travel Tech Shakeup: Amadeus Redefines Travel Advertising to Capture Demand Earlier and Reshape Global Travel Marketing - Travel And Tour World
+  Summary: Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbWhrVUt4clJHNUFSY3pMN2FFYWFDcHVCdHJZYnY0WjAzeHQ0ZXdfQUMwUWZLWk4tUnc1TGE0UE5UMkszZUowNFlQdm9MOGd6TVR3WGJwYk55WnBsbGRQWUxJdUp0Z3hTQWdNdWhB?oc=5
 
-- Booking Holdings Inc. stock (US09857L1089): travel demand, earnings momentum and digital scale in fo - AD HOC NEWS
-  Summary: AD HOC NEWS
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHdrU1BUZFg2bXI4ZHBFMzJGQ2tBQTdneU5uOFlJUHFBdFJfUUdGUWxBTjQxRVB5UklmTTRHTFJiWG1fZmpJWHYzM0JiQWVPRlpwQ19zdFdITTRSZ2tHc29mU1FELUlvZEIxbkp4bldqem9aZkw5OHpyWHdDZy1LQTIyaldPbWg4Rk5veS03UG03NGJNcVgyTkZwR09sQzVuOUMxY01KdElhX3JiZW5RNkxLLW5RWVRqS1ROTlFB?oc=5
+- Agoda Integrates Hotel Booking Into KakaoBank in South Korea - Branding in Asia
+  Summary: Branding in Asia
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNelhTMDRhT0Zyclc0Z1BpUU5wVFFEVTR6anhlNVE4R1FxMlVYQzNFZVUtR253Q2VoNVZIMTd0TEZRM2FvTWNmZmtkUmJkRkNsemNad2NyQWppNGZfUWJwc0VLUzVJSlYwREx2ZjhtaG5QVVl6djNxN3NwN3ZtSjBLUDctWWZ3NTNxMVkyUWxGSDBKWlAxM1I0?oc=5
 
-- Google expands Agentic Shopping to hotels and brings AI booking into digital travel commerce - Karlobag.eu
-  Summary: Karlobag.eu
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS282NTM1bS1CX1lOMlVrOVdjYjRxSGQ3YXFOcEt2ZVMxSHc5TWw4eGdHQmZPT3JkQWN6LU13ZENlRXVzcklaenVqZDZuc3FFTUVCekZTdXlPUk5TMV9mdDZmSjdmUkpoeERmMEt3bXRQSV8ybk1qTVNsUkpwYjVHT3RlSkpSWGJOZGVCeTRIM2FFNzJOcFhteGJnWmFIN1VoUTBOdjQ5UENRU283MHdzRVJlZElEY05D?oc=5
+- Global Travel Tech Startups to Compete at Phocuswright Europe 2026 in Barcelona - Travel And Tour World
+  Summary: Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE80bXhNak9Fc01ubmFVV3JjYnJScl90M1BCbG84MnFwclE5VUJjdWU2VDBEN243OTVLWkFDME1FM2xfRHFnS3ZzQkxNMEtGREcyNUQ4Y05JcW9PamRXcTI4ODdETUh5el9XNkJDZmZ3?oc=5
 
 
 Bottom Line
