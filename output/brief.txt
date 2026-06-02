@@ -1,77 +1,77 @@
-Morning Brief — June 01, 2026
+Morning Brief — June 02, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs New York Mets — 6/1 - 9:40 PM EDT
+- Seattle Mariners vs New York Mets — 6/2 - 9:40 PM EDT
 
 
 Breaking News
-- [AI] Nvidia, Microsoft Launch RTX Spark PCs for AI Agents - TechRepublic
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxONlJxU1NoNm9BNUIySnhNLTBXcF8zSVpmUlpFTzNXRzhlRGJIUk43bnNZbVNPX0toT1YyQXkwbGJMSW1VWnR5MG51U2w5Z2lkT1RGc0lRNTJQVmxCcXNYbHdGMkFRZnpjYUtidGlxR3ZjMHNtT1ZSTWVrckVraGlKNXcxaHpVeklPTGhsY3ZUTmVpLTFa?oc=5
+- [AI] Cisco launches Cloud Control platform to defend against AI agents - qz.com
+  Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9Jc1NRTVRwa2hZQmpzeHI5WUQza0VlbDktZFNZS0Y2M2M2VkRuUm9EOHRGWnpGU1dld05zWkc0bGowR1BrcHJFVUc2ZkNHZF9nUzNEbFdqakFCY1lCQkk4SFp3RjJfRk5ENmxDUEVPUll1clU?oc=5
 
 - [Markets] Stock Market News, May 12, 2026: Dow ends higher, S&P 500 and Nasdaq slide as chip stocks dip from records; inflation reaches 3-year high; Treasury yields rise as oil prices gain - MarketWatch
   Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlFRVTMwUnpsYkt3cnczczdoMURPUVh0RlM3SUJYbVZIR1ZSbElVU0taeVJnTEpJVFI5alFHZm9yaWpxYi1FWVBDMmxqVVFWUzRiQXlsNGZzWXBwdnFQQnJiTTFldHpzSFlWYU1adkhxNzBOai1JX2FVcHlDTFJNWWRVMFRJWHNBbTFDT2xwb1l3cGZ2NmdOX003X2l5R29VbTNfcTJreVZCck45WlprVmgxVGtjUXp4RTNV?oc=5
 
-- [AI] Endra Secures Series A Funding - StartupHub.ai
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOejRUNE1menF0SzJFTUNQVmgzcnNWbDdKZklULTI4Wk5ENWF2VnJrbHhKeldEUHZWRkwxY3JXNUFWbllsQUtTbHJYMkd1WmZSckZqZHphbEhpV0t2ZFJhcUx3MEJfaUVRMkJ5RkdxOTBaWHJoUDFvbURYcE1iZWg2VnFLMU9LZHdBN3N6OQ?oc=5
+- [AI] Alphabet Raises $80B in Stock Sale to Fund AI Infrastructure as Demand Outpaces Supply - AI Insider
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzYzc2VWWHZ2ejQ2bFFnMmtDMHY2amtoanhidHUxRmhzVFRXT08xU3BZN0EyVlBqb3pOcF9jQkllQmpNLU5BTGVkd1V5VWlsR1dEMkU1OXFvdEdMQ2NIVUJzSlN2OEZXbmItbHA2MFByN1g0M09yYmtRck1kZHowVl9vMnhMYzYyZmFRZWJyRTdSZFpaUFUwTjNWNzV2TEFvN1pWanB0eEtzUWZVNEl4SFNjbkdXQW9JNW80d0tiWkQ?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Thailand Travel Market Growth Accelerated by Dida’s China Program Enhancing Early Booking for Airlines, Hotels, and Tours - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBNRWxIZGd0RkFIVEpGdmJSa1J1VC1HTTZ0UXdzSnhoY082U2tzMEcwRXJiOGR2LWRuUzhQbjA1c2g1RWdKNmZSX09EZWVMTS1TcENzbFhsVC1GaWlWVXlrd3FOSzJkTjVrUW85bjV3?oc=5
+- [Markets] S&P 500 is little changed Tuesday as Alphabet slides: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5
 
-- [AI] Hot Picks: Agentic AI drives demand for Dell, Oracle and Palantir - BNN Bloomberg
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2VZdktDVXNwZUl4cmNVTF95YTdRZWRfNDBiRnVXVW5oRVp1R0RiVjBRWkZUalowU0JveUJCakZvc0swRkRtMkpXSlVUbGZsWkNIcEVGWTVLTDVCTWlLYkdjeEJQMnpyZmxnOW5YX3lGRnBtOVgyVlp2RUR3eTRxRFE3dVN0UHdjVlVKeS1SLUs3VnhXdl9tWlVEZDl2ZXNhY1h6cTlWMTJ6M1dMMWphaWFMNVNHeWhiazZSXzBxRU8?oc=5
+- [Travel / Boop Relevance] Travel Reimagined: How 2026’s AI-Driven Airline Technology from SITA Is Cutting Delays by 30%, Supercharging Tourism, Boosting GCC Hospitality, and Revolutionizing Global Travel Experiences - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5ndEtHbmhJZDdReUZfbndNMkhKV0ZwVExhQTRFdnFmdjlGQ3N0ZzNiekkyd3A5X1ZkNVowazNVeENLc1NzTHRFdGV0bnRpdDJmSzdDOS1kbGRnREM1ZmphbVMteEFXRFZJdjZBUWRR?oc=5
 
-- [AI] NVIDIA and Microsoft team up to bring secure on-device AI agents to Windows PCs - TweakTown
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFd3dFZ6emFSMEpVSGg1R2NOZFBiWXVJeUl4dEc5dS1raDYwLVZhRnNTdzJQaUdxRTJ0WElNM1NpRWlCVkFSdjc3TUk4MzBqSXFZUlZyZ25oOUo0dEtham5OdTBwS19VWnFwVFd3NGxDYmFMMElac3NBLVRsaEJEOE5XaDRhck9SSk5mdHl0RVJvODJSR1ZjTDE0T2lob0hYY05yYXIybnFsNktXX21UOWRtT3dxVHpVd2xVZV9sWFY1UEtZdDFN?oc=5
+- [AI] Cognition Aims to Be the Switzerland of AI Agents with App Makeover - The Information
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUFFTEdCX1FMS3kyZnQyZlVqaDhZbHhFX2pVUFVqV2RoQWdaZXhuNnlxcm9QQXFpa1FnUVAwQmwxZnVPZzBjOFJjdkVVZVZRbHBZTnh4VzFnVDFYZjUzUWI5SlYwM3diVDZPOTAtODJlUEdQcUpPRWtnUjZmMGJsNzl3SjBYOXpQTktCRWU2TzZweUpkWGM2UXJSRXRac3ktV0dHZA?oc=5
 
-- [AI] Nvidia Brings AI Agents to Every Desk - Investing.com
-  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPczN3ZlhJc0JKQkFyUWpxdFlycEVycTZELXExRnRqVVFUcWxMQ0x6NGwzcWwxRlkwZ0NPR0QwWElTb3RmRjJteHlhaUxKMTUtQWdSRnZwSWZ0akVqNm1PY3lQdUQyNWF5SHJnYkt1ZXl4SndSM243ZUR5UEl3YUx1c1dzbzhHZ2pjQUE?oc=5
+- [AI] Alphabet's $80B Raise Highlights AI Infrastructure's Growing Capital Needs - Data Center Knowledge
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2pkLXdnU1k2dXdGZTR6WTNNSzMyS2dGck1ET0dlYXNBN2pqd091aXBZSlB1T3d1UGd2eHowM1BkUGZKcGQyZjdFeXhZaUdsX3ZwVElEUDBVajNteDZBUGkzMUFEa1E5a2Z2RlBwS1h3ZlRjQUw1aURXeUY1QlZBYzBUWGtEM1IzdHROWkVxUUg3MEZZSWhoSS1zdUJZZkxURGJmdGdXb0ZSLW5lRTdYVmFZa0xiek9IWGRpUTZROA?oc=5
 
-- [AI] Gradient Labs doubles Series A for fintech AI agents - Axios
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEdJblV2dld5SkZnQjh1TGZkS0xneE9lcEJMUDZKOTRETW9ILS04ZXI3Q0Zic3hNc0RRX1hVeEpsOFRRS0JyOFp0SnFnQ1lpU2FRV21TOUtlM3hWc2lWYldGXzl2TTIzUC03SlA2TjZFVHZ1M2xsbWlDRFFjZFpsc2NFcVBLcE9mMTUw?oc=5
+- [Markets] How to Boost Your Portfolio with Top Computer and Technology Stocks Set to Beat Earnings - Yahoo Finance UK
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDZWLWEzYk1JeTJDR1VpLS1PajFLYXZ6MWNaOXZoUEJLYnIyTWYzR2RzMHQ4aU5ra2tIT245aUp6bWNZc1dIV0lXMFNjY25nZ2lzY3YtbHU4ZE9jWHpNYU41NnZJT2JGOHpGZXVDeWtOYUZCLW5nVXdPaUVyUG9LbDRIMFBMc0hPaGlqbWlTaFdhdw?oc=5
 
 
 AI
-- Fivetran + dbt Labs Complete Merger to Create the Data Infrastructure for Trusted AI Agents - Business Wire
-  Summary: Business Wire
-  Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSnRqRFc1R2JEbW84a0xqUFlIRVgtOHJFU0Jjcm04ZXVlNkpWMHBaZm0xUWJaNHotejNjTnVFMHdVU2l6QnAyZVV1a0c1Ymo0dTg2UVpXaW1Kd1Q1UXF3UXRBWEZ6VmZHNDl2QUUyaDRnamIzRHUxaUJZb1JUOER2WWhKTE9saVB4UnM1V25xWDhrcjlMLTZmcVlKNldwVHZXM080bVlsN1dWMnlOVHZKMzRzR2FiYi1id2trRldUREpFS2tMODhYdHViN2RERDB3NWdTZDk5bWlUYWg5a0tF?oc=5
+- Tencent moves closer to launching AI agent for China’s most-used app - Financial Times
+  Summary: Financial Times
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWpQdDEyUk45SnVqaGNVZ2lwdlpfWTRTaDBEQVk4b1hsaEdHbEFFMEE4V3pkVlcwSWJPZmVCM3pVY2pvbjZNTHJ5OXpHR1BYRHFlUlIyN2VSMGdZMlVLNTBoQThqVUNVZThYN0pSUGRtZnpRclUyTmpaZ0ZKeU1ZdHJHNHY?oc=5
 
-- The Case For Pragmatism in the AI Infrastructure Boom - Data Center Knowledge
-  Summary: Data Center Knowledge
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxONHpXMld6MW8tYzgxRWN3LXFaODlQanJIeTZMVmxtMGQ1TzhxaC0ybnEwMk82bVpMQU1aTktlSE5KNlFGTzE3Y0R4VHJ3UEhNbzVKWmhiY0RTU2JweHBkeWZVOEVDTGNnN05zR05iMEdyOEFGUVVadk5aei1iakxYb3kzS0xCdVZLUHYwX1JqeVhqRWxsS0FDLWhkdjFINjZKd0w4RjR0bE5qZDZqdUZHQzE5UnE?oc=5
+- Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark - NVIDIA Developer
+  Summary: NVIDIA Developer
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVExaFBmRF9WbmFSQ2xMdTFMNW9XWkJBcl9KNkZCR0lwWXZoNXpYRGFXQlFoMnd3ZDR0c01vM2QyWmhoTjZiMUQtZFJNa3JEVENzS1JpZUU1ZWZqc0tKaDJFbXVmY0dIbU1WQkRqUFpGcjhuWGd5QU5PMDRPdVFzRjI5OERlNVJiQUFwX2NfRG1icW15czFadVo1ekV3VVZVMDlCYTJ0aUpneW04UU5aRXBhTVlHemNsYnZv?oc=5
 
-- Agent-Ready Content Infrastructure Enables Secure AI Adoption - Let's Data Science
-  Summary: Let's Data Science
-  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEtpUGhDRnZqQWU3MUNpelRKMF9PN2VuYUlvMjlvV1ZlRE9qQW42NGRwcExTdWx0Z1NwTVA1eUVJckJBSWRNczZQX1RVU2NEVEZaVS10M0Rfal9HVEFMRS1nUW94ZndTcnN4TzNwM3ppMXRFSVlkYVF3Z3g2WV9FdVB2RkIzb2pjdWNwWnNsMmNoazdhbkJWWll1cWNjTjE4bTNWcw?oc=5
+- HPE shares soar 28% as demand for AI infrastructure powers stellar quarter - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOS19WaFIwYktvNHJpLTJmTHA4VFBMUHFLRVVEWTdqVTYtMXVpUHBPX1pWUkhnWXhCZDJNdmY0MDQ3UkRwSzBZaDVqeUZDcTdZRHhpLV81aXp6MHZJM1Z4dlVSbEZIbzFWYUllNjJ4NTVzNVJSTmg5aTd3VDBCVWNjalc0NVVvdUJ4V1FsaG81X09hWkR2RU1RQVBzTzdrdWR6a0dJaw?oc=5
 
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq waver as oil surges - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxONE5oZUJzemdLMXg5RkxFb01NdjY0dWJYclU1UDBtc2d4b3RVZjBVazR6Yk5iLU85eXhPUTIzdkZPUDdCbHd6MnREbG5tblhtQmVJZHlFdzQ5RkYtd2RTNUZsTS0wQTJXQTVfZXRxNy1NVHA1Tm1rZEFCcVpubEpjSjlUNUJIVjhwVlNSSldoQkY3NlNGTkc4cTRGMXVQWUd3bmpVNW8yTjJiVlBoeHRyZG9yRQ?oc=5
+- Rising inflation may force Fed to tighten sooner than markets expect: Yardeni - Investing.com
+  Summary: Investing.com
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQMy1PQjNraE9MbnRyMm9tRjNrT0hCZDByNXBWSG1XSmN2U0p6dW1ncllvX0t4dFE2QXB5WDNUWWhyYlV5dkk2VWhDc1NxZnhNLVdIUFRoVlFuYURKS1QyWGpSdGMyN2VkaUg4V3d2M1lJS3Y5Y3NBMlJCVDJ6YTFCcVNpcnBaY2RoU2NsQ1ZUdWZxSEc5QVZ3LWZkMDZLMDVScGlDaFJDTGVvY2lrZGU4Nkx4WUFRX0FheVR2ZnJSU0hzdXFmRmhHR1ZOVXBaUQ?oc=5
 
-- Stock Market Today: Dow, S&P 500 and Nasdaq retreat; oil prices surge as Iran reportedly suspends talks with U.S. - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXdJUmxsNG5MQmxHNUlELW1XclRzNk51a0pOOEp4S0stUzh1WF9FM2RXcHZreHpJYk1ETVpMZVRfbi1ZNnN3VmQ4WDc2VmVDMEFrTjUtYXdvYzR5SmlVVS15TFA4U1VNdWdkT2c5Qy02UXhnemFPSE1DRmFmUHBxSTBUeHBfVFhvUEhQWE9jZVB5cU5EMjFQLTZoR2N4VWVoVVR4ZDBzVnJmbTZjNU9HTmkxRS1fWnJUN3EzRmtR?oc=5
+- Poland Holds Interest Rates as Inflationary Pressures Cool - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVBIMTd0ell5bjBvOWtNUEhsUV82TVNjRWowQXhpZVpTSldqRlo0U2dmd0ZCaC15ajhNR0FUZmRVRFU0Q3VRc2tUVU54dndwSi05aGx2N3dDdHdUR2tsWVlPQU9wdnEzeF9pWkc5Q2lWTzM4YlVDYi1hWmh3dGdCa19mQXI3RUtsUDhNYnBsYjdpQUxZcldiS0pyczhFVzI3MHVuNUFyYUJrekZyMVE?oc=5
 
-- Live updates: Trump faces new inflation warning from bond market, adding to midterm challenges - AP News
-  Summary: AP News
-  Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE16TmF1VUZRUVVBMTUwWGpMUVhlSXhoalFLQlhqMS1PeDhzb0dZWWpGOUFkRHkyWmtJZm1uVXpMYU0tbnpnbjlnTElsYnJ4d0ROZW1GR0FwN3JDVjl6UWRscl8xSUdLT1RxdDA0eHpFUVA?oc=5
+- Leverage Shares by Themes Targets Semiconductor Demand, Adding ON and NXPI to Leveraged Singe Stock ETF Lineup - marketscreener.com
+  Summary: marketscreener.com
+  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQWdaemN5UENJTDVNTzFmbVNtTTl2WjBzVHNER2p0ZEczMk1RYlJuRkd4Y2NJNUEwdWJWTGhqeHFhdXo2bEZ2TG41NU13ZzJOaXlYeWI4V19uMEdtRGI2Qi1VbE8yX3JENFFEVXBQbktLNFpzaXRIcWxLZXRnLXUzU2plWXZRbWZaUDl0bkZHMnR2R0F0VXRRWGd2eHg5QWx6cS0tekRRa2J3QkF2cVdtaEdqY3VweDl4ZC04RWpDYWFILXdfaXJHZ3NXNzNrMVdTWDlFdUszZS14NlBuWk1zV3RlaXJ1QQ?oc=5
 
 
 Travel / Boop Relevance
-- Online Travel Market Outlook: Digital Booking Platforms and Global Tourism Growth Opportunities - vocal.media
-  Summary: vocal.media
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZnVBeDd2amRyOGdVRlRYeVhHZmdtUEk3SlJXclZJT0tSeVdEUUlHY1NsQmQ5X05vNExIaGxDWlNrcGdhdk9lUkticjBfTGVzZ0FFQkVhMG1vWmlCRkRLcFkxdVBpUmRBdWN6TzVuSXBqQTltdkJ4dXQtZjFaSmdFTzk3aGhKT0RHZzg3VFNpb0hJUktvVy1MNGpDUHUtVnl0RkFab0h0X1oyUEdrUEdUc0Jucjl2VG83SnlkS0x3SEw?oc=5
+- Lighthouse acquires Hotelrank.ai to boost hotels’ visibility on AI travel platforms - Travolution
+  Summary: Travolution
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNdENFUlpHWjRUMW5QOXR6YmxfYnVmN193NG0zcTdkY0Q4Mk5WSTFnbWFnc3VzcXpubVlma3BMWFBKbVVIYnIwaldUREV2bFFyUF9Kb1QzcDAxZzZwaF9YamJyVV9yeTBrSExkNXBHdjBRS3dVNm4zTE9Nd1hvQWFnaEt2M21PTUxELXFMcEgtS2YxM1h3SUdzQnNidUNSeHFkVlQ3Tl9fREZ3SEZ4M1Y5RkhOMzAzc0U?oc=5
 
-- IATA, Trip.com to pilot digital ID wallets for airline booking flows - Biometric Update
-  Summary: Biometric Update
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUNLeXNjZUc0dlBjblBXcl9rRkx0TGtfU1pyd3BwNWl3WWN5TXVsSDExeUpqazg1VDFHVEFnYy0xeXFpZGU0M0Q0RnY3bXVIeGJZc2duYVRmRWNuR1dQWWg3aGNvUGVmMkZYSW05aHlzOEgyeVJQRmg0U3ZrUC0wREtFVUNIclFad3NJbWh0bE5jSlAzZWxHanBTeW1NNms3OGtJa1UzUU1xUQ?oc=5
-
-- Shanghai, China, Becomes Global Hub For AI Driven Travel Experiences And Digital Tourism Transformation - Travel And Tour World
+- Dominican Republic Unveils Caribbean’s First AI Travel Planning Platform to Personalize Trips and Boost Tourism: All You Need to Know - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMFVXMW1iT3YxRm9SU1ZzSllaaGI1REJZZzJPM0ZsOVJzTVRRclo0aU55c1RBYWNVNGx1dzlXZTljZUwxVmYweUx1UTdkeUNPMURwZU0yeW41T1gtaml5ZllFR2N5T0pVcVQ1NHVR?oc=5
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5EMG0zNkZDN1JYLU5pcGx5MzVxbFVLZkxVOUotNGowNlk1Zk5tVW1KSHhaQUFGNmlVczZhSlMxMmZBTXEzZ29rQkt2dFNHLUdtRkd0alVpdjYxYlQ5THJnb0N3WFZEcGZvSU5vYzdB?oc=5
+
+- FHS Saudi Arabia celebrates entrepreneurship as Startup Den returns for 2026 edition - Breaking Travel News
+  Summary: Breaking Travel News
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQU5DOC1GOEhjMmIwRm42Vk9GOVViZDEzY2V4NlZndnlmbThXeS1VRUw0aHpWZk8zVExiQUJUb1Y1TWhHZG9BLVAyOGIyajRrWDJTTEJubVNPU3lUclhzN1pkN1AzckJQMnlrM2NQel8wdUVnaXBTQ0hRaFdMUzhXQmh5c3ZlOVlmWjgyNFBNNk5IbllvNFBuYVFJVUVFYUNDQU13V3AzZi03ZUZteFd0SDNYSDJHT3NQb0xIVHM5R3d2UQ?oc=5
 
 
 Bottom Line
