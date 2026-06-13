@@ -1,77 +1,77 @@
-Morning Brief — June 12, 2026
+Morning Brief — June 13, 2026
 
 Seattle Sports Today
-- Washington Nationals vs Seattle Mariners — 6/12 - 6:45 PM EDT
+- Washington Nationals vs Seattle Mariners — 6/13 - 4:05 PM EDT
 
 
 Breaking News
-- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq close sharply higher as tech rebounds ahead of SpaceX IPO; Oracle shares slide after earnings results - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkwweEhxYnR6Rkh1czRUR1c1bnVJTjc1cG9LQTZpdE55djBlYmowdVBXbkpLTldLa2NrTHdhMklKck9hczF0aXRCcUM1b2dTOWZvTWkyMnpxZTdtU1hKWU5NSFo5eWk0d0xpZldyN0RIZ2tVUDlZOG1NdkJUTktrNC1mQm1nV1hLWTJLTFpiQWFnQXM5QXh3SV93cmxBZWxWbkR1dGRrcUVWUkNqUE9wMzhRREgwZEtkeEkwZQ?oc=5
+- [AI] Why Anthropic Disabled Its Most Powerful AI Model Days After Launch - NDTV
+  Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmtQWUdhOTJwaU9Oa3hYM1VMYWY0ODZSbkRMX0wyZ2FYTVl0cThkd1laYklVZHFobWFmTzhveTkxWDBKMDVCT0RrbEx4VDk0N3pzNUw4UjljRWVuZWdaaVlEYmMwWmNJdm9LYzJWdjR2ZUdLbmJ0S2U4eTN3d1JkYU1NRFU3eG11dVBINFRjSTJzcXN1SXZmSjZhWHU0Q1o4WlBDcDNwa0Q1V3puTU9RRUxfVHdLRElwa2YyZy1yMU5kLWt5ZERzVlNlOXpjdW1oRG94SjBaZWxKN3VYVFduT2Rnd1VrQVlDSVhkZVdDY2Nsd29lS1FCYzhB0gGCAkFVX3lxTE1qWFZEZ3hteU4xd18yMjItT3RaVklwSGYwMTE2LU1MSHVZNi1wY1JxOEZGUWkxal8xNUlhWk94b0V5dmJhYkg2XzBsTHFlWUFwQzRyV1F4RndhWHNwSENDdVRQVVFxY0NHcWhtTmVfZHNQbnlzZzRQOVNabzBxal9YSl9uOEhJSzl3R3VVS1RlS09Ub044X3hDX2N1MXE5aUNKRmNTLWxwZ09FcXpNQTVLMDBGUG1ZSGFSQUxaaXVyQ0hocEZnMlJMRzkxeFBEUmZESHVQUmZKcnY1czROaEtyZGMtWDVidnMwRnRUM2o0d1hCTGo2VE5IOXVBTk43dXVZUQ?oc=5
+
+- [Travel / Boop Relevance] WTM London elevates its tech offering with the launch of WTM Travel Tech - Breaking Travel News
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWRxQmNoYWkxZmJRT3FFemJPQjlUX2t3T0tKUVJsZ3VhVzVsdk5Gd0VjRE9YXzM0cE9TTHRveGRZSHBxWDVRZ1h4RkhRTFJwbXdreFpwQl9XdWtrYVJtWElVZVZfa01tcFNjaVFLdTNSOHNCc2NUclNHeFZjeW1JM0RZbjhzTlRVMzBYOFpGbzI5bDk1NXVydkd1a1hSWXBJLWFxQXhseTlHNFhYbWtqcW5RLVdpQS1IdUNHUE5n?oc=5
+
+- [AI] Coinbase launches AI agent accounts that can trade and spend on your behalf - CoinDesk
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnRSOHk2U1A4bDU3Z0lzZ2RuZUZQbWhmYXZZT0pWM1JBWWhlNVlnazA0TUFMVDlUblZuR1BHanlSVTNpTGxFYXR2ejhldkRadnU2Z3M0c20zRlI0MmwtZFNpMWxIS19IZVdVUEZMX0NOUm84NERfeEcyRk8wbHhGRnV2SVpaYi1FeVg0WUQzOUhzbkdQdWhXM2NqM3BvY01sN1Q5VTVQQ1MzcVpnakQxc1l0R3RBTVk?oc=5
+
+
+Must Read Today
+- [Markets] Stock Market on June 12, 2026: Dow, S&P 500, Nasdaq end higher as SpaceX shares surge in market debut; Strait of Hormuz also in focus as oil prices fall; U.S. stocks book weekly gains - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUpFRlBZLVBUaURNOGZ6UTktWFlqTUNXQVZBUC1kX3RsMGVGbG5hc0NZYWUwQmgwUDVXT2swYk80cnN2QVpPRFlfYUVDRTdETlJud0RPMm9xRENMRmR6aEFER2Z4UWV6Qnd3UVJBRVVfMFlScExVb21JbFlXdmp3a2hvTFBqbnRvbkhtRXRESmk0a1dUQ29GZXlMb05NNWc3TXMyb2Robk9vb0p5WEZQU2xCSU1uU1RLT0VXaVBVdlQ0WkQy?oc=5
+
+- [AI] The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption - CNBC
+  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNOV90MWZvWDNkNXdMeXFmV0JNTV9PMV9rUTQ4ZUQ1alBjZEVUTWt2dUtwVXdsNG5xaDRiVkVHaTBncmhVdkdrMXJGc1pvX0NDQ0p2YkFTR3J4RTUxemJ1X29aa2xsX2k2ZmZqbHBleG9hdklETlg1dE4xZEU2WTNsZEU3bVoyZm9QbkHSAY8BQVVfeXFMTjkzc1ZwRldIN3prNnFyTkZ0amxUY0V3Q0ItUlRaSmFxQjdOUVgzejIyVE42WURFbVA1ZDVUMTNVSE5DTzZ2cG1DYncxVUtoWVd5LW50UFlwUkhxc3E0UEZmZVNCUXBKd3NHTmw5UHF2OHdGVUFnUHZheUpmNFNNR1U1STgzWnhoSzhMWG0xTGM?oc=5
+
+- [Travel / Boop Relevance] The right to not have missed - Booking and Airbnb are buying a seat in agentic travel, and protecting the storefronts it erodes - Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1c5T3hjdkE1N3JHUndNTzFxWDhKcTdFYmM1dkNNV2RzZnNvemtod0xmTmgtSFNrcGlaR1pyWURfalRKLU5rSzBhSUh5RzY3elNxbEN6enprcWp0MUxQZUhyZDJ5Wm5iSVlOVldWRU5WZ1N6ZE1ubWVrazVxdkRkRkt3ZUk2clNjbElBRVAwVDB4RzdyczJRLS11RXpEUXhpTEJwd20wdW9VOFNzT3U3MEYtdkx0LUNBWTVuWDRWZ0lYS0I4RmFES3N1aTF0b29PdkFJa3d0aThlQThPZHh5bnRPX1FwUkxFc3FKLVg2emdMQzFwdDlELVFxVGRoT3py?oc=5
 
 - [Markets] Stocks Fall on Inflation, War Worries - WSJ
   Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPT25NQkVvNkYwY25YSlhmakZFSkJEbmFnVU5zNHdwZGFJaDR4MEFSUkdqUFdkcFJESnAwTnVJM1VxUTVCd09ONGVyNnZjT2pfTVZpZUswWExxNm5JSTQ2eEpsQmVqVVFEdVFraE1WVm5hSEdrMEo3M0hFOTF0WGJjZ3B6QVl6TkE?oc=5
 
-- [Markets] Wall St Week Ahead- Newly led Fed poses markets wildcard for rockier US indexes - Reuters
-  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0hPaE5BT1VkR0h3QzkydWFxU3Jvd3R1RVRzcEl3SjBPTmctMFNQZXpFVE1CX0pjM184MHRIMGVsMkUxWHgtdWU5Q1luQVhHY0R4ejhpMHV5cW1qeFhzTDZyUi10ajE1QkRleE8taVRhcHNBVUR0MkxXZlhPVXBibzYyUVFqUUNtdWFwV3FpTm5GNFI5cUw3dEl5Y3U5bWR5TkprQVJHUnVGV0tjQXZBV1hmSDF5U2dwX2V2TGdpWXAwSS1KX2c?oc=5
-
-
-Must Read Today
-- [AI] The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption - CNBC
-  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNOV90MWZvWDNkNXdMeXFmV0JNTV9PMV9rUTQ4ZUQ1alBjZEVUTWt2dUtwVXdsNG5xaDRiVkVHaTBncmhVdkdrMXJGc1pvX0NDQ0p2YkFTR3J4RTUxemJ1X29aa2xsX2k2ZmZqbHBleG9hdklETlg1dE4xZEU2WTNsZEU3bVoyZm9QbkHSAY8BQVVfeXFMTjkzc1ZwRldIN3prNnFyTkZ0amxUY0V3Q0ItUlRaSmFxQjdOUVgzejIyVE42WURFbVA1ZDVUMTNVSE5DTzZ2cG1DYncxVUtoWVd5LW50UFlwUkhxc3E0UEZmZVNCUXBKd3NHTmw5UHF2OHdGVUFnUHZheUpmNFNNR1U1STgzWnhoSzhMWG0xTGM?oc=5
-
-- [Travel / Boop Relevance] Italy’s Travel Market Enters a Powerful New Growth Phase as Inbound Tourism, Hotel Demand and Digital Bookings Reshape the Visitor Economy - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVmFqcWdXcjRZQ3Q1RkxFdVVBUkJZYUNZbDc4eEk2dFNwSTZxbVZ3RHBmdXo4WTVFNmdWNzNPUFFCbUxlYWlOdW9JVHFHSHkzcWdqb05kOGlDQlVBdGM3U3ZKVTRWUUJmQm1kanJ3?oc=5
-
-- [AI] Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code - The Hacker News
-  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0pBaTNpaGY4TVZjbTNsQTA4YTdyajFDb1RFbTFrUE5uQUIyeUZ2YVRlTkUxdGx1SzAxdFJKc241TlpDbldDTFQzaTRzOXhuTXNyQnIzcXdsb09ETnRXTnc4NGVtb1dlaTFxd0lDVWxzLUQ4RXR2UE5sTW5veTNvZw?oc=5
-
-- [Markets] Europe Raises Interest Rates as War Stokes Inflation - The New York Times
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOdk9LTVkyQm43cFJaV2QyZk1JUlktWTBzd3RaemZmVU1ob21tX2w4cDhUd2tfNHZobVFkQmxlNDZUNlE1VDdMR0VqQlVvcDBnUkgtc2c0Q3FudHM5X2JlUlRtamxEZ05UaC1uMTY4YVJjSHVBUUdsamlyQ2M1WEdodVYxZ1ltMUxOY0Zka3hVQl9kVVZ1c3A2YUlXNA?oc=5
-
-- [Travel / Boop Relevance] Philippines Travel & Tourism Market 2026: Eco-Tourism Growth, Infrastructure Development & Digital Booking Trends Driving Expansion - vocal.media
-  Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQckkzN0hsV3dYNXRCOHBDN0UxblhwNmJZVWlVRG1LbHdQekNvVWNWdWFtS0RhemVkc3JOTlNvNmI3M282NzJOMWFMaXZGQ3E1YUJPN1Q3YXhqdjV5YjRzUlktLWdHaFJ4OElrY0VBMl9SN0pmRURkNEF3eWxlb3dWcTlWTm1pTTlhNW02akdBNjdMckdkbGstZ0RDZlVsQ2VKYjhDYlo1MElCc01mY2owVUZJYVBQLTgxRjBTT202WVEtcGI0aDFBMkcwWDRMVVdxQWJYS29JMWtEX0NCR1hBcWFVM1M2cEIzWmdjaEljZVF4UQ?oc=5
+- [Markets] Top US semiconductor stocks as agentic AI reshapes CPU demand - Investing.com
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTG1JMnVmU1BSY2xibnJrUlhoWVdIWVpKd1FFVW16QWpsYVZTOHRqcS1Wel9MaHpVYVRKbmhhYXk2LW9hcU9JOThnZW9NMUpsa3drZk0tUUZiMmk4Ym4zenl6VjlTcjdBMWVRb00wcTVVUS1EU2dyR19BMHdxaGtWUUJrUUNpeGtzb3Rud3BiTm91cjVOZnM4Wm1COFIzWVdNT01vMndvSjdreER6X0MwZ2ZIcnRwS0tBa2Y4QldvdTk?oc=5
 
 
 AI
+- Anthropic shuts down newest AI model after U.S. bans foreign use - The Washington Post
+  Summary: The Washington Post
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHppUEhwc2RnTHNOTjU3TFlPVVBWQm40Z1FCV0w5dkdmOWVaZ0g4a2xUamVGSVhGZV9TMTM4X2lTa2g1Z0ZtV1AzS05DLUI5MlRFUzAtUUp5N3ZpdVdLX3BZNkxiSHJZX2pUM0NNcG54WGplam1wTVlZSFdSeHFyYnhoVUdxR1g1Zm9pM1NoVGtYOVNhZVkzak5OUVM4VnljN3hacWhualFpRXRpTWFBVHBOdFBCVlk?oc=5
+
 - Coinbase launches tool to let AI agents manage trading and payments - CNBC
   Summary: CNBC
   Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZwaGdVOS0xQWtnUW02Rk1oVVhoUVRkZDgyM1hxNnJqUlJRdXNaVEdTUzkzcnRESHExWFNfM1VULVFmeWtScHdFVFMwYUlZU1BxaXVma19PWXY2OFRpRzhFem02b0N1RVZDRVphRGUtUVh1OV9UcXpWMmREQkVzZmlBNGh0a2xjM0tHNW1MY1BXbGFpdUhJNUZTQ01ZQUJ6X0xES21MRdIBrAFBVV95cUxOSWJabm9kZnQyMjZiSG94eVVGQS1IS3BTNGJLdk9MaTBfekxXazFtbE9hQ1pmdGVCc1ZkM1FVQ0RsS3hUNlRQZTFpS1U3ZU4tWWpVeGJpVkRHOVZiZUQ0QUFyM1U0T3RWZ3QzQnFralJjWFV6dEJTR21BSWFweldwNVdEalVWOUFKV19Na3Bhbmg5RW1zcXJlcE9scW5LTjVLekpUeFFIQ28xUDBH?oc=5
 
-- Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users - The Block
-  Summary: The Block
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0V2cnVvSHZCYV9henUzVm14WmtNTm9HVGMtRU5ic1hJM2JQN200RkV6cENUeU5uckI5eUhtVEdaOE1WNTNqRmZMaWZRdmxUdF81WXpjQkoxQTNwWU5JRVZIVnRQRk5qWVNtN05BU0xiZHJxdVBGSGt6bzU4N0VXbmo3R0xXVnBRUjFXc0ZhV3pabFRkekNoeUtn?oc=5
-
-- This man runs a broccoli farm in Japan using Generative AI - Interesting Engineering
-  Summary: Interesting Engineering
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1dTZEUzQ0hpZk42N3hkWFVMWEhQTnpKamhBVjkyNWNxdVgzTXlqM3Z4X3NvYTB2eVZpZldLaVJ4MXFLeDRNNm5ZOTlldzF6Ny1TUGYtTlI5SHRHX25EMFNWRlVfa3dEMWhYZTdRUEl1MzdRMmp1S2ZfaUxHamdRR0JPQlZialRJbDV0SDhOTTU2T0JYNWVGZUcwMmw0dUhrZVE?oc=5
+- The future of Hollywood isn’t feeding prompts into vanilla gen AI models - The Verge
+  Summary: The Verge
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPQktxcHpIZS1YQ2NDRGdSWXlNbkMxenAyYTY4eUprQ01sYlQ5S2FOQUhYaVJzcVZIY2hXeTIxbU1xX3A0LW9kRkt4UEFqa0RMOWdDZEkxbjBDS2s3cjA0LVV5aVI1cDZHNi00MVZ4dTlIWEhCeTlEaTI1bTZieGxadUhXNHItZkJ6VUl2Vi1uaXllUElObWNtbnNRYUlMMUg4c24wa2lWbHh3U1ZwVHQtWnhVRW1KTGdfM2c?oc=5
 
 
 Markets
-- S&P 500 is little changed as traders await Iran deal, SpaceX IPO open: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZnQ4UTR5MV9DTmdtZkxkWFJqdmdxR0xaZGZ4THB2U1UyN2hOaWQ5RFZaUzl2bkxqU05LQmowd1UwTUVOUDFaMV92VTV6ZUdoSDA4RlNzNW5aUHNsWWNoU054dHRuaWtEZ1lJM29URk9oTHZvTlBr0gF8QVVfeXFMTTRkVTZ0MFNFX1dGeWIwbEpWNmN4dkoyNnhyZVlxQjF5N252YURGUnpBbTVWSXhoVUlDMkhUdEhZbnJ3MzBCOFBPNWhjS251ZWctVnlYUEtINmlPLUlGd1FMbE9UckNqcXdKM0ZqQ3BvR20xaU5PODY2TXlNMg?oc=5
+- Ceramic Grain Abrasive Sheets Market Growth Forecast to 2035: Electronics and Semiconductor Demand Accelerate - News and Statistics - IndexBox
+  Summary: IndexBox
+  Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUkh4QkhVcXBPLVgxUlpYa3ZEVVdLdkVIZnNpOHo1ajFUazUtcGE1RlUwSmxSUDVaZUxYWDZtY3EzM1JsQlFtWVhFNE9nN1JuWVN6SW9zWUxPVUFzTEJ4N0lEZmpEWkhzbUhENjNCWFMzcHJwMTd0SGEtbkIyUEdpekZoOG5TVnZjSV9tVFhLLTN1RHMtQllWWWdLOGh6UU5KeWhMOURZMUtSWGxQbmxCeHYwWmVBN0R2VFhVRVNKMDNtcjRpdFJSOS1tMFdJbjV5NG9vYm91bkg4TzZWZDJISXpLT1ZzZk5adk54b1JidW9vSEV4QllsazZOVVh4b3c?oc=5
 
-- 2 Stocks I'm Looking To Buy If Inflation Sparks A Market Sell-Off - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVFtSmNjT29NdkF3aWIyY19pQUZlMlZqY1ZJVk5McXV1N2hMUloyQlB2MGVBUnZCZmlTamVGY0pYM0c5UjZNbzQ3bjdmQnJlUzg4OEE4QnRhY2xQa1hnOU1Peld5YmdRV2VTazVzZ0Q5TklKa0xKUXgyNWlEcjJuNkdWWExVZVhfNWJaTzd3ZEd1d0R3ZkdBcHhST09iUzEwV2IyVUJDYlE?oc=5
+- Newly led Fed poses wildcard for rockier US indexes - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThiREd6ZVhiOUNRaldvbEhpUWlEbFhvWTFheURubE1idzVyYTNOVGVqTmxFRHlfZVBqQnpRYU1QUk1YMEtJdjJpWDJWdjZJVTI5VjU0dERDYno5bkR4cVhRVFhwbzJlaGhKRDJ6eUE5UVZoMHN4M2I2Y1dVQUtoTjIyalhxd0Q0Q0NlT1Njb3pkWk5TZGFkNWZpcktvNDRIbGY1WHJCdkt2VnVUWmpmZ1hvd2JwZ2c?oc=5
 
-- Stocks Are Wavering at the Open. SpaceX IPO Will Be a Test for Markets. - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQSUQzenFJb1p5MzVwcFBwSHAxZi1nWmFVeGxoWlpMNzJNaC14azlUU3M5Nmg1bGxRUTZacFgzZFV3SnYxQ1d5azZ1UTJSRi1XYjV5T0JJZTVBR1hfdlNTSmdTXzlIQ3lacHZfbVg2VlRQa3NGMmhJVUo3WENJX3BKcXg0NjZZZC11cDVEYmNJY28xSDdRZWhyX0xIcTVPYWl6V3FqUzJaTjFBajVhWlhZUnlJbVdNalFCTm1PTGFLNmRVU1ZDV0ZEVHNkZzR4ZGhSYUtfOTNDeVFta1dIY01mUXhwa2s5WDVuVS1xYXprLXR6TDlOUjZVM1NGbFRQQkZqTktrUEhiQVh5eGo5dk1VZmgxdVpWZw?oc=5
+- Europe Raises Interest Rates as War Stokes Inflation - The New York Times
+  Summary: The New York Times ECB Becomes First Major Central Bank to Raise Rates Since Inflation Resurgence WSJ ECB hikes interest rates for first time since 2023 as Iran war ramps up...
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOdk9LTVkyQm43cFJaV2QyZk1JUlktWTBzd3RaemZmVU1ob21tX2w4cDhUd2tfNHZobVFkQmxlNDZUNlE1VDdMR0VqQlVvcDBnUkgtc2c0Q3FudHM5X2JlUlRtamxEZ05UaC1uMTY4YVJjSHVBUUdsamlyQ2M1WEdodVYxZ1ltMUxOY0Zka3hVQl9kVVZ1c3A2YUlXNA?oc=5
 
 
 Travel / Boop Relevance
-- The right to not have missed - Booking and Airbnb are buying a seat in agentic travel, and protecting the storefronts it erodes - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1c5T3hjdkE1N3JHUndNTzFxWDhKcTdFYmM1dkNNV2RzZnNvemtod0xmTmgtSFNrcGlaR1pyWURfalRKLU5rSzBhSUh5RzY3elNxbEN6enprcWp0MUxQZUhyZDJ5Wm5iSVlOVldWRU5WZ1N6ZE1ubWVrazVxdkRkRkt3ZUk2clNjbElBRVAwVDB4RzdyczJRLS11RXpEUXhpTEJwd20wdW9VOFNzT3U3MEYtdkx0LUNBWTVuWDRWZ0lYS0I4RmFES3N1aTF0b29PdkFJa3d0aThlQThPZHh5bnRPX1FwUkxFc3FKLVg2emdMQzFwdDlELVFxVGRoT3py?oc=5
+- Travel Tech Celebrates Innovation and Policy Leadership at Third Annual Policy & Innovation Showcase - Hotel News Resource
+  Summary: Hotel News Resource
+  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxaXNTdzZpMC1FdHNPREJVcUVLdnZVdmFpS0FURjloc181LXVhOUh3QXVQUE9zNlk2Rms3dHF4ZnlKOWdHcGxfSjJJT2pQc25kNDlEc2pBc1p0dUN0Z2lFSzl3?oc=5
 
-- Vietnam Is Transforming Hanoi Into a Smart Travel Hub as Green Transit, Electric Buses, and Cutting-Edge Technology Revolutionize Sustainable Tourism – All You Need to Know - Travel And Tour World
+- London Becomes Global Centre for Travel Technology as WTM Expands Innovation Focus, Get the Details Here - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE83OHJKOUthTzlRVXQxNXFKd0JBejlxUVZHWHpHSlJnRkFvd3p3MGVPd0ZPSV8wUEhYUjREbWtVY0NQZG92YktDbGloOXBFZW0ybWlac3BOZF9nZmYwLWlCenhjenF5a3VqeWVjUnV3?oc=5
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcks1ektfaEVCOVNHNGx2ZjJtem1kYlBnckd2THhsaGwxTXlvel9OSEZNNDl2OEZCeldLVGZmRHNxRk5WNUY1Y3RIeVZYVFFKZk9hbE5UU083MkYwdmJKWS1jWnNZTkJXUFg0Rkd3?oc=5
 
-- UK Travelers Lead Europe in Using AI and Social Media To Plan Holidays, New Study Reveals - Hospitality Net
+- Travel Media Group Launches TMG AI Signal Report, Giving Hotels Visibility Into How AI Search Engines Represent Their Properties - Hospitality Net
   Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjUtMkZmYTRsUFNDUndPZFZMckR4WXhFMGVDLTFKNFJ0aWNKbF9hcUpDdXVhUU5TWmtUNnBiSnh3T0sxQ3Bkd1EtejBZNlQwaHhhTXo0WC1mNURhVFY0emIxR0djX0pqbHAzc1NGamg4ajgzRG5UR3lQNWR2alpwZC1USUNnYWRGZ2E5ZnJIUHNLMWZ1YzVBb1oxbE1EZ19IcTVnQ1VEYlpvUnNWbnlsYVF1eGx1Rm5mMmxEZTRyMjhxejg4TTNvUDhqb2Q?oc=5
+  Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxQbVNKYWlSeTgzRzRwUmZSa3BWelJHaS1KNlZtQVdtb0ZKSkJOcjBPN1VUQ28zbTVfWHp2aDI4QldWZEFuaGZtYWF5Tnhhbkh1UGRIRUY0aHJ5d2pVekUxUGhRUG5GV0J6a2M4N2Ytb2RvOWhSYkw3eE9zT3VseElaejJ3MnNhSktld1dMcXA2T0IyeWRtUUZWbHNoSTU3WFREQnBiU0lJaG5hY2Z3dU1CMnZkUk1pTlNvSDlsTnhTZ013NmtubWo3MnFyRTF3M1ljOUhmeENYeU5fazNMTUpfSzJyeUljcjBNc0IxVXRSMjFVcWNNLW9sWUExSnZQMk5r?oc=5
 
 
 Bottom Line
