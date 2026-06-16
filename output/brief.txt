@@ -1,74 +1,77 @@
-Morning Brief — June 15, 2026
+Morning Brief — June 16, 2026
+
+Seattle Sports Today
+- Seattle Mariners vs Baltimore Orioles — 6/16 - 9:40 PM EDT
 
 
 Breaking News
-- [AI] Dutchie Launches Consumer AI featuring Voice AI, Agentic Commerce, Register Co-Pilot, and Consumer Pulse - PR Newswire
-  Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV1dEd0pIek14b1VmX1JNa3RFTU12NmR1Y3I3a2U5bUhSbHhOUjcxQUxsOS1KNnA1ZmJJaGFOQTBUWXl6dTkzbzNRc1VmUUFDSkxVd19jZUM0azY0QjN3dk81OGU1ZlpjUGswTHZjQVpTakpRYnQwLTlQT0syd2cteWEzbTF1eV9OcE95c2lLczdnYjNqOG11Q0JuYlV1QkxoOUJtNTRObW1xR29zLWdFN0piQXBRRm9rYVduUTlqYnEzbUVzZ0t1LW4xVVJBZE8yYjQyb1c0b0h1MnlNYWNHWV8ybFRmWl8wZFJGOFlB?oc=5
+- [Markets] Stock Market Today: Dow Gains, Tech Stocks Slip as Fed Meeting Begins; SpaceX Stock Continues To Soar on Cursor Deal - Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG5EYjJQMUVIeWc0bHFsWWZ3eDdQTVB1b1E1NEV1UVlrR2YzekVQWndrSHk3TTBaSlJJOG9WTjNVQXY0YUlac3JMd3o3WXFYZmtpdy1uajM1VWtybFlVN2VINVVwaEREODFlRTV0Z0ZYV21WRUlFMmZBYjdkbWRZN2FNUVhRU0pjUjVvaUhQemc?oc=5
 
-- [Markets] Kevin Warsh's High-Stakes Fed Debut On Inflation, Jobs And Economic Outlook: Here's What To Expect - Benzinga
-  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0RuZ2NPS0ZyVjl2T1NwOUJRai1SR21YaU94RXUwUF9PMV9nd2VfUjNoRWNDTk9OUWVKYmJLTUZiYmQ2ZXpBanNIU2xjRXJ2amZoeTBsRnJrUUlXd1RoTF9sSVhFVXhaVFFUenN0RXA5RHE2ajFFUmR1NElsWmZtNm40QWg0UnhKa1dSczUyelN5WDJZRnNGV1VGYXpWOTJwY08zWUxkRkJLaExfSGFueFpjbXJGcklFNHZ3dU5zTGhoU2JfazJsWEsyN2J2anlZXzVlWU5ESEw2d1RiRTE0aVZPMDRsVWtRUW00OC1QbU5pSkpBTVpr?oc=5
+- [Markets] Where markets think Fed chairman Warsh is taking interest rates - CNBC
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3d6UDRXdFpZVjNHMzZwUldJQ3RQU2dzTTVaYW0wQWZlU3FzLTU0UHV5d1VRWjhYUjVxZVNMV1MyRXJmM0t5cy1TOHQ2WF9TUlpVRk1JclQ2YmYyYnpFVDRvTTNhZUlFRHgtTmdpSEtGZkNlZC1VNm1aOEoyV3lFaXRZY29zU1ZwclBrdy1JVmtoLVZ4dXpHSW8tbXp5TU1lR1dmVVg1TTlDTmM?oc=5
 
-- [AI] 1Password Pioneers Access Governance for Humans, Machines, and AI Agents with Acquisition of Apono - Business Wire
-  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMWZEWXZoVVRMMWo1MzZWYmluVUdxSFNMTHVYaC1GNERoQUtac1UycC1pSEZnOFpsT3hXd05QZmVGTlFRNkNaanMzLUxxbWV6TFRJR0ZfMDJSSzlWS0FfSnZSV3VuUF9pYWsyZ3VDdFVPUzNCX2xqQk5jTkQ3eUtXRGxXMWhNcE1MNDR6UXowV3IxSHhFM1BNaDRmOEFETnVEb1p0YjhtTHdLX1d6b1BaNENhX0tzTUIxbzBFVzlva25rNFAyT2ZSMy03VUJ0U2J4UWRUYkZhb1gweUo4Y3VIYmpESDd2TDZj?oc=5
+- [AI] Coinbase (COIN) Stock Valuation After AI Agents Launch And New Trust Charter Approval - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPd0RJNHBucm9pQS1VVlFQdmV0WFYzNERpSkFHcUhjSVg4YlJKWHY0aW1EdXIxeFY3OWxNY1YxU3lDZmNiVFNXQjJadXFwSGdpTkNEYnBVdFJXdUNRbjk4UEZqMEppejZuUnViWVlfZkg5QktuZnM4cFNSVlpQV0pxZUllMTZ6QUQ1SW9Rb3RKS2FLWklFSG5WeklTNmZvZw?oc=5
 
 
 Must Read Today
-- [AI] Kalshi Builds AI Agent to Stress-Test Prediction Market Bets - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPLThMTUdDSl8zWmtoZ1VpR3FfZmlvcjdQWDdNTG5ZWXVjWXhuSnE1LThmNVhDNHFFSUQxUWVVUTdubE1qSklDLU80OFBlVU9tcjRXNXdvV3BiVlNSbER2Y250UEtHZndfNWJjWUN3c2Zibi1FbllUSXpraXlGaWV3MVJ3T3E1VEU0d0pWaWRMUzJXN0p2VmhFMTdXS2g5eTlwaXV5d2lPbE9uQUt4eGFjLQ?oc=5
+- [Travel / Boop Relevance] LATAM Airlines Partners with Global Travel Technology Leader Meili to Redefine the Future of Ancillary Services in Latin America by Building a Fully Integrated, Seamless and Data-Driven Digital Booking Ecosystem for Modern Air Travel - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRjVabVZ4Z0M2SmZ6SkdMbUNuSUhzWm5ub0pFLV9CVzNUYmRsMEVEbG9sLWZ4bERIRTVIUldiQ1Frb2ZFVjFERFBYc3pvdEZ1b0hzSE9TQ0Q5YzdHYnNTUi1tZloxXzRxUjZyY01R?oc=5
 
-- [Markets] Fed's Warsh faces early test as inflation rebounds, markets price in rate hikes - Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzluY1NiNGs4Ml9WSmt3cG5zY1ZnZ2dGcTQ3RzBzWXdHdlBBT1l3NEo2TkFHMmVtbmp6eHhPaVdKS1A3ZFlwZmNwYWk1a1hVWWEtWXBIbGE3aU9mWWZyeFZ6Y2xXSGxacXZZZHFvS0Jhc1FVbWtpQUZCSmhVX1puUm5fMzAwZHY2R1R0dWM4YTNIQUFoN2VQeWw5RlBsREMtb2pmUmpWWUtwMW9zZzVycElIZmNLZw?oc=5
+- [AI] Alibaba unveils AI models for robots, amid shift from chatbots to agents - Reuters
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZFWElhR1l6MFVCTU1GaTJyQ3lNV3ZnMW0xSmVUQktidV9hWkxoNzNJZXl6NURWZC01R2lLSVBsTExvN3pPbHRpTnc2T2RUclJhOTRzbzdaTUVYM1JvR2JHR0JDNGtiMkl4eGpqdUNyZ2xJRkFEbTVlU0QxNHRUYlhmZ3hzMmh2YzVlVkxmZ3hmSVNfcG0tNldPWU9YOVNKNGVBWkVRMkNBVHZ2X0tuQkNTZUY?oc=5
 
-- [AI] As AI agents become employees, NewCore emerges with $66M to give them identities - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG92Mm9jd0Fpak0wVkZRVmdVaEt1bTJCSC1GekJVTGhiYkQ0aS0tV1Zhc2lwQWZQUkhqa2FXUWhCQXB1MWc4X2szdlNrOHVhQzVOdXN4X19wRWZMRE5IWG91dGNPc1hZMFE2aE5Qb3BrRF83d0pqTkwwcy1Eb2h2QzFWWGhWS0dsYUJydk43Rm1uZjhpMWJaYUxEcE1ZWm1kb1JxUTYzU29JQjVsNnZkdW5qaUVCSFU?oc=5
+- [Markets] Stock Market News, May 12, 2026: Dow ends higher, S&P 500 and Nasdaq slide as chip stocks dip from records; inflation reaches 3-year high; Treasury yields rise as oil prices gain - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlFRVTMwUnpsYkt3cnczczdoMURPUVh0RlM3SUJYbVZIR1ZSbElVU0taeVJnTEpJVFI5alFHZm9yaWpxYi1FWVBDMmxqVVFWUzRiQXlsNGZzWXBwdnFQQnJiTTFldHpzSFlWYU1adkhxNzBOai1JX2FVcHlDTFJNWWRVMFRJWHNBbTFDT2xwb1l3cGZ2NmdOX003X2l5R29VbTNfcTJreVZCck45WlprVmgxVGtjUXp4RTNV?oc=5
 
-- [AI] Salesforce to Acquire Customer AI Agent Fin for $3.6 Billion - The Information
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkMxODh5MFV6TmtKUGxqYnRPckJyNjA2QXJXRDFFbHB0eHpiMUJ2LXBqMHBsRkJneGFrTHdNVTc0VVIxbjRqbjEzb0Z4VmVWRWFJNHlWYVpIYXRTYzZQc004Q3ZZRHhHNFdxQ243dWhXM0hNdVU5SXpzUTZCVmxCUDJtbW56QmFyNjZSZzhTRkNFYXVFWVAtUQ?oc=5
+- [Markets] Fed set to make interest rate decision as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5
 
-- [AI] Build AI agents that do one job - Fast Company
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5JbUo0Wk9ZWm1NZWMybEJ6dFVKWXNFQkZndVV0cERLdzdOd2d1TFRicVk5RXZEZkhCNW5EMVl2clhOc2R6S1lnSlhaZW1HcU1uRVNNVEdPVWNoWXc3TERxeWwwY1JzM2RKSkh6UnlwUVFaLWloMHVz?oc=5
+- [Travel / Boop Relevance] TPConnects launches Express API: Next-generation travel content booking technology for travel sellers - ZAWYA
+  Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSjRLUUl0RTNCVWk4QnAwb3ZVV1k1QVB1S2VkMmp6a0NGWnlzYy04Nm5BYVUxNy05Ml9ZQUptMTR1RnUxYlRqeUZPUnNiSC05NGtIejFmRkdCYVhIekRwcDBFeFFMYTl5RGNEcFVlMnV3MEN1cG03UmdkZ0FmTW1meV9zRDkxb1dFMGw0ZUh1QXFaMGYzNDVQV2dIaWduTkREMHBuRU5uYW1iT01iNUZ2d1ZLYlZDelVLcF9CZlpQRFk1MGdmOWZFOXlnZXctNUVJYmc5UG00VHZCTjFsMlZsVEVfMFZzODFHU0NyN2VHc1hnYWl3RUE?oc=5
 
 
 AI
-- Macron’s G7 Legacy Hangs on Fickle AI Funding and Data Centers - Bloomberg Law News
-  Summary: Bloomberg Law News
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXpWUE1EVTFkUFA2TWl6Szlad1JCUEVlVnJCTkM2Y0V2MC1Ed2l6WVNJcDdQaXRubW1nWTllLU9Kd0xieU5uX1ZuaGVBU2pBSzllZzRBOFVZaDRPbTNfNl9VVm9vallULS11TjNJMlRKRjFIWHh3VDVZcFV5YjFRNjB0VEVqb25qd2lCam42TmFKWThGeUtQR3Q4OHRBUlJrZ1VXc3Y0bjEwZUplQ0lyeFNB?oc=5
+- Magnitude Launches from Stealth with $10M Seed Funding and Introduces the First Autonomous AI Workforce to Enable Third-Party Risk Management Teams in the Mythos Era - markets.businessinsider.com
+  Summary: markets.businessinsider.com
+  Link: https://news.google.com/rss/articles/CBMixgJBVV95cUxQZUtuOGw2SkxSakZiWFJyRVlVVEVNcm5UYVZTcVpXWHRueXQ0N2pvTkRLX3pjRjBtWnFqYnFBZW1mUGt6VzhwbEFLWjh5RlM3RXlGLWloZm9oUzNhcHlURWREQ0M5WjJwVjYzNW1SUWFveGk1a0dlekhXOE95eTBWcFlWSm9HOFMxdGZDeVI5RzhTaG52RkVZa05TQlpiejhpM196Z29UWTduMHVvMlhkYVUxQW95cFZBR2hqVDJaeWlKcksyQjg0OEdWVkFGSzJ4ZjZaaGM1WHZzWWY3VmJSM0VLYlhYVkpUeklBYjNaM250MzNuSmZTczEtYXNiTUsxd2JFYXRiM2dHbFBhbjBkSWJUS1lUQWdJU3U4V05KS0dJcjJKSFVJNU1TN2JNVUxBZENaQ2Q3Skh0ZzNfZDJUSGtFY1NIdw?oc=5
 
-- The AI Startup Funding Boom Is Not A Global Phenomenon - Crunchbase News
-  Summary: Crunchbase News
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rc0RfdUdVYUVEQ0w2dE5sNnZvUU1ZQ0ZLdzR3RF83VjgxZ2xVdXdac1FMNUVQcjBBendmSjlmRDd3SUNJMXF1a1Z2QlhNd09kMkVKbkgtSnNUR1ZkM0NacVhYc0xBRkR1blRabzlQMFZzaFRuelRB?oc=5
+- Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9LamVsYm05bGU1c1pmZWFUTzh0elVFNURzeWRtQWZHdWlfVkoyVUt6ZV9kem5uenFfUW5sOUxVWjMxdkxkdlQ1bkhnU1dzMVVtSkpkaWdrS0poX0dpeXQzUkhBMU9VUnlTRi1KYjdhUmpYRU5ETmfSAXtBVV95cUxNOU4wNXM1aElZeFB1RHhMeVgtd0JvanpvUEE5WkxDYVdUbkJmbXNMWkhWVXRJQ1ZDc1BVR1lpMnJWRUxxU01hdjJRS2RXWDJnN2pFamo2c3BVaHpXVF92Sk1UeEdORHNiMnpnVDJmSTBlc3NDeWZtcUxKMTg?oc=5
 
-- AI model identifies consumers' emotional reactions to new product designs - Tech Xplore
-  Summary: Tech Xplore
-  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVpBRGtGS21OWS0wN3Z2SmpETEkzMVNkUk9DS19OaS02ckloeWV0VW5UYzdiNVZNVDJDZzU1b19lc0NKY3dua0Z4aUU0RktSUXNMeU83UW5qMkdBWXlRRDlRTjk1bS1uSU5McnU1ZDNraDljNVdCWE94MzRPV3BNSDVKSnNjVzdN?oc=5
+- How agentic AI is rewiring Amazon’s teams and upending its traditions - GeekWire
+  Summary: GeekWire
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ18wckdBVncxWHlNbGVDQ05RcFNkSzZtOHhBcFcyRGdidW9kZGZ0MnYxeTdGYTI5MTJ2NXd0WTBsN2ZIX2hwcXBfNjZLcEd0djJhWWRpOHZVeTRNUkJ0bVYxWUMxSmpaeXJ0eHBtaGlIQldKTEhMYkVCOVBfRmsxVTFGcDQ1T0Y0Mmg5SlFoYmJXZmxMbzBQa054V0pTdGxl?oc=5
 
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq soar on US-Iran pact to reopen Hormuz - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS1aMHdHUHYxeGQxSWJBU2VJazBaalFvMjcwZmV6WEtQejlSR1FRaHF1RHVTaWZBa3RRTzlkYnByQVZjZWZ2SXhoSThpR0VhUExPMFQ1NlE3NGx5dEY2T2dYd2cxRHFaN1RRZXlKOHdONGNEdXM2aUxiS2MzQlhyS3dMMTFzQ2JoTHB3YU9tSGVoSlRiaWNQTExR?oc=5
+- Stock Market Today: Dow pushes further into record territory, S&P 500 and Nasdaq fall, crude oil moves lower - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzlVMFJKTmo5Z1hZRnlwd0JTbTV4ZkQzalo0WEhmRGdCSWRMWklJQVFscmVDbm1CVEY2YkJhS2s2d3loWTVrUkVsSkNYS2I4akd5bTBjd01Sa0xvSnRYOE1MaW0zMEVvc1NzdzA1N0U2dFJMUWZpeFd1M0xtVjR6MkszTVB2Nld6a180OHBFMUYxNVNGLWNHQXRB?oc=5
 
-- Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Deal; Chip Companies, Boeing Take Off (Live Coverage) - Investor's Business Daily
-  Summary: Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTdPUnFhNERYS29PTjFTYmpOWEx5V2c3R1VkRHg3NDBXY0Q1c3RkYVJDQ1pqMUxyQXVKZF9aUWFsNUhJaDRPRVRNWjZpbGVKVlA0WGRHV3hmMTM4T21kdkhYU0gyTldMNGZjWHhqSjh3SXB1Q2cxTzcyeXpTSVoxVTN3MjRyRVUwVE1acU8tQm1sLUswMFpzTFREZjMxV2F4bXhGM0l4dDk?oc=5
+- I’m 20, and I’ll be watching Kevin Warsh and the Fed this week. Here’s why you should, too. - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ2lhQVNVVVhLcFg2dDk1Uzk0dDAtdmp1V0JGYmVuSk9XVy14U1hsczJSeFJEeWw2MUZDVkZENGx0TER5T25JeFNOZ01QTHFQdFdWZ1ZHak9tejNpWTJaaVFXQjBLRGRuSjRiTW5tOVRndEJrRXhyZnAtLUVPQXFIUVFFUlduQ2hsSXFReGM4TzY1NnlHVUZPNW5UTXB4OFJDRVA3LVJHbDl6U1NFaVd5eGFzUm91Y3FPSGM5VG1pend5TjZLc3c?oc=5
 
-- D-FW Business Datebook: Fed interest rates, World Cup matches and a talk on talent - Dallas News
-  Summary: Dallas News
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNbm9ESnlhMmp1TDQ0dWh0bFAzLWVrNk9Dbmxmd1ZJbHZlOHdTWVdSdVFyT1JTWGtaVkUzTlBzVEEtcFMtQ21ZSEo2eWczUi1mT0Jwa2pzYWlRMUtodHItalE2eHlUakhyZ3lQbGZPQjVha2ZyVjl6UEk1akZhaUVDdTIwTVBuSnNoTWJxX2UwMlNBYjRNeFFkWTUyeWNBTDQ?oc=5
+- SOXQ (NASDAQ: SOXQ) Edges Out SMH And SOXX As The Top Semiconductor ETF Pick For Investors - foreignpolicyjournal.com
+  Summary: foreignpolicyjournal.com
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU09IcGJyUDFleF9kaER1MVQxTzMyUjRMdDdBUFEyalhwRXdvelRUMEY0WUlIa1RfNENvemlFdm9OTkJXUEtVZnFobXE3cUlzZ01DYVNKNjNHWU9tdzdWR2FNVlNUdU9VN1I1SUtpS25XYmFtRmxOTFZoWXFKWktPT2tsbDNrNHZyR0UzR0NfMndYdHhHemNRQlBxOUc3ZFZBdDVUS3Rlbm9TTzZXV3FIZVRVVmd6elRyV3dKWHdtQUtQV2t3RUs1b2VuZ1Vnd1ZwZlE?oc=5
 
 
 Travel / Boop Relevance
-- BRAND USA AND U.S. HOST CITIES LEAN INTO INNOVATION AND AI TO ENHANCE WORLD CUP TRIP PLANNING - Breaking Travel News
-  Summary: Breaking Travel News
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdk1lXzlCM0JNRWNWMjQ4LWJVd1EwMWhfN0RBZS1zR3QtNk01dTFlSmNYZWs1bExjV2V4MnZObXU3Q2tLUXZGV0NpaG01c3BDMFk2cVFhVWJkb0ZIdVRyM3VrTVN6b09rWjR1eWwyUWhVbF9NMFdlMHd5VXAwbVIwbkMxXzgxaDE4TlQwTm5OTVc4ckw3OTBSV0cxSVlFZEI1cGkybEpFOVA2TVNTbmJPSldXbDlYeVJ3dmp3RlB4bHlpdw?oc=5
-
-- Former Fliggy executive’s AI startup secures over $14.7 million in Pre-A funding - Travel Daily Media
-  Summary: Travel Daily Media
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPLU9sYzBrc0FOYUplWDFrYWdKZU1OUV9oQ1lkUzNhZ01zUkdQRm5KN09DaWplTVVmM3lJaWhDN0N2cEVQQURSc1ZsZWNOX19yVjRLUWRERnBUN1BNOXppc1Y3VW9FcDBSZGs4amExaG83UlRzRFd2Y2w5X2dPa2xNZDBkdnBxWXlncnZici0xc1BLQkl3V1VKSkhFZlRkc2ZKUFRsZzFIZDBQR1FtUDdBUGtn?oc=5
-
-- United Kingdom Becomes the Focus of Global Travel Tech Innovation as Travelport TripServices API Connects Flights, Stays and Extras - Travel And Tour World
+- Thailand Overtakes Hong Kong, South Korea, Japan, Australia, and Singapore in Asia Pacific Budget Tourism Demand as 63% Regional Travel Dominates 2026, What Others Get Wrong About Japan’s Lead, AI Trip Planning, and the Real Short-Haul Travel B - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE5hZGg5ekRiU2dRS3NMLXloNkZ0anVRNVN5WGxqVndGNHVtbVB6bzhtQVpkM19kaXo2cU1WNE9lSGZKeXpkWThzQmRrY0UtNlY1TDluYVB3YWJJMXZmR1NaNnFHQndTcm9LWG15empB?oc=5
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbFJQeDNINWhVaVN2ajhzZXZseXVDTEVqdC02emZVXzlnYzhOQUp3eFJ3ak9wZ2ZIM0hKWFNyTGZ4UFJ6UzJjMGVYekd2LXBqUVlEUFFwQ1RTN0c1bXlhYWcxNi1XWjdIdFdSVTJB?oc=5
+
+- India’s travel tech sector enters AI-led growth phase, online market to hit Rs 3.8 trillion by FY28 - The Tribune
+  Summary: The Tribune
+  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSzdCQWhhbmc5LXdLYi0xWlpTTy1ESGpUN3V5NHhmTHdVVm1CaTJ1dU5ucTV0cWR3eFhwd1c5TlZ4cHhPaEE5WDV0MWZBTXJaaEpETlhfSW80MmxMNU5FVWV0dElOV2JhLVQ1LXdWVmRoMHVPbktZU1laZjI0NlpONHU0QzV0U1NBVWtqRndjVlY2N1pqd2JIXzFKNkZMWWxhVHFEZjlZNVJ0MU9iWlFTQ2ppUmZyLWpiY3RNWm0tc0hrWXpPdVZfWXNjZ3V6MTQ1dzE0Q19qX0VKUmIxaGfSAeIBQVVfeXFMUFB3cEg4dlRFcHhhYkcydHl2NExjRllMUXNVSF9hRWxCZ1RjdVNGRDFuVURnVFdGTlV3UkIyRjc2Sjd0aktxS3l2QjV3cFB4Zzg4V2R4TFVYYlg5X3NvdTl3RjdSemZ2c2ZDWjB6RVBjaVlzbEVXX1d0VnZLalgtRXdZQWNYMUppQm9EWjVmOGVBRVNLT2VldWItZncyOV96OWtaOUYyRUx6N0RwNUljVGdJdGI3amxOX0ZNcUZJc3dBSnpEOEtSNlZxQUJnR3BSSGlNTXp4SHFQbENPaWt3TkJnQQ?oc=5
+
+- Global Travel Hotel Booking Strategy Defeats Travel Chaos As Delta and British Airways Fliers Maximize Savings in New York, London, and Tokyo - Nomad Lawyer
+  Summary: Nomad Lawyer
+  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHp1b09taGhGMW1HRWpNY0FEanMyMHJfZ2VnREt1NG1LSXdUVE9aS2FJcG5NU0oyUm1vMHBlZlJHMnozbnVfdUIxekhIYzVIOF8zRkRRLWlWSW5Kb1JVVWYyZXlQUXRMSDk4aTVzbHlWbG1GY2V3ZG9sX052UURRUE83Y3BGdDRIWThF?oc=5
 
 
 Bottom Line
