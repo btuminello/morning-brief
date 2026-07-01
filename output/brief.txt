@@ -1,63 +1,60 @@
-Morning Brief — June 30, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Los Angeles Angels — 6/30 - 9:40 PM EDT
+Morning Brief — July 01, 2026
 
 
 Breaking News
-- [AI] Klaviyo Launches AI Agents that Work Together to Drive Revenue for Consumer Brands - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2stSzdxWTg1LXhaMEtkNHNYdDRTRlFVWmhnX1Jic0hLQ0dqdW5HaWdXZGctUld2eVdJOW9vS1VwY0lFenhoZkpyalJWZFZkemU1M2llTF9XN1paQ3ZCZ1pwcDJwNDZoUUdsOVhqYS1UUk1QZ2JDamQtclBIdV9zdzhXekpVM3Z5dVR5MVRVLWNvd1VfODQyQUtmMVVfUktJ?oc=5
+- [Markets] Stock Markets Enter a Crucial Period as Investors Play Defense to Inflation Risks - Barron's
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEUzNE1STi1MUkZNdjJuWHlsb1VLblR1ZFhEcm5BbDZVS3JaWXVrOWNpVHkzME9vYVNxUWZNUFNsb3NTU0NDVUpzRHBXV3JCNmFhWGZiekV4UWNxUnkyZ2p6SWhYbzh6cWJ3UzM4VlktS016Yk5NUVVhSndqZExNMg?oc=5
 
-- [Markets] AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxONF8zVkNrYlBoa0VwcThGYkQ1Z3RJRUctVmxSLUpaLUhrUmp4dGZ5dGFJMDIwUVRMemtwb25BZ2h0TGRsTlFhOEoySkxDTno5SUkzZzJ1ZG9ONWJPZGliUFIzQVlrYS13dVRMSUlYS2tMZUZJb3dJbnZGTWRfMVpHb2RRdllSeVVEdEphOVQ5MTBBZ3J5dFN1SkZJVkdxWWt5aHpaT01Ba2hOU0VRNUxTUm9RSDI?oc=5
+- [AI] This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5
 
-- [Travel / Boop Relevance] Travellers Worldwide Enter a New AI Travel Era as Skyscanner Launches Next-Generation Smart Discovery Engine and Road Trip Planning System Transforming How Flights, Destinations, and Entire Journeys Are Planned, Booked, and Experienced Globally - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBsWkNaaHNlVzFFSjUtRFBsWk1HdEp5QWlSYzVwTUEwYTRfTTlIM2pFTXhad00zM1ZWYU9kTWpwUFNQT1paWWQ5U1JVb1BGcFZiOEN3LWVkN0h6WTV4N1AwTk1hdlExMGNPN1RxRlpB?oc=5
+- [Markets] The S&P 500 is up almost 10% this year, despite war, inflation and AI nerves - CNN
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE91SWJSaDV1RlZqMHZvVlZzSDFEMGFIVlZ5S3dqc1RmR1R4NDcxWXBzUGhaQzJ4Wl9XS2tYbFJNTS1ubzVYVlNSZHNxaVNLalpiVnUzcjJiZzBhcnJ3SmgwckdBd0trd0lpRTBodmxIbXhyN280cGRYZQ?oc=5
 
 
 Must Read Today
-- [Markets] US Stock Market Today: S&P 500 Futures Slip As Sticky Inflation Keeps Fed Cautious - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQRno1N2ZKRXMwVllhOWNfX3ZzT0tVUUltTzBWdlplVnVxYW5HOU4zYjlrRFE3LVhUekJya2dQYmEyLU13ajc4M0s5cFBjdkNNS0hfTlluVUQ1VHRCNmdoclpwdU5tSEViNnBoNnBqT2FkVmp5VXNsbDNWbUVOcVNIbGlXR3c2dEg3akFyRWg3MEV6dw?oc=5
+- [AI] AI Data Center Regulations Among 100+ New State Laws - WFLA
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnJ4T0NGaDlVQ20wbWRteEgydHR0ZFpYeGFrRGIzTDlkaWptRXd6TjYwMnBzNTFlNS0zLU1uZmdSZ3R1ODROczRKalFoQ1JDaUdMNEF6S3FubW1ick90UndrVlNFbjRxTHI3UlJ5YjdrdkJQVTFBemF4bm1Hd2ZYYk5XWF9rQkpPQ0d4NmRUWXRvS3J3TWhPTHV2ZkNXdjDSAaQBQVVfeXFMTWJEeWpLN0kydVFGQjZpZk8wTjA1Q1JGQi1ZWmNMUFBja2tyS1YzeDNzZUV4Ty1KUThrOGhBTFpyLTBLY0xKb1hQZjQ0ZnhlS1J3UGlENkxLZXhZQmNKMHBfN3Azd3JQcEdCRktVMEk5eUF2Vk9ZUHZiek5USUJEaG1jcW9hNGpHa2pJSjNiSVhjRTl2MTFpZDRJN29QN1FBUEp6UTc?oc=5
 
-- [AI] BOE’s Breeden Warns AI Agents Risk Triggering Market Meltdowns - Bloomberg
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0o2c1NCLW4xQzJESG81MkZpQ1h5WkY3eENyNUxHcU1qazg1Uk1kSlNVVWE3aTMxZFd5TVB0ZTk4Ylc3OERXT0NpWFN1dkxyV1JLNWJtRk1VeWp5MEo0dFpxWDBIUHROYzNqc0VtcEtuS0xTN0tIZnFYajVWbXdfYnd5Q0g5dV9IMHJDUFZDYUd6VlVZeHlQQmk2dDVlbHp2em5VNmktV2R4T3Z4SlBJY2NmMA?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures pull back in wait for Warsh to speak - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSE04NEpMYVF3OG16VXJXdkdEV1NhejF0dW83dmlwcDRZVXhzQ3BJN0hSTGlnd3FrcUZfWTM0OE0tTHJPOEdMUEpIZE9LTWFyWHlScnhYajJSZnFrZUJMSUUzZGlqMVFET3BScEdQQjBPS2ZabnlrUlNaeDV0c25tbjBjSXNweDB0NkVNZGZWWmlNNXFvLTdRcDk2Mk9TWEhwOE4wZ21SVWtURTBRMWRsZjlMd185alJ6MzFOUl8xajdWSUkxY1JseFNLc2NhZU9Z?oc=5
 
-- [Markets] AI stocks are in an ‘air pocket’, Meta and Microsoft traded like ‘bear market names - Fortune
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGlnVHkyamtnQ1JjWnpIeHJSX0ZJS3QtTlFDYjNKdnZfOVl2VW9NeWNSYVJvOEJ1SGRVZHZQbHpIanE3M3dPRVc4QVJUQ182ZWFTb2Jpa2RYbG9hckNhRTV1Q1UzRVpmSnc1MmttTXlaRjRMWHV4MlczLVVya3ljS1VqMXRWY25LaFBibkkwYTE?oc=5
+- [Markets] S&P 500 Stocks: Sandisk Leads Seven AI Stocks That Have Skyrocketed In 2026 - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0kxWW4yd0pUbjF1eENieTVQNE9lQjdoS1FTTVpGQkwweFdrcDJvRERsQzZKYVJXd0FhbG1xajg2OUhpNGNMdWU2NnItbkc3d2szbzd0Vml6WHBzbmROczcwbVpKTVFHVjZURklrNkdLUzd5SEpFRlVfVklRZ1NsTkRfZmNHUEFJcDVacC1oUzJqX2pJNkVN?oc=5
 
-- [Travel / Boop Relevance] United Kingdom Links Australia, India, Singapore, United States, Canada, Ireland And More Countries As Skyscanner AI Travel Tools Spark New Era Of Road Trip Planning And Digital Discovery - Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUUl2cjl5eUJmMG9sNVdmVzl0bnU5TE42LXhKVnFyZU9oR25ybm9ZVTJSam44WVdSWmZCVlJTVFk4akpKVk00ZnBMTFRicVNuWXpRR0pMSVpHNkUtU1VrS1NFUm5TcmVLNXlsY2J3?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures pull back as focus turns to jobs report - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVRuLXJZWE9QalVlT0VocTJkdmQwVktsb081TFFHYUtCNDVjY2VlUjRBa2Rkb1ZFREFmczVuY01wNDEyY2Q0OHctYXluMmJleDlGbWZDUHJhcFhhajJhZ09jMEFWbTBFTHB5RWdWY2xUZEltcjlvWW9YblNWaVNWVFcwRUJrRXZQcEZOTTJhUTRnbmNZMjdKeDdab2JIS2VFMVFkVml1aFdGOFVxbjFvNDJCWHM1dXc1aXFmenJxWDh0UUJnZDRoTm4xQQ?oc=5
 
-- [Travel / Boop Relevance] Skyscanner launches AI travel discovery, road trip planning tools - PhocusWire
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzdLZ3NYOGs0R0NVUl9XZjZIRVp6N29hN0NvQ0QwRkdFaE5xYzlsUmp2b1dhZTJLakRZSlJNSEtSamlvQkhfdnJwZ1YwYmNxT3YzajBVYlJaczlfNVJoWnFrZkFKTF9SdHFuYldsc25jSmpEOEVnOVNTMXV2NldCSjBjeUVKTEQtVm9ieERwQ3NZYVJPYjR5dDg5ZFFscTMzUEE?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq set to edge lower to start third quarter with Warsh comments, ADP and ISM data on tap - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTZZa1ptZTFOQks4dUFsVDZncDlvRnpiTXpOVG9JSW5xVm5vLVpSV3N3SWtHYjl2RTFpclc1NDVURjlqZFhQY1l5Y3N0TXZ4Tnk5VDNhMnFLWnZmcmVvYy05QnpVWEdic3RBUENsUmVjRjY4WHhXRjdJSFU2QVlYV3pkaE9pNXE2dWxfQlNiZmhKcm9zQzBCeFZtWVh1T1F6NVE?oc=5
 
 
 AI
-- AI agents are your new colleagues - how to get the best results - ZDNET
-  Summary: ZDNET
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFBETE1qSThHcWdpWlQxXzNDckdJZGZ6WU53VTI4SmpDblpYRVVCOXF0NmJ6TzlFOFhOZHVIUC1DQURKbjVTY1pVMEdEN3l1V3ppaGV5TWtBQ2d2VHRSdWs1dFZrcmx4ZEJyLXFJT0l2em1hSm5UTFhzQ2F2M1FJdk4wZEd3elg2QjYwVTNqT3RaQzU4cVRQRmpnVy0yZndoY3VMOUJob2ZuQU1FTkI5bnl1enloLTNvR0Rn?oc=5
+- Consumers need protection from AI agents, lawmaker says - CBS News
+  Summary: CBS News
+  Link: https://news.google.com/rss/articles/CBMia0FVX3lxTE5WMWdhQ0FVa0ZTRFRLd0JTd2Z6dUpmeEVWTTZyMnBJRVVGMm0xbDh0TzlaaklFYmJac09BN1dJMUpJeXRoMU5KcmlwMkV2VVN4Z0ZYNVVXS2o5UFhNOW9adjJtSlBTT2FLY0pz?oc=5
 
-- Crypto exchange OKX wants AI agents to hire and pay each other - TechCrunch
-  Summary: TechCrunch
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOYXpiT0FseWx5bnMxb2RKcWpOQ2RzV0JYaUlTclhVMEhJa1JGN044LU54SmZmQnVNcWFoZ2F5ZXBzdFpwakZSZGk4Q29NX3NJUDdnT0NXSWtWa2l1S29jM2taVVg5aTUxWlZob0p4SWNQNks2QjU0d2sxRVBFNk9INnE5WGVPUzlzYkpzTlBSM2YtVUxfN2RtUzhDcmpwdw?oc=5
+- Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol | Artificial Intelligence - Amazon Web Services (AWS)
+  Summary: Amazon Web Services (AWS)
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOeldlSjhNSmVsVk1rLUZoS21panB3NzVsa1d0aVl0SGVTSmwwX21wWHJ5Ukk5bHdkcExVT1cxNVdMdUJyMnhYSC0xOUtpUjEwSXlWM21JdUN1YS1Hc05ENkhGTFFMLTJZT244Z1ExQXZDcWRrNjZkaloxS3oyN0FaUzlQbk9zOUNmaWJsbGhnRHluaHRoNXN5RWJ4a1VEWHhWaV9meFZzTlhIcmFFRkNsV0tNbnpnQ0pTOWhHcWZmcVZBSXFwNW9lWnRkd28?oc=5
 
-- NovaRed Mining Inc. Appoints Dr. Olamide Oladeji as Strategic Advisor for Robotics and AI - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmN2dEVwemlxUDJoQkxtT2lLdjNhSVRHdnFxc0xGZnhZS0U5WEJaTGZvS0JzRS1oUXdQRmJrTHdzRkhERWtlMmtPWjhURWtvS09qUUtqOF9EWmVNSXI2NEpOR1Z5dmJxcnV5MF96NnVMT2VtTkhZVmdfTW40bkFSVHpMODVSSkFBM0NsTXpETnBTWG5BanNUUHpB?oc=5
+- AWS launches forward-deployed engineering team to speed enterprise agentic AI adoption - SiliconANGLE
+  Summary: SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOSWo0QWVaMEZ2cmVvYkswMUpkYTJpMjlzQVAzOTYwemk1NGZ2Qi00dEpGMlBSSG00V1Mzd2dRVU1oR2FHOWktY2JOX05vS204eko2UFN1OXhPMWF4NXlXWThuLWF3U3pjYkZIb1QxemNFR25aUjJKNzdyVlBsMXd0d3JxS2pHSFMwYmxIRWlicUlaWjdWT2x2Tm9hZjlVbWQtaUY2R2JIM0I2VXVob2J3NXZ3aVh6Vzdud0ZJUA?oc=5
 
 
 Markets
-- Stock futures rise after Dow record close; Wall Street get set to close out strong first half: Live updates - CNBC
-  Summary: CNBC Stock Market News, June 29, 2026: Nasdaq Jumps 2%, Breaks Losing Streak WSJ Stock Market Today: Dow set to edge higher after record close as S&P 500, Nasdaq set to gain as...
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9CM1dGdkpCSmFKeGFienZ2WDdlRDNrU3NuVTU1Sy03UVpYTFFNM3FpbjVqQ3c4amxIWUJiWkhDU0dVcjZkMk5VQW05bXZVanptT1dDUV82dENhdEl5cDM5T2RxYWlsbW0zamZIWXNhV0phU19RTE5B0gF8QVVfeXFMTnhTYUJ4MVBFanRjSUVBMS1KUm9GWTFGelpUdTVQb0RtTmwxaDVLOXVqR3ZwNE50RUxtWnZXVnJ5d3BfejdtVktGR3VhM3FGUndHNTBfcUNCcGVPTlZnUmRJc2RORjc0TEVSV1NPdDlXQjdkMDVpRFRndm9GTQ?oc=5
-
-- Nasdaq Recovers This Key Price Level As AI, Tech Stocks Show Bullish Rebound - Investor's Business Daily
-  Summary: Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDFjNjBaUGFWRFdOVGVyd2ROekxCVHAxU2lWOGx5emhoZDg4UEcycUlvaUZiTEtOdmQtV2NRaFRkOU1zdDVBR29HUUo4aHpJMXREQjNDTEFhZXFPVmxmb0lFUjFvVDBoS1R0X2Q3bVhxdl9WTktIcENfOEVTaTRfb2N3UTZ3WmhWUjYzc3FkM0lKRTFQbFBZYUMzTERUR0JKLURORnhTVWdrWW5hQUdLQWF5R2xKQnUzRWRuS2tzaVdNVm5tUlRMQ19NRQ?oc=5
+- Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5
 
 - Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now. - MarketWatch
   Summary: MarketWatch
   Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc1lMMWw5TmVNYVhrUGpPUDRtNi1Sa2VFNnVHVnI5QXBhcDFCMTBNX3NDb1VPb0RNVXdNck5PSm1aeWJ0XzE0SnJoLU03TGFDc2dvR25oZTlKWXpXb0Y5WjF0eEd4WkxoUDJIVVJYM0MxLW92bTZxdzFjNzhzOVdrQXctOXNhaW1sYnJhTkNObVp5OV9vd3ZSdk5fV2l3WUtUTnJjZ3EzTmtNYjkwSmNhSkRlZGpFOUpRSE8ya3NJWkJWdnd0bjhQbURKejk4bHEzMUotSGFvaEw0bGNf?oc=5
+
+- Which Financial Stocks Actually Benefit When Interest Rates Stay High? - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXl1X1hFb2w5UlExWnozRGNxZ3ZfSU5TVlFSUHFrelZESW5iajl5VHB1amxNVmxrZXprZVlhWGE4QVN1cDJ1MUlLX0VHNG5rdFZHVEJpQ1JvUnBTMHBjX0RKckhyY2NMUElaTE9VcmEyS19oallqMHcwSXVrdk1hNW5GMG5nSVdtd0p3OHBsYkdMdGYzQTJfRktOZ2lNYkFESGRTNXNMN0w2SDA?oc=5
 
 
 Travel / Boop Relevance
@@ -65,13 +62,13 @@ Travel / Boop Relevance
   Summary: Hospitality Net
   Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1c5T3hjdkE1N3JHUndNTzFxWDhKcTdFYmM1dkNNV2RzZnNvemtod0xmTmgtSFNrcGlaR1pyWURfalRKLU5rSzBhSUh5RzY3elNxbEN6enprcWp0MUxQZUhyZDJ5Wm5iSVlOVldWRU5WZ1N6ZE1ubWVrazVxdkRkRkt3ZUk2clNjbElBRVAwVDB4RzdyczJRLS11RXpEUXhpTEJwd20wdW9VOFNzT3U3MEYtdkx0LUNBWTVuWDRWZ0lYS0I4RmFES3N1aTF0b29PdkFJa3d0aThlQThPZHh5bnRPX1FwUkxFc3FKLVg2emdMQzFwdDlELVFxVGRoT3py?oc=5
 
-- Pegasus Airlines Travel Technology Breakthrough From Turkey Integrates AI System To Enhance Aviation Decision Making Worldwide - Travel And Tour World
+- France Partners With Spain, Italy, Germany and Greece to Launch Next-Gen AI Tourism Revolution Transforming European Travel Experience Into a Fully Integrated, Hyper-Personalised, Seamless Cross-Border Digital Ecosystem Powered by Intelligent Trave - Travel And Tour World
   Summary: Travel And Tour World
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFBTdjRiLVROYlNqQXJtc1N6dDAwX0ZGZGctZGFFcGdCRzNaaHJKVDVPU0FEYU5lQXNHQ3VkTmVITWVkbTNUTUtaVUxJdkM1VnVEbWRwbnZWTWlQZ19SVWI3ekdZMUh5Ym01UVpSWlRR?oc=5
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE1kNDZFNU9YQlkzYVdxUmlRcTFyOTZUOElkVVdNTXVSTEh6dmRCQ2NTeWdQSUNoRTR5WG5qOS1sWndDa3BTcEw5S2FGTWtiX0hGUms5dks1WEZFOXA0YVA2Y0xsdlEwRG5obnVLTzh3?oc=5
 
-- Lake.com Launches AI-Powered Lake Chat for Waterfront Vacation Planning - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQck9MTjZ0UnNJdDN0MGNjQ3lINlVLVVlzbkFZSmxtMWxBY0hta0NWMTEwNHJqdmVFRlVha0tBcEgzdlpQME5iOHpnaTRSOFJJbDBLTjhLZFRnRHNpOE5VUmxtcW10MS1jQnVOMG9VMkNkUmNOMzlzcGZmN1hVbTUyenVPTUhUTzJVdnBsYko3OGVaWVYwcENtcFpXWWFCMTdGamQ2cGZobWk4bnhsN3lPaWEwX2U?oc=5
+- Skyscanner launches AI travel discovery, road trip planning tools - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzdLZ3NYOGs0R0NVUl9XZjZIRVp6N29hN0NvQ0QwRkdFaE5xYzlsUmp2b1dhZTJLakRZSlJNSEtSamlvQkhfdnJwZ1YwYmNxT3YzajBVYlJaczlfNVJoWnFrZkFKTF9SdHFuYldsc25jSmpEOEVnOVNTMXV2NldCSjBjeUVKTEQtVm9ieERwQ3NZYVJPYjR5dDg5ZFFscTMzUEE?oc=5
 
 
 Bottom Line
