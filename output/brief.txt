@@ -1,77 +1,77 @@
-Morning Brief — July 19, 2026
+Morning Brief — July 20, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs San Francisco Giants — 7/19 - 4:10 PM EDT
+- Seattle Mariners vs Cincinnati Reds — 7/20 - 9:40 PM EDT
 
 
 Breaking News
-- [Markets] Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.) - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzZYcnB3STByb2ZQZmlSN21Sc2lsSnpJUGNWdjRQMThHWWdxTG1UTktyMVB2VVJLNWhaV2RrMElydm01QkhucHYwbkRyT3NodXptTjVKNUI5M3E2MllCcXg2MEptc2Y4dHJZd1BYbG1qdUNNUzVtVzl1d0xFTFQxd20wdWJkQ0pwcHhBWU1zeFVBUGdw?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2ZVWlFvSkNRM3pBSzN6Vy1scXBZQzNfUGZXenUzTHNSSWtTVURVVUk1S1RQYWxTVEJOb2t6WG1LOEFMVXNuVWVndUdYZnNfb21KSVdmT2tJQ1lRXzVuWVliX3YwLWk3VDVGdU9BMUJYR3YxM0xOSHlwUlgtRDB3cjEzdWJ4ejRneUpxM2ZsMGRDMDVTODdWTlNERERUaGc3R2E2cHNwaUQ?oc=5
 
-- [Markets] Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.) - The Globe and Mail
-  Link: https://news.google.com/rss/articles/CBMivAJBVV95cUxQdXFSQjB5TS1vVC1RcEJyTDJSRlZ1ZUZ5emVCUmZCMkFERzFQLWZXNUN0N1Z5ZFQ5UVhGMndPSkVRZVBUT05Wa0kxU0dOQUdjWnlJTVJLUk55MFN3OVJuTVFDcDFvczRzWUc0T2RhTDl2YUdsS2xWMEhwVHFWMHRYTDAxeUhjRUNkemg1T09YcnhTd0U5alZqMm96dUY2eHFTZ0lRUzFNZUMxbmhKdy1HYmRXaWdDNWJDMUhLRmhBbHp4STdxVWdoTzFqTGVmc0QwRzlER0wyZ2pjRUpUTGpJQmJ4TTJWdnpVNE1WbnVzYTNiMUozdXRpbjNwdFlCMExuSjVYVkVHSDRROTFwOVdBWmlpT1pZYk8wakZ0MjhKcFN5RDRPczhUYUpTOGx3d0JzOENublFKVG1aSE9l?oc=5
+- [Markets] Bond market still expects Fed rate hikes despite softer inflation data (BND:NASDAQ) - Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0NkRllBQzY4YUJ3ZUEwekYyaDUxYmRFOFRTd2dpRTlvUk9wNUJ0el9Bd19fbzhqVDRBR0dXSmRSMTJmNF9tbGlZRGU4VExzT0JwTFlkajVkb3B5X0F0ZFhFcWxxTFpXbkFvd1YzcjVxZzhyVlpOcFA0bFdFR0I4QVk1SUdhNENPcDJNOHBUaU1KMV92cDZMSzNnMHRoVTduUV9yTkI4MUItZTNW?oc=5
 
-- [Markets] Live Nasdaq Composite: Markets Advance on Cooling Inflation, Chip Earnings Tailwinds - 24/7 Wall St.
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQVk0xUzVEZER4YUpNREsxZXhtTHZNRi1kb1k1NXdwaEZwVUZVVzVSdkJVRG84MkZMbGFMWlR5NFk5cklqcW5yMGdxVWJncmtrUzJZSnNqVTQxRk9fV1NKUHdRS3BHM0NYV2FhLUtrbnFxdU1oRUZJX2s3TV9xU2N2VUcwZzFCTzhiM1hrSjBaSy1ZSXowM3B1SVkxc1NKblcxcnhGNnN0MXZjcVI5UU5sSzQzSEQwV2tPdEVBVS1TLXV3aS1w?oc=5
+- [Markets] Stocks Set to Open Higher as Chipmakers Rebound, Corporate Earnings in Focus - Barchart.com
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmg1Vml2bG5ad0VXN0FXTDFJdGlKNHM0OXV6RmZ0YUpzYVJ1NHFSUWsxTmFka2xndWgwMURjOFkwVU81Z09yc09Tb0k3V3k3R0lQX2c2SlFmdElxSGFWRkRQT2xJYVdxSE5ldFJuLVhlY050SndpcWxVS2owN1hhZmQ5ckJaamhSRHY5VGpkNUpRYlIwRmZxaDNLb2Y4ZjdPZm9wb2gyNGlWcnBmMjN3bC05MW1IWDRaZ3pF?oc=5
 
 
 Must Read Today
-- [AI] 10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents - MarkTechPost
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0JVS2x5eGpiQWtFUE9wRlFSWGI1NnNNajlnNGkxYXVKTXlVaVZvZXd1VlZoRUVvYlBsOFRpdlhJZnFyRmhLb200aDhOZVFFOHFRMXlueV84LUlFUGdKdTJWMGRZbVZKaUwyU0JQYVl0YmZfZnhOMl95TG1pakdjWVlwT21qQ19oazA4WHBlMTlUSkRSaTh4M0R1MlZ3TlZGZTdCQjhlczE4enBWcHJlSjVtQkw1YjBMU1JGTW5NamlQZw?oc=5
+- [AI] AI Chips Update - AI Labor Milestone Revolutionizes Consumer Finance Interactions - simplywall.st
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNUzhYbmVyUTdWNTg3d04zZExmbnZ2cG9pVlpRa2tBT0tvSWpHNVZla1hwXzA3QWVwNjQzZ21uY1BGcWF2V1ZjeVBsS3R5SkhEc2d5bXl4Wnc3U1JPdkQ2Vkp6WWlhWEE1MWJjVnRaMHdhT3U0TVBTQVFtRFlpTC1aVnVkdUtSdDZ3UW4xREZRUkhGay1MZG5LSkFIWm16SnlaQVBKY2d2TE1oSkg4ZzU4QTJHbUJ1NDY2cnVfV0wtVENKdWtrMktIeUE5WdIB0AFBVV95cUxOQWxHMlQxV2FGeUIxYlVvMnpZaWZIalNMWFdqRV9aRDFYdGVFaUJTaDh2VzdaQ2l5R2t3dkdDOVl6TzQwQ2pqNFNaLXJsU3pKbzd6U0g4VEw1TElVRHpJelB0Y2R1Q2tOeVBFQWVvajZmZEVPNVFsUkUtQWlOdHdmV28wMXBaTlVtU2tpWlFrY3Y3Nk9aLUFmYzdsQTFLcm43UzZFRHpjYkNEVDVYLUZ5OE9KZ2N5M1ZSTy10QXVEQ05MNGRfTWlVVE5td2VJbW40?oc=5
 
-- [Travel / Boop Relevance] Summer Travel Scam Spotlight: Online Hotel Booking Issues - KFIZ
-  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE50eDBXamZueV81NThIMzc0RF9FZ2dVWFRHTkZObV9tNEpueGtmQlVwTGZVelRqT0FET2hJTm5ucHpuWmJGUUpEbFZPLVdpSVA4bDFjRE9peFBEb1hLZ0VsZ291N3BDb2VmVnVCWGtjb09yMm9fXzhIb3Exbl84X00?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq look set to rise as Iran signals openness to talks. Oil prices ease. - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1lKY28xODU4UENfdmcxSkR3VWEtbmhudHRiRjlwNzRBdnF0dkhxejYwRnlNZm9ya1NUbTR5eWROUmJ6LXVwblktR2gwYjBxMkVMVjQteDlOZUdGWGJZUGpLT1liSXNUUFNLZXZTQ200WHlXMGVMdUlIZGdqRnV3ai02N2s2RkVLakNTRzNEODhQWFgxYk1VRjUzMTJSRHNoNW40Z29YTWROVzZiWE55Ykk1Y3NaLXc?oc=5
 
-- [Markets] Stock Market on July 17, 2026: Dow, S&P 500 and Nasdaq finish lower as chip stocks enter bear market - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUJxV24wV1lia2ttajh1RU84QnI5dW01VWJxTFVpVXhlUE1ucTZET0tpUXhGcldQTkJfdnc3QzJCMl9SVGx3cy14Xzh5bFVzdVkyUnFSdEp0SG1XNnhaQVRWVHE4cGVELWlWZTdPWk1YeUk2N19JTnV1SG5xT3VzMjZBZU1oMG12bmU5X1RxWlFsVWF6SHNJOFFBOWVyXzFWQnUtRUdKRjFsWWJmTzdDZWwxZWRINjVh?oc=5
+- [Markets] The 'Second DeepSeek Shock' Triggered by Kimi K3: AI Semiconductor Stocks Enter Bear Market—Has AI Demand Peaked or Is It Still Expanding? - Moomoo
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOVktEQjhrUlQyUDlfZXNmV1Fmc1hZVTJzSV9kMms0ckM0bVhJdllpTG0wMkJoaU9Zd2VaWmMxclhyeHhaMnNKM2M1TFFobThKNFdRd01BS2xCOVJYcVU1TkEtWTNxcXQxbHZ5dEhGQUJFVWxNTEVOYkxKV2JVVFhTQ2lBWGxOMFF4bzdyd3dTVkN2MVZ0alIwRFdnYjZseXBwUFE?oc=5
 
-- [Markets] Polymarket Fed Hold Odds Hit 94% As Softer Inflation Boosts Bitcoin Mood - TradingView
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmRQYmgtTG5LYi1sT1ZGMDFDZ2pCc1k1bjJPM193Qnl5c3RscmN4VFZPa0VRLXlhMWk4cjZtNjBOd2VLOFpneThnTFFZLTFkNk1PczFDQU9FYWdkMWhOUEZYSnZmNGVDVUpKUFpfMmtsRDZ5d0FSb2NvMFh1Vm5JWjRINHo3c0FZTERmbmFKa3NROUFCSnZfb21DNWc5TC1BOVh3TUVWbUdhYVMxR0lxa081aFNwZmdFR3JiMzl3Y0xGajdDMHFOag?oc=5
+- [Travel / Boop Relevance] Thailand Shocks Global Travel Market With Major Visa Overhaul and High Tech THIM App Launch Set to Redefine Southeast Asia Tourism - Travel And Tour World
+  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE84dGdHcU1FZUFPTFljMnlQTEYyenh0QlFJblhoNGxqTldjQVZQbXh0cGREdFBMUWJDb3NaQWdYeFUxYzFQaFRsMVF6T09PMjd6RG9BdTBva2pGbmZ5VDBqcWNLZlZFMG5OajVxV3JB?oc=5
 
-- [Travel / Boop Relevance] Cleartrip Launches Creators Club To Turn Travel Inspiration Into Bookings - Everything Experiential
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnpaZmFhVmo5ZFpTT28wU3VLUXppbFk2Vy12X05KTmNkRmg0c3pFdDJ3VXZ5NWlMTTlCQmh4bXZGMU05MHZSS2VWcDZhck9tVjdBOElXcVZWQXFHX1gyNS1MaGY4MlNNV0JMeVlPb3ZXUjFJaHhyUDRySEYzcFJwd0RFZm5PUG41MUFxekMwYVVlX1FLck5zbktDYVlZRzhVZU5xQkNoNVNXc1hxUUJfMHdnYmVBOHUzV1h2bXpDVks?oc=5
+- [AI] Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials - CNBC
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVdfN2RfcnotMjlQeGpnY3BkMjNvTzdyc3BrXzdSaGhaNkNDQ0NnM2RKenhKWnRMcks1elBpZHAycVJsTDJYQ0JLdjBLcUZrZGhBelI4bUhzOGc4RnhhLVpiMW9RU0pRb1NlcTNWTXZ6THVkSzJ6dmp0RTgyMHVEctIBhgFBVV95cUxNYy00UWxqQnNVMzBVS0RCU3VPZ1pFLVNiSk5tNnVabEZhTGNoYmNfc2VmaXFmTjJxb2xEbV9PYXY0MEM1UHhBSEJDQ2MtUFRoT0xidkVwbGw2bzVBMy1rMzNJSG01dWYxbXVjbmlVSkI2V0MyV1NzOHF0M3VKdm5KbVdjV3V4UQ?oc=5
 
 
 AI
-- The bottleneck for AI agents isn’t the model anymore. It’s the context layer. - The New Stack
-  Summary: The New Stack
-  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTFBPN0cyai1HYlBMLUw1bXdDRWFSdzZnRHpuSUxhaGVPWVhpY21BOXZodkE3V0ZDOVNBeC1ONk50VkwzdXlWLTJGUU8yMlVZMGpRZFlDbVRuUUxuZHhRTHJsN1BEaFRLakc0VWc?oc=5
+- World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent - The Hacker News
+  Summary: The Hacker News
+  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFBoUTdHbHN6Mlo0QV9IRmhnZUR0T1RJT1F3aUZwZlFLaW1JbXZ4azdpUkxWZFg4NGFvcUtDaTJiLWpaV1M0NkdzazR4SVhpQWVKZ3dZX28wM21WX0ZjZHJxRlN2OU43al96S1JJVDg2T2dtblIyODlTS255MVE4dw?oc=5
 
-- Bloom Energy (BE) Following The $1.7b AI Funding Deal And Its Valuation Case - simplywall.st
-  Summary: simplywall.st
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3l4SlBmMGx6VUdoanphNUVKMUdFaUlmSTZJUkpZSmhNSVMyQjU5MTk2ckZjdmRNeGR5YlBWYjlrOWpFSzM2WVFDNm1YN3duNlZlYlk0aUxhNWFaRzdyWVNDdU1CRnFocGdSdlhKUG9BcXVudWJpdUx6MnEzWmxtZEtmenhOMTZ4bGNUZXRRQVNXemNSdXc1WUlCcEd4UEpJZ0JqOU56QXNqbFRYMXhjbWwyamJDODJMVXRVSmNUOUV6QlBheVJ2OEJxS2LSAdIBQVVfeXFMTVNEZ3NfM3BrTW9JMHZTdjllbTJfSjVzYUFRM0hkSURjR09mSmJicjFwRENySzZubGhBcXM1TU1OTzdWR0E2V0N2c2t1eDdJZHNlcE1memFjaTB0QXN1YnlXOEc0Y0lRc1FPS0I5cXd3SVNUOVlQdEM2YUp1U0trdDhab1VWR0pRT2tyNmFVT2llUHBaZzdueFE4MWhfSEl6b3FPOVcybU5jNTZKM05ZMzFvOHNfX0NzWDFLaDlkZmY0eXI2OVZGRV93SjVSSGZLMzZB?oc=5
+- The 6 kinds of AI agent architectures - cio.com
+  Summary: cio.com
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXVPWVJXal9sZU9vaWxEQVg5NEtWZ0FCMktzemtHUXpwTnNNRVhsWllibWRQV3Q5V0tsOHhDRHptYV9QMElLZmFiTnNlemJiVHMxN2lIUUlzNUhaODVSbG1CQk83X3R4X3BWUHVXU0NQRkljWjU1TjdhVlVhaG51b1BhWEg?oc=5
 
-- The Federal AI AGENT Act: Consumer Protection in AI Clothing? - Davis Wright Tremaine
-  Summary: Davis Wright Tremaine
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaG1LWndxY2tGMlU2bjhZTG9HNUlpS3pzakFTdk1YQnpaQWZYaGtTTVFuRXFKV2d6bjBwOEk1Wm9HRk9ScnRMM2J2UVRlckdTZEFOZ1ZSQlRMdWhXT0hHQUFLQXZjYl80dUJmMFVMSHRTdjlYbHk1ZXJtZkc0ZjV2NnVpQVh5SkJfV3I3bVdiQzk1d0ltVV95SXRzRlBDbG5aZlIwaTl5bkE?oc=5
+- Hugging Face discloses breach linked to autonomous AI agent - BleepingComputer
+  Summary: BleepingComputer
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUMybWdla01CZEhudnl5R0xXekFRT1I3QnNaRFBvNUM0dE9LbWQwS01VVW1NYnNwTG15ZzgzQWszSld1VWoyeTNDVC1MNjlMUWJNZnJSREpIT2V6RWVFWDRsVVloN0FoUWRqT19UeHpsM3VURXp5TXl1dkY3cDBvLVpCa0xJT21wQUxVbHFwM196MDJTRnBnd00wXzh6YVZaZFNZOXNPVHRydUtxY1VMM3cwY24xWWVTdjE1TE1ocFNvQdIBxwFBVV95cUxQcVpWSC01YWEtX2Q1QU5XMWJ0Mzc5Wko1MGdyejkzRDhkOHM3MFg4M0drQ2dWMElNOUtGaUlzLUJmSFVaNkJSN3JlcUR5NkVnMGRJZHl4U1BhSUtCaEVEN3JpWncydWxmWk9CSmJRLU1OLU9ESWRwM25FLXR2Z2h0LU0ta2lLdzhTV0Y0MmdxcVJNem9ZSjhIb0pfZGhhcEF3Q0EzNE00VEtvS0w2VHNPTlBGY2l6bWxqWnJ0b0w5ZmNieXpyVVRV?oc=5
 
 
 Markets
-- Compact Temperature Controllers Market Forecast Points Higher Toward 2035, Driven by Semiconductor and Automation Demand - IndexBox
-  Summary: IndexBox
-  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnh1ZDVQcEcwV3U5TnQyRjE1aUd3bHdlLUF4cEtGM2thaVNuN1J0MWU0czhpNWxHUVFIUHZtajlUYU5XdGFyanltTjJEV1pQOHFwUWF6M09tZmlHNHhIRkR0VTFncEhhVURGbjBRXzNHOHBIbnJEM0tYOXhMcFRzTkQyMU9ZSm8zTFNYZ29oYjdvbUlYTjZPS0lBanFVeGlVbkxhLUppUnhCZEpRUk9EdkJLQ0ZpbHl5WXhJdUIybndQTnE0ZTNQRFp1dWZkdUZVXzZ1d2pYMVl6ekF1RExiQVpoRQ?oc=5
+- Bond Traders Take Warsh at Word, See Inflation Fight Continuing - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmhmdUk5cGhQckd3ZURYVkVtYzVjR0JwYVFfR09VYjFzM3lkNXFhTTY4MGNOemxqS3lkeVhfaldwTlp2TjRqOElpSElIWTZoaEpWeVFFYmc0dXV6b0RaejI3TTNwWkFLUTlEOWZxazhvWTBid2E4U05yNkliaXBZb1JpbkN2Um9vR2tCZTBYelhScUR3NnFWc0pYcF9EWkYxZ1pNUVVfNTVqWlBOVFVPREthdw?oc=5
 
-- Institutional demand for CXMT’s $8.6 billion Shanghai IPO dented by chip stock selloff By Reuters - Investing.com
-  Summary: Investing.com
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYUpjeFpubkc3THJwSDdISzZKVW5kT2xQLThSaTF1TEFqTWxOcnl0TFlaSV9kc1RxTHdIZWJ1cThYdC1JeE8wVTMwSlJJMmNVUGt6WHF4OGpvT1RjTTRENHFuN0xndUR3QVVlU3RrUVdzV2EwMEx5cmwzZmgzMVA2ZEdJRGIzVzRyT0FIN3Q1RUdZRDBVNTVKOU5VdEZ3anNsd1RuckhESkVXR1Z2U25VOEQ2TEpQVVFqMjU4X3M5a2NZSUhmS09VN1l3aWItSGJGVVJiSEx3MA?oc=5
+- Inflation in June Was Lower Than Anticipated. Could That Support a New Crypto Bull Market? - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGpVckZnbHpRcGw3Qkt6UHFJd00wWDA4dVBvb0FNdm1zVTd4U1B6akphMTRLNmJoMkJlUUFoMGNIWXc2Q2hNZll4MXNmeExFRHVzSTZKSjB5Z3ZJOFc1eEtMV18tM3lEaDhzTEpLY2FoOWZyRGprbVBabGFERGxiM3Z2T0RldWpJdnhnWU5DT1RFSEVneGZQcw?oc=5
 
-- Smart Investor: Top Sector Stock Picks, What to Watch in Tesla and Alphabet Earnings, and the AI Debt Wave - Morningstar
-  Summary: Morningstar
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxObEUyd2NtMU8tdkpBSlN4WllrUTJoTy1kM3dtSF9hcV84OXBQTDNDNFlsdUVQVGQwbGgtSnpFbEgwM0VwVjBKck9ZZXBacmtIR1l5TWNFR1lNazR5bEdJYTVTbUpDTkc2dW1heHRtanVuWlhIS3d6OTdvQ05Ld0FLZ0VBdEtNNTU5Q1hzZHFpRGdqQ1hlOERROUVwS056TmxLdG14T0Z1YXZkb2JqX05XcmlFYW1IMkFwaXEzSU1R?oc=5
+- Inflation is broadening out, says Goldman economist - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtVU19MejZPQ2ZUQkRpU1BDMXE0TjNLS0tFUUxkLU0zLVY1VlVYVXhlaGxPQ2o3cHRReG1EZ2xVQlhSRnRYSE1UN252cUlkX3dyWjB4M28tNWt4cTczTkMwNUEyR3gxeEtTcExtTzJwc2lpZDJxMGdxSHo3UmQ5MmtEZGg3U3hYRWtWNmlQTnBBUGRSRVAyWA?oc=5
 
 
 Travel / Boop Relevance
-- Israel launches AI travel-tech network to boost tourism - Ynetnews
-  Summary: Ynetnews
-  Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Pdkt6SGx1RldlWUI0cE1HQmFDLWtvVlllLTAwVzRCN1c4cTRDbDF4OWVIa0hvMERUNk82a29EMHVHSzRqZHhyNTl5bW5tMFlBYnVZZ3NTVzFwdDR6QnJn?oc=5
+- Generative AI in Travel Market Size, Industry Analysis, Demand & Forecast 2035 - Global Growth Insights
+  Summary: Global Growth Insights
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOblBnRUlxQmJWd2V5Y3ZERk9mY0NaU2gxcjJJZkE4aG5HMThvSXVVdGFVRHplWjdCSFRkdURKZUp6VjZ6R1kwNXRJVVRFRnJsRGtubHlIMm5WYXBfeEZNSHZNOWY3cnd2bDZEX3RfOXVEOGJDMDNCWXdnY2pHY1hQU25pV1R0ejFrQnJ2RnU4b051Zm8?oc=5
 
-- Capitol to introduce online tourism app to counter travel fraud - SunStar Publishing Inc.
-  Summary: SunStar Publishing Inc.
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzZacDBfYkJGaUxRNHNGMDdpVmI1WTVVQ0RrQTFRM0otdHJCUWlCeFM3am5BZ1RzVmhieTJfMmd2bFpMQnpLU1ROQk5qY0xBNnRRczF6R3M2NEVtc2xrUHo5OFJxa2N6ZnlaNTU3UDJVdG5Wd19seGYtQ2lFLUhySkJYM2M2MldVaHhLZGhtUVBmZENObW1OTkVIY9IBqAFBVV95cUxNdS1Qc3Z4cTY3YTFzVG9SWE9TaGZjOS1QLUFVTXF5UjNKRml6TzNQVkRoRDhMdlpKNjZIbGk5QXdMZFVqVEVNRktqZ3M3eWNicVg5cVhJZXdCTHpCSW8tZXdMT1lFbGxRNVpMV0dLU0dNMWd6NDUtT1NWckdnYjBWSzBWWlNNY0x1OE9yMHlrOTVZM2ZVNGxSaDhRWGZ1QnNVRlVEU2F0UkY?oc=5
+- Cleartrip Launches Creators Club To Turn Travel Inspiration Into Bookings - Everything Experiential
+  Summary: Everything Experiential
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnpaZmFhVmo5ZFpTT28wU3VLUXppbFk2Vy12X05KTmNkRmg0c3pFdDJ3VXZ5NWlMTTlCQmh4bXZGMU05MHZSS2VWcDZhck9tVjdBOElXcVZWQXFHX1gyNS1MaGY4MlNNV0JMeVlPb3ZXUjFJaHhyUDRySEYzcFJwd0RFZm5PUG41MUFxekMwYVVlX1FLck5zbktDYVlZRzhVZU5xQkNoNVNXc1hxUUJfMHdnYmVBOHUzV1h2bXpDVks?oc=5
 
-- 24 travel tech gadgets that’ll level up your next trip - PCWorld
-  Summary: PCWorld
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVBQcTZSUUY0dTZEbks1U2psVC1ack4tT09ITnVDM2lKWXMzeWZRN09qX0lFTE9oeUZKX3Q2clBaZzVVVkpXVDFkWEs0MU9HX0l6b200dXJscjZiNUZ2UGl3Ym5XQjFNNGNad2JCQ1h0NXVGSllMQXo3TTRUMngteEpLWTZ0c3pXNXdmU1NUdDNGMlZm?oc=5
+- Summer Travel Scam Spotlight: Online Hotel Booking Issues - KFIZ
+  Summary: KFIZ
+  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE50eDBXamZueV81NThIMzc0RF9FZ2dVWFRHTkZObV9tNEpueGtmQlVwTGZVelRqT0FET2hJTm5ucHpuWmJGUUpEbFZPLVdpSVA4bDFjRE9peFBEb1hLZ0VsZ291N3BDb2VmVnVCWGtjb09yMm9fXzhIb3Exbl84X00?oc=5
 
 
 Bottom Line
