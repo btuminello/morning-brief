@@ -1,77 +1,74 @@
-Morning Brief — July 22, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Cincinnati Reds — 7/22 - 3:40 PM EDT
+Morning Brief — July 23, 2026
 
 
 Breaking News
-- [AI] AI agent went rogue and hacked startup by itself, OpenAI reveals - The Guardian
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA?oc=5
+- [AI] OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots - VentureBeat
+  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5
 
-- [Travel / Boop Relevance] MTN MoMo and Next Travel launch digital travel booking platform - The Independent Uganda
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1R0Wko1a3k1S1hHeE10aVV4ZEEwaDJ1QnVYeW1aR0JMQmt6cGluOUR0RG9WbU00QWxsRV83eVZtVXlMOE00SWk4YnMxenBkRzRuNG1xUEdpUmpNSjdwc2IyS0NIdl82dmdiT1VzOGt6alc1ZDNNRjBzYld1VnU2cFNYb2U1dVpVMjZDWC16cklsQXFBZjRmTndB?oc=5
+- [Markets] Why beat-and-raise earnings reports are no longer enough to push the stock market higher - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlVCMlVvdnRmSFJBcnloSmNkM0NUWjlIWlNka2JXaXQ2Z1VuM0dYOXRvcTNIU0ZaQ1d0dS1hWVNtcHNoZWc3dXkxcVVRajBDQm1sM2RVRnZtajJmRUltejEwZWVhRWdxblk0WGVONHBzb2xiaUZMVVR6UDZOd3lxMHl2ekVPeVQyd3ZISzJ3VVBCdlgwaUNsZFNLcGNlWFVVUlpZQnJRN1hVdDJvR0NIWU1nTGd2ZzNFNExmU1V4WXVNU2d0THdXQTg3VQ?oc=5
 
-- [AI] IREN’s $2.8B AI Deals Highlight New Funding Model - Data Center Knowledge
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVJXZFY5TVFkZXB3U3BVWnRBdmF0YWlXSEp1bE83M1J1Y0E2VDFteFhHRnd1Q2E4REF3YnhVSnVxUndtejhnZ2VhdWZyb1pwYnNfazFaOElpTklkdDBjam9SOUVsRG1GZmUzdTkxSTk0dENMdHo2RWc1amNEdkJQS1RhYXJEbGhBZWdBN2czVHo1ZXJx?oc=5
+- [Markets] Fed’s favorite inflation tracker is getting an overhaul — just as the central bank weighs interest-rate hikes. What’s going on? - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT2V5VWxWNGVTOWhwdTFEVTYtVzVCenNfY3pmM0VZbzl2d3BNbWc1TVl0QTNTck9FX2s2ck50MHZNcGN1V0dvZmlDSERQYVVway0xbXdLamFOYmFEbGc3WUVWMHBKVjM5VUNjQmlnM1h0RWd3bUVSWmtKTjRyUXZIV2FxYUJmZlVnclpBYm5yYWdDMzFTY1N5T2xtSlZ2dVM1RS1FcUFZUmluM0k5WGt1Ri1YalZJZ1FtTTVjQXhhRW9KSnhRbWZBR1FCems1Qkp5Y1NPaDAxVHgxbkJmQU9Uc2lGcHFwUE56TXRiTG9hTW4wcmVxQlJB?oc=5
 
 
 Must Read Today
-- [AI] How to scale agentic AI adoption: A 4-stage learning model - InformationWeek
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjRuRnRWeFBrWXRkMjlHMkpuZy1KZDgwdHpmc3lMeE50c3BmQkVWT2U4LU1aWC1VZWtzX05pZ3JTYlNMYkI5OVREU2o0YzI4NnBhbHluWGphLWxBbXhkTFVPTGw5dG93Umt5QXlwTFFSYUhIeEhJWjV1a1lfNkp0WkdTRmZWZmNEempDQW4tTjItSF9OYU9Tb3NQSTd1WExGYWFGN0JFSQ?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFJSYlNkdmkteEZHVnV5VFh1QXdtSXJPSTRld1M3V1UtUXFDeTJvQW96VnI5aXVhc2xrZ1J3cGI5NDVJX0pBSkxfVFB0dFdURnZGc1MtMUdLNjR4aldFTzRkVy1nWlJzY2F2YWhEQnUwRmM2bEpEUVI1MnJ5M2owcnhPMzNjaUdTQXNud3l5Sm9fTHhfZDVFTFlfWENIaGQwSUlpMVZDTkttUkFzUGExTTdKdEh2YlhSWlJ5cE44b25LT3ZveEJkTFNsRm9uUWRjYmY3WEdESnZiNy1xekxGa25za0JOblB1bGc?oc=5
 
-- [AI] Agentic AI and Consumer Protection - Lexology
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUxjVm9LdFNXT3d4d2gyMUxzeWdlNFczRnlIby1uMW85WjQ0b0JvTDEtVklPdW9feGhvcUFETmRSaEVtaTh1XzE3Q3hxYV9qVV9TaEE4WE8yZV82djh5ZThrTnRQQ3p0SmNLWjMtazNxZmJKa05QRV92SjBCbWRxMTBFcUNUYTA5SEdN?oc=5
+- [AI] Agentic AI is transforming insurance sales both for consumers and agents - InsuranceNewsNet
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGJyVXVrY3J6blplRXFIUGwzYll2SnlfTVAyU2NTZEp1dGlWbXhpSUZ0TE1KRi05a18tWW9INmlRYUVOSk5icEJiUEtRdGFzRnktdkNjWE50M3k0REphQ1pUblNkTmlZaDI1djJJeGpmOGdzc0tXUDFaeXF1V3FIdl8tdkR0ckp1aHkxU2pvRml4QzMzWGs3dnR4c2l4dkZRVnJmRG53ZHNLTUVGT0JLaTVn?oc=5
 
-- [Markets] Stock futures fall as investors gear up for more earnings, Iran war remains in focus: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5
+- [AI] ServiceNow bets $40 million on an Indian AI banking startup to lock down enterprise agent governance - Startup Fortune
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmZtN3JnUkdwam5OU3hkLXVMeEgyUlFCdDNMbXBwVTl4STVKQlFHUlNlZlZ1ZV9JMzBNTVNZcGVMOHBwdG5TVlllSVBTRk5MMXd4WUxmbk1ITmxSUFlrTWdIVTU0YjBhbFBJN1ZKLUFnLWc2RGtaRUtiNG9Ha19QbWFLeERXbzk3cnNwMnhSdUNuREN5clVmVkl6NWpRWlRLVjFfWE5QTGVQLTdScUFQRll6RjJyYkhYM3NZdFIzTjI0QzVkWXc?oc=5
 
-- [Markets] Tesla Stock Slips Ahead Of Today's Earnings. Here's What Investors Want To Know. - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2F6UGZwZllxS3FUZ0lia18yM2JRLTdETUlWOFNwcjVqUXpwY0E0Nmw2VTVlMlR4ZlhYTm9obGV3UFVWTUJGZlluc0gyMzg4V0F2SXozdnJvRm91RzBOaVdsOTh2aExLb01pYTFVZ0szNXFoNjVQQW9tZlJOb2d4dll6S2JsbUMzeVJ6bkFqcGxQcEFPeDJDX1RR?oc=5
+- [AI] AI agents to drive $3.35tn in purchases by 2030 - marketingreport.one
+  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0d3UG1oRkZ3TWpvZVFQYVFpZkJnYWI5OVZWVjFxVlo3VnRrdW1yUHFRRElOMkhDaXJzelhqVkpBa0Z4d3pjVWloOUJFLUFQaDFnQi1adUlIRmloT3B3VmpkNzYzTUlzYzJzMUF3ejJjZjhFU2NvSjVPbm1FUUhyalN1V20xNEl5dXhGX2RMcw?oc=5
 
-- [AI] Google Earnings Due. Cloud Growth Could Frame AI Debate For Big Tech. - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzJTVjRSRXNMUGNELU9KLUxnYjhWZXpuVy1jOG1vTF9uYnE0b3psOU40SmpJTTZuek9Ld0FXVWxoRWpiTmQwbEd1dHRtUW80b1JjM01lTlJ0TWlWbnVkZW5uRFVHRVdZVnQ5a3h0MHBFUUg5elB6bGpPOW1NejhxYjRzbmFMb2dsaHpYbUZCWmVrd2YwczhITHEyR3VXV0RSSmZldVk2VFJrZWw2QUhUVFFKQVNjVkRZRWdn?oc=5
+- [Markets] European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0hIaVBuNTVLVFdaVUpMRVR1bVpBTG5nZ19TNVhHVU00YXRZTWw4a04tSHVsT0ZfVE5SWkFadjYxSkl0OUxOWGhza3pNRm4wU09BZjk4cnJXWFUyLXZKV29DMDE1TTJFWnNSVTN1SWZqYWFvQ241djBlOHd1QkhuWDJLLTkwZ0JFMFljc3RndEUwcnhySUlOeUYxZWRXTkhPU25NM1ZHSk14d0h1aXY4VzI4MGc5QQ?oc=5
 
 
 AI
-- GitLab 19.2 lets AI agents resolve vulnerabilities on their own - Techzine Global
-  Summary: Techzine Global
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDQ5SUM2QWVTcGxKYnllczIwdjlSbWxIb0c4ckZrYkVRWjQzZk1nSnJsMFpEaGdldXZiQzh0N1l2U1RZTHJFdHUyUENzWVN4OXZQVmFjaHBMRUNfb3czbmQxMmJNY3J4Y0hobHU3azBORUFWWFpIMndJWVV6R2I1UVRRWmhBN0JWazRzR1JkbTQ0MEJHNFNmWlQwYnFDY25hYmt5Qm8xbFN3QjQ?oc=5
+- In the data center capital of the world, residents ask who the AI boom is helping - NBC News
+  Summary: NBC News
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFHUHdHMURndVdjaEtfdW84aHloY2FiSW9aRVJPYW1oYXhjRU1XWmo1NGNNbDVkMFZ2T3BtRU5TRWlRSUY0U1F2c2tQanRqaGpWRm9OLWFkcHVqN1pacU1wUXU4ck5majBBUXJIRjZCeW5TSW1LWl9vTk1NLVhGeDA1NXpaUFJIZ2dmaTV2OXExdHhFdXFzSUVOblloRTNWVlMyV2VfQQ?oc=5
 
-- Observe.AI Announces Strategic Collaboration Agreement with AWS to Accelerate Adoption of AI Agents for Customer Experience - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJkYW8zSVBjbHpXVXdHSG1YRGpsNFRiaXpfV21FVlRGbmQ4dmVacmVpeFJEeEtaWVREUDBqVURDSFFvNWJyc1UxZkdRTXJ1bjZUQ1pGVHUzUlJFdjJQeFRTQWt2UF92QVkwRHZEWU5pajFDUFJTcW1nWldVSUtuTVpHYjV1bzdNOFV1UTZ6WVMwWGZFNHBiOUdVTWwzODBUS1FhQlpoM2JzR0NN?oc=5
+- Israeli startup Glow raises $180m for AI endpoint security platform - The Jerusalem Post
+  Summary: The Jerusalem Post
+  Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6enBEdnVGNVV1Z09aUjA2Y25SZDE5dnFtanZfZlhtcnZ2SURIdHdSaW40bnpUc2pMVmktbnZQRDNnTjgxSUgzTGd2SlI5QkE0ckExMk9GTzN5OFdKR1pyQ0tiTQ?oc=5
 
-- Engineering and Governing the Agent Harness: A Technology and Policy Framework for the Runtime Layer of Agentic AI - UNU | United Nations University
-  Summary: UNU | United Nations University
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXdSNUNZeWgzN1phXzViaUlKYUdsdEZRY2ZvM0dLekN0WVRZdWoxNjRYaXNRTEszZUpIZDN1M21aRmJ5bnlIYkFNM01JeXNzTlhnMzZGQU9BajZycGZhWmNfY0Z0R1F6MUt4YUwwX3hiby1wNXRKTklaWlEwajdHOXc1TTYyejZVRXVYa3NYZWVzcUk3Qldldi10TXdETng0OWlKZnhzYzVEelpvXzB2MFIzRQ?oc=5
+- OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC
+  Summary: CNBC AI agent went rogue and hacked startup by itself, OpenAI reveals The Guardian AI companies want to run your business.
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5
 
 
 Markets
-- Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0t0NC1oZFVxY2t6bmFBaTJMcjJscFdqYWh5WC1iTURmemdubXg2QVlTbXNvODFES1cyMGdNU2UzZ25oUjhfQUxlTWlWUG0yT3V3TWtoTHdNaEF0cTZSRUFjTmhEbzVJdzFrelNNdTVNbkV6ajVJd3lrbGh1N1pXVW4zQ29uVzQyRUxKZVU4WUFCR2xyZ24ycEc5ekNaVmpYcHZpWlN6bVAzQQ?oc=5
+- European semiconductor stocks diverge as investors weigh AI demand, growth expectations - TradingView
+  Summary: TradingView
+  Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDNVZVR5ZUVseXdjeV8wbUMwWWQxS3pFX0VENzNsalYxcjN0blVfX1Q2eEZXNy13X2xOcXV5OERLVncyYUlCUTlhRUxQMS12WWphRjh3dlFPUy1jeG11Z0hxRWlzZzFLRUYySElqZnR6amNETkV0dFE1aHJtZlpPUV9SYUtXWDZKYlRjNjkyUGdCdmEyLWQyT3M5cml3b2dCN0FIdzFILWFXY1VIY3R3WThIdGlBejZpeDdVUk1qTUJPajJ4cE55UXM5MDFuZVdiZnlRalg5SWVxbksxaFE3bGlCT3VfZmM4SEdYRA?oc=5
 
-- Electrical Overstress (EOS) Pulse Generator Market to Reach USD 556 Million by 2036 as Semiconductor Reliability Testing and Electronics Manufacturing Expansion Drive Demand |Fact MR - 24-7 Press Release Newswire
-  Summary: 24-7 Press Release Newswire
-  Link: https://news.google.com/rss/articles/CBMi0wJBVV95cUxOSmo3X3drZHB6OWcwZ1JxQkJDN2FtZ01nYlRvRGlQZXIwSE80b1drWkJQQ2RWNUVIUmEzX19xeDhDSFVSeVBVVzd2RW1mQ0tuQllIUnh0YWVfb2h2Wk9BQVloRWxveXRMMlYzbVBxTWk3WXNJRHFqLW5ud2lPWWlWQ0ZZNl8zRVZDdHZqd3ZpcUF6SDItM3pnNGlYaDZLM2FoQWdVTWY4M2dCRncwdE9VWUhDdDdmTFVCOUtzVnBQbE5FREItTmU4Vm0yeVdqQko1U3JMYTVyR2JXM0M2bkhCaGVIT2hmbXpucnI1VTF2ZUVTRHM2Q21KUndQZ3ZYSnFxd2Rxc0V0OFdNZ3BzNjBlbjhjUlpBZmxrNXZIaDBWa09EUXIzX3NWVWQ5dUUwQXZPWTcxNENNUEJaOTNyb21LQU9NTWc1d2FOTFZMNWh1YVhQNEE?oc=5
+- US investors rethink bonds' role as inflation reshapes portfolios - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxON2VkQ29FZDhPUURWVUZMOUEzWVhTMlBtd3pwZENYa1phWjFNakI4RDRNMVRGbTBReVhhQUREOXhPbTM2NG9rLWdDM0FxNjJCOExOUGhaSWxuMEFSaVNlV3BLajdyOFg2WDJmQlZ4c3dWNnhRYk5adVQ5T0ZvM1BHVDQ3Z2s3Y09oTWYyalN4Wjd3cTM2YlhVeGgxMWNhWmlEYllVTXY3MURka0l4VHBZOGRn?oc=5
 
-- Stock Market News, July 21, 2026: Chip Stocks Recover, Lifting Nasdaq - WSJ
-  Summary: WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5
+- Stock futures slip as earnings, surging oil prices remain in focus: Live updates - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5
 
 
 Travel / Boop Relevance
+- MTN MoMo offers air ticket booking platform with Next Travel - Telecompaper
+  Summary: Telecompaper
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjlvYVlNTTVJZUlYZ3VSeExBUlpkemhUSXdDLWFUNmVYZHhiOUlPazd3c2ZXOEF6Wm5pcnZJN1RzMFp2QzJDd1M3aXloMGdiSjZWVkg4ZlNYZVNMMmxrd01JZl9CMk9GUHd3djA5cXpvR044VUhvakYzbmtwOE9HWE02Q1FWQmVXblZ6bVlHWkNFUUlEWFNLcmQ3NWtMYkRMSmx4ZVVB?oc=5
+
 - American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
   Summary: TravelPulse
   Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
 
-- Cleartrip Launches Creators Club To Turn Travel Inspiration Into Bookings - Everything Experiential
-  Summary: Everything Experiential
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnpaZmFhVmo5ZFpTT28wU3VLUXppbFk2Vy12X05KTmNkRmg0c3pFdDJ3VXZ5NWlMTTlCQmh4bXZGMU05MHZSS2VWcDZhck9tVjdBOElXcVZWQXFHX1gyNS1MaGY4MlNNV0JMeVlPb3ZXUjFJaHhyUDRySEYzcFJwd0RFZm5PUG41MUFxekMwYVVlX1FLck5zbktDYVlZRzhVZU5xQkNoNVNXc1hxUUJfMHdnYmVBOHUzV1h2bXpDVks?oc=5
-
-- Holiday travel demands remain high among Filipinos - BusinessWorld Online
-  Summary: BusinessWorld Online
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVlIdl9WUC14eVI2amhoSjNXMTdUc2s2emNQQkdWRTZ3RVk2SlVzR0VmX2E2Y0xPdkRDNnZ5ZVExaG9nb2lrZG9IbW9SMmpKb1IxTUJlYVRoSTBZUFh5dVZKSUdYR1dJOTdYZHJZUVJES3lVOUxpdmdyTFk3cmkxZ2Y5cHpaOGR1bm9xS0VEaGZSNDdaaWNfbWtMa0p5NXFpd25lVWZIYW8?oc=5
+- American Airlines rolls out new digital tools for seamless booking and travel - MSN
+  Summary: MSN
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjNGMmpwbnRfU2cwMWx3VlBiZ1BIMmVlMW4yc3ZwdEM2MEgzQWJGcUQwaDV6S1Q5T0ltSkJoQTZ5SFFyNDFQWlNrUzdmRHU3NTlDaUVyT2pkNWNlclQ5cU1kTUlEZXBHeEFsUDI5VmdudkljbzZVaXlXcU9hY1ZNVW5TTUMzT2ZLYklqcU81RDJKODVNU0pfNElkRnNONzBSSW1BVjZVYWJiby1XRGpDZUE1MWFKbktQT0tXOGNfQWtzWldiZ0E?oc=5
 
 
 Bottom Line
