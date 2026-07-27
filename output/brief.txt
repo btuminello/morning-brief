@@ -1,77 +1,77 @@
-Morning Brief — July 26, 2026
+Morning Brief — July 27, 2026
 
 Seattle Sports Today
-- Texas Rangers vs Seattle Mariners — 7/26 - 2:35 PM EDT
+- Texas Rangers vs Seattle Mariners — 7/27 - 2:35 PM EDT
 
 
 Breaking News
-- [Markets] Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnJNNkc3d1Y0WURBNWxORl95eVRjVkpxcmJ3MzZpZlMzR29oVjBCby1XQndiTVpXbDl3VFVBVmQwOElHR19XOG12aF82OWpfRUlOLUVHQWUzZ1l4NDlhMmtEVnVwVWJGM0c4c2MwaEhlVjNiRDB6UEFaNmQyWG5GM3NBRnU?oc=5
+- [Markets] Brace for volatility: The Fed and Big Tech earnings are poised to shake up markets this week - Business Insider
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFRqTEZqQXBKZ2Y3MmxhLXdoV2hPVnYwOE90Tkg5Q3kzT0lOcUR6MWxnczV5NTNndkc4T2F0VnB1NEFZblFRVUpDX084RFhvMTFoWDZtOVBkU0t5bDFVNXlyNTZoS1FmNWhLaXN4ZVZra01iVTJvSklKYUhhRm9MN1FUcTF3MDhjTXg0ekZHOTZTdmhfWEVUMnlpNzlsNVJK?oc=5
 
-- [Markets] Earnings playbook: Apple and other megacaps lead busiest week of the season - CNBC
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTRkRkZaeWpzZ2pudU5pdEZKN2Y2b0xaVDRTMlM0blkwVU9XbEExUVdtVE5ZVjVGdzJ3SUxsQ29BRnNhcmdnOGZRMGVtS1kwbzNLb1hJalZreG9ac1M2eGFyU3I5MmNJVzd6RUcyYjd3N1JrcHlpTW9MVnpnbFhjYTJSckROOUlQU1BQY3p3NGNVZjNhdXhyVnN6VjFiT19zOHdpbExWR3lyOVU?oc=5
+- [Markets] Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC
+  Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5
 
-- [Markets] Stocks Struggle as Iran, Inflation Worries Persist: Stock Market Today - Kiplinger
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFRNcDhCd3N0RDBubmhCRFBUOGZqYkFPQkJwMVV2UndTOTduemxRUHY0dEE3cmJYa2dKb2RyVHY4UUN1UHgwczlyQlAxeTVjZWJlbkhRdGthODY4UGxUYTBmNExEeTBZOF94amE0UlVMMGJIempkQjY3NU90S2ZuNFRhN01tYWdGT1pPTTNRNE1ILTdoMWNaV2pvZzduanR1QzRCODJvdDFTeG10d3pkTQ?oc=5
+- [Markets] Fed Chair Kevin Warsh Testified Before Congress on July 14 and Said Inflation Remains Too High. A Key Inflation Report Came Out the Same Day. Markets Dropped the Odds of a July Rate Hike to 16%, Down From 42% the Day Before. The Odds Have Since - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzRoLVE3T25BeGQ0bDFrYUFGcHdWblJXSERzRVNEV0hDbzZuTXNtc3ZyX3l6UGpfQVF0MUFrVjZ0dDRUbkVRbmR0M3k3eDlLbVlaZHFyVDB1U2xfYWRIODlUUUl2a1Fmd0xpTll2T0dlZmRwVC1UWXY3R1BBVmxtdkJBV3BWRUZ0RTRBWkFLMkFlTnptUmhSSw?oc=5
 
 
 Must Read Today
-- [AI] Your AI Agent's Pull Request Looks Clean. That's the Problem - HackerNoon
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQQk0zcWFHM05CSjFyYmJhVm82bUtlbk5faXBvZ3oxaG9QbkpqVF9mWWlkd085LUZIWnVFRW9pQW51OWpqSG1laDJPbUtqM3RTZlpjZ1VuYVkzOENCSEZTY1ZPRGFBb1JmbmQyTHVDaDhiaGduWmltRk1EMV8xbEJsdmhEc2t2N1U?oc=5
+- [AI] Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation - The Guardian
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1poY2V1V0N1Z01uMVlpNjA0dmNveGJ0dUFIS2dfR3FudGpVMkllQ3lnZ29YYjdjNkZHT0F6TUp1RlVJaUl1Y25CZ195el9fMVJfSEJUOURHaS0tODFfbVV1cnJWNFVuVUhlTUxReFE4ZEVUZGlUMzc4UldDaVF2UHNnODBDQi1GQktJeFk3enhYN1NaUGpuaUZiemlpMURkR2VRUlBVeHFkVm9aeUhSeG84ai1QZ0F4c3R1TFdlUFhndw?oc=5
 
-- [AI] Consumer AI 'Hack' Market Jumps to 59% on Manifold as Autonomous Agent Breaches Hugging Face - tech-insider.org
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0lGOGt1QXZ0TlVmSjlRdTMwOEkyX21Xcmllb1RTUWlmZzRKUUNuTVdtOERybk9ENXhPU1d2bGRxX2NYMlpiX0p0MTZaY2tFRnpmM195VTRyY0tiZ0RVV00yZlBackFkMlhid2ZWZ1Z4UlRMYlVBaEw5ekU1aGQyVi1wemdvRFU?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWE4UE55cjJKTXFET0xKNElSblpHdnRaZW92RlhpUzFnRER6WkUtMy0yTjVHMm9fLUxJWGphcTRTb2oyd2lPRkd4Q2tSd1JCaldHR3Q4ZFVESFl5T1R4SzB1M3d3V0JSbHVZbjBBM3FLdjFSX0NxUm1fTkczR0NET0M1ald1OTdjd1pHTVJLdnJCWmdYZGJQdGwzcVI0bFQ0bVZRSUJSbEI?oc=5
 
-- [AI] SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback? - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNOEJwZUl0Z2NiLUVqX1lKSmlwdmpWRFJKd2RUVHVSaHZxQnFMQk9icXpETWw4MS1oclIzNTBYdUpKQXdfUV83NTV6ZjNVMlFjemR1aHFubmgtbmRTelBoRjZ1RjFxRk9DY3h6dFF3di1JRHlNSFpOeVBUb0xCT3psRFlJZ2NIQVFrNktFWG1hTHB3X0YwSmMxYmlRcG5HQQ?oc=5
+- [Markets] Forget the Hyperscalers: Fund Manager Flags 2 Lesser-Known AI Stocks Whose Earnings Surprises Show the AI - Benzinga
+  Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWk1yaUJLdVVtUXFNZHg2VERvV3QzWEVEV1hqQi1vMFBMdHdGem1NREJRQzlPUXRYcmxTV19HSGVuS004Vmc3ZUs3RTZVaWI5UmVsWHpWd2doakhsTENqM3pnZFkxNktSbk9RbTY1dEI1cEUwbERkSk42cUJmNEpEb0dNWUFnNFBxVElsUWNjM3FxRmZ1ZExaX09LUTVkams4S3pNWEVZY3Y2NjVoRmIzeWpZcXVneURNeGhEMUs1VmdRMGtXWklZRkJKdVhMWlJPS2c2OGxpRUt4VUJWMzhDREpaYlpxOVg0WXpkbjFiZW9malVudll3RHY5aFgydFlVSWw4OXUxZXU?oc=5
 
-- [AI] Between IP and AI: Generative AI continues to grow - The Jerusalem Post
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTFhVXVHUjNPLXlPengzaUY5SnYtUWRaU0dCcTUwb3RvWEdHWXhvYTBsUHdIZTRXLXppa2l1LWF4aFR5b0d1T04tRTJjRDUxYWgtQ0gtaGhUTHBGRWRWeXQ3VmRqX213M1lmS3RUUmVZUmRIcE90Q3VIYmhUWXVBcGt1M0xNdw?oc=5
+- [AI] Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design - SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1BHTTExS1NxS1A3Vmd0Z09ia3YzSDZBWkZ4bjJXc1g2b0o5RUZCRzF6TjNYQUxrZE9wMjk1NFdvcG9EU1kxX3JwSmF4VXlDR2pEbVlmZTlWMFhBNHlvTTIySmhIbFd6YnhxZFVaMG5uTWZMRER1bzVrcE50NmtMME9rTF9GbDlkakJud1VIVkpXT2l5N2dtRkZtWnJYLTlTR081eHd3NA?oc=5
 
-- [Markets] Warren Buffett says 'humans love to gamble' as he takes digs at a speculative market — so why do investors ignore him? - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnV5WVlpb3ZEUWVwTmstUkt0NFhqc3oxUlBiZHcyLUhzSDl4c1dyRVJSck5PS1hjcEp5SmJHeUFVLURsMDM3b1ZNSzFkdjhNZUlQQWtSZ2VMN251d2E3ckFUNkR5ZjJTMDZRZXZkYkJudUxlSlpUZGdyQTJmdjhwbmItVjJVRDB1djUxVVRldjBhT0MxTWxfR1F6VlA?oc=5
+- [Markets] Market Fear Index Drops as Fears About Higher Inflation Fade - Barron's
+  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOa3hzSUtMYnZJTjhIXzlaM3Rsbk9GVXUxYl8yUWZPR3VOdG1OT0kwWGhYdnhBY1E5QXR3eHlfaVpvX3JDTU1DSFlNa1NTXzBSXzhfQnp1cW1vUXpuZVZWcHR3dzMydUJPdGtIMGRqQ1lXand5M2tTRW44OUtkbnp6Sk8zVUxnNHBDX0JnSVV5TmpSYWpUTzVXUkNEYTRQMFNsMUtXdkh1TnVjZm55OVVkbkVzTG5iQkNLOFpVMXdQaFFEam5RQlVxUDBpUUFMb1hoNG9KOGFsZTRuWm9mV1hKNlBmN3BPNDlfbVE?oc=5
 
 
 AI
-- Stop correcting AI code. Build the system agents need. - The New Stack
-  Summary: The New Stack
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHAyNlFNczQ5VzM0UmFldkZHRDF4cFcyV0R3eUVRTVRqRlNzbko3dlBlY1ZSWG5SVzVzRFVSal9lNHdaQjZ3Mk4tUFBpSXZZb3NTN0g5UDZ4NnhBaFZSN1g5Z1VEcEphZW00WlJaMDZVOGE1Y0JPT28xOFlFN2VJQnVR?oc=5
+- Opensurvey Rebuilds Dataspace Around AI Agents for End-to-End Consumer Research - EIN Presswire
+  Summary: EIN Presswire
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQR3pNa21QRTdqWUJNdGxGeGJ5YllTaDFIcXFwOEQxQ2VMLWgwRHpfOFI3YVRwOFN1bXYtUmk3QkJsRG9UOGJ5aU90TDFDaENYMlZxMHVsMnR6eWFlNGRPVnBpclJNWVZBamFyUEtlejhIMTkyNW9TZFF4aW5yNDh3ZFdnMlhGZjFvMWtleWktWGx5VmtiNU5iZDNvbjgweHptM2RyeFR1UC1BUWNxRjNmMmhmVi1KUDExenJfTDJxWjJkQWo4?oc=5
 
-- AI-Generated Mental Health Advice Misjudged Due To Differences In Stateless Versus Contextual Evaluations - Forbes
+- The rise of the ‘internet of agents’ and why it changes everything - cio.com
+  Summary: cio.com
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3doNWFvNENFUEhvTU94UXdqZ0RUQ3dvbjJNWXF5MUtvdWVQby14d1RRa18yRVVoSDJ3cEpkQ0NzX2RRVXRGU2Jmb0MzcjkyZFlnRGJvOFV6N1BBeWxUa3RYZjRsRGNjT2pkQnhfTnhFa3U1bG0tREJCdVlDT0lUSEpaNVAzaEpZNnNYYjVubFBrOTFyMUtzMEJTVUxRNHNlZ0gzZTBtY2o?oc=5
+
+- How To Get Your Business Data Ready For AI Agents - Forbes
   Summary: Forbes
-  Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSGJOeGRvRTVJWWtpamxJcmRjTHRvR2tydnM0dzBYd09mcUZOaE16VDczUmVZS0JSMC1QbG5RdDRCdU55ZGtyT2M2N1BrY21RMENOS3pNVmJwRTgyR29Hc1kxZlhWMC1hYUlXZkdfRmYzX0NhbjNWUXQ5Q1cwc213MWpJR2U2RHJ4QmVyWmQ3M19qQm1rSUNyVWZJWWgxZnVjUWU5aXpuSnpmR2JrZWF2QXc2WThzaXJ1Y0NfLUd1b19pUXZuUV9LVUxNNnluQktFdEE2cEFOV2FsSFVNTkVUQ3dxM1JkUVhLSXowMG53?oc=5
-
-- Arria Intelligence Addresses the Fatal Flaw (Unreliability) Preventing Enterprise Adoption of Agentic AI Language Automation - Rutland Herald
-  Summary: Rutland Herald
-  Link: https://news.google.com/rss/articles/CBMivAJBVV95cUxNMHFEVnp4cWhpVDdnM20zQXh5SGFUM0Q0QkMzYzJvcFBGamZwNmREOUJMM0YzbDU0U2xraWxoVVY3U0haZzhwTWF6REpfTUFtWUVBbEMyVUZHajlZVFYxUFRCUjI2NGlEWFJnRFhsWmV6c0ZGcEw0ZU1ZYU5jN3B2QjU3OWtMWVRmLVktMG1sS1B0SG9IOWEtNnEzMlktQU5IR1k3WmVvb2ZLcDJacVFZV2s3dGpoN0FhUHRTTmgtNG1MaTIyYnZ3dURUZGt1Vm0xRklmR2xPOVJvZy0tMGZPSVA3RWVJbFBoUEJmcEh5ckEwdC1MMlI1ZGdJVnlNZ29DODdBcW02a0kxcXV1ekw2NG52UklfWVYyODYxRHgwZk1oMUhTaXNJOURqNnBQWjZyMmR4TXVra0w4RTlE?oc=5
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxORVFhelh0cVFyVUk5QVZFdjVacDdCS2xDYWVuTFk4MDhDLTFhc2VRa211NGtocVdYdGN3RGZDY3ZEemo1TkdzNWRzYWtTMFliaDhEOVlLdl9CbFFyS3ZoR1ZIM05pSE9XOTRFYndJZm9VNEtpd1BXbWJyUURvRHc2aTVVY2lkODZadWFSMnRaaEV0OTBLcmZZWUludnFPaUt3VnR0cg?oc=5
 
 
 Markets
-- Market’s concern about inflation due to oil prices pushing stocks lower - analyst - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHNJZHdKMmNGU2ZmTWtIbGlJOF9DeDloTEpsRk5PcVNubnRZUVY4NjdyY3Z2MnJacFpsODdITjhTMXdGdXFFVzdMLVNvVlZNWVp3NTJ0RGstdy1VdWRoZ2d1Tkp3dFVHZTNGS2lQaWdmeUZaaldTQlNHZmVVS0J4eE82ZFBjbElEanVhOWl1Qy1JcEN2cG1hMWlwZWFoREhiUjlYRkZROWlLN2lYVVRtTWVremZpdFBSOXc?oc=5
+- Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjk1SWVOS19ZVkdfQWh0b2V6Rm5IWmcyNUFxa0VNUnlqUTJUU3J6MkJ6S0RFNGtIMkczZkJrajF3ZXY5UnVlTTlETUdwcUlodTFjNEllRGlPUFVFVlR0bVJGUXZxMXV2TU8yTmExRnVaRk1EQ2RMNjRBMTIzdl9TY01HY0t3MnBzRkRueVVfak5GUmZKY0VBUjZtOFBqWFVna20wdlB3?oc=5
 
-- What Does Aehr Test Systems' Q3 Earnings Tell Us About the Semiconductor Market - Kavout | AI
-  Summary: Kavout | AI
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQc01xZWxaMnFnN25OOTdPbGZsWllxMlBEamI3LUVwRGl0dmZ3RXV5bWh0cFhmbkJldDRPcmViQjBDTFVuSVlyM2FvQjJaTEtVMDJRTU1XTm42WGg5R3VfQjU5eHQzUEozV192Rk4yZHo3endoc08yaTNpLTFFZWxuRGJza0t2bzc4RUYtbl9fS0ttQ3AzeFZYOFR2YkFDTnRjRW9jZG8wWTVNU01USEtKbW9ZOA?oc=5
+- Sandisk, Marvell, Chevron, Broadcom, and More Stocks That Explain Today’s Market - Barron's
+  Summary: Barron's
+  Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnc2lFeC1od0pwemlPYTljUldDRmpCUXd0ZDJJa29UN2xYLVJLYkhUaXB5dGNXeHdOMDkwUkRGeUlkeFBOZEwwYkY0RFhtTmN0Sjh0ODFSVVF0cjFydVl5ZFpCMko?oc=5
 
-- Investors use crypto exchanges to avoid Chinese controls on AI stocks - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUxNdElTclhJazl5S2ZRekIya1ZvT0sxSDV5R1BLbld1TDRnd2tITHQ4OF9sTlZXVkZOc0hGemZLVmM2UU1hX095MFJsM1NQYXpIUHZxbHJXV0lJZkwtYmZIVUtKbEVzQzFEWVdJM184blloQTIwb2p3VUVEbWltVTBIOUg?oc=5
+- Stock Market Today: Dow, Nasdaq Futures Jump; Oil Tumbled on Trump-Iran Pause — Live Updates - WSJ
+  Summary: WSJ Dow futures rally 500 points as oil prices fall after U.S.
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5
 
 
 Travel / Boop Relevance
-- China fines Trip.com 5.2 billion yuan for abusing dominance in hotel booking market - Storyboard18
-  Summary: Storyboard18
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxORmY4N2FYUmxtb21DVnhESEE4WlhhWUlxaFVCYXZBRlBxSWY0VkNRSENtQmZHdnVwTVpqX2ZBQWtBS1dVWDhFbVozdUdYYnlOakVzZ1RJUVZqdHhmQTVnSFVYOEZTVnRKM3E1OHRKWUJZamtsVzJUTm5oaHRjTldnak9ZMHZ1MVhmVE1PYWVoTjBVYVctWVg3RTlIaFVvNGtaSnA1X1BKcy1TVzIyVVpvY0d5MDJUWjVIV1h6NlVVR0xqNktmcGZCdlVJd9IB0AFBVV95cUxObkdOMkxseVZsX0sxQ0hkdUp4RnhOUGl3ZjNMLWFuVGctOXlQak5VREZkOU5JdmVodE5Ed2ZCWlJmT3lOYnk4R0hLX0tsMjBVWU1HY0t0ajMwUGNGYlp5VVlvYlV5MFlMWGpMd1ZqLUI3VU9oSUtKdHVVLW9OQXF4d29adkxTbmp3d0tfY05OYkRNOVozejhiN2lLWHIycWxMQVVBdjZ1Q2RQellLSnJyU2FDdVVOVzRqZzI1R2xTM256MGFQSjNNOWhlVVhQWGVv?oc=5
+- China fines Trip.com $770 million over online hotel-booking monopoly - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1BHQUhzM0xNVkJQd3ZBdlhaTFpRRDM0SG9qUDRjVmRlMTFEazBVbGNxb3N0ODdpUFd0NUpia2pVcEp3T0RGYVBnQnVyWVdtU08ydjF2dG9PWWMyMnczaWh2b1QtR3ZOTzM5VUxMbkdvUjhqcXhtSV9NbF9lOVBsVk1Tc3VBcVdSNElHd1oxUF9YdFE?oc=5
 
 - American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
   Summary: TravelPulse
   Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
 
-- Navi Mumbai International Airport launches digital prepaid taxi service with Bharat Taxi - ET TravelWorld
-  Summary: ET TravelWorld
-  Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZkszOWVpcEtCbmNlYVctb3Z1czVOeXVwUTNnMFlmcXJGdWN0cDJyMms2TlY4NGpmWkh4d3pncVJVRTNoMEc0SG5lTjIxOTlDSmhjck9iZlVXTFZEY2Y1OGhFaVhrZEY5WlZiUm52WkZ2dFhNT2p3MllzLXozLVVXamRTZzl3YlhaSWJKaVFoV1RaRUtRTFAyMVpBUUdIdjcyQWVzdlB0UzhVMWZXV3Y1MTRQSXd6VHZNdFpCSFA3TkxCNk12MTRnVkFQZGZFSzFvX2hHTHZrekxYdklvbDdkMHlPV3VoSTg0TWZLeU1zeHFwZy1IZ0wxdU5SMmRvRVE?oc=5
+- China fines Trip.com 5.2 billion yuan for abusing dominance in hotel booking market - Storyboard18
+  Summary: Storyboard18
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxORmY4N2FYUmxtb21DVnhESEE4WlhhWUlxaFVCYXZBRlBxSWY0VkNRSENtQmZHdnVwTVpqX2ZBQWtBS1dVWDhFbVozdUdYYnlOakVzZ1RJUVZqdHhmQTVnSFVYOEZTVnRKM3E1OHRKWUJZamtsVzJUTm5oaHRjTldnak9ZMHZ1MVhmVE1PYWVoTjBVYVctWVg3RTlIaFVvNGtaSnA1X1BKcy1TVzIyVVpvY0d5MDJUWjVIV1h6NlVVR0xqNktmcGZCdlVJd9IB0AFBVV95cUxObkdOMkxseVZsX0sxQ0hkdUp4RnhOUGl3ZjNMLWFuVGctOXlQak5VREZkOU5JdmVodE5Ed2ZCWlJmT3lOYnk4R0hLX0tsMjBVWU1HY0t0ajMwUGNGYlp5VVlvYlV5MFlMWGpMd1ZqLUI3VU9oSUtKdHVVLW9OQXF4d29adkxTbmp3d0tfY05OYkRNOVozejhiN2lLWHIycWxMQVVBdjZ1Q2RQellLSnJyU2FDdVVOVzRqZzI1R2xTM256MGFQSjNNOWhlVVhQWGVv?oc=5
 
 
 Bottom Line
