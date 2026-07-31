@@ -1,81 +1,81 @@
-Morning Brief — July 30, 2026
+Morning Brief — July 31, 2026
 
 Seattle Sports Today
-- Los Angeles Dodgers vs Seattle Mariners — 7/30 - 10:10 PM EDT
+- Seattle Mariners vs Minnesota Twins — 7/31 - 10:10 PM EDT
 
 Chestnut Hill Weather
-- 62° to 66° today. Right now it's 64° and feels like 63°.
-- Around 8 AM: 64° | 2 PM: 65° | 8 PM: 64°.
+- 62° to 83° today. Right now it's 69° and feels like 72°.
+- Around 8 AM: 67° | 2 PM: 81° | 8 PM: 76°.
 - Wear: light layer.
 
 Breaking News
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYU5WQUtSWTJ5eUVRYnJrZWJ6WWtobV93NTEyNV9Qd1p2WEh6MWg3MmhxVUx1TDlvcW5WempaOWR3OTRLbi0xd09qR3lBWFBTcTdTMTN3Y2VYMUd1OTNxYlRFMlRWNUZBSVFlVTlTRzVRVHkweklUbjluUDItQUUwSUVtS3lwYzdrZFNWMjA4aUdVam1kOHpNalE1MndMOXZhbG05MEJIRHJ4NEE?oc=5
-
-- [Markets] Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts - CNBC
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBJWGdCV1VXUnNqQVRzTFpCTjlIc3VyZ2Z2ZVpOTng2LWZlaUZCVFJZTmdSbHBqWVJSNW9Nam5NWk9nV2pObERvTk11WVR0NHlMbWRNQ1RoSG9abFFZOF9ROU1jazZXcXk4X3I3VUFIVDB5dS1ocmfSAXtBVV95cUxPRlFHZGI3UGktWjljM1I1anBzMktBWXg5QjlkdXYyOVNLbVM1a09reWFzM0FMcl82a3ZidXJJRy1mLUdtUjRZMEpIZGFlS3NKNXVsOG5UTlpaeUhMbjB4bnVRZU5OQXN6Zl9MbnJ4ZE14MnhUVXRGLUo5S1U?oc=5
-
-- [Markets] Stock futures rise as traders digest Big Tech earnings and hope to recover from Fed Day sell-off: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9tbFNaNERqdTR1d1NJSFRRTUx6ZHBwbjZ6TjRfcFk5a0EyMXhHcVZCVnNidWswVTNDMDlwYUYwRmx0dHVGZ2tObkZVSVlNaW0yUjNPbjR0SU53b2J6SmpQQktuSEU3a2xSaFh6S3EtMmdIZlhqRVBV0gF8QVVfeXFMT1RVUkxHd3VXNUVzaFpidGIwdURTS3lHWkJ0U2lfX2UxVEtsZUFCeGZ1Uk80UUhFWmtjNGJ1YVFJN2cySW00NVBSZGp3ZTZad19EVVN0ZWdnWC1lOWpaeExPeUtOTHI2NkM5N2dMTXdxdEQtaTlWNTY2YWxVSA?oc=5
-
-
-Must Read Today
-- [Markets] IEX Q2 Deep Dive: Data Center and Semiconductor Demand Drive Momentum, Guidance Raised - StockStory
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSUYtMDROSS01VzZqdm93SjdxSGZtRjRMTTBYSjZKQUpZWTJ2a1hvVmVKeTg5MGhFcE5KSVZZTU44eS1ORURjTmxfanlNQ19ZM3Y4TDdVUUJyUHlGTXo0YmJORk5yM241djlKVFFIdVVtcWhSeEdXclBFTnhubVVrU2FjME9yRHNHLVpfQTBuNzc0aFRyV2UtelVLWmNWQ3hMR2VuYnBSY2Jadk4wSDlZVUFuNU4xQWlQZG9PRnZfbS1IcnNvU0h6cXVvN0ZpUUxhQjJCS2V1SU9EbF9GSEE?oc=5
-
-- [AI] EU Pledges €10 Billion in Public Funding for New AI Data Centers - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDJHYWo0Z0tOSWdxTkFPQUR4YnFXUUx3cjhBeDBnS2poOWhhSC1lLUp0SDhicUhKTUJfYmo0Yk1SREdQdF8tVVBPY25xMkJpcGh0dTR4aEVNV3ZXbERrd09TcEgxejc5N0RUVEtSTElCREZJNHV0OWNCV2h3WkpRWjY3YVdxUHoxbmZfNlRNSlpYSVlwQ3hSZ1hXN3JzaE9YSzRTd3Z2ZXF2SUM4aXB5TTBMVnU?oc=5
+- [Markets] Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGYwaUNGZnB3VlBtb3E3MjR5dmtBS2ZKdG5rb1pZRVFURzZINnJtT29ycHNwN3c4Y0d5Rl96QjktOGxORTY0TURWMTNyOWVZQzJrY3U5dFlmYzZRYmIyQXd6WmdHS3BqN21CQnVIMDRhUVF2d3ptanYwY2d1eFZ3U2lTYnFjZGtlQm9tRjhGOXExM2pfSGc?oc=5
 
 - [AI] ChipAgents Expands Series A Funding to $134 Million as Demand Grows for Agentic AI in Semiconductor Design - Business Wire
   Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMmJDcmVCT2dyTjdFNlpLbHdGZ0h1OVBkUzVxdGJSMzc2UjdnZ0VNc3ktQVZZZEFIcmFZc0x4ZnJLLUtHZzZDZDlkZXlJVnRFTjF3SHFuUl9CMnJib3lSRXJHOU1LYV9sSEJodnZqcnBRMnQ4cC00bW80MDNXeDkwWHBpRTBYdUx3RGpJRnBTaDl2SHRCbHhpRnBjQTlTUFZyeUpBbnZtWXdYUWhLVW1adWJaYlBuX1ZTWGIxTkxUSVhKd0RURUh1M3dwbzVxRWxZYkVrcDluQk5pQ1ZobEVUOWJkRVozYzREb3d3MXhjRm1GZTBNcHBBWQ?oc=5
 
-- [Travel / Boop Relevance] Business travel technology provider embeds visa payments into booking process - itij.com
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGJ4VVZqS0dkcG9vZWE3cUtIaFVzZ1lHbWRZdy12U0R1UktLY2MwX2pkRzJKN3FpeE9fd250M1VNMHRjNmpjNHZPX21janBraXIwMWNrRDA0RVZRWkxCWGRuLWM0TXJHMUVUODZvaDVpWEtueFgxS3RhYVlGNXAxLWVvbzlBa055WC1zeTczM3BNa3k2dTF3RTBuU2Zzb2FpYVphREVxUzU?oc=5
+- [Markets] Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5
 
-- [Travel / Boop Relevance] China fining Trip.com $770 million over online hotel-booking monopoly - travelmole.com
-  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTFBTdTBuTjdjcnFNYVdsQzJUTHpwa0p5NzhGNVZSUVp4cTZsbFhVSDN4VThweTA0TWFsQTZzOWpONGdxbHlUODIxcDZEOGd5U21MYnM2SFgxV3ZEQWNiYWEyek4tRHUwRHVtbVE?oc=5
+
+Must Read Today
+- [Markets] Markets whipsaw as Trump, Fed face new inflation risks - The Hill
+  Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRFdNeFlBUW1yV29ROHF0dzBGUGhlZGI5VVBzRklVOHJkXzZxNFNqVmJId0JndDNVS2s3ckhFS3BZaHNGOFlLZWhtdHpBMDZDTGRBSGV2MkdMVGdfUzMtWTZpVzVINnpOcG5pZ0NhUQ?oc=5
+
+- [Markets] Economy Slows, Inflation Dips as Markets Digest Fed’s Latest Move | National News | U.S. News - U.S. News & World Report
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzVyVW1mcGhYWjd6OTBZa2xQTWhZYklrdkhqUWlzWGpxX3ZsMlBBNm9wOEdQZ0hIb0N6ZTVPUk9DN1lmYldBaHpEVjZ3SWZyRTB3S1NBd2FtWGkyeVhGMVFWT2RHQjRldnI5T0U1VEg5RmdsaG5FN1E0RzZjSDk1LW1lU242SXJBd01rc3BpNkhLSUpKNTc2WlRLV0ZQZGhob00wcVlWZ0dmOE9jcDJEeXhtdTlqQmtKUm42Sm5VZGpLUEk?oc=5
+
+- [Markets] Same play, massively cheaper: Federated Hermes Ltd CEO on Korean AI stocks - Citywire
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmxzcndSWVlIMlM0UFFTbEUxbHg4ZE9FR2p6VGVmekNIN2M5RWdUWVZWc3VKUnMyNXlHSUd4dTRFbDBUTk44RmhqN1lhaXBDLVV0QzhiRlBDUmMydFY0WFhlUFZIYUZ2ejc5a0tDNXFMcjN1OE9VakpXMVNjYXRIbV9ISUp5MFBCNzNLY2lHaVJoYjA2ZlFTbTg4S1Q0SHhkejRTMmtON3dRZ0tuQ0JqLXNhTUNoMFRKdlQ3OWpqcVRhWFU?oc=5
+
+- [AI] DeepSeek releases beta version of V4 models as AI price war heats up - Nikkei Asia
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3o4YXZVWEZta2NwZUlsbXd0QW13UkJhSzluUUFyT2E5VkU0OThQZ2xjakpzV25KYTdPQVVKQ2RSZW5uSE13VUFaUThlUHJkckJySnBiTWJHdTk1NER2cFJoaWN5bWNBdlRSdDU1UmcwVzBFcG9obUZ0RG11NUJKX19oYXBMem02anZ1aGFmZC1HaFJRMnQ4eXJmRlpOVXlfMl9BUHI3ZmJSaDlIVk1adnZrVEcwR1R3VHhaUS1scE00UjZod1lGNzRXcnE0b2xJUmc?oc=5
+
+- [AI] Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5
 
 
 AI
-- The AI Shift: How autonomous are AI agents? - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPajd0aERTcDg1MnN2eGlXNlEtc1l5N1pfYVhrdmU3UmVKTkdDRFFILWk1S21iNzRsNmp2amMwaE02U2Jac296M195dGFtT0dqdDBfb29hXzdSUHQ0NjFSaTBhQlpyQXVmTFhnX0VxaG5RVUJHamI1TUNnU3R5amc5UHBHd2g?oc=5
+- AI, data center regulations big topics at OKC National Governors Association meeting - KOCO
+  Summary: KOCO
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0hoRE5ScGhOVHBza0xWTnlSRWFxZUxLTklEUWh4LUhGOS00V1Vaek9TYkE4alRGZ1RHNzhFTy1faHdYWG1sTFJuMUJUVF9mNWpzR3d2VGxzYTlMaEx6TEdIR2xGaG9XTkEyMTV0WWVpdllUR19sMXMyclFNR3IwVTI1Y01MYndYTGpuemJDZzhaZWc4M0JvWXJyLUxuQnE2V29HVTlR?oc=5
 
-- Cognizant Launches EMEA AI Unit to Support Enterprise Agentic AI Adoption - Africa Outlook Magazine
-  Summary: Africa Outlook Magazine
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeW9rUTlscWdORXRDRlZnNXNMbW9sRXdiSl9TVGRIMFM0TnktM3BNMUlqT0Z3azhHYjJLcFcxdkJxSUVvdk9ZVmoxVnpkZEdUZzZFWXdQS1pSOE9rRmM2TGhtUUpDVGtsVmYydmtzRTZ2WmN4V0wzaHV0YXJTRnA4SlZudEgzWU5NVWNxeXRtWUlWRE96RVZHSHRqV0ZJNFZWa0VSV2xSbGNHNFRGaDlfX0dPTFdoT21H?oc=5
+- Optical interconnect startup Eliyan raises $145M in funding to solve the AI chip cluster connectivity crunch - SiliconANGLE
+  Summary: SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHZ3VnU2NURBYTItV3JieFJVNVVQdnBLRGd5bHdWb3BiZkJxSENQb1ViX2ZDQ1JnOWVTNTlDNWV4cjFySDFJWnhld0ZzYi04ODc2NUJhc29CdW5fOHhmQlhqUHkwT2RPb0lyU0lDSHdSOHhFX0VhT2NYQVpBUlhEVkVITnJvdGh4dW9NclEwdWhEVTZ5b0cxcXNwelNkTG03SzdYdXJzc2pnWi1iOE1fSFl6anNiYWVsWGVqTUJlUnZ5R1JVQ1FnTjNwSlZuUnc?oc=5
 
-- Freehand raises $75M as Meta and Unilever hand their supply chains to AI agents - Tech Funding News
-  Summary: Tech Funding News
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXF0MDQ4b1NtQWtBanA0dHI1cVpLMWxDMHFaR3kyaTBTb09ZT2szb2tfZlRUMmtoNkF3eEVaQkdMRndnZ1RnVVhMTlpXNWhnTkVpaFY2TmtSbmtSX2FDdW1mN2p3ZmFtUWZPbGhNbkd6N19ZZFBRaDRIUHUtakZub0hpaTZZNk1LWjM5WVZMeW56SUVGR0VUblU1b09EYjIybUhUMnJta0FuOU0?oc=5
+- Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5
 
 
 Markets
+- Teetering US Stock Market Faces Jobs Report, Big Earnings Week - U.S. News - Money
+  Summary: Teetering US Stock Market Faces Jobs Report, Big Earnings Week U.S.
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3dGRnByV0dIc2JzZWtTUFduLXZmNlZOck50bjZrVUVBQWZ2eFhINkF2bC1PbUpOcU11Q29pTTdyTi1BU1JaZjJtUnEzNGZWbmhOUnRTR2hhWU5JVG1vRUcwa2lCZEF0bHFSQloyRHBWRlExcDJuc1NTVnFGUk5lNnZ3a1NYRE1UdWNjeXJmX1lpanlxNXhQdUM2X1Q1NlRFdUJzdXBLc01Kak9yRkJlb3VQV1R6UEphaUFwdnFR?oc=5
+
+- Markets Challenge Warsh’s Approach to Taming Inflation - The New York Times
+  Summary: The New York Times Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts CNBC Why the bond market is doubting Fed chairman Kevin Warsh...
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2tVYzM0d1V6VmdKVkJaYThGRkRiRkk4ZV9JVVlPWjlBQzBVRDJFZU5ZOXF2azhtRENGQ1ExdjcyTmRwajFLMmtmeS1RWUkwdTZVbVhNeURWUGVaRnc3ZVBJQTNPNEkzNjBsUFkxSTA0bkRKR0dXOXRfTVoxZVdHdVpyWndQOExxWlBjNk9RdkhDSzk2VXVueWcxNkgtMU8xQ3FlSjJ3b0NPdndGcXdmU0g0UTRZbDBC?oc=5
+
 - Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation - CNBC
   Summary: CNBC
   Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNY00wdmI3VUtOYl90NzRqMVpka1ZqMXNMazFDN0NOUHlWejQ4bVRXLXcwY2JYVUdJSWp6QThnUEdKUDU3S001TTFoV0VCUUFhNW9ZR1V2TkNMaks2VmdPVGRPamw0QndfeWtYYV9PMk5ycVVIbFFNYkl5NFExUG9BOXozbU9KY1NyN0l1cllqMVUwMlRETmluQmUteTkxcTA2NHRIVW9jTkJJeEt3SkdteNIBtgFBVV95cUxNMTRiT0g2YzR2WGFDLVU0eWY4aE5rbWlyX2lNaDZFendTUjg5aVJrMDBGeEJXcGZOUmtSTEkwLUlNc2FENjl5VGtlQzhOZVBuMzZvOVl1UE1Jd3ZTelExV1gxR2tQMzdKSWgwbEJ1a1hHNmxQVE1JaEw3dEhsWmV1amNXRGd6NVlXSGZRREJoTThCNy1QX0xjUmZsbXFLSThlUjdIc2o2b1RWOEJKaTNiMzdaU1ZlUQ?oc=5
 
-- Bank of England holds UK interest rate steady at 3.75% — but policymakers see upside inflation risk - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxORF80WTFjUktPZHZTREF1M241eFBhd3JDNy0wMHNybHc4MHhDQ0t6NVZrT2Z1TmdPMGw5SmUydFQ1RF9sZkhFUTVuX1NBb0I3aVFKZWR3N1dJTk02aS03dVlqcHZBT1ZOVVVwSVJkVWZPMXhEN1ptVldNazhZOXJqNzA3TdIBiAFBVV95cUxNWFpoUXFYZ2hLMWdTU0UtOHFMRnVCck9UMldzZjN0T2sxSTBZbUwzUDhnMmpMazVjb24yaE9nWDZ4MTNZOGthcFBnS3RsM1FMM2xyVDd4RkEyWk9GM3JoTlRhNk5wbFVqMEM1RkRKZFlCUEsweWMzOWpOV0lKRW12Y2laTTgzRDds?oc=5
-
-- Gold Steadies as Traders Weigh Fed’s Rate Path After Latest Hold - Bloomberg.com
-  Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5
-
 
 Travel / Boop Relevance
+- China fining Trip.com $770 million over online hotel-booking monopoly - TravelMole
+  Summary: TravelMole
+  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTFBTdTBuTjdjcnFNYVdsQzJUTHpwa0p5NzhGNVZSUVp4cTZsbFhVSDN4VThweTA0TWFsQTZzOWpONGdxbHlUODIxcDZEOGd5U21MYnM2SFgxV3ZEQWNiYWEyek4tRHUwRHVtbVE?oc=5
+
+- Business travel technology provider embeds visa payments into booking process - itij.com
+  Summary: itij.com
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGJ4VVZqS0dkcG9vZWE3cUtIaFVzZ1lHbWRZdy12U0R1UktLY2MwX2pkRzJKN3FpeE9fd250M1VNMHRjNmpjNHZPX21janBraXIwMWNrRDA0RVZRWkxCWGRuLWM0TXJHMUVUODZvaDVpWEtueFgxS3RhYVlGNXAxLWVvbzlBa055WC1zeTczM3BNa3k2dTF3RTBuU2Zzb2FpYVphREVxUzU?oc=5
+
 - One in four travellers rage-quit online hotel bookings - Breaking Travel News
   Summary: Breaking Travel News
   Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFVNcjVrcVVtVXBMcWFlYjVBRkI0Q1lvMHkxTExBRHdLSlRaZWV1ZUxWbFh1ZUluMGhTSTA0Tm4tdlB0a0hNV1V2UXpGa3FVMkRCRHhVdkJTbWpXUTBlM21kS2NKUFFQdWxXTDRNVUo5NFpTckhzNTBHT0psZkFOdFRpbWVNYWVKd2dnaS1vMkpaUUVvalhxcVhONXZNUHdfRldXUGN3?oc=5
-
-- Travel Tech’s Pay Divide Widens As Tech-first Companies Outbid Hospitality Groups - Hotel News Resource
-  Summary: Hotel News Resource
-  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UeVlrcWthOExMX0tfTlZqaGFqRWh2LVFIbmFWdGJzWGdYVHdoMFhyN0t2Z1BQd0JKNlhucG8zdk95REh6blQzT1J6alp1UEh3N0dNT3JtRGx2d3gxSWF4TnRR?oc=5
-
-- WeatherMyTrip Brings AI-Powered Weather Monitoring and Concierge Rebooking to Travel Providers - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm5ROWpHcFdKeVJSRzh1STVJd1o1RVZIbS16dDhzbnZHUE1PV1FDVmhaMnlwbDd0RnlQTVZGVTU3TmY4R2Q4TTlLWDQ1Z3RUb00wZHpNdERCLTlrR3Q2c3ZITEVQVWVXOU5TekR2QWtVTnotYVhCeS1xTF83aUNMR0Z5QVJ4OXQyMzR6LUt1dVhDQUJWRmtJaENMSTVJZzcwa2c?oc=5
 
 
 Bottom Line
