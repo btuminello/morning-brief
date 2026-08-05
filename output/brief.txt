@@ -1,81 +1,81 @@
-Morning Brief — August 04, 2026
+Morning Brief — August 05, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Detroit Tigers — 8/4 - 9:40 PM EDT
+- Seattle Mariners vs Detroit Tigers — 8/5 - 9:40 PM EDT
 
 Chestnut Hill Weather
-- 62° to 82° today. Right now it's 69° and feels like 70°.
-- Around 8 AM: 68° | 2 PM: 81° | 8 PM: 74°.
-- Wear: light layer.
+- 63° to 87° today. Right now it's 69° and feels like 72°.
+- Around 8 AM: 68° | 2 PM: 86° | 8 PM: 78°.
+- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Trump Fed chair’s inflation strategy: leave it to the market - The Guardian
+- [Markets] Stock market today: Dow and S&P 500 rise as oil falls, Nasdaq digests tech earnings - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXZDMV95N0VrQ2UwdGlQcmR6ZmhPVmptX0JQcEl2eWllTmYtQ3Z3UnpkcUs4Rzd2UmJxZ3JtSUQ3WmtZeHBsMS1nTnAyZ0JJY2VLbGEzVUtZa0VWNkJUdnB1YTFSejk5eVhhazFLLXZNMHhkM2NsOWZUbmZLaEM0NHNreUc5TzE3RnNlQ0IzSG84SmdDSzhEZGZRemJsVVRWWGhtVDhmOHg2VW1DaDh5Znhibw?oc=5
+
+- [Markets] Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter - The Guardian
   Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0dNNWVyRW5SQnZkY2ZsRU1tcmtaWlNkTDlQYUFSQ0VXV1pGVWw1MXJXSFNwNExfejRtaEIxc284NVdGdGRJVHI5Z1pQSGpFVU1FZmtETXRvNTNaYm1ReHo5SkF2bmF4Q0lQdkhiaERYemRxU1N5TEszMmRrTzl3NE51VmdTZlhUdm9vYmt3VV9OVkMyZWo5dkRZMzRaUEZzcmpSNm9YYllhUW8?oc=5
-
-- [AI] Obsidian Security raises funding at $1.1 billion valuation on AI security demand - Reuters
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmdoY3dVd3hoSmZIbU1RajM2TVByN2s2bkpWSUV5b3N0OE02QzdEZDJwMnRLYURkcUtZZjlvVGJqWHNhb2lZQzJaUXJJcEhFbWhnMGtlSU1ELUR2NGc5aHVIRE9yQ0FUN2xPSExfb2JTeHJQaHdOV1FGb1YtM0l3dFlCS1ZhdEtlZHpVdjlxNS1NT2JMMDRUMlB2NGJ3bVhQTENsRzhndXExUm1INzEwMU1PSTZHb0FyVHdz?oc=5
+- [AI] AI startups now claim 80% of Forbes list funding and are spawning a new wave of pre-unicorn challengers - MarketScale
+  Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblJsZWVRSVl6RklURnNGUzFVeF9JYWlZYTZPR0lkRWVfUzMzcThONzkzaUo4ZVJock9fRXJMRUtHaWRQSno1YVZSeFdoS0NSNldyVU9UQjhtZzBCZUdRRHA2M0lpWUFZUTlWUEJONTdpY0NCTkNLekpXdFJCVHNvdDNiOXZMRGV2VnNIa2djSW5qdjJBUlJQRHFrN0t5UnIwa3kwaFlpc0pxNE1CeEd3QkxqczRZTFNYT1ExOWdtQlEwT2hWb0JMSGlkek1uMmxCSzQ5VjFxb1liQXpPWklwWk9QXzJhTHljVWxSTzFKWVdKOTJ3OW9Qbw?oc=5
 
 
 Must Read Today
-- [AI] Oracle’s AI Data Center Funding Tests OCI Delivery Timelines - TechRepublic
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE14V19xbFIxX2FUbnBaS1IyamRNTGVIMTluUFdKWUVXZHA2NjV0NHloZFVBcHJJVm40Z1B2NS1XN2tvc1BFX1VTcGhkTmVsZ2RsMUNGbUlGbTlScjJOSUcyOFptcVhJdm5uLUtENlRLY21yY2RRMnA1VVNlZUo?oc=5
+- [AI] Additional Old Linux Drivers Face Removal Due To Noise From AI/LLM Coding Agents - Phoronix
+  Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWHNmb1RraTFYNk9TVDJZcjNJemF5cWxybFNvYjdvaGQzRkxfNUF2V0EyaXV2eFVZcmk1dEpnclBvVzZiam94dkJTb3Q0RFdiYUFNX2ZvTWU1M21QdzlYT0hXMUhJakU?oc=5
 
-- [Markets] Judy Shelton warns Federal Reserve is lagging behind market on interest rates - Fox Business
-  Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ObGNlZVpMTmtnNWRmeGNFYmFLTGpsakJya01NYU1wWDU1WWV0SFBHd0lBYno4blA2QklVdUtHdzNZY2FNU1ZONU44bG5aSWNqOTVNSDZqNE83R0E?oc=5
+- [Markets] Uber Stock Slips After Earnings. Here Are The Numbers To Know. - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWw4R09rT0ZFYTBrcWhDM1JNY3d6WWpXVW5tYV9UcGFaSEdpWnZnbHdSSjVYRDlsYTI4X2hkbFpqaHFsVlVlS19pWi1TQy1fQ25ab2lQZzFUMWVtQjhzVVhtNzFTblBicHF3WXdMS1lnTFlnZUplRkFja200bm4tQlR0LWNDQQ?oc=5
 
-- [AI] Zenity raises $125 million Series C as AI agent security startup accelerates global expansion - calcalistech.com
-  Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdUF4bW5xbERQREdxNExQSU1QX2RIeld0bXJudlJBMTlGX1BPWXpic2k0ekpTT3BTcUFMa3VjN0VidUtGQmlWQ0NxMHpWYXVtc3hMMFpWOG1FSUg1cXVWTUVBdjJabm9w?oc=5
+- [Markets] AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market - Barron's
+  Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdk96VGdyTlNWRHlQMldZakd0ekpoY1NRR0pNTV9ubmZNOU9BRXV5MDVRcUhjbmlGcjYzcTB0U1Vxdi1lWUxsZGlXNlVvWGtVYXNvc2VFWlhGQUgxRW1EREVyYWE?oc=5
 
-- [Markets] Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkF3SWhJTWdNVWRlTlBSV09tbTg2bTZIakRNTUx5cmhGekw0UUlDSlBSdXktVExFa0VURjBaeGZ4YWVCQ3FHTjlMVG5TQ1Jad19rOVFTUTJWbE9Md3NMX3pxNjdiSjNvcUNYZm1IR3JMX1hDb18zbVhTNW5UWjkyTURWbDM5VDlCVmNHYlpZM0JvLWJBZ3ZWZUlqdWxaek5jUVY2SEwzMDlNLVRVd0dNMmpNcjFVenJzTllaTThib1FYZ0J3V01Xc1YxMnNCcjg?oc=5
+- [Markets] ‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0U2TnlYYTByU250UEhiTTQ0bm9xZDZRVElEbDZZak9FQVE0ZFMxZDFVVXlEX1BsRnA2QVg3N1ZjdTlvajRRWWpmamljeTBzQnk1XzdsRzBkTGV1QlFiZVZ6QTJfb282QV9mTWsxNUJHTXdIR3paaTQxcXlha2NBd21uQkVtMmlBbkctSUN0anRmQXhmWVluVk14ZDBWTDlCZ1hkR0JaMWtXcmVqdHdJQ2JMcVVEMVVyM0ppUjhuTHFWbU1CMWI4dTVJel90QQ?oc=5
 
-- [AI] NAB Tests AI Agents in Plan to Deploy Tech to Banking Customers - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFFLcnVtQUhZRXlnbUV3elFscUx1eVdMMGxFSV9KaW5YMGRMbUViNlZVM20xeU52ZEhoM0ZPc00xY3VuWElPcXFzdURMT3o3YWtOM3JtbVg4RVpFUkVhUm9LSTYzaXFuaWtUdW8xTFA5anU0bUxqY3ZZSmhzZC1lR3Z4aGJ4X3FncmJ5dUpXQV9RYTJFMW5iSUxPQWxpTFVkRVFpVDJCWlNzRWQyelZyczl2M0U?oc=5
+- [AI] $25 billion in data centers shows St. Louis is serious about competing in the AI economy - Fortune
+  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE42OEtKNU5UTFJmWHhiYkVPV2k3aG1Ma0oxbE5fN0RIbDViMWUyNnk1RUhjWmRxNHU1R29yTFp0bGRFYzQzdko0eTJMTUctSWlmWUtRcFotYi00WEdaQ0kwRzJxZXVxTkdIcXhBcE1PS21IUQ?oc=5
 
 
 AI
-- Protecting Military AI Agents From Cyberthreats - EE Times
-  Summary: EE Times
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1reko4ZjA5cnR1TU5ubS1nRmV4Mjd2NTRxeUgwVkJaLVJCSTBUZlV1aF8zRXFLcEdnajJXZGhrWHltb0lwbmZKRktrUDRIWk5ZVlEyUUNkcFFLQ2ZJT1RzZEhiX3J1WHJiOHpWZlA5VnlUWFpiRU4yeWpkXzM?oc=5
+- A debate is brewing over the risks and rewards of serving ads to AI agents - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNRW10Q25VUC1ieVpsRlB3b1k2cDVCUFRzM2k4V2Z1UnF4MnpJSnI5clpQM1F2bkVNRFliZWpxdnM1bm1vbEtDZWFyLTl4Si1uMDg0Qmw4R3NKZnRqbi1mLUphdEN1TnZSalBsVGYzNnVvVzVZQ2ZFcVdhQ285ZHdTUTdCZ3Y?oc=5
 
-- Marvell to Showcase Advanced AI Memory and Storage Infrastructure Portfolio for Agentic AI Inference at FMS 2026 - Marvell Technology
-  Summary: Marvell Technology
-  Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPU0hpdUJ3NnNjb09zMDEyTURsSkhuYVhEUkMxWEFUdjlVLUZhcFlYNzhab0NXVkdEblgxMmVka1dhQVdZbDc5Z1paOGJBUkt1NHlfMlNWLVZRdWU0Um1JWlU2czE3OFdZR0hpUXp5Tnlfcm9LNG5sRUFwSEp1LWxFeWZhX0VBZFVjMWR2OFpMekc3UzlSNWhvb2NqcmFLbW5jckM3LThXOVhtaThPcG55c29odHJubXp4ajJiNTdRWE83bkxSZUsxQ2FSdGtPeWxtbndhRmMtcERPcTBxdW02Smg3YnJVWXpnazFHSkZEcTlBRDZmQkR4ZGQwMGZ1bmh6YkNoNG1wa0JnQ0hG?oc=5
+- Critical Paperclip bugs expose AI agent trust failures - csoonline.com
+  Summary: csoonline.com
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVVGd2llUmN4cGxLU0pmZGNNTDl1TDVMbWhRVVhrUDlndUFnSTJLOFFzREVRdHBxMkJpZDhEc2txLTFLaGhnbjVubjczbXRMcHhXczV2VkZqMkxEeVV2bno2OXBPMXVSdkhDallFMjdYT3ZtVDVaSWtJVEpWSDAyejVfZWRpQWo1Q2V4d0J0ZGVIRFh3QkNvMlF4bktJaWhvQW53?oc=5
 
-- Why AI infrastructure needs a new operating model - cio.com
-  Summary: cio.com
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGMzc1dVM0p2VzRkenRfbnc1TDJLQ0dwYTJBZUgwUWE5YWNyQ052WUxQakNoa3BjVHVQOURBMTdVZTBkUVVUeEthRGI5Q2lmSF9VZHplTjRKdGNwQ2RIZ1BtV2l6aktnVlpfZnA5VzI1X3ZQWWpnUms1RTBTOVFkQ2xuMkI0TDdPaFk0MjFFNnNZWmtO?oc=5
+- Foundational Industries Raises $25M in Seed Funding to Build AI-Native Factories - AI Insider
+  Summary: AI Insider
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0RCdVgtaTg0eVpRcUswVmNoTzNJcTJUc29QdG1aeEJVRWc3d2Y4YzBRTFpEOFFiTXEtZGF0WVZRbXhPa1VseHBOQ25lRktNQk9IZ0hKNzNIUzdEaDRzWDhrNmRKVUxMNHBxRXBaR1VXNnBQT0pha1lBTHBVMUVvRDF0RUZCbmx5SGVPWGRsN2M2SHY2MWJWcFJMaUtxYVZJdzZxdWZ3cWVsWWtNZDdmcnlJUVRZM3NT?oc=5
 
 
 Markets
-- Fed’s Paulson Says She Keeps an ‘Open Mind’ on Interest Rates - Bloomberg.com
-  Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3NqMHIzbmloX0gtRi1uNWtqaTlHRkd1NnB6VHI3YTJlNk54aThYU25OYmkwaWZzRjFnSFRnXzBWZ01yVllteVB5MmdLWjdRLVpQaGRHbmxycFVFNFZxLTRWODBzWjJzbTRLUF9wTTd4RXdVNVZiLVVWTVJkYy14OW1Mdy1CWXBsekdKaGo5eFMtcG5QQTYzRF9TMTVTbVZ1VG40a3g1NEtqQk1wR0tB?oc=5
+- Small-Cap Stocks Just Sent a Bull-Market Signal Investors Can No Longer Ignore - inc.com
+  Summary: inc.com
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQcERaUHFaMjVKWF9YS0RCQVJpWHZVbjFROEJGbW96aGFmUUdoQXU1bVJVQTdjSVNCSUJ1LUtfX0Uxb2JVYVJQbk9LNmZmYU1TTk9xdVUwekVXM0JLMkhBc0VnUExUSUxqMDZFa3JpZkliSGk2aF9xRlhPQ1hkNHdqTlU4bEZkRVlQQlpKSExjN1o2MzI0ek80RnRPdDFoa3djQnJj?oc=5
 
-- AI-linked chip stocks rebound; Powell Industries tumbles premarket - Yahoo Finance
+- Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhORGttaTg2OXFVUzNyVjMxV2lpNzd6ZWFBNDZNQU92SjF2LXBOMnV3Y1hQWnczd3J6X2ZfSTJEaGF3bmhzWWQzVU1KVnFhOF9rcnRKZnV6NVNFOUlHc1pSS2YzSzdRbWdocVF1NGZveXRuS0twZm1XVmtnWUpMa25CeTlVSjVXa2hUcjdOaFl0VWJHQVNpVTRB?oc=5
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0dNNWVyRW5SQnZkY2ZsRU1tcmtaWlNkTDlQYUFSQ0VXV1pGVWw1MXJXSFNwNExfejRtaEIxc284NVdGdGRJVHI5Z1pQSGpFVU1FZmtETXRvNTNaYm1ReHo5SkF2bmF4Q0lQdkhiaERYemRxU1N5TEszMmRrTzl3NE51VmdTZlhUdm9vYmt3VV9OVkMyZWo5dkRZMzRaUEZzcmpSNm9YYllhUW8?oc=5
 
-- Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWVwRG4ybENUckxHeFgxV1RfU1FqMzNadDVXQW1GbGMwV09oWWJ1NmZNT2VnMzBVU3dLWGR0dWFUUThUZ2hyeFdabVBHRFE2TUVJT1FYX2FxUTdGazJRTGF4Zi0tUWllOC1xbFM2d1VXcVBaZEdKaXltT1phY0tSZm8zc3FIckdUZ05CMUZUbzI1V1Q4UnBCMlRSMW5OM0ZjdFVNZjNHYnB4MjlYTDhyNWhadTRZR1NG?oc=5
+- NPO Q2 Deep Dive: Semiconductor Demand and Acquisitions Drive Upbeat Outlook - StockStory
+  Summary: StockStory
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFk0ZWFpUkstNTJ3VWJ0cHoxWTFkUm5Cb1B1aEtIdzJlaUNnc3JlZXAzUjJMR2RydlVVU210Q3FVd3hSWlFqU21xY3dzTUNXcDJYenFSU3VyalpHc3lSVHFNTENOQTVpOWNGTkE4VTFhMEhyTFdKVUJ5emFfck8tVzJfMXZyT3hxM0NJRHExdDZ2M2xaMHZkQmtLdVhWeUYxa3lsaFlpOVdpczdJdWNGR1ltRUNNQm1najV5U2VEa08zQlFjd3NZVGZSYkxYZEMycUE?oc=5
 
 
 Travel / Boop Relevance
-- Roman telescope aims to travel 1m miles into space - it-online.co.za
-  Summary: it-online.co.za
-  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDJ6TjVLNEZqVVBHS2lZX0l5aG11ZzI1blFlZmVyaEYyMnZSNmRsRkRIR3Z0VU1GUlE0S3A2STdZZ1FfV1AteUVNWGVBNjB1eG10LXIxdzZJUV9PWnk1MnN2SXFLV1hRMWxnbzRpRGRPOW5SWkpFMWlBZDhTbXBYS1pGSENMSlpYV0pEWkJJWQ?oc=5
+- Booking Holdings Reports Higher Revenue on Strong Travel Demand - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0YyRlRzMUZkSEdEZUEzOXRjV1JpLWlIVjZWZlFodWVBb2wwVDEtV2lBWEdaU0FUR2VvYnc2SEk5TktVNHp1ZUhmV1NlWE9SZjZoZG1ER0wtM09KS3ZHdHBfMXotQWU5NzNpMEpwRm9wT1hFbnJ0RGpldzBqeVl6YWRGcENfU0NDVnM0R2Y0TUduRGowb0dNa0dxVmRtLXZfYzJHMXUzRnNvb195c0dF?oc=5
 
-- American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
-  Summary: TravelPulse
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
+- Study: AI gains in U.S. travel planning - Asian Hospitality
+  Summary: Asian Hospitality
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9SRFZ6UWQwX1lKSUhxUXRTcm1DSGFiRG1idjNmQ1NiX2QyUlp1a3lfdXEtNWtaelNTeXVTUUxrZGhfM2YxNDk2RWVoSmU3YUNYVm1KeEljWElSeEZCamJnVFNXUllfRjQzWHRRT3BvMEFHMFc2Z0htYmZjNA?oc=5
 
-- Emburse expands travel & expense partner ecosystem - ChannelLife UK
-  Summary: ChannelLife UK
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDlIYXFwYk1fNk5zellvLUlhV3lUcGJPRmVXeHVES2R1Q01LQjM5RWEyOVB1X2k5RXpJeHF2NEx3c3R4a3VVdGY1N3VYTmJreWNfNGd2c3p5UzZUSDZCQTBCR3BmblRaamlLVG40LURBdUd1OURIWExnS21VUnJrTWgyaUZ4bG8?oc=5
+- Expedia Group acquires Layla, accelerating its AI-powered trip planning and booking strategy - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXRXY1c5MlJiNVgtNURsSEZIZ1RmU0VLVDFIS2c5U2FsUzBET3lTRDFka1JDMi16Mlh2VU92RWNQZ2J5SjdqVzBaS1FpaFg1NVd5cFF6ZkJuX1otam1IU0dUcGZHbVVDa1VEQWdVN19XZ3ZjbVF3M0xEalpRZW94SVdEME9BUGNfS1pReEFkYUQ2YWIwUmh4a201bC1SVnNaUEVOMC1WblF3NHRMLWZUei1tS0JDbE5ueE5LYVNjTHpTUmMxQ1RLNHBsZ3JGZXVi?oc=5
 
 
 Bottom Line
