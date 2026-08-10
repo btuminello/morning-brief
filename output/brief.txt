@@ -1,81 +1,78 @@
-Morning Brief — August 09, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Tampa Bay Rays — 8/9 - 4:10 PM EDT
+Morning Brief — August 10, 2026
 
 Chestnut Hill Weather
-- 70° to 90° today. Right now it's 71° and feels like 75°.
-- Around 8 AM: 74° | 2 PM: 90° | 8 PM: 82°.
+- 66° to 88° today. Right now it's 68° and feels like 70°.
+- Around 8 AM: 70° | 2 PM: 87° | 8 PM: 80°.
 - Wear: light layer, layers.
 
 Breaking News
-- [AI] Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks. - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRCOVFHWFRBVlhfMVVrbVl1cTB5MG1NZkZpV1V6ZlJoLUF5RnBuN0JBTFJDeVg3MC1vdU5JbGZ1UndMT3VvU2ozXzhKVGtvMFVodEFQSlZzOXFfYmFPV2o2bG8xMjI4Q0h2N1ZkS1Z4RVJ2a1dlQ3NNTUNhZHVlSVkxcnRZNWRNc1kxdVVadkRQLVZodUtNcDJn?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures little changed in wait for key inflation data - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1VlWktDay1Cc1E0bnBRU1Vhbzk1MFVralZQeVBGbzhxRDlKVG9UREdGdnpzVTJvS0hGSUhIZnpPSDdhRjJIbnBwRjFMaXZfNWpYV19aMngxa3VNS1ZwM0dlbzhfeVhkaUg0RkF3Y0RUSVJ0MU1tMnpoR2p5WDZ0UDNfQk0zZWF4M0p0Q2RJS3hWUUtVbkZYZGZsRWo2SjhzdVZoX21UVVZpRFU?oc=5
 
-- [Markets] Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5
+- [Markets] S&P 500 futures inch higher as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
 
-- [Markets] What to Expect in Markets This Week: July Inflation Data, Plus Updates on US Consumer Spending and Sentiment - Investopedia
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjU5QUF5TUR3X1VrZWx5RWtGYl9yZFI1ZnZRUkxLUXVnN1BweHduckpMUHkxVldVdXFJc2lGZlBhNTFoNnFqcERYV3dUTHlFN0ZPa1NYaFNvS0Z6NFBkVFowdENGQl82c0ZKRFQ4WUFfOXpaVFVDMWVhRjc4SS1pb3N5QXlDSVIzU1AzZy1tbmxrSlJWZmpvRHJvc0RuRTNWYkRyaFc4X0VMdWFSTnA5VGtYZVlVMHNfeEJoc3hJOWlKbDl5VWc4ZWFoYmk2cFlIR2xSX2g4SXNudk9B?oc=5
+- [AI] Consumer-oriented embodied AI model developer secures 500 million yuan funding in China - Global Times
+  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE02THFwdk55WWNUWlplWEk2NU03YTg0UXBERE5pSUN2Z1VVa1VCc3NnWW4xWm1NQzdQVmhQYmliaHFVUnNrOVIyMDhzMm1xcVdhM05BcEpkRk53MWp4cVFVREZB?oc=5
 
 
 Must Read Today
-- [Markets] Wall St Week Ahead: Inflation data to test record-setting US stocks, Fed rate views - reuters.com
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5
+- [AI] A gym goer’s AI agent hacked the booking system to get them a spot - The Independent
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2g5aHBYMUMyNDZrN0toSXFYLVNQTmVLTURNbHc3VkF2ejZMUlVyVXUzNGNKMUtTRFJsLVlIUHloeXVXemlXT1BialppOEJVakFRQnlJV3hPRFhxclplVjdtSk1kdFY3aDRkazRlZVpFZ1ZnV0F0RGZBQVNFZHA2Vno5RzRUNTZQRTQ0Q0VOWmMwb3loWjdMUWItdw?oc=5
 
-- [Travel / Boop Relevance] Report: More U.S. Travelers Use AI for Travel Planning, But for Bookings, Trust Must Grow - Travel Agent Central
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVlCM1V0b2xXQjAtTXJoRXZvOUhlRnhQXzRfWlA3M19LckZYMUhzZW9DanFzUlNZZEJpUTl6UjVUdVZRMDA5WTJqbkhqTHQ3X2lXTFBKVXAyUnM2ZzlvV1QxTnJkNHhGMTV0QTFWazNNLXQ0S3lNQTIySzg1TGJUUGxHc0pRMExKa3FQaXRCZHVCczJUMGlGWG5tYm4wN3gzbm1XWFFBN1M4YmEtOEZxeDRxMUlwLTBRYTBGeHp2NjNlSmwxdlFuNnlySFE?oc=5
+- [Markets] U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTNSWGlTV2tXZGhYQVV2SUItWWtlRUZmNWF4S2ItaEhvSUJMbEl0a3JrRGVnTmE2YmU2Zi1QLXBXcHp0MVRkTnRTZnJac3VhbUJSbE4xWVZYNHN3Y0pGNUhxOU9Ra2pCdjFpZG9uZVp3bTFTM2tibENrXzJxYklmS19wbFhuaGRkVUNhRERoM2RSVGRJYVVSc3U1aGFiSWl5aFpCZjAyZ3F3b0MyUFlKVHVOWk9qWUx3OGp3a25jYnMwcUNFQ3l5OUZvZXVBcVk?oc=5
 
-- [Markets] Futures: Big Earnings Ahead; What To Do Now As Bulls Rule - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUk1TGt3SGVRbFVCa2R3cFBJVFFBdHZfTXBiSDE0SlgxS01CX2tWWV9iTUlmOWF4OWd1NzRKLTRYTHgxSUVEUGl1Vmw0OVROUTgwNjhSVVcybmJoVkc5b1IwUDN5Nm5TUEh0RHQyb2RwbjFLcHZTZlU3cGpCUFdwWEgyWXFlNWFaRUtac1hQWWFuTlZVZFdteTY2eHpsOG5IUkFkQk05SFNUajFFakpQVTJKekZ5dw?oc=5
+- [AI] Salesforce Index Highlights Tripling of Enterprise AI Agents as Adoption Accelerates - Telugu Times
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQUUdOSHp0c085OWhLYWJ3a3RYbHk1Rzc3cTZXcy16YVYwUGtqSWJ5TFlodldobHVYQ2p5ZEc1eHFJZ0dGTENXUkJfWldLYl8yTWJZLWdGZks4TDJUcHUzNHpJeU4xdGQ3eXNQemNEUjNOVVRTWEt4RUVKQ2laZjNtMGF6NHdLVTkzbkhTaHJrMzlUUEhPT2xfV2VOM2l0X0JLck5pT29XSjEyOVhndkt6dmp0YjN5MUxsNllLUDlPb0dDbnl4UFdFUGZ4UGljQQ?oc=5
 
-- [Markets] Stock Market Gains After Weak Jobs Report Triggers This Shift; CPI Inflation Data Looms - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzlPWEp3NThvSkxSdFVBQVBidFdQRmNoWkpBWTJnVFhhVm8zYkRMdEMyNDI4Vzh5eUxNdkFXS0laLUE4WkJYMUZEdkwteHE0UGRmNkphZFVJQ3NwejBmLVhlbWFYRTJNZkQyMnZ3dTNOblI4bnRvN19ZUVQ2dDhaNl9nLXk3ZFFoZVJlMUMzSk9rZlVLR01hTUhlSTJvVUZfOEQ2NEpLNjM3dEJOV1k5YjZjVzByaGgwYXRUcGJ3?oc=5
+- [Markets] Investors' eyes are on inflation this week after July's dismal jobs report - Business Insider
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVTcVlHNE9RYkFXNmdpeXpKM0tTU3paamRaaVdPRzc4QVlyallyeEQyTDNzVmlwNkhJY1drWUJ6Xy1qaUc1WXdySlZ2UEs2QU0telEzN1YtYVUyRF94UVdqTGVMVl9JV1h4anFaNjdaZ3RqNFd4NWhnd0RrMEJvMDVINzUyUnd5RmNISUpRV1o0NVBxRC1tQ3JSMDhVTXM?oc=5
 
-- [Markets] Jim Cramer says Wall Street is 'fleeing' the AI trade to buy these stocks instead. Do you own any? - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQYl9xSVNzY2V5dkw1OHFXMU1fQ2JTaDItbUtLMVY0cnB0elF5b2dBY2ZGNHVScjJTNUVWelRIX0ZnUjlZOTItOWs2S0RILUhDV3FhUWNVekZoT3ZIYmZjbW1EV0o3X3Z1ZXA4bjV3dkhaMUtoV2c2S3RGUG9jaXNFZmhlQXdOTk1HeWdETG05aHJlYXBJMm1R?oc=5
+- [Markets] Semiconductor manufacturing equipment sees a rush of upward revisions! Which stocks were well-received? Winners and losers determined by slight differences from market expectations [Domestic Earnings Summary] - Moomoo
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHExVV8wN0lOMzV3bUVLd1NVZnN0Q1Z3cDFFZE5LbXFsVjFOaG91Y0dCYUE5NXVWNjFGcHV6ckl4ejdnYkZ1aXMyb0pvMXVYZFF4YjZ6bEFVaTM5MXl6TENLMHNNaHJfQ194QkpVTC15VExBNjdLU281MFNVUW41Y2YyMTN5Vi16Umw1ZENYWHFINUd4X1B1aFl5aWlTekY5VW9xc1lXRjQzblFEYlRIcTdsR1BCazZ5VnIyN0laeUlySE8xaVRLWEhuX1dkdw?oc=5
 
 
 AI
-- Cloudflare launches Kitesurf, a browser built for AI agents - TechCrunch
-  Summary: TechCrunch
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNb01PbGkzX3M0N01senNtYWQwbFBiUUk5VzFMaWJRZ2xQblNhU0dfbmNvNzVrb25sVnFxVkttakxIWWRjendZQzh1VU1sTUJBNk9UWndfUE9iOXZNVnFudDNVempIT1lSMG1WQXRHZWQyczhaRVNWdnVBX2x4NElkZXRwbmg2NW9uTXNQUFJ2c2JCN2ltbFdERg?oc=5
+- University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations - 6abc Philadelphia
+  Summary: 6abc Philadelphia
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVBqMXo4dTQ4eXphN1BDNjk5dl9XaTFrZmcwV1NwU3FMbjhlOUNJTVhCNU9DMUVvamtIQVVCT3EtSUFDUTFxWUp3azFwVjNIRXZjNFBzbG12MWR5ZG5JeHJjYjVKbzFwbUVrZnRlWTJRRExvbDNXeWJEYUpaWkU5d3FHRW55VkYwWDVLMWRrSWZVNGZEZF9RY0l1dkpZam9YTXZ5Qzd1ZHNUOWE4eWZ2dFdFZnFmMC1XZU52cnJsekdEdVlwYmpIdHl4b29Ed1XSAdQBQVVfeXFMT29WODNYSTJiZFNCQkxUcmlKTkFsbzllWE1wZ0dBNVdIRFc4SldHblBRODBpVGQxUDhIem9mNEkzU2tZem5QZkR6QmFVY0o2RDE1alA2TmJHWFhhQ21JT0ZyZjZsUHV4M2s2bk5LVkluVTV5Z0d1SHBLbkVyMXF2TzZXOTVyV2tITUdhSFZieXNFeDRSUEVwcDRyYUJldFVQV01yVlJfT2FtYWNVSlpQU19waTdoV2NGZ0gyYTNWUzRVVUV3T1g3STMxRDRUblZxckd4RUM?oc=5
 
-- Crypto’s infrastructure era arrives, with AI agents poised to reshape demand - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUV4aGdnbDVYY0h6VklTaGR0TjE5N09PQlZxMXBtZkxnSV9sZm4zcVN6LUV3cC1kdVBtaVZmckxseEtXV0VmQXJNUTN4TE0tT3dPR3l2N2ZheEtBVGM4MC1nWXhoSzB4TzdEVDRHVkF5QW1jNS03WVhNYkZJOFVUQ3puMFV2MllLOUp5NWpVdjJIMUtJRTU5bGx2cnhuNzVxSXZvVW5FN2RKS0RCMjU2RtIBtgFBVV95cUxOLWljck9zY3ozU0ExQzZDZHNSZGx3RWl4WjdtaGRxRFVWV0NKbVk2ZmNMXzMtR3FBU1RTOXJMcnVKN2s0ZGxKaVF4Z2dUSi14X2JHTU5NX0xxRHRFaUVDanQwcG5ldG5LdF9HTFBXTUoxejVXVWJXS3VrT3Vuck94VEpQNDBtVDg5M3A3S2NvNUdvUUxlZFRqVi1MTTU0eEpWUnZKVWhqd3E3c3B2VUFwdVFNV3ZWUQ?oc=5
+- How AI agents can power the S&P 500 higher - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxORlhmNTJhUElUTVhUYlRteE52QllwV21UaW91UDZ5cERpMWNzTDFqbFFlWklVMVJ6SGNCNlJGZTZWWFdfZDhpWUo2ZFQtRkUzQXFNODZ5ZU0wUEpsdWl0ZkpZNXBENjczakR2ZFhoQkk3SnkyMlJ0bXUxZjBhTDZ0b2J1bDRtak90NmJpQUJRMTRZTWJEUWRZVXZfRkNUOXc?oc=5
 
-- Rep. Wendy Dant Chesser Addresses Resident Concerns Over Meta Data Center, Water Capacity, and AI Regulations - WAVE News
-  Summary: WAVE News
-  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVZrVWtvR21GQzY4a3pueXpFay01QnJkckd0a3kwSlNfWDVOME1ZM0NFV2txOU5tRnFhQ2htcVMxeThGZGpnX2VHSmhyNkVoRzJESWdyN2ZsTTFIaS1xWFpfekk0QjNzbEgwSjN0alBHbTZJOThCVkRTNEQycnBhc2xVQWZkdkRCVkJWa0duTDJiNjBQQ2kxSER5aFhjcWRWV2VNeTNaRHhHcjdGZ1lTT2RJSmJjMHByRXFDRWdnLUFab3hWMUZLTlluRkFCQ3dIa1E?oc=5
+- Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks. - The Globe and Mail
+  Summary: The Globe and Mail
+  Link: https://news.google.com/rss/articles/CBMirAJBVV95cUxNcFE4U0JjYjRJaVlmRWVmdUlvWElBeklqbWkzTThOUXpaS3ZhVW1xWm43VDdhNlRBOWN0eC1VR1BFTHhtTlVOWEd3ams5SXV5WUdSUV9yUnB5ckktXzQ1WktUdkVoUjFEdHdhRHVZLVM3SG54RENUSklHYmZZVk9sX3g3VzNrekZVZkV0SlZjTlBsMVJEVFdHUFRkWTRMR3BOeUxnNVNVMzZzaXdzbU5ta2VCRWNXbTl3ek1lQklQYjFodVlhN05wNm40bkNoYnlJcjFFNEZKRHV0OTFnUXlXOXJoTXJvRTFmdFA3OHdpQ2xBcnBHOU40YkVfRnExNHlPMVBpaW1kVWhZdVp5WndnN2FlRm9XUEdBbDNaRll1SFp0SEt0V19QdHNPQkI?oc=5
 
 
 Markets
-- 3 Semiconductor Stocks to Buy Before AI Demand Explodes in August - AOL.com
-  Summary: AOL.com
-  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1vYThqYTEzSDA4d3d1TUVJY2tudGN4MHc5QlZUSWN1d3htSFRmUWYxSGdVNmZ4UjhvZGROdGJmWTBVUE1tTWdCMG9vRzgzd0t2UUJZNVRkSHgzXzc2b1pDTmFrYl8tLUxzYVZabUhObnNSbGJZRl9jdThYU1h4dw?oc=5
+- If a Stock Market Crash Is Coming, History Says Investors Who Do This Will Turn a Big Profit - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOVl8xa2lheC1mMHB1Y2xEaTk2MHRjNFMzOFZuUzBrRWVsWURXTWVHeHpPQVBTVW54XzExSk0xRmE3NDMybFZXc1h2ZU94NHNNc0c2VFo0SEgzSHZaYnVSYUl0eEdhb1lSTlFWWHZ6T2dUS25mNUlCYVJmbmoxTjFGaXhMLUhqdlF2Tl9OY3ZwY1dQWnRn?oc=5
 
-- Europe’s Hot Stock Markets Are Creating a Buzz Among Investors - Bloomberg.com
+- What to Expect in Markets This Week: July Inflation Data, Plus Updates on US Consumer Spending and Sentiment - Investopedia
+  Summary: Investopedia
+  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjU5QUF5TUR3X1VrZWx5RWtGYl9yZFI1ZnZRUkxLUXVnN1BweHduckpMUHkxVldVdXFJc2lGZlBhNTFoNnFqcERYV3dUTHlFN0ZPa1NYaFNvS0Z6NFBkVFowdENGQl82c0ZKRFQ4WUFfOXpaVFVDMWVhRjc4SS1pb3N5QXlDSVIzU1AzZy1tbmxrSlJWZmpvRHJvc0RuRTNWYkRyaFc4X0VMdWFSTnA5VGtYZVlVMHNfeEJoc3hJOWlKbDl5VWc4ZWFoYmk2cFlIR2xSX2g4SXNudk9B?oc=5
+
+- Egypt Headline Inflation Quickens for the First Time Since March - Bloomberg.com
   Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1I5RkE5YWlvTzlNQ3JFM1FXdi04eGpfRjV2LXpQbFNxWk5yMzV6bEdsVk1BVU85dFJCSmw3d2d0czluOGlTWWJpVUZnNDNoRGplb1hIRktoenp4TzgtdDRaSjJoSGgxTG5DU3lrRF9VNVN3b013MTRwOTFYejQ1OUVUYzhmZjlMXzV1TGpySzg2OHFzY1hEdURmZktDS1hkd3p4ODZndF9oOU83eDF5blM0dw?oc=5
-
-- Week Ahead for FX, Bonds: U.S. Inflation Data in Focus - WSJ
-  Summary: WSJ
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFU4TzBJT1J6VWhxb3kzVGlxZ0pWaWxBQ1JzUWNfX05aeHd2U0VTVTE5aUtfc2xCVXBnMjhEVnBwem05b3d2bm9DeXUxZGxMSVR1TURVOVdaOFVGcF94ZDdDVkdBTGZNQXktLVdMLVpXdXB6a3ZtUENhVzBqMFhMYmp6bWUzaGdDTldnMHdpQV96QQ?oc=5
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3FjRkNKS2Jmb01iei1ZUDZyZmNTem4wUFBVeE5zZTd2dWh5UVBmVVlpS3V1NmVEQ0J3Z1BGWVlIRjVKN1FILTZRRkRfMjhQcGJVVnl6YUJNbWxtakdNQ21BZkJCS2ZuVUd6Wk45QVdmSTlLcE1TeU1odDdRaTRvY0tZVEN1S0RmNjk1RVNkYkNUSkZ5cXJVZ29DUTZGeFV0V3VUbXJsUEROM0s0b216R2l6ZmxfZw?oc=5
 
 
 Travel / Boop Relevance
-- New Travelport Survey Finds U.S. Consumers Want Greater Clarity and Confidence When Booking Travel - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnBsb2I4bnBlRXo4bXhETm9fRVFOcU93aVlvWHVFRzlmZGY1NjcwbXBvNE1KRDZxYmE0WTVVejB6STJJbmM1LU1NaHByWkxQNm1JNFpkWmczakVobi1zWDBDWXViMl9fbHhodnlpMDdGeTBxNkhhR1gxOWo3c1Z0VVJneFNqNW42cmNjWlpRaS1fazlMb2pqRjNqazZYeHIyaG1SLXRKTENNN2FtTS1kTjhnS3oyRG16cmZuSmFDRVJqMFhxeS1EYktGLXVuUU9udk1iTzlNdw?oc=5
+- Startup Stage: Strut wants to build booking systems for motels - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcTd3dGhmM3J2V1dXamhDWUhLYmgtRHVZZVROemtQRl80Z1piNG9JWWZseTFKOFkya0lmWktuVXZKQW5aUGQyUTgtTS1tMC1MaUJKUmNoMUNubWhxbnZSOTA0eDVHaG1xS1E4MmZna3FwNm9N?oc=5
 
-- American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
-  Summary: TravelPulse
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
+- SABR Q2 Deep Dive: AI Investments, Corporate Travel Strength, and Airline Tech Momentum - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnNwd2g1STFVZUUwVFE5M2NMTjVKR2FHbUtmbUR2SzZCVW5Nd1kzak5aS1Q0TFpwRS12N1dXdDhhZEZDX2NqVDRrY2lCNDVQbnZUWldmaW1WdzlXTDFaZExkNVpmWmJ1NndZYlhFOVJWQXpZOGtDcUZFajkxamlLZmRSczNRSVBrMFBBbQ?oc=5
 
-- Expedia Group acquires Layla, accelerating its AI-powered trip planning and booking strategy - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXRXY1c5MlJiNVgtNURsSEZIZ1RmU0VLVDFIS2c5U2FsUzBET3lTRDFka1JDMi16Mlh2VU92RWNQZ2J5SjdqVzBaS1FpaFg1NVd5cFF6ZkJuX1otam1IU0dUcGZHbVVDa1VEQWdVN19XZ3ZjbVF3M0xEalpRZW94SVdEME9BUGNfS1pReEFkYUQ2YWIwUmh4a201bC1SVnNaUEVOMC1WblF3NHRMLWZUei1tS0JDbE5ueE5LYVNjTHpTUmMxQ1RLNHBsZ3JGZXVi?oc=5
+- China Travel: Tech tourism gains popularity among international travelers - news.cgtn.com
+  Summary: news.cgtn.com
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1JNUFOMTFQMllxSVgtX01DRHVrQ3lwV3VOajBXOTlEVWl5a3YzRXZjR1JPbXZ4Qk9vajJPTU4wcDBvMWppdmg2MGF0SkozdGotVDd4amRBSnVaTlc1QllqU21XblpaekZhbVJXb0hMZ3dZU29HekxJWQ?oc=5
 
 
 Bottom Line
