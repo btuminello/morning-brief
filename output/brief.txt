@@ -1,77 +1,77 @@
-Morning Brief — August 11, 2026
+Morning Brief — August 12, 2026
 
 Seattle Sports Today
-- New York Yankees vs Seattle Mariners — 8/11 - 7:05 PM EDT
+- New York Yankees vs Seattle Mariners — 8/12 - 7:00 PM EDT
 
 Chestnut Hill Weather
-- 69° to 88° today. Right now it's 71° and feels like 74°.
-- Around 8 AM: 74° | 2 PM: 88° | 8 PM: 80°.
-- Wear: light layer.
+- 66° to 86° today. Right now it's 68° and feels like 70°.
+- Around 8 AM: 70° | 2 PM: 85° | 8 PM: 79°.
+- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Markets say Nvidia matters more than inflation - Nomura - Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0JNRWVkMkNlVTFjalFQNGRYZmIyZUlENThDYXc2LVdneU9DZWpuRUpteXpUWUlza3c1dXRsVHBqM2JzT05aclJXWlBCTFJPUGhXUktnazJ6cG1zbjktMTQwLTRqSWRiaFNJRkk3RHp4TkJvVWNRemI0aFAwZ1VQSl90OTk2VEQweUtXU1dfQ2NoMXNWelE?oc=5
+- [Markets] Dollar subdued as markets await US inflation data for Fed clues - CNBC
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXB0YW9KVVhzaFhCaEM0UlU3UHFfM2N2dUFZdENPTTMwZVlNVmFJTjBXay1HcXZ1X3d2NTBsMG9peVhtZjU5VUdsZmFzZEZlOEZkZ2lUVkJGc3FGSmxMd0NwYVBPU0drOHRXb2R5T0J1bFJiblR1NkRoeXg3ellKWU43MWh3OXlwamFrNGR2TnI2aXNYNmUyRGxuSDZiM1IxdmfSAacBQVVfeXFMUEhGQ3lYeTJjQWF2Smx2X2llcWIyLTNUdHZiNGhWOTUwcWp5QUI5WC15YnBvNXlIZWl5R2pUZ0tQWm1leVFMTVAyRE5TdWFlbHljdG9jTFdFNVNscWFZdlluVGJQVnpnZ3JjLTFsTzNXcTVQQ3FKZVNZWDlGbU1IcjcyQVBOSzZodkJmREY3ZjhvbDUtYVRwSlVzR1Zyb2lTTzBtYkxtY2s?oc=5
 
-- [AI] Meta launches new AI model as Sen. Bernie Sanders calls for more regulation - CBS News
-  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTFBHbU1rbXJHWVdsYnZEMWtrNUVNU0F0YkQ3T3h1UmRrY1NqeldfaHV2WXJheGJ5V2Q3SzBQaklXWWF2U01lQTBLX0ozdW8tV05MNjNadmNLZjc3MFlrMXlydXlyNHo4ekJBMzhYZENDMjItYnRWQTBEak9Fb3ZERkE?oc=5
+- [AI] AI’s costly buildout complicates the Fed’s inflation fight - CNBC
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWZCUlp0OVM5U1JDSTJxbVpDeXNqZGNOWjZSX0pXd2dWYWNkWHhINzNHc3FNeVJ3XzhydDBQZnVLa21UdWxyMENBdDRiTm1TV2RDekZvdEZIcnpzaHliWmpxUXNESXpvN0pGX3NjNmhzRmplX0ZTRWlzbjlLTWFUT1lYdGthNWlDTUdId1JCOEl2Z0VnLWdLONIBngFBVV95cUxPT3hwY0I2OUpUdlkyRDJ5TUk1WWJQY3ZBelhldFAzX2tWaUxnTlBNZGRQeHl3QnJBZUlHNzItZDdXMEtTd19hcHRyOEstd0RwaHY3ZWJJVWxRUXJTNEphOXZ6V3lKdXN6NGx4d1VQZVBqUGk3bGhjSU9wNk5JTWw0czlSbE1OMUIwZFNXZE1oekMxSzI3OXQ1ZzlIQzU2QQ?oc=5
 
-- [Markets] Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjlPY05OQUx4QlM3bkdmcThpa3RWWFRSb3loWE1ieXBETkZ4VmZuY0QwZ1hWUm1sa3ZaclF3UWM2MXE3MHE5X2JvS2VhcFJMTHFIbFRiQTBESk1aSzhoOGN2WGktRkJ3SXNJbEJHeng3aVRyVE9GWnNTRy13dlNEWGpBWGZya3dibHRRUjRXQjhMeWkxYlZySFUxS0U5eEhKSk0wS3BWUVREWmlaTDJxcXVhUTZuVmJJQld4ZHhpV185QQ?oc=5
+- [AI] Kyndryl Launches Agentic Modernization Services to Accelerate Enterprise AI Adoption - TechAfrica News
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTRXZzVtMGpmYTU3NVNneGdfeGVERFNRUklJMzYzTjdrQmdrdFBsTUJhamhTUUxRLUwyLVc4MFNZLVN5Y0VSak5kUmlGS3c0djBOWDMzX1hjMG9kLXlfMFhjX0UyWW5mOUJSU3ZybFhOc3lybjRnQWMtYlpORk9Xcl9BbGExUG1fSFlXNlk3RWVuRjYySC12TXV0NEtpb1A0ZG5DQ2VFVXhtQzdFM3ZuT241TmQ0ZWw5OVRNRks4d1k?oc=5
 
 
 Must Read Today
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock pulls back - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmlzTk4xbWluQ0k2b3duTEdqdHZBMkQwOUJjU19ieVpKeGVTcmlEQWxuV0lvTXJPNktWMTJQelJkb0hTSURFT3h0X1EySkFwM2UtWjFuMW43S182d3BDNFg4YmYtNGxZdXNaUW0wOWpqdkJXS2xEWnJUai00X1VWUzVLSVNSNFZyNXNWd2NXQVFtY2cwdFZBOXczSk9ybUFIZVQtMFozS3hRbHlVbW1hZ1FPczFsN2t6TkNoWm54OEdXYUhoQl9SRE81dTYxeDQ?oc=5
+- [Markets] S&P 500 posts back-to-back losses, weighed down by tech sell-off and Iran uncertainty - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE51VmlwRjZlNm9iOXNSRXMtN2ZFN3ozMFYyd3RmX0lBa0NvbHVscFNFWURwMzNOejVPMGlRejgtamhCNzF2WF9UTTBxdGhMV2tkZDc2bGtvRWVNSDRjOUtzNnFMS0laRzlLMTI1eGpId1ViU1JNXzRB0gF8QVVfeXFMTlhUUHFmWm9NbFBpS2M5SW14N0FfUzBac3FBYldQWS12NEFra3BpZ1p3dVRYaWZmQ2lndW1Fdzk4dWlJaC1BYmpfN3dnUThEUTJUMVgwVjZicmZGTThZcGVJZWpsemp5bEs5SUlGUHZHSVI0Ylh0ZlkzcFE1bQ?oc=5
 
-- [AI] Labor dispute at AIG: Employees demand improved conditions, AI regulation - jpost.com
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWtvN3BzLWphbW1pQWpCOFc2UDhELU0zNWJFQnJMU3RJamhraTVlS0QzLWZKTWdxUkNEeWtwdUVMcFFHYThOdW9lbENZbFJ2N0dGa056c0JRc29yYUEtdXpPVFRCMEVkMVR6NUNjV0Jfbk1xTDJRNEhQd0VPQXctWDdzS19PZw?oc=5
+- [AI] Specificity Advances Agentic AI Speed-to-Lead Technology With Consumer Permission Architecture Built for TCPA Compliance - EIN News
+  Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVXg4RVNvT25BSFZEV0NZaGRZUzZGTk5pcHBjczM2MnRCQTE4c3FlMWNjZnpKUzVYak9hVnluSVRyNFpVNHptZW10V2hRWWR4S2xmLVNmbm5TS2x5MUZPWDJJU0JhZUV6NjN4Vmxka1lISUJGN2lxVV8zVE9iV1NHaExMUlg2WEtlZFRlcEZqRnpSMElrRWZDR2RwMDRFVEpzOVBpaUJuWDJzUVcxLTFlbkxaTUFxc1FPU1dVbkZjRXcwNEhGc3N2V3oxM0NLUm9OSlExVzhpSlJxRXRxU2xQdkZfRF9BR2tOUDNLekZILUdNWGdI?oc=5
 
-- [AI] AI agents, IRL socializing, and vibe coding: Where top consumer investors are placing bets - Business Insider
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmpNdHhSZFZQYjdzZzlQaVBDZVcycjhWZGZ1OUpsTTlFanZDUnVPOWlhTGRvLWw4QThQTGtMWGFFSEFCM01fajlOcWtjWmU3R0plSlo0OWN4OFFLekZoTFZ6Z3Z4TERvQ0dvZ2RJMlBWRm1GZllJZDNhaFdfZDVmcFM0bXN2TGJraEJtcTJVbVk?oc=5
+- [Travel / Boop Relevance] VegasAilure Relaunches Agent Ailure to Address the AI Travel Trust Gap - PR.com
+  Link: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fZlZ0TU1qeWU3MWpNb0hYMXZBT2ZwS0JBYmx5d2JhR01FSTNhczc2UGhwQ3NCcDJwVV9ady1zNmd0Q3d6RWt4OEFrVm9hcW01?oc=5
 
-- [Markets] S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
+- [AI] Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills - Crunchbase News
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5
 
-- [Markets] AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom - Fortune
-  Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdlRYU04xZk5CYkhmaGFicnRlSk01MEF0NjNFd1hBUG4tWFNBNlB0MEpYOEhjQndaZXVYWUtUbWREMmIwWEhzUUFWZmxVTUNxb1dsNlRnWUxQN0dzb3E4?oc=5
+- [AI] Consumer AI Hacking Bet Hits 70% on Manifold After a Claude Agent Exploits a Gym Booking API - tech-insider.org
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEZsazhIb3VWa3g5QXBkY05qMUNfbmd2YTJpSk5SZEkzMlJCeEJRR2hMVnREaVZNcnlPcm9hVy1qQnVsSE4xTnVRMXRfOVFyVndRa1JCbVJjNU5jbmRIa0pvek15eklGVl9rMGNjTW1VX2tSYlY0NU9ES1FraVMyYkpaaTN4dw?oc=5
 
 
 AI
-- Meta’s New Open-Weight Model Can Run AI Agents on Your Laptop - CNET
-  Summary: CNET
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWZqTmkwT2xPV1psS042aEZBRzVMaEVQdDh4TTlTd0Z0VHpWdG15R0RwaTZvVTNRSi1lT19aNHRlWllIUk5ycmNWdnlCazV2XzE2VnVtOXZGbGs0Mjkza0dsZDVleDZnRS1IckNTR3RhSmpJcXZTdjhRR0NOUUdfcjZLcjNoOWZUVnY4TFdSRVE?oc=5
+- Forget chatbot training. AI's next big data grab is about learning how humans work. - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWR4dkhNNFFhSzJoUksyYkpSQW96b2M5Q1kyY2ZKN1J1UkF2MWo1MkJnQnp2SzlNdUUzNTl5eERWOFp6X0pHWEZBekIxeUphc1ctVXpjWUR6MXhZd3BjZEQ0VXJfZV9Ld1pQUlpfU1pVWGM3TzlEWWc3azlYZ1hBLTBLcUJtRUFGUm1vbEZ6OG5lMTNYNWFaVmZPekhqazJ5NHlSZmJlQ25sNzZGSWc?oc=5
 
-- Tech industry is buzzing after a Claude agent hacked into a gym - TechCrunch
-  Summary: TechCrunch Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list The Register Tenacious AI agents expose dark side of machine autonomy Axios
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5
+- In-region inference, open models, and new European infrastructure for sovereign AI. - mistral.ai
+  Summary: mistral.ai
+  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5
 
-- Google Search Console Generative AI Performance Report Available For All - Search Engine Roundtable
-  Summary: Search Engine Roundtable
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxObXd2VFpFNzNwTl9pYm1aWmNCdW53bGVZN2tuUnVXejZFeThFOEJkcFE1aENMb2FfQjBYcW5YdWtHb1BzR1VSa3otYkx4aUstMHdBaW9sUnBkeW9nUGlyaExfZnd1cjNEdG9pZ1ZvbEFtS1k4QkItZTJVdVlaTm53TzhR?oc=5
+- 70% of Brazilians Expect to Shop With AI Agents by 2028 - PYMNTS.com
+  Summary: PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVFIWkJaN2NpeW5HVlNPMlFWTmtCQUtJTXQzY3o3NkFmMVRpSjZBZDI5dl9QN094VHZvd0stMzBWekFJd1ZjcXNiOFF0VWpkVkp4RVk1Q0IzMkFSTFBmcEhrNFN2bUY4eFFxYURkb0J2M1pBOU9SNDkwUEpZckpmNFAtYngxVi1Id2pUN29EQVVicHpsNXI2MFZabTkweGlwMjR3WGtmajB2eUFD?oc=5
 
 
 Markets
-- Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation - Yahoo Finance
+- Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day - Yahoo Finance UK
+  Summary: Yahoo Finance UK
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQYUsxd0I1ckY2YVpaV3UwVXpGb3NNbDZFUUp1RDlWYVlJTHUwVGxsUWo5YmJCQUN2Y2x3MjB1VG5FUjAxdzYzai10LWZIb016U3FzSjhhWmE3bkNianM1dFhCRUw1NC0zQzVrSXlhRHI1SXRrQ1dFNmQ4Zy1xZlBoNzE3Y3FfVV9UMmN2SC04VXl0VXJHZHpueDJQY2dUcjMwbmJIcC0xZGM0MmlhVE5vMWhxak1NRy1SNmV2MmUySzU0OHA4?oc=5
+
+- Stock market today: Dow and S&P 500 futures muted ahead of CPI data, Nasdaq rises - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0p6bmp0dkFSREZzNXpRZC1aZTBzSHlZcDlSMVdNRGh1NWNJbHhsQXc2OG9PcEozRzZqXzgyOU5QMV9vRm1hYXMycXZ6UDRuQmhNRENOVHg2M2I5dDJXNUM1akRGMWN1TUh0eUNUelZIalB5MVhCNXhHc21UZkxwdC1lSzV0RWpUaEVwNU9odkx0XzlLVUVzajQ5VlA3VzBpWkYtaVNPeTA1Xzg3RUtzNHZMd3ZnbncxVHk5X0RUM3dPdGRIMWF2R1hjU3ZBS0pnMFF5Z28zOGthamEtSTU4b3NpUGFITTVpbnlCYg?oc=5
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdvN0h0Nzd4NDdvWmZUVE1mVFloNkUtQ3BXWno1TzJmanYtREZ5cGhLSTJ2T2xHVjQ4VG1sb0VZS2gyZkdEZW45WlZGb1RHWUZ0N2NCeS1Ka0g2MDFuSlVBREJWY1lSWWJaR2J0U3Zva3lld1ktd1NjVjZiZjl4MFZ1M0Zqd25fZEFUMElPSU1iaVkyQ19fdnJlcW5aSk9nOVRfNEp5VjVaOGxDel81aUFfNWdxMmtsRG9hbDBR?oc=5
 
-- Stocks pull back as worries over oil prices and interest rates give investors pause - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi4gJBVV95cUxQQkdpTEJibWFQV2lzbDB4NTNzSDdvbGRuVk5nRU1ibnA1VVk5alI4S2w4TVVad1BKc1FibVpvUzl5dkN5bGk0WTNsbm1RejVOWElCRW4yZ1lJNVN1SmFmaEJNT2V4YW9kdkhmZGV5cTE2dXpiSjJ5X01rVFRKQUd6SXd1djRkNDYyRzB5M0xIcERHOWphSWNVSU4xbE5PTndVaVd1V0hUekZmU3pwY2lOcnNYRS1wWEx3RWZkYTRtMG5kOFFKU0RZNmRaWV9TX0RsMVlsN0w3RjZIZ1BDc1hQYVg5UGtjcXlnSmtfX3cySmJqTzZIU005UWF3MGEtT084RFB5RkRsVlFFRnRFdWVtRHQ2U0xxNU9tMGZ5bEtaWjROeUNyRUxicmdwQjgtWGxYOC15Q2tUa19iV1cyQ1B2WkxsOGFyOC1VSkREN1FrWE5UN0FJZEt3WDVDeEpUdVh6QUE?oc=5
-
-- Intel upsizes stock offering to $20 bln, shares down in premarket - Investing.com
-  Summary: Investing.com
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOa01YdWVFbFZyTkN1X0QzcnBjanpzWGlCYVpscU9ESW90S3dCSVh5QVpyeE0xUUwwcHE0SXhqcXh3MTByMEZqY2J2MWdwbDBfTk5oSVhEbnYzUWpQUGNuTk9OTWJ6MzZ5c1JhLXZkVF9SaG5XMDlJRU1PSWdqblRxY21PTXhPZGl1cXpJTUUwYzUzY1IwckpfYUQtRQ?oc=5
+- Stock Markets Face a Lose-Lose on Inflation From an Unlikely Threat and 5 Other Things to Know Today - Barron's
+  Summary: Barron's
+  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1ZZV1I4VjVka1J0Slg5ellUcm5hQlFscEFDOEFxbU0yLW83RVNVNG9rMzBIWWllZEd4dGVXQUpwc2pPOUhaNEpCRUg2NzhhWU9fRjk4T3JWSTdSS1RfTE5lc3R5dGV3YWVxd1k0SDZXRUlBUDdtQlRrRnhUcGZSWkF3dG55Tll1eW0yakRR?oc=5
 
 
 Travel / Boop Relevance
-- Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs - EU-Startups
-  Summary: EU-Startups
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNaV9QU1QtallEcnI5SXBNSTFzWFhpaGRhZ0xYMXlhOU9DRDVEaVMtUzhnb0ZSZzdBOTRyR3RSclpFSllTZXcwX2hJZWtpNldYbi14dkdZdDBMdWJNOTJ5Qk5XUXJXTHZyV0NuMjdfc2hXQjJlVkhMRUEtNk5zc3BwVFVTeUgzQ2t6VF84SHEwMTh4Zjl3MzJaaTVfdVNJMDZSNXA1MU9xYTFCTlNHZVBKd1F0dFBIdw?oc=5
+- Fliggy unveils its next-generation agentic AI travel assistant - Breaking Travel News
+  Summary: Breaking Travel News
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0d0NG5EcUFXREoyWDZMLXJIU0hvS0xTVWZOR1lHelZaMzJLclZNQ29OOVhrMkZWaXh2Nk9STGRwendSQUluVXlkZlVzRTRuRHRzUUplbEF2YjF3QzZablY1b1VIcFcyX1Y2YXREb3VmaFFGZW5Oc0RRNjlKdXZmNjh1ZDI5c29PNGhDV0N1STB2NGY1cUJHOTByVjc2MC1INjZ5ekMzWWJEMXYzUi1YWQ?oc=5
 
-- As WTM Comes to Riyadh for the First Time, almatar Puts Saudi-Built Travel Tech on the Global Stage - EIN News
-  Summary: EIN News
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXNoT0tSMGFKcXhkVlViMWQ4Z2J0UTBwLXZSTl9TbnhlN1hYZlFZakktOXpNN3BESVZVejU1N1laaVA3bUZrTVJwbl9VVTd2bGloWUtkOWwxRE43OEZBTlA2YnhrdjdVUTRIMS1KNUhQU2NuSUYwUjh3ZjBJNjVZUzlsdnZreGhnbGY2dHlySkotQUNHT09Yck9kUVhoSUc0T0ZNMHNhdVlTbWFJckUtUjQwVDNTS2YtVFVaUmdHVWFPYkZKbnpfWFgyZGlGQmdDOWVWazlpbGg?oc=5
+- The digital traveler: Booking hotels, activities, and car rentals in one plan - TyN Magazine
+  Summary: TyN Magazine
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOVklDSU5XaTAtUVAtb1VBS0hSeWU2NFNQSWVHZDBMQVZ2Y2RwUTVaMFkxNkNzRjN1ZGxzXzJQS0FNVmRKcnNDZHQ4S1lnR1QtTkJIQmYxeFBqV0h4NU9hdlVZV3Y5VnZuMFZMcHVudmhKYTQwR2RJeFhZTFBJZDgtSkd5N1htTlpyaEs5NWdXLW5kWVpQbURlblJjclJaMXU2?oc=5
 
 - New Travelport Survey Finds U.S. Consumers Want Greater Clarity and Confidence When Booking Travel - Hospitality Net
   Summary: Hospitality Net
