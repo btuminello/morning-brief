@@ -1,82 +1,81 @@
-Morning Brief — August 15, 2026
+Morning Brief — August 16, 2026
 
 Seattle Sports Today
-- Houston Astros vs Seattle Mariners — 8/15 - 7:10 PM EDT
-- Seattle Seahawks vs Dallas Cowboys — 8/15 - 8:00 PM EDT
+- Houston Astros vs Seattle Mariners — 8/16 - 7:20 PM EDT
 
 Chestnut Hill Weather
-- 59° to 80° today. Right now it's 60° and feels like 59°.
-- Around 8 AM: 63° | 2 PM: 79° | 8 PM: 72°.
+- 55° to 80° today. Right now it's 56° and feels like 55°.
+- Around 8 AM: 60° | 2 PM: 77° | 8 PM: 71°.
 - Wear: light layer, layers.
 
 Breaking News
-- [Markets] S&P 500 closes at a new record, buoyed by cooler-than-expected inflation data and falling oil prices - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFB2T1BEeXVKNFJWUVhMSHpRTWdPV3BaaUJfMDZsX2QwMHRoQUZuZlpSY0FTSmhNLWRoemJFeWtmendXVGRMYy1tUmFWVU90YjBOVGpwVEpDRVRncUdZRlZLVUJyX19nblVVYVUwRHRMX3Rlc2ZsNDU40gF8QVVfeXFMTzFHZ1NJdVJ0NzRTTnBBNFJyUDVjSkNXUy1XMDRLWjlSdndzbzlPV0dndHBmSWFDX09RYmhSdU9PWFpMV0tET3BBODk5ZVJKVEJLX1FJRVZGYlFodXMzSDVkc25PbGQ2cEdoV1U5dEZtM1BCc1R0SXFKTUtCeA?oc=5
+- [Markets] Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWhucWJaNmRxZVJ6RnVoSUxwUTBuTU5keUFsTnNkeGZ1UzZGQ1J5MUJlRDhYYldtb3VWSElQeGhRNjZ5aFhCbmM0VkpBUFIxR1lyZU9xRDdJeTA0d0t5R0VmZFhGUzRXWVJRdkROelpZd0c2cDZTSXktZnJ4d1F4SkNBTG9TT3hnWUt5NVBxZEU2WmZJY1VOdGVuLU1IU2xjS0F5c1NpTEhCWVdQNjRpbVVWdUQzanpVNlAxQ0NxSXF6SENXenc?oc=5
 
-- [Markets] Stock Market Today: S&P 500, Nasdaq rise as tech stocks rally, while Dow dips; Treasury yields erase declines after inflation data; oil slips - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW1jSXNES0p2V0I4TGxhVTQ3ZWFJM29maTBQejFSTU9sT0xKQ2syaklWd2g1Rmxmb3hqcWotOUs1dmZ1b3kzLV9hN2ZJRmVyU1BaQ0RUM1lud1ctVFBlZWgzRGVXU1B0MGFVZEJsRTQ0ZVpNVTB6Sk1nZUVRZV95RTBOVWJEYy01UnZjV0YtbEVoS3FGSndVTl92NEZrZ3RqR0tNc294WmtPUEJPWEZzYTd4UUJFejVnNExpLVZmNHhfY2s5eTJHeVRDd3VGZw?oc=5
+- [Markets] Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market - CNBC
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXozT0VsTTdYQzZiRVo0YnBqMXhqTjdOd1h4VkNBVXBBLV94dmdRLUFrQUZHYWJWWFhmU3hidWZrRDFhMV9rR0xkMHVvZ0MtVzFrLXBaMTMxOVFKUU1zTF9OQThHYWxqQkprRjBBR0FTSU1tOENFa2RyUGJLeXZWV3hRVmtyUW1PUTJKcmtsYjNTV1lNdDZ6S3ZObldnRldQeS03SFFvLWU3dXZGS2lHV1dQcnNuYVk?oc=5
 
-- [AI] Intel agencies take deliberate approach to agentic AI adoption - Federal News Network
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGFqejNNaERVdkYwZW1ZVmxNaS1qV1BwQnlPX1dZMl9rM0RObVpIUDVoTjF5amV3WERaSVdnR0pHTHJjaHdIUEdNN1ZueVVQb2twMXhqaG1XWUptMGVuZnJsOFVHVW5hZUc3SzB5WGRjWGNVOTFVc3dNZUlUSFFfV3FMSEdabHNCUVk3Vk9SRDJuVmFnd2VNMU5FdHVyZDZ6RW1Rd295dHJIWjBFb2dRU216aC1LOGhSX2dYZUlfZGpuXzJD?oc=5
+- [Markets] Smart Investor: Undervalued Stocks that Crushed Earnings, Slumping Pre-IPO Funds, and a Top Growth Stock Manager’s Picks - Morningstar
+  Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd0o5WjZLY2hVRGdHOFJ4dW5ubWhmaVF2am1Na05GX05tTVVaNlhfX1dvMjdqS3Z2MDlWUXdUSmJlOHNMMEprWDlBZWx4YXpIa0VYYUNqNUQydTdhZFNUVkZrTTMzTUo3UXVxdTZfaWh1c0RSUmV4U1ZLZFlrTlJ2WnE1MXBHeXNjVHg2U3p1UkdPZEJ5b2VUVWxlcm01STdLbGpXUmlrVEJUSHJHYlFVWjA3cWRrR1RvLWVoUzRhMGFGTTBpcFlpLU5saGlUWDVYWmpkZWpDWlpFb3ZHQ3hv?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] GeomeeGo Is Building the Next Layer of Travel Booking and It Starts with Accountability, Not a Bigger AI Model - Issuewire
-  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVTB2U05kN0Fwb2NOekV1ZGhzcEhSTXdxQ1ZjRmFUc2huWFNBQVlSVVRGQmtjcXFkMGNFRklja2NFWVJEWXJCWWZ1MW01OE9RdnM1Y0hEcHRNZFZmMmFVY01SUUpBNXRLSktCWVc3VjVuWVE5ZWxfeTlHZGZRaTNsejRIcjRHTXRDMWkxOF9sdkZpbDhYWFFHVWFNbVVyZ0RWSEJGM2RzOWd3UkM5SmRCZUVqUDFnS3p3eEF1X2tUYmpSb3pzenJLOVNqTXcxb1d6V0pNbGNyTC1KOWlxdGZOSzFfUlBUMUU?oc=5
+- [AI] North Dakota AI and Data Center Committee asked to work toward child AI use regulations - InForum
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY25ndjY5NzNpcFhvVEtYWWZPdmM3YTV1TVJvOXB0WFZiRm5tS2J5RmJvTmZ3OVN5c1Y0RXQwcEluY2d5aGJwZ2dydER5aC1yNEVoWGRDUUNDX211NENRWEZ3dDE0UFlJOExYYjA3Q0c0UTdzYVlJRWpXS2lQdExBZHZVUlBnQmszTnQxUklwRXE1Y3htR240TVVOQWdfTE1fVlpzTHJqWnFpdXhVZmRRaVNQaTV3eWQwcnpWalBGeGVOZ3dsZ0lYNg?oc=5
+
+- [AI] Why Modern Agent Orchestrators Fail at Cost Control - HackerNoon
+  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWDViaUg2a1ZJUlNOOC1hRWc4VUdYUG5PWEJWZ3Fvam5zOHR4dVhVS2pHWmQ4Rl96anNveEVhWFJ2YUMwOVBwOG00RGExbThoZHFQaUp0WGdJOG9rcjQtZi1FeGtjOHdCZjkwTW1oMDBUcXRuS2JnUmFoMklweGM?oc=5
+
+- [Markets] NXP Semiconductors Sees Demand Rebound as Auto, AI and Data Center Growth Accelerate - MarketBeat
+  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSld2M2tXVEJRU0RGVHlnX0dnQlJRQ0FZaUVGSENrN21zRWRPRWx3MW5rbmRjLWxZX0hkOGtPek9ZWHUyeW1YczM5aUd5al9qQm83SThEQUhGaU5QcTJaN0xoMkRYN3lKaFBWTHd0eFZUNEZfN2IxYmhrclI5M2NqTUdmU1QzTFF6MGZmOE5ESVNTNkV5MDZGN09ZOV9zUmJ1TFJvSUhqV0FQZ0tTRWkyanl6YzZHMUFQYUVrTnRwTW5MekxQNlE3TVR6SnljQ0l4NWo0?oc=5
 
 - [Travel / Boop Relevance] Here’s What Happens When AI Starts Making Decisions and Bookings for Hotel and Travel Guests - Hospitality Net
   Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWk5S3B6TGJzX2FBUmhIb2J4cUJMeFRXTXFqQktnR0FEcUVpdk5aSlN1Y2s3YmQxYmgwaWh5RmxiZC1xdjd5UFhnX1J5X3hSQ2lqUnJsRnU3SWdnazdrelpWOXNVenh2d2JxMUE0Qmk5NUdwZlVvd2RWX2ExcGhyMS1yZmg4VFZBWGpMd0ZBUUpXX3N2UGt0MEloRl83d1FCUGZjcmVYaG1CcVotd2VBWHUzT1NWbmxJMnhJZjRod0xQSGxjaWJ5SGxGTVNJM2tnS3ZNWg?oc=5
 
-- [Markets] Demand for Chips Shows No Signs of Slowing. Is Taiwan Semiconductor Too Expensive Now? - finance.yahoo.com
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQbC1hb05tbkVidVRTNVRkSmxaZGNiVG1WYjRaVjRadzZOakF2SUdCdWJDazg4YnRfVGp0TzVqbDZPbjdlWjI4XzdaemszclgtVXBKNnFPZ0tweVhtOGU5aFV2VWRGek5TREtUWW1jZFR1Z1d3NDY1NUJYX3dYaTl5UEhUblhwWGZXUXBBR1FiRXJFaEJfY2x3?oc=5
-
-- [Markets] Demand for Chips Shows No Signs of Slowing. Is Taiwan Semiconductor Too Expensive Now? - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNM25HNHh0TmxmN3VhRm5ZV2tpWk9LcGZ2OElUOThOUWx1ZjZZd0hIazNvd0ZkajFiZUlMYkxld1U0UGhKMEo3dW9SRGplNXM4NFVaVFRPcTBtY3ZFTVNQbnNZRTRTZ3U1TUdIdHJWVGdzdFhTNkZJWENuNGtQTXFDQ3lxaFNrLXBDWGRJWF9lTGdCQ1h6eXhScQ?oc=5
-
-- [Markets] Morgan Stanley's top US economist reveals the 2 risks that could challenge the Fed on inflation - Business Insider
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPRENjWURJT0d6UkhBT1VNaHRUb2FacHJFSjhRUVp5VXUxVnM2cldTUWZ2LWtYbFdzbWstY19zMmM1SEg4ZGJRcE9HWmtMdG9IU1Y0Vjg3akxscXh0cnZTLXEwUl9JejlhLUhtTDJFd1lXSlMzWmg0RDNkWHpXdzJ6RFRlczdzeVpONTgzM2V3VEpkRE1LRkktOUFRTkNaVWFTbFRaanFMUVNmdEs0amZpLTRzbFhyQQ?oc=5
+- [Markets] Inflation cools, soothing investor fears. What about consumers? - Detroit Free Press
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXFGMGFpSmZGQ25SUmdvTkN4M0M5bDNJdGRyLTQtRGNFYUk0cklCbVpob2pXek84QVNiMFQ2NUxmY29Scm1RbjRjV0hnTi1hZVhmRFRkVEY5RmJEd2ZNalNubVg4bHRrVDB1TEtQYlVBVy0xd1dWUXBjQmJHNDR0SzVVNnpoX1pmRDN6X0gyYndnNXlKQVhxTlM2WEVHQjdRMU1lVHlTMzAxWFM3enVYcmpZTGRLRVMydU9RRWhfOGZXZ0Z3X3c?oc=5
 
 
 AI
-- 3 AI Infrastructure Stocks Powering the Data Center Boom in August - 24/7 Wall St.
-  Summary: 24/7 Wall St.
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHNqNG10MkdSSDN4TExIWEpWclhIdV9EZ1I1NlB0ck5mQ3JwOHNXYWg0cUdMVG5XWDdTdWR2aEd0VUJTLUZMaXVNZE5MSGpRcUVSVVYtaWNDRVk0R1kyb3NxRU5YcFR5WVZkUEwxOGM0bTlISmxXeGU5RXJ5blpIeHBhY2hoUG40Vk9vOURCUjQ5U3FsQml6aGpkVU96Y2hyd0hUdXhmMXpKR09QZXF3?oc=5
+- Intel agencies take deliberate approach to agentic AI adoption - Federal News Network
+  Summary: Federal News Network
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGFqejNNaERVdkYwZW1ZVmxNaS1qV1BwQnlPX1dZMl9rM0RObVpIUDVoTjF5amV3WERaSVdnR0pHTHJjaHdIUEdNN1ZueVVQb2twMXhqaG1XWUptMGVuZnJsOFVHVW5hZUc3SzB5WGRjWGNVOTFVc3dNZUlUSFFfV3FMSEdabHNCUVk3Vk9SRDJuVmFnd2VNMU5FdHVyZDZ6RW1Rd295dHJIWjBFb2dRU216aC1LOGhSX2dYZUlfZGpuXzJD?oc=5
 
-- Nebraska receives federal funding to use AI in the foster care system - nebraskapublicmedia.org
-  Summary: nebraskapublicmedia.org
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcllfbk4wWlp6cnlCTFpfaWdFYXFUblVxSXlIQ1RkZDVBVEx3enJHWnhlZHNBai1EalRha3Z1cUc0YUhPdVFkWWp0MFZsZWU5bmtTN1hMbGRxNTBRczZjNm9TQ0lGSXdhMS1DMHZtR0xFOW1DMnp4VG1kb0VtV0c5MXJtRUhlQ1BNdWhQT2JGcnRCLXNxUFRyMmowa1dvcUlwQ1hFamllbl9xNXZxTXZTZmZIZmdJWkkwNU0xSkQzUGo4dw?oc=5
+- AI ‘Chipflation’ Washes Ashore in the UK Economy - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNbVpIQ3BISXd0cXNHSy1Sd2RNd2l0RzFRNU4yQXZsbnFnNlNQSE85c0xYbTdsTzJLQm5yQXhjd201bnBrWWNwY2sxSl9TZXpmeV8xNGRqLVpiQU11VUJaejZ5YjFJcGZCX1RUYWNubzhxLVhzb3BsNnNVd1lEYzhjVzVBdFExRmxBZXloTk13UDJQSjhvb01SYlJaWGlwZw?oc=5
 
-- Consumers warm up to agentic AI purchases - Retail Dive
-  Summary: Retail Dive
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPYjhUR09rRlA0ZG53MlJ4SzRzb2ZxTXhScDJDSnRic3pMVDlCNG5IdVBMdHpTXzFZdW5GZmFmR3U0bi1ENkt2NGRlaVZCZUZLU2JFX0h1elYwVUFTbnVDOEFBX25CU3A5QndSYVFKOUhZT080bFY0dlA5X2NBdjFWbktRX1JhYm5XQmIyMw?oc=5
+- Anthropic says its AI agents are killing rivals and hiding their tracks - businessinsider.com
+  Summary: businessinsider.com
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVwQ3JiUlNPS3Q4QUJjTXA0WWo4OGVfTm1qOVdPbGFIUnFueExrTldXdzZsTjJFVTdXTWsyanJGWjUxQ29IeFJqVWVHNUJtdW9oTFRzSmNtbm05S1VlWVlkZ1lDVnNWOXFPbTVCT2JIZU5aR3M4WHktMmhjNjVrNjZUNERyU2ZnV2pJTWVPTnc3SWs?oc=5
 
 
 Markets
-- SMIC Raises Chip Prices as AI Demand Drives US$3 Billion Revenue - Mexico Business News
-  Summary: Mexico Business News
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVlDckQyZ01HSkY4cC1TcHN2NWFMWnJVYUJ1c0Y3VV84THF0OWlST0MyN0FBRlBrM1dSUjBvZjZMdk02WG5wd3l1eUxQTURtcnJ4QzN2Z1JPa2c3Y0t5bHlCUTF2LUUwQkhENlVMNi1GTWd5NWVMcXNvMzZ0UFpZeGR1UkVQZ19hZHBuRHhIWTZCRkh6Wm9YbWh3dVExdi10aF9XVlRTbFh0UQ?oc=5
+- Here's How Much Money You'd Have Today If You Invested $1,000 in the S&P 500 During Every Stock Market Crash Since 1950 (Spoiler Alert: Wow!) - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOVktaWW5SeVdFR3ZPRzByYzNPRU1GQjdSeFhfSDZ3Q3RXY2FMWkVjb3ZYd1Y4Yi1XY2lfSzF3Y3Y0VS1pWEwtdDBCZ183VWlLWmx1MDdtSU9HbFFHUVlQak5EYzU5aXBBclFJVEloZk1ZWlpoeUtwTFJZb3NvcVN3OGZFWUtHdWU0dlliaUxudzk4aXVQSlJN?oc=5
 
-- AMAT Q2 Deep Dive: AI Demand and Advanced Packaging Drive Guidance Upside, Market Reacts Cautiously - StockStory
-  Summary: StockStory
-  Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxON1ZhMndxYzNRZ0V6eGNGWkEtQVFqNmNxRTl6M3RFdkhjdUlfREU1bkE3U21PODd3UW9vT1FncndRcFc1UjVwYW8yOHRnb2tQT1ZUeWVzNXBFU25GOWlkMTV4MFFoLWVibzY0VTV4ZHI1RFlyX09teUF1T3BVeG9VTDVIdklMaXR1ZDBwSU1UcHJFa1FpRUpla2Z6XzFTZ081YjdKWEpyVlVNaDBlcnBjUkhQM0NacHhqT01tbmY1ckRWVlh0TGg2UHRIejdORGF5cVFhV1luLUJzeFJJaTlZWmFxSERWbzVzdnNCWkNNdEVSaWM?oc=5
+- Markets just flipped the script on Kevin Warsh’s Fed: Chart of the Day - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2RaUmYwSTYyOG1wb3hyLXdpcllmOVBpYjl1VXp0YTVRMy1aUnB1ZkxoQ1Q2YmpvNG5rZ1dTZkM1bFRZS2J4YXJsOHZBQWhjaGsyUW5CQTJzV0RtTVd5QkJYeTloaDl5Uk1Jc3plSnQzVlNpNjZ6eXVZTWNUMTZzWllVUGRqWDdJbmRhY2hNUl9TUXZOYnF6aVFFRUZtMWYtakV1T3JyN0Z6WE5KeWpCZjlvNFJwV2JyY3RZNEFHTGNNRkE?oc=5
 
-- Stock Market Today: S&P 500, Nasdaq eke out weekly gains, but Dow falls; oil prices and Treasury yields rise - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG9ZZUpjbWhLV0NaMnJxeTFEVWZjczAxTml4dkVtLWRrU2ZaU254cEp5SFJuVi15enlEbjNfdzBoQlYtaUhHMFJ5aVdydExtLWJURnpmVkdPZVV1NkZTLU9BLTBNajlKY1dhWjgzYWNXb2ZaNXFyRjlYTDJxX0lLb0RoQ3VaNGczbVl2YUxDWF82VTJHOGxXQnktMi1BdFJkcklqYm1jVjF5ajJ4SktQVGNzS1Y1VnhSMmp2SlBYQTl0R0lRcFlPQU9QeDdCUQ?oc=5
+- How Inflation and Fiscal Policy Are Driving US Treasury Markets - Goldman Sachs
+  Summary: Goldman Sachs
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHl1Z0xlWWo0QlYyRENFVkVYRmh3MEVyWUJzRzg2TmRpVGlCbGM4R1ExelFHLUd0cnJfLTVNdGZYSGl1SzlTVmRJcWhTUVFBa1pkcnJoWTJhY19sV05kTVJXWS01bVhYY2U4dkZSOGlBN2E5d2hNc1I4eXF0NVNkcUtpazVwbFZQQy1CQUt4TG15Umw3N29JRTR5c0ZqbXc1ems2Rkg2OXdZamIxVmw4cHdsYw?oc=5
 
 
 Travel / Boop Relevance
-- RedBus’ Insight into Digital Bus Booking Adoption - MarkHub24
-  Summary: MarkHub24
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnh5TlZLNjdjNUdJbzhPUWpveHB5RzNxSnlMSXAzWUMzY05DclNGel9vQldNQmpZS1NOR0FjbzhubVNSSlJpNlJ6X0JQV3UzOUt6Q0R4NXlCSVFIS3dRcW40OFJ5OWg2Tl95ZUhzMDR3N1Z4R2wyMFp1WTBnalY1VlhrRThpdw?oc=5
+- GeomeeGo Is Building the Next Layer of Travel Booking and It Starts with Accountability, Not a Bigger AI Model - Issuewire
+  Summary: Issuewire
+  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVTB2U05kN0Fwb2NOekV1ZGhzcEhSTXdxQ1ZjRmFUc2huWFNBQVlSVVRGQmtjcXFkMGNFRklja2NFWVJEWXJCWWZ1MW01OE9RdnM1Y0hEcHRNZFZmMmFVY01SUUpBNXRLSktCWVc3VjVuWVE5ZWxfeTlHZGZRaTNsejRIcjRHTXRDMWkxOF9sdkZpbDhYWFFHVWFNbVVyZ0RWSEJGM2RzOWd3UkM5SmRCZUVqUDFnS3p3eEF1X2tUYmpSb3pzenJLOVNqTXcxb1d6V0pNbGNyTC1KOWlxdGZOSzFfUlBUMUU?oc=5
 
 - New Travelport Survey Finds U.S. Consumers Want Greater Clarity and Confidence When Booking Travel - Hospitality Net
   Summary: Hospitality Net
   Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnBsb2I4bnBlRXo4bXhETm9fRVFOcU93aVlvWHVFRzlmZGY1NjcwbXBvNE1KRDZxYmE0WTVVejB6STJJbmM1LU1NaHByWkxQNm1JNFpkWmczakVobi1zWDBDWXViMl9fbHhodnlpMDdGeTBxNkhhR1gxOWo3c1Z0VVJneFNqNW42cmNjWlpRaS1fazlMb2pqRjNqazZYeHIyaG1SLXRKTENNN2FtTS1kTjhnS3oyRG16cmZuSmFDRVJqMFhxeS1EYktGLXVuUU9udk1iTzlNdw?oc=5
 
-- AI Travel Booking Assistants - Trend Hunter
-  Summary: Trend Hunter
-  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBacUFLUDVvMGw3S0NEVzBRRkU5Y3hTQm53bm03Q3NwVXpyenB5U1JFOE5Sd3NLMXEtakF2emFLMldPX1dXVU5vTlZ4UllBN1pWNjZhTlFuWEhzeUlIdmctamRR0gFiQVVfeXFMUFpxQUtQNW8wbDdLQ0RXMFFGRTljeFNCbndubTdDc3BVenJ6cHlTUkU4TlJ3c0sxcS1qQXZ6YUsyV09fV1dVTm9OVnhSWUE3WlY2NmFOUW5YSHN5SUh2Zy1qZFE?oc=5
+- Report: More U.S. Travelers Use AI for Travel Planning, But for Bookings, Trust Must Grow - Travel Agent Central
+  Summary: Travel Agent Central
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVlCM1V0b2xXQjAtTXJoRXZvOUhlRnhQXzRfWlA3M19LckZYMUhzZW9DanFzUlNZZEJpUTl6UjVUdVZRMDA5WTJqbkhqTHQ3X2lXTFBKVXAyUnM2ZzlvV1QxTnJkNHhGMTV0QTFWazNNLXQ0S3lNQTIySzg1TGJUUGxHc0pRMExKa3FQaXRCZHVCczJUMGlGWG5tYm4wN3gzbm1XWFFBN1M4YmEtOEZxeDRxMUlwLTBRYTBGeHp2NjNlSmwxdlFuNnlySFE?oc=5
 
 
 Bottom Line
