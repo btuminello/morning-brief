@@ -1,81 +1,78 @@
-Morning Brief — August 26, 2026
-
-Seattle Sports Today
-- Seattle Mariners vs Philadelphia Phillies — 8/26 - 4:10 PM EDT
+Morning Brief — August 27, 2026
 
 Chestnut Hill Weather
-- 61° to 83° today. Right now it's 62° and feels like 62°.
-- Around 8 AM: 65° | 2 PM: 83° | 8 PM: 76°.
-- Wear: light layer, layers.
+- 65° to 85° today. Right now it's 83° and feels like 79°.
+- Around 8 AM: 69° | 2 PM: 81° | 8 PM: 74°.
+- Wear: light layer.
 
 Breaking News
-- [Markets] Stock futures mixed as traders await key inflation report, Nvidia earnings: Live updates - CNBC
+- [Markets] Stock Market Today: S&P 500 and Nasdaq are up in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdERDOUhSYWhxSU5maUkwVmkzN2JDbW5oN2w3UndGdUJtbGFTQ2k1MmF6NG1jZUNsZ0hTWm1DcUNJbnE0aWhmRVJtamNqZGkzaFVQODlleko0NkpYb01vSjJ6b21pR3ZFYlJnOHdadjF0ZnRGVDN4aGxGYjV2WU11bEc5UnZHSDh3bFo0RnhRcFF4WTdCeGVpdmRmRFViSU5VYXh0OUp2VDd4dE9nbHZTaWFobzVqT3d2YTA2czEzWkI4Wk5uMGtCbjlRUGswZ01vWlBNcjd6Y1Q?oc=5
+
+- [Markets] S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings - CNBC
   Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5
 
-- [Markets] Morning Call Sheet: Nvidia, inflation and Fed policy put markets on edge - CNBC
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWNKQnJvT2lFbzVOTlVJVlp2ckVxRzlYYmM1bktsQUdGM2NzOE9CenhuX3BITGx6TUVUY1hzMlFvcEY0NzBXSGR2YUNfRF9YQXdENkFWd0Z4ZF9BUl9PcHJNbzRaUnRONEJRb0VEbDM2aVpwRHVTbXFsd1d1aHl3Yl9lZE51THFXbWxGT3haZ0xnUUlOQm9SMk0zQmJGSGVTbFRMRGVUMERreDd1elpxbHRqdw?oc=5
-
-- [Markets] Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5
+- [Markets] Tech stocks bolster Wall Street as Nvidia quells AI growth concerns - Reuters
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjFsZE5oMDdHNmpjOTd5V0dmUHItLXFIbzQyblhZQ3Bfa0tGcmFDM3ZHS2ZJRlJEZzhDMXk2b2syeVRZNndVNzZvSnNVSnRFalZXUXJhUm5aZGVUVHVSZVQ0VzllN09IcWtOZENfRmV5eW9fOGU3Mi1JN1VNWGJ4RE1aY0gycWJfRjRrLXpzTmdoSXlSMW9vVHVtdTNJVmdhS0tXT2FwS2dGbGM2?oc=5
 
 
 Must Read Today
-- [AI] Meta Reportedly Prepares Hatch Consumer AI Agent and October AI Model Launch - citybiz
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2s4QWE3T1pjUDJ4ZlNycGZEMHFsVEt0QS1CX2pOanlnaUFBaVA4X3VwZHhJc0w2WlFvQUtwQkwxNFJrM2k0WHNOQm54NWhwUDJaUXNBRnB5SnoxRlNZUGh3eWdNY0dMUXFraGJiTkM2b2hHWmZwd3lkUFZ2ZjdrbVRTQkZXSkNqaFJwSldVeWo5Ni04aXlMNUVSTFdYYXExSDR6d091RTMyZ3lqR1F1dHN3ejhnQQ?oc=5
+- [Markets] Dow, S&P 500 and Nasdaq rise midday as tech stocks jump - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUFhCdDVJcVc0Mm1jRFlVYm5pQ01LVFZ3VTRkRW1aQllMMGpxRWdXbTl0NzVSUllsbk5wUWxVdVYtYlhRcVFjY1RNQ0E4bl8xVG51SU5aXy1qQlVPQjVyeXVlNjRqeldWZXJKNWYzZDFMV1pyZEY3YTRzdEtHNFJUOFNjUDJ0ZWNFR0Y1VjRwVWZJcTNMXzNWbDhhY2J6VVplM2dvMEpIQXh6WUtXVUJieGJJWUZSX1VCVGxJMHV3OTdPN1lWMmRJb1M1c0hDTGRpanRFeExqak5xQU1ndlZyU3hsRE1IcUU3cTY4enVHRUlNNW4zUGNzejlySWd2bGJJYVpiTTg3dTRLajQwdXFLZ1RGYUZjMkdqOXNWWnROMUVjdWJmQUxFZTJ6NVVwV292RmZmcWJRbFFKdTNzX3FHZWFYcURJN0ZBeFNPcGx2VzNyOFpIOVFCY3doS3I?oc=5
 
-- [Markets] US core PCE inflation is foreseen well above the Fed’s 2% target in July - FXStreet
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTN1c194eEN4OGdGTWl6R2NpNTZkWko1dHJIOGFIY3JzSGI4OTNUek1tT2RkWnJleGV5TlRmOXl2T1RpR3RKVi0yNl9jWmNBMTNfdnp4VHdjakFVLUF6WXRySEs2bHF6Vm5zMDRRbGNUenlxTXpfMGUxOFc3Tkx4RWVxanR5NlBkakFrRks4VXd1QjJjTFJ2aWNxQWJzTFNVRHNpV2J5UXRUUU5CMVl0VmJnNHBXcFg1VVRrRUh1NVdNemxVNDZySXotYw?oc=5
+- [AI] Meta memo reveals what its new AI 'Hatch' agent can do, from booking a restaurant to finding a dog sitter - Business Insider
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5
 
-- [AI] Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead. - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzFmV21tcTZZTW40c2p2MVgtNV9zeDRrOGZqMVg5Y1FjUVhZZzNzdzF2NHExMGFlZVhSME5UQjZEekZLNFk0djhWNDJFQ2RtS211MC13WkxDc20xQjV0NGVtbW1QWG40bGpzbXdiQ0N4Mlk5bWltOHhKLVlkbnBfb1VYeXMyeVp2Y2VwU21rQVhXSV9LbW8xaA?oc=5
+- [AI] Workday Reports Higher Profit, Revenue on AI Agent Adoption - WSJ
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUdCRFNhZ0RXLVBBMUM3MDdmNXBzcGpzZkt0aTc2ajU0dERnWjQ0bHY0aE0xdjE1aG5rLTItallReVBWc1hoRG5ITkhHeW1wQ0tfNHBOaTd3TVR1ZmkzTkxWOElyYlVRZWk0Vk44YXprYzlUelREVGRGWXExZUhyVmFvSVh3VmRJdDlJSlVrb0FpTmlRWkxqUnJNSVRETEU2bW1zOUF5Mk0?oc=5
 
-- [AI] Runable hits $21M to bet AI agents can go from building businesses to growing them - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkYxQ1JZM205V3phS2ZpQnUxNzFtamJfZU1maFNSYXlWQXlJelVxejFYbG5EWjdfUTg3cXExclJEaDR6NWxIU0p0aUpmY3RvT2VkNXdjeHNTMHBFWERzVkRUUmhGazBKdE1RRWNRTDBaWFNqMGxUMGJpTEU5SjJ1QXFoRHc0c29lWWc1aTNBNHBPclZSQm1KZUlpNTA0Zk1DanFvRFl5emZpdDFUeVpkdWM3WVFEN0k?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPV19GV21jUzBTUXUzS1l3ZW5obXFHNDU3emZTLXRyMzVaVl9aTVpXUHlaSmdXeHdNbXpDeEFObmVZblQ0UFNFQmNrcGV5Vk9NaTZJemNwTjNuMTV0S3lBVFdDY1NsejRjcjRSTDdCS1Vobzk3ZWJUTkhsejhPdFEwc1ZoWHhySDFKekVHblV0TEFOLTZSMkJYMkFVMlBtYzI1VFE3U2I0a0plcXJITFE?oc=5
 
-- [AI] Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch - PYMNTS.com
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE?oc=5
+- [Markets] Dan Ives Says the AI Trade Is Only in the "Third Inning." Should Investors Stay Long AI Stocks? - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2VjajdfNHJxQ2N4U3dVTlBfQks3X0JINHZweVRFV3VEekZ0cmNCSlp1UldaZlZ1dWd5VWxzOXJ3b2dHLVdWR2c0UzFQVVQtQ3NPYmp4WDdDeWs4dkZXTjcwUFF0TmhUREpDblFPaFVCOHk5SC1xU1FxODdoeXgzcDZMYlkxTXRyZkpNT2I0cw?oc=5
 
 
 AI
-- China's MiniMax sees revenue nearly quadruple in first half as AI demand surges - Reuters
+- OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News
+  Summary: NBC News OpenAI releases sweeping report on Hugging Face AI agent hack CNBC Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI /...
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5
+
+- Anthropic unveils new framework allowing AI agents to operate physical devices - Reuters
   Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2ZKSWhaaE9UOUJROWthQ2stakFYT0RNNkNmUzRWUDcwVktJdXVJMUtlZ0p6NEgzcWk1Uk4xU25TeS0wbFcwY2FQb1JaZXRJLTJDcXppVnBfekRhckpGYU5ZVUZub09TNE4zdE5iajEzWU11NjFER09aeU9DWE1EYklRRDFFQnFYZlhlaWpsWkpoWFo5YWFJa2x3RGktVDRDRWVHZXRoVFAzdDZGbS01ZUIwcFMtXzZtWS1rbw?oc=5
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5
 
-- Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat
-  Summary: VentureBeat
-  Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5
-
-- Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE
-  Summary: SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5
+- Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE9pN0ZXS1ItNVdDQmJZbGtPYzdQRUJtaEF5cU8yajZGRkFzUC11WXlqSDViZS1feTJ2a05iQTNveG1UeThiNVNKUFU0d21NMkFiWTVFQjdHbDBhVzlEbEp6d2FvQVVVR3VwWnJIUGV4U0p6VlR0U0dhYWhFSm1rMUZJbzhiT0V3TVlSeGFMZVhzSlVzSXVwYkpUVlNqZjhSX3JwZ2hLRmRrZVJldm5qcFh3b3dIVWtycWJXTXRQaG1IcFFs0gHKAUFVX3lxTFA4X09HaXl2TVgxZWVFWkxZZmU0UC1RUXB1cEkwZFRPNkIweVh5b2J2aHlhRFludUpfMU9SdHpqdkItVUV4OUdnaU54UkpiWnhXVVNXUEZpNl8wNkkwdUNGalRTSzFhdnE0WjN0dmotV25QQVRwcnhZVERwMkdNUDZ0X0NGZWdIYm9oc3B4YmRXd1puNXpwY2p1MFpKRU9FbnBPNzBhODNraS1EeFRRbzZCaWZTY2R3aVcteG1LY1VXcmtJSlE4dkZOOXc?oc=5
 
 
 Markets
-- 3 Indian Growth Stocks With Strong Earnings Forecasts And Healthy Balance Sheets - simplywall.st
-  Summary: simplywall.st
-  Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY2poVUhjRFFNTTNJcWFRS1VINWFsOTd1VThlSXVvV1dvOV9zMnNMOGdYX0tmY2xmWVpxVFo0dlJtM0RxSFR3QlhUS0wxa2sxNVdCUEYtSERlRFhLZVY4SDFuSjkyMDQ3OUlpT2ZvWGY0V2h0UGRYWnhzYXZKTkk4MElaUFdVUnAtbEJaVTdfVFNic0U3NVhNcTE0WF8tTktqdkFjNFFqaDZEV1ExN19xay12VGlxclE1N0xrLWdldzROeENIb2dEdVhpcWhGTHMtTWtoUm9FbVhOb3FuTno5X1h6V2ZScnNwVDVN0gHwAUFVX3lxTE1iMzhDRThBZ3NmdmdSN2poekt2TEU2Y05lRWlFeU1OTXRPUFZfYVlXbHNpTW4tQnZlZ1dZRWtCT0t1UmFjMS15aTZVYnI4YmhzdVNSSmU5ZUJzb2k3NjFlQ3lWbVE5Zzl4em16V0RfeFlCM05YV19OQU1zWEFXeWNzYk4zZHNhU3BMQmYxMkR6eHJaQTJESUpmTERMTlFaV2lobURweXRhMHRpVDFQbkItUTJSWmpCaktfV0huc2l3Q2hVWFlBOFRWRzNYODUxSjlOMFp1MllIZ0dWNWs2X1pGamRKN3I1SGFRMFBzcUZJeQ?oc=5
+- Fed’s Collins Says Interest Rates Are Still Mildly Restrictive - Bloomberg
+  Summary: Bloomberg
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkFKeFUxWHlaM1F4RS1YOTJsdGNFZ3V5TlZ0NnhpaUxrelliNjdXVjdSWkdZTVAybXpzWU1JMlRQSzBsQzRGczNmLXk4ZzlLaFloM2JrNG9tMzBGd0VWQ1dpd0VLd2JzS2JHc29PY3o1elNhd21mblkzQklXLVU5WUNHSl9VNkxnNGszbG0zRU5iUUV6d0xpamRFQmRwaWRmVjh5RzBhN2FBSWRxSTl3bE84Zw?oc=5
 
-- Market Fear Gauge Rises Ahead of Inflation Data, Nvidia Results - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ1ZFNTd5R2RwQlNlUFRyX2JqcG9KVXF1ZDRldGVkVEpydzdHLXNzVzd3RjhTSXVYSHJRa2hJVl9ENHdYNFN6dzJSZ2lrYlhkNHRDODFSUTN0RkJRUnhkYjZMQkpIRE1KUnItNndkd2lRY2JDV3VTZ3QzNFdzdG1xdWNDMURxelhZdEZTY05VX0I3OWZtQVR0WllHbTB1RVhzTjljODF2N1pYSWJMNkxzMkl3RFpILWNlbFh2TjVONzlWVWtzbVlpT3FrVWUxTHdHRHJKNFFweEJadGZNN19lLWJ5Wll2QW8tOV9aSw?oc=5
+- Fed’s Preferred Inflation Meter Unchanged In July—Here’s Why Interest Rates Hikes Are Now More Likely - Forbes
+  Summary: Forbes
+  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMXBYLTlzRF9kaEZCOXNaN2xfOElvR2M2RWZJMVZaWFJPaC1sM3hjQUlUSGd1YXExUG1MY25HakMxV00yNGNvSFZ2RDh0Qm9leWpKaGZmUldkM0pzR3ZjUGkxRGhzRmJpQXFNdFVrcFBUZG54aFlfRHY4ZHFZYXVUMmRuZ0htYzBoRmtYOGlxNVY5TFRvY3EzR2JBR2RSN3NWVFlaUWw4SzBXbllReUhibi1jdUtQTjNEOFhtUjM1VWd5RlQtNHlKS3k4eXhwWk5yTzhUdVJaSzZrbjlITEI4QWtzRk1pQQ?oc=5
 
-- Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg - Reuters
-  Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5
+- Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjJCallHZWxCYmRTeHlaRDBoSC1GaDE3Ym53M25LX1lhTUROUHNzclh2ZTlyUm9HVFNwWVBnZDZrTEZfWFRqTkJQRWROSlhKbGJUSzNPM1o3SG9UbFBzaUwwWm1YNWN0dkNFYzhQV2VKOVdTWWN3ODRfenIyRHpKMFlNMFdoVUhYMi1KVE9mZkxCcmQ2SnpsTDAydmx0NWs5QTg5RFRfWmLSAa4BQVVfeXFMT1p2ejEzMkVDblNMdDJibE8wVGhoQjJLUzdhSE9MZ3haZ0JwOV9zOGt5cXlYRlpkRDlBbDlZNnhCbmFOejRoUkp0QXdYQnRESTZ0YlJJZ3diSlU2Q1VGbER6blFyNW43aXdqUEI2TTR2MnNKaGNTRVVUNVR3Z1NhUE1wUTVVQ2QyWU45Yk41akdkMm9rN0lubzBjR0ZmeXc5TGZ2SjBPZVpIUTlDVE9R?oc=5
 
 
 Travel / Boop Relevance
-- UAE Business: Sabre named ATM 2026 Travel Tech Strategic Partner - Gulf Daily News (Bahrain)
-  Summary: Gulf Daily News (Bahrain)
-  Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KaDJVY2lLemFSUHVQdGpmNFZQdTFwbnZJcXhXenRRYjZZOWs1RDZTV0U4dWF6V2VzTG1SZVpEY2IzOE4zamdGeXFPTHR6aTZTS1FN?oc=5
+- RateHawk API Bookings Surge 78% in H1 2026 | Travel Tech Growth - News and Statistics - IndexBox
+  Summary: IndexBox
+  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2J0V3FUOWRkTEhTMDlkVFF5LUxjNzBidk53ckdJYm4yLXpnZTBZRXpnTk13REdxV29jZHJrNVJSZzhTbS1najQ5MlEwNl9aTkFyUEFwNHFLSGY4dV91VDJ0RnBUQ3YxVXp0cmtoLU1nMnotUDZSRF84blJ0N29zMmhxdmRNaTVjeFE?oc=5
 
-- Investors raise the bar for AI-powered travel startups - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1NzOVNQcFpzX2YzLXY5WVRFcmdrZlJSZEw1MFU1OXkzM1BwUnVRdWZhZWFfcmRKeWNyWkUzZF94RllvUUNvbm1pZ3NRUVFoMEFTR2JoVlIxX2VVSmprMmRmbWd0aDA1SjN0QUQxLXNDelZlUC1EQzY0QUZFUlZsRkMtOGtDS0FxQ1dCT19jVHc?oc=5
+- HN Original: From Search Box to Travel Advisor: IHG’s Kim Smith on the Next Phase of AI Booking - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcDcyUTBqTFgtSDlpUFA0ckVfSGUtUnBjMnpwNHJqSmRYcGhpMXlpWnpJaTlFRVBWVDVzeGZMMFcxLUtpWWU1LVV1RHpUUTctVVpWZ0U0cUpxZVRvQ0N4WW1mZF9ld0xNU0VNTHQ1Q2YzTWZxM0JpaXE3QW9hV2hmcDQxOEFYSzdjYjFLSnBIWklMMUI5TFNjSTlBS1ZmNkpLbDZBMGlKYjB3NzlacENOd04ySXZGNjV1NlVsZzg3dUFSOEgySmdsLQ?oc=5
 
-- Sabre named official ATM Travel Tech Strategic Partner for ATM 2026 - FTN news
-  Summary: FTN news
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanlncDl1bDVMY2ZscEFhdEljRDg0NEYtTnlQdGg3SVhaWGVBN3VjbWlhdVVZUFNZYlVZb2JkMWxnZnN6bThqNk5Mb2I3VENwc0NXWWZsLUtxSl9sQjRVVE5NUzNJTDNaeWJLR1Q2SEdYRDZmb2E4Vk5ZUDgxOVFNa1BjT1hvZ28tNm13ZDUyTmRiLU9qTnRKdmtRcjc1TmI3UVJFVFVBU2g?oc=5
+- IATA, Trip.com to pilot digital ID wallets for airline booking flows - Biometric Update
+  Summary: Biometric Update
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUNLeXNjZUc0dlBjblBXcl9rRkx0TGtfU1pyd3BwNWl3WWN5TXVsSDExeUpqazg1VDFHVEFnYy0xeXFpZGU0M0Q0RnY3bXVIeGJZc2duYVRmRWNuR1dQWWg3aGNvUGVmMkZYSW05aHlzOEgyeVJQRmg0U3ZrUC0wREtFVUNIclFad3NJbWh0bE5jSlAzZWxHanBTeW1NNms3OGtJa1UzUU1xUQ?oc=5
 
 
 Bottom Line
