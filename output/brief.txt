@@ -1,82 +1,81 @@
-Morning Brief — September 09, 2026
+Morning Brief — September 10, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Texas Rangers — 9/9 - 4:10 PM EDT
-- Seattle Seahawks vs New England Patriots — 9/9 - 8:20 PM EDT
+- Seattle Mariners vs Texas Rangers — 9/10 - 4:10 PM EDT
 
 Chestnut Hill Weather
-- 58° to 80° today. Right now it's 70° and feels like 72°.
-- Around 8 AM: 62° | 2 PM: 79° | 8 PM: 72°.
-- Wear: light layer, layers.
+- 70° to 86° today. Right now it's 81° and feels like 80°.
+- Around 8 AM: 74° | 2 PM: 85° | 8 PM: 74°.
+- Wear: light layer, wind-resistant outer layer.
 
 Breaking News
-- [Markets] Stock Market Today: Dow falls 300 points, S&P 500 and Nasdaq lower for third day as Brent crude hits $100; Treasury buyback details and Apple launch event loom - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVJtVHRYSjFweEFWc01iSER4VWRVd1Zra3pLcVpCcnRxRVRpbWVCTVppd1lILTl3Z2VPU2d2Zl8xY1lubnJLa3JqcTlpd2FwbXBTZktBLUIyNUNLc1pmTGFhNUJoYjk5eHh1ajFPUkZtd3p6MnZLOGV1eDVfODU1blhNeE9uUWxpY0JLMk9XUnhKanFnRV90QnlqRnVGN1N5UEpoLWM1RnpoUkl1TnE1eEFOSlJVVlBBdURLMw?oc=5
+- [Markets] ECB rate decision live: central bank warns of ‘upside risk’ to inflation as it raises rates - Financial Times
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUt4STZLajFRZnctWWZIWnM5MnlmTC0tRW52eWFtWHhUcnNnMkxKWm5sSkhvaHkyRjd4VC03ZUtPRDNYRzFMY3RodUxXSUR5aFFjMUQ3bjlFMjhTbTFFRW9nMkIwMTRlemtiWExPWW94Ti1mT2tyRTJGNDY1Z0tHUjVqV0Y?oc=5
 
-- [AI] Meta Launches Its First Consumer AI Agent ‘Muse’ - The Information
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDNUcWRrbjNaSW0zcU5rX2RWTDdpYzBkTlQ4S1o2a01wVDlJcjhBekRhWEEtcEV4UnAwLWlHdGpXOUhNVVZfa2c5YmJtODljYTBXM21ZSm81aDI3ZE0zcDJ1a2JLMFlkUkhmY1dONng3OEJzMG5aNW5JbnpHdDYwMHM3MmFSbk5oS2tJ?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq open lower as U.S. oil prices surge to $100 a barrel and Treasury yields climb; Oracle earnings on tap - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5
 
-- [Markets] Markets will be less impacted if earnings can keep pace with inflation, rates: NYU's Damodaran - CNBC
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnhOUzBqdGt3SVVkcjFNYWJBbTctUkQyQ005dUdYLWRaVmZOQlMyT2RuazROUG11eXpCMXNDRlBKejd1Rklhc3hWYkxNb0RWZDVXUEhtMk8tQjhuWHZQbnRnX0VNSWxuZ09aWFlrV2xTNUdsODRHVlc1cVV1R1ZCTEswUmJzV0FIeDQ3V2pNYXptU21xMWkyUXVaZmVUZ0pEdHl4Q3dVM3FDWU1PdGxCS1dpa2RNYkxHN2FPaXl1eE5raFBkOXVUNjR4ZV9qZjA?oc=5
+- [Markets] Dow, S&P 500 Futures Climb, Nasdaq Futures Slip Ahead Of Key Inflation Data Releases: AAPL, SKHY, PSKY, CHWY Stocks In Focus - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXk3dm45dHc4QllZU1FoOUZteFQwZFJyRVVVZHVZOTlVaXkxal9LLUpQbElrV2pNb0RBSlZHbFFsdE1hUjQ4QVZTZkgzUG13TjdVd01lMUh6QnROOUdyQlRPRmpoX080Qmxic09nYUpEb3I1VGliWXpKck5HdnI2WHFCN1JwYk9yNVE0OVJoNnZJdw?oc=5
 
 
 Must Read Today
-- [AI] Orchid Security Adds AI Readiness Controls: Identity Drift Detection and Application-Level Kill Switches for AI Agents - markets.businessinsider.com
-  Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxPaHRnVDNhdk82U25pRms4NUYyQUl5RHIwTXFla0w2cEg3bURGS3JIVnJ6SXZoaTJvRkxZYWdMcmVySVNROEUyTnBWT001R3RzanVlcEhtakxLNjFGbUpXbllsbjdLYi1rX1B4RUg2R0g5SkVRaG1XTElsdXhkTlVwYmRqcEtyZGJTSnY2YTNrRm9ySGoyVUhDTDk2NDF6NDZfUE1VdWxlYlNsemtJWkVNZ0RhQ09aRGRQTlZBUjBkRE95bVFWSDUyTDFENkZ1bzFqRXNCcGVsclFGSWEzYmFWTGdMSGlJbk93WFN2NFRwaGxsZzdvV05peEpsYzZkcGFRU254NE9xOA?oc=5
+- [AI] Meta launches AI agent with travel booking capabilities - phocuswire.com
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPZll6LXpINWtHMmQzZERvaTZfejdyQ2gzM2NCWElVX242WW53SG1LSDVTaklVN1A5Z1pXUldweGRMWTZqMEFiVWFoc2VwMHRGY1NzV1JJTWVINzdJd0NXTHdwa05ycTlZYkJrUHFId0xMdHd4bEN1dkZZcXV6RWJBcmdoN2NLS2c?oc=5
 
-- [AI] OpenAI says 10,000 AI agents cracked one of math's hardest problems in 88 hours - Phys.org
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE9MdmxrZWgxWUQtY0UtbjBXazg2S3FiRjByQUtkYnRyOVB6Y2hCZkV2U1ZIbnpKUG5yVW12Y1pqZjVjbmlUVmloeFZzWVUwWmlxaU1LREZ5cFZYRFdTQzRvejJhMzlQTEg1TUxRenBwLWdIUQ?oc=5
+- [AI] Experian Launches AI-Enabled Decisioning Platform Bringing Real-Time Underwriting and Cash Flow Intelligence to its Consumer Marketplace - Business Wire
+  Link: https://news.google.com/rss/articles/CBMingJBVV95cUxQN19EdVlJNXhKcmg1TUlDRjZERklKQWN2MXJub3RLTDZJQUFTRU5BQmVIaGhQMml0N2RXUEUzY0x5M2g4ZW0ySmFpdVZubHBPTmhPQVZOSjVKa3ZJQTg0cldFYWNlckJvaGdrN3ZLOW1fdV9oSy1LVWRMRHhnSDNiR0ozNEFtUXFYRWs0QjRnd2phckJMQUo2elpIRlB6eFFOcjhGWlFJSWNXSm9zMnBPeXFiTUJyMzRCa2hwYXlIbE5JS3BRMkZCRDcyUmZ2aWloQkxPVWRTbkVORENVMElRZVJUeEM2NXo4b1FHMFQ4Zi1PSy1pTGx1aU53bzZuVFAxTndIcy1YWW11ckdfTEo3aHAtY204RXFKQkJmcTVB?oc=5
 
-- [AI] Sequoia doubles down on Cymphony as AI agents create new enterprise security risks - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5
+- [Markets] Nervy markets await ECB rate hike, US inflation data - tradingview.com
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOanhpX1R2T3RndkJDNnNoNmJfUFpmUGFrNGlyOFBQSDdzb1dQdVZHTTVjUnZYa29Gc3VGSVhRYU01YVpyZHlOWnVmaURGNXdpZUdDR2pBRk1xd0M2c01RSS1PS2hHb3lFbDFaRWJCX0o2NTlXa1Nwb2VMUmtIbC0xWjFXQzRnQ29wSm81bGpxdmJjU3ItS01FZ0EyWkVtX1ZzVTRYbjVPdmR2TzBLMHlJRUhSOENxbURQY0QyTVRn?oc=5
 
-- [AI] DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval - The Hacker News
-  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTHJBMWJDT0twcnM3d2oyX3hia0ZfRTZ6MVJ3aDl4RktKSk52VjdVNXZtN3Vrblp0MnB1R1JqN082U3RxZFNJUVNydjEzVnBtUFlHay1GWWZWYjdpT244cVduWWt2OTFBaDlnOV9UV19VMjc4MThJVDh0QkVoV2M?oc=5
+- [Markets] Morning Call Sheet: Inflation, rates and AI spending test markets - CNBC
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1V5VHJQMDZCQ29zTWEzZ19vT0lSUVpVaEpHTmhLMHFVOUxIN3phbnhNbUx4UHpFM2ZabVlta2ZWNUNpMWwtbkp6a0Zqd0NHdDBmRVJoSEp5RDR6WXRsa2RJaDhWcDU4TnlSbjEyWG9qWkltSTY2T05Gbm84LUtmVkRRZzF3dlFWcTJFdDB2ZmlkQU5hZVFfWlVrRklQd2tfVF83TDhVM3FXUQ?oc=5
 
-- [AI] Saudi AI giant races to fund data center expansion - Fortune
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1RnVXRUMjhxRVVPYkVENWphNWx4MEF0bzRLTU90N2NDTlJ6Rkc1Z2UyeENLcFlRNFZyZ2pkWFdZeDE1QjVWV2xuMlQ1N1B5Z3RYTUM5UC1sVFlyRlZQN3o4d2RfOElCQVRhZHk0dndsT2ZXd3ZqYi1JRWo3SC13cTB5VDduN3RUZHFWdXdvT3FZbkVTQkx2TWcyTFVnT2pXcVRmNHo3bk44S3lPRXlraU5Saw?oc=5
+- [AI] Congress Pushes AI Agents Into the Audit Trail - pymnts.com
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNejdjUDJDdXo5TXlwdTlHc3Jxc0t0aklQTk1Ma1ZiUG9DTVl4VW9hS3BvSVhnUnlZZnRkVUVOcUZTZW5oZ0pFdHBTTEdxODdDV1ktbEJDTVhKM3E1d0Y1NGlQbFIwWVdoa2hJUVZPYWxRQmJoSUFqX21HVllVVUhXX2RxWXhGNnBrcy1fQjI4QVNSX3JMTTl0Z2FEaXJiZXdKVFV1Qmpucw?oc=5
 
 
 AI
-- Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026 - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOTG9pQ21CMEwzNFRDa0pMdHV1eWxhS3B4a2VNeE9zS2JrX0IzWVJnVnhzREZ6Zm1lUnk4a0N2enQxWC1UZXBhUWJmeUdVR3N3VUpaMW9rcXVNT0pCa1ZyZGdRalRLNHJpSjhKUnZ6SHU0THpFc3pEQjBicWprUWY4cWZ5YU9rUnJVaEg0MjNWQTluNm42cjE3UnJwQXZ0Q3c5ZjdDV0VMYw?oc=5
+- PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances - The Hacker News
+  Summary: The Hacker News
+  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzJvclZ4VTZWSktkOXVNZjk4a0NMWTZReXpWU0dma250dXlIdzBhWWgzLU1aYnpZNnVDUHZZRjMwdlJ0bzJNekt6VGQtczlHRnVQTHh2cG05OTUzTnpKZUpkdHBmRE9UaWU1czAyNXo4RWhrSU1XNnFkWkVEYWNkbjFB?oc=5
 
-- Global Enterprise Artificial Intelligence (AI) Market to Reach $206.6 Billion by 2031, Driven by Accelerating Cloud Infrastructure and Agentic AI Adoption - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNODV0UW1EdE9tUlpGNmhJaTZpNGZxWkprajM3elBsajVuQ0RwckdXTTQxWDNPNkpJaEpLSXliWmo1SWxSaHRNN3o1dFN0Qi1tbjg3M2N4Z1Zwc3dmVVlhVmdTTWNkdW4xRFdZUGp1cHpLRlp0bGNGcmdFaTduQnJEVFdUSG0yaDM0ZElDdnZ6RVlDQ2RXbmt3Zkt4NFZlQTUzc3ItdlRudzRvZkJu?oc=5
+- Got $5,000? 3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now. - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDdIZUhHZ3RRWnliYWlQdWl5X0g3SWNYcVROTGRONHg3SU8xckJfeUwxOVczSVJYY3ZueWZSUi1IaFlIT0xBRHRHTnBlNFh4TVBqQ0p6alpwcVVVc2V5eWxSdmNqS0VvbjZHR2lkNnBwcV9IRGhQQktCajV0cndMTkpNZzBna2NkZVJxQXFyYTItc3czX1E?oc=5
 
-- Cognition AI raises $2B at $48B valuation in Series E funding round (NVDA:NASDAQ) - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXJkdElacERDMkVsVmZnQ09DS0FSY085NHcwVHFOWUR0WGZqdElUMDN6T1ZhUmMxVXFWN0pLRGxUWWpnTTZkYWZ1NEhfeGV5WjU4YXhrNzZ6WDViOVNYU3d0bDNENHdCajFlOXlqN05fanhtRm5fQnFJVExWdFdUYkxoX2k0WkVnWmxQdU1jNGVsVGRFUFRkazdPeGkxeG90ems5UGZR?oc=5
+- Positron AI raises $875 million Series C at $5 billion valuation - qz.com
+  Summary: qz.com
+  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE9CR2xIbktVQmNXdlVVZWt4TUFUZ0hPbldILVd3R2Q1Z2FocUFPaFZkVi1vM0lIWk1FWjFybEtLMDZMV29YbUlLYklkb0UxVDJyV1o4Ynd0bHFuOEFoZkNBUG1GX2Z2YUI3R2ZCVDFoZExpdmlJ?oc=5
 
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq slip as oil prices hit $100 - Yahoo Finance
+- US Stocks Eke Out Gains Before PPI, Tech Earnings: Markets Wrap - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNPY1UtR3dhUVBsYWhkc21iVFB1VmptOUFuVlhGdHgtZ0Zpb29KZVBUbHk0Sl9ZNnNIYmxMLWNQU25kT0ZMSVIzMkVZQUFub3R2WnQ3NV9mT29Id1lYVml0MF9qcFFPSzg1cndWWEltOWVLQUd3blRKMHM2eHVMSnFTc3dva3ZIOGVxV2RzWnF3Qnl5?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100 - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXMzRmZVcjdTMGRTaW0tdjJXWmZCM0tIdHYzNDg2NEx6MmY2bGZ3UFVySXhWYXIyLWxnQ2VNY1J5c3h0ZE5zMVVPelBHOGV2dmFjaGhROFVJVTlISXV2UmRyQmtDLXBuS2h6VHFHWm4yVV9fZmZVUHVTSUZob1NjMDZKWVNfcXA2a1lOVGxXNTZrN2ZxYjB2Z2NoMXotUE8zNHo1a0JmNmh3djIzMXVENXpMU2JqOENIcEtrbw?oc=5
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3ViejZyVGk1QnUxZzdzV1BvV05zZ3g1c0dqWkNRSnhETkVPT284bGNZUDNHTXo1cXNBdWdKNVBlUDExQ2hlenVfNXBsd295dHRtVXhiY2JtbDcwMXRYWmxMTkNGUnRmanFNbnhOelVfYXVGeml6My14bGRQc0JhOGFWeDNBeWxBS2t3SU40QW5GTWlOVmFuTmF2STgzSVJkVDhOUGRES0QyeWtKTzg1bktB?oc=5
 
-- Oil’s return above $100 a barrel puts inflation back at the center of Wall Street’s concerns - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmR0aUgzSGRINEhDbXhUWmo0VVFHWXNxT2NNOTQzeXBGQW5pbjlIaThkckY4UjJuLUtVMUJUbExLQUpFZ19JX0FiWkdNeExqNVI3LS1HbGJCSnJZcmVEbFAxbHRvWExPRVhSV2ZjQld0eU1xcUU4S2tmVnRjQnItcHFmQUg1N29rSDktT2ZwaWRUaXduODNFWg?oc=5
-
-- ECB preview: A rate hike expected as markets focus on Lagarde, inflation and future policy - investingLive
-  Summary: investingLive
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUJnRVJoZ3NGQ1BSTndURkEyLV9jTkJ1eHJrMklrWGRCd01hQ1V4Um96S05iZDQyMlduaHpIV2JzYjZnMUh3NFVQSzFmQ1gzRVg2N2RqRTVlTWZfb1lhVzBkY3JFY0RRa0V5c0F6S2NsTGwzV3hhYVhRbVBIMDg1S2hHUDlaLVFKYWNsSXZFcVhDbTdvUVdEQ3RsTlBmeUI5MHNZV2czS1dpWFhPVDZHZndVSHZZQnNNRFVROXlnbXp0X3QyYlFSLQ?oc=5
+- Ten technology stocks combining attractive valuations with strong revenue growth (VGT:NYSEARCA) - Seeking Alpha
+  Summary: Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVFtY3NEWWZ0OE5wNm1tbzF5NjFobnBnNHl2Nm9DRHlJX2tZUHRZcl9qMXMwNXNmWTdTaGg0bEEzYjZta0xaa1pBYmNOOXVFY3pYZXpjamRPV0RQTmJrdF85aTNodDVGMEM2ZnFabjF0RUJnc3Q4dEtnM2w4YnhJamxyMDJKOUhoeGZXdzdaSlphWTBIaURJY3RBWWxZaHlGOFdZT3J2eTMxUVZiQWhyWWdUQURFLUF3UkE?oc=5
 
 
 Travel / Boop Relevance
-- SABRE CONFIRMED AS THE OFFICIAL ATM TRAVEL TECH STRATEGIC PARTNER FOR ATM 2026 - Hotel & Catering
-  Summary: Hotel & Catering
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkZlWktpMlFZcU1HRDF3aDJiZEgxR1JWSVZFTU15VC1pSDYzTk40VG9YcHJvMldVbUN2dnE0d3NTRTRoTnZBSmJ2Vzd1SGhkQkdXQWRPaTJHMmtFNmFKT1lGTkhKV3ZNc3RZcVNZZGNlcUtRWXptMEh1dkdJTmV3WmJaR0tVa2RKM01hQlgtWWpmc0VKSFVrWmlCU0dEQmlzOHJTbTZ1eFd3NVE3VWxWTmpR?oc=5
+- Planning Your Next Vacation? This Travel Booking App Is Opening Up More Flight Routes for Filipinos - wheninmanila.com
+  Summary: wheninmanila.com
+  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjZFQ21pM2N5dWplMUtLaWd6Z3RSUG5RVHZBSjJUUVJLWFdNMWttRTUydGFlbXVZU3JzTl9oY1V4a3I4WEJjV1ZHNTBTQlFEUkRTRHdpb2JrVElZekhRSGh6OG5NaTZwYTJGc05KWFVmUk9ITl9xYUhWWk1qc1J5M19aMTFGOGZFbE83N09OVjVSYndfVG5lOElLdlZvUTRRQUdsdlp6N1RYeWRWbGZVWDZHOFdlRXBZbzNpenc3MkppTkN3Zk0w?oc=5
 
-- Online bookings drop amid growing travel complexity - The Business Travel Magazine
-  Summary: The Business Travel Magazine
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9EanpxOVZZNjdnS3dRa1owQWlCRFNDRGlKWmJfZnZQN2JNcW5Bc282bE5hSGZMMWRpQ1cwdnFKdjZMNFZQbEdYUUR1N1VwNlVVTTB1QlBDczJfU2VMTHMwOTViSUtYandhcy1SY2xhX2x2X1E1cnRKbFdybVVBT2JUN2tXU1l1eUYxRDBB?oc=5
+- Travel tech undergoes US$1.8T overhaul as AI agents replace search bars - Travel Daily Media
+  Summary: Travel Daily Media
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2w2QlpJTVZoZFdmVW1tZDFKWTZ0QndqVnBpXzhhaGNXUzNyVnpBenJrVUhLdVlRZ1hmTjRvdDVacXgtU3c2QTNMWHRPQmV5ZGFQbVRDWjVMY2dIc1dRSFp5UUNLM1JTU1hKN1RQZUJ3UXNsVHI5LVlqTDZheXdJM0JoVi1UajZ1QUsxZS1CTFh0eVl6V1NqSVRnMmJmczZzMXI1M28zYw?oc=5
 
-- Online holidays subscription firm Rory's Travel Club launches in England - travolution.com
-  Summary: travolution.com
-  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSS1GZGtRZGt1Y2RUZEhlWFFFQ2YzLTZZMkxiMTJ0a2R3LTVYb0FYOUZ2MnJtMUtadFNjeXpCZDBPMUE1M3pJTTNVdmw3UHp5OERmMlQ4M1BBUGx4U1BWY1F6bHA1eWNRbXpRMFZSY2dWQmk1OXUyY2RueDZhN2VHcWQ5cjdtWFFiUG5leUtCOXRWaFRTTVZFNEM1VkhLZmNYekVidTREMnJqREtlMDhlVWJKbWRwaDdELVpKdjFFVC1CVXBMa3hka3VMMlBiYTlj?oc=5
+- ‘Technology is rewriting business travel’ - BW Hotelier
+  Summary: BW Hotelier
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2l5S0RJUnM3Ync4a3dCS0FzZUhaTktLc3Z4MTVoNDhHWFVOOUkxUzJnem1Ca0EwWERyRFpERklIZWluWTQyTk9CaDBBeVZabFVDdS1GQ1VsXzNTRzAyandVTnNfeFVwUEhZQlYwdjFwYmdKdV85NmxKU3pZa3lYSldzN1JxYzU0?oc=5
 
 
 Bottom Line
