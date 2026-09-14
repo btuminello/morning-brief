@@ -1,81 +1,81 @@
-Morning Brief — September 13, 2026
+Morning Brief — September 14, 2026
 
 Seattle Sports Today
-- Athletics vs Seattle Mariners — 9/13 - 4:05 PM EDT
+- Los Angeles Angels vs Seattle Mariners — 9/14 - 9:38 PM EDT
 
 Chestnut Hill Weather
-- 61° to 71° today. Right now it's 69° and feels like 72°.
-- Around 8 AM: 67° | 2 PM: 71° | 8 PM: 67°.
-- Wear: light layer, umbrella.
+- 54° to 68° today. Right now it's 67° and feels like 65°.
+- Around 8 AM: 65° | 2 PM: 68° | 8 PM: 58°.
+- Wear: light layer.
 
 Breaking News
-- [Markets] Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates - cnbc.com
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5
+- [Markets] The Fed is likely to raise interest rates as inflation persists. What that means for consumers - CNBC
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq end losing week on a high note as Fed rate-hike bets jump - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1l2WkJJQVE0M0JYMHZxNXo3RnRpU1dsckQ5WmdTa3J6MnVKd0IwSVJMbi1DUl9yVDItZnpSam9kTkFpZGl5RmRhRnVxSHo1Unc3UjRBQlg3Vk9OUXZqcWpyUkVldWJtYzlGekU0MG5Ob09Wbl9DdC1KSHpCX3NoWUwtMFJ1YmswREdUdjhNVVdYQXdjRFJxaHdiYWZnRWwtX0lWVmN1Wkl2UFZwVjFvX2R2Ykt6NjkyNko3VXFMeUVsZw?oc=5
+- [AI] Doubao consumer launch puts system-level AI agents in focus in China’s smartphone race - Global Times
+  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyOHdvanhlMDNRU0ZHcWdrWjZOZUhGTFI3aVRkcXh0eVltYU03djBoSzFMQlI1dnh3M2ZuSFF5UGpXM01uc2t2UGNZUkRPWjZfeEh3NkQ3R09mZ0FVbktIZXFn?oc=5
 
-- [Markets] Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK - The Guardian
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjlxdEJuc05uQjJBcXJsU2cycGktTGlVMDVrVTdZcTRlMDRDNU9lWmhUaW9CTFB6cjhfdWpOaDkyaWhjeWp3amV1MkJmQXJkUjU1RERfWWY5T2hyNXhLX0puWHdFeFdCRHRRY0praXZPSjZGRmRQNDVuMUtBWjh3ME85endheVBtTXpxTjhXcXpaWER0X2dBTzFNeHd5bWtqdlE?oc=5
+- [AI] Buildots raises $130 million at nearly $1 billion valuation as AI boom drives data center construction - calcalistech.com
+  Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYTBqOFNReEt1QzVUTE9jaHoxVDNuUWVWV3pMcERtNXNBYkVTSl9pYkN4OXlTZndOdHBoZnE1LW5ZTGFhbTNaVG8xV0JfVWFUdkpUZmxCSFY4d3pfaUg0MDVQUURJRTg?oc=5
 
 
 Must Read Today
-- [AI] AI Agent Defender: What Consumer Tools Actually Exist to Protect Your Smart Home’s AI Agents - forkast.news
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXREMlNoaXE5d0JiZlFJN0VrQklXd1JFS3llMHl6WGgyNnZ4aS1xZU5lM0RBZFl2c0R2SU95ZlJqT1VEbUx3QjJZeWNYSlhVWEg1Ry1kSkxScWpUczdnSVlleUtsaXBWeThUYjR4b2JiMW0zQnBVZm54S2h1cy05RUtsQ2RTcG96OF85bXkzQlY5SjN4eUJCQ2txY2FNY18tcUpYZ1lhTUgtM0xZbFBIWGV3?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdLdTJrbjFlX2lQWjdXaDUtM2w0aWExVXpzMmdOeGFyRXVOaWRLS0RLUG5qcVhOd2F6bjNfR2gxSDNOMWgxOWhxcVg5b01BZWg3VXAyUkQxczZNOXFMUmU2bmh4eFNJMmRoSDI0dmRGRVpVRVk2R2FzY1RQWXVQZ1I3dURRbzZYSHZBUnNLMHUxR2ZfQWNRR0NaNlN2Nm1YUzVnWDF1a1EwOUl3SVEw?oc=5
 
-- [AI] Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Sept. 30 (Hint: It's Not Micron) - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckdMUHgybnpOUVVHVDZrR0FxdXZWcUdpNjBXTHpSZnRQU1VNTHFzbWVUMXN6U1VKVEpnYklOSHg3a0JUTm9iRE9CMUgyU01UbldmYXNRN0c2MER1bF81UGNXSXRjOGFMR0swN0VmUGZDcmhkcTdmd2NGRnZwQUZmUXZmejU1eC1wRHByZl9tUlhVUkFvTEJxdWFRX2t3YnlfakY4VVE1X3VyZw?oc=5
+- [Markets] Stock Market Today: Dow Falls, Oil Jumps On Houthi Moves; Chip Stocks Dive After AI Warning (Live Coverage) - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXMwY3VLd2lIb2U3M294dVpad1JqaVFhb3lnU2pZY1NGMWRoNUdRamEtdlE1WUlpamRjeUtMclppcUNWQV9xbVFmRzdMS0pRZkkzc2dVcENKNXViUjZWUjZfRksxcWQ3OUJzNFJ4bVU1MGExV2NDSU5ycXZzb3J2cFUycnUyd2NpODVKMDNjZ3N2Wk5yZ2QwY2ROVlJDbkZuNExXbmFzUDBMV0dXS1gtWDJkd2p6a0JmUXJra1d3?oc=5
 
-- [AI] AI Agents Are Thirsty for Power - WIRED
-  Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUlpVbDVPNWpBM3lvMHVBeXFJVEtwSUFyZ1U0ZnNtMXRmMXNZT2J3d0FSakRJRkYxbHB3UTUtR1gyT3hJd3BHYTFpOHJKcVFLMTJ2NXIxRGpja2x5cWFHMXJtb181VWdmUnNKVg?oc=5
+- [Markets] Inflation Sticks, and the Fed Has a Decision to Make - Penn Mutual Asset Management
+  Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZm9VNk1ROVZGdG5DTkVnN2p6T3U2UHJsR05aT1dpUkJRbEJMbHJtbjhraWRzVEt2VkZPWXk2aVJXcFBtR3oyUzR5aWpwSEpsblVfUmM5bVZnT0lnWVpqS0pEQ08zVDhKVEEzVjlnMHZIVEJuNzRNZENKdk0xTDA0X3lXZXhDS1gxXzRQSUpoamxzemR3YzRDeWRUY1hLZ0RNVjRsLWVXdF9FRDhBaDVUbWxyQ2RGVUZVMGkwaWlsWWVqTEtXZDk1VC0yNElJNGVUbnJBZnIxMWE3bmk2OWIw?oc=5
 
-- [AI] Are HR Platforms Becoming Extinct? AI Agents Are Changing the Game - inc.com
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlRwQmE2RVpjNWFLLWs1M1VYLW82QVZUdjFRcGQxU2drN3Jqc1Fqd1pTOVpyal9EUUpIdGwxYWVHbkh5bGlDdVNDamlId0RHNE5yMkpGcWxPSnFERE1pbHFGb0o5TFdzNW02UU1Qd1NIY2VHelJjRGJua3d3UW5IREdzUmV1WFQ1RnhBdXl5WVR0eDVzdjBPbU1yZTdmcTZ1Z3dfODF2UHNJX08x?oc=5
+- [Markets] Stocks drop after 10-year yield reaches 5%, oil jumps; Nasdaq falls as AI names slide: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5
 
-- [Markets] A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500, Nasdaq Fall Amid AI Fears; Micron, Marvell, Intel, More Movers - Barron's
+  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5RaGtCakxhQW9XMUViUDB1YmdMWjVBV3RlYUVUeHJKVGc4YTJzZWtBbDNfZWxLeHhDd011OXVyZzRYaHVTT3RQVFk2aXRRMDhxQkt0M1V4RWVxU3FDeXJqcE9QZFVqMEZSZVRkbUh1NzFtZDFueFE?oc=5
 
 
 AI
-- Anthropic CEO calls for pacing AI frontier model development and warns of AI agents ‘taking over the entire internet - TechRadar
-  Summary: TechRadar
-  Link: https://news.google.com/rss/articles/CBMitAJBVV95cUxQQ0NzRGFYOVJ0ejNESndKaXRzejBQVjA2WDdEWnVmSWlYMzdRNXdRRjVhVENmaFNVS1IwVHBOY2VCVXRsV2tobk9ZRW1uSmE0MjdSYjIyOUN3ZThtVmFXeDRhZDVSbmNnT21KaVJTZE83T3kyR1NMVDNoX1Z0RVFrZFpZVTQ0TEhyUGc4ZUltNm04RVFKcVJQTFJ6LWx0WEFiSzV2eE9mbGItVXJyWW9HU055NWxWQ0FBWUNBRlVyQzJoUF9PWm1oM3RFQldPSERpeE9CUHBRczFHVi15NTF5dVVUejNhUzlyZUFiWUQ5RGYtU3JfRGpZR3h1eGVLYzk3YWFQZUNySUZvMTVSb0Z1NUMwTVQ4TF95aXcwVUVNUmN0Z1JzRjE1Vmx2OGdiN1lrb1I5Tg?oc=5
+- Temporal CEO on AI safety concerns: We should 'absolutely' audit what the agents have been doing - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVG1NY3Z5ay1valNuV2NCcFMtbjNnaFRmbmNZWUhIWDBJVjFYczFsRTNmX243SGR5UHZJT3JGeWZTdldXOW5ZZk0tY0JhUWo2NmI3dTV2dFVUVUdMc3AzeGR2dURrZEJ1bHRNOHRsX195SHFVV3Q1eFhEX3htRWZqTFBXNVJZeHdqUFJyUThhYVlwYTVaUVh6WFpTdGVEY1JBMmJWVVc4YVdDYjlyR1lCdGZhb18xOG5iVHdTZHR3RHZSOXJyb3ViV3l4Zzhzcm9NN0E?oc=5
 
-- Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown - The New York Times
-  Summary: The New York Times ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown The Guardian Anthropic CEO Dario Amodei: "For too long the industry lied" about AI risks CBS...
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5
+- We're "getting uncomfortably close" to AI agents evading humans to complete tasks, journalist says - CBS News
+  Summary: CBS News
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWVvTXBvR2xFNFE1U1hJUmZFWWtSX09mOXJIMk5rVkJoN0VVcmYzMmdtTFY4T1NXeWRDQWlOMUN1dlFMT1BqWXJnWVZyMTNtbHZDRk51VHE5Y3NGTnB4RFI0VFBZa2tYTTZZTE9oUnAwQTNEdzFTM2lfMlJpVV9LdHdkZEJjczdvMWQ0ZGpYRHgzOVczTzh5VHg5LXh4ZE1kNC1oMm02LUgzaExVaVE?oc=5
 
-- Exclusive: Anthropic CEO reacts to rogue AI agents escaping containment | CNN Business - CNN
-  Summary: CNN
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTElvLVpyQUlhSW9WZDVNbXV2LV9HbFpseTFhbW00MHRpcDBlZnptTkwtZXhodEt2a2tuVkNpZUZ0SXRqZFVJdmVXTGJGaUxEY05MQUVYU2YzRV8xN2hTNlNHdkRaVWdydUFSckRqMWIzSjVLeHdHa2JYWDUzYzVKZnhya29NZUpRb29JTWpEU0gxeTU4QWxWeHBzQVNWUnlielZaWGx3bmtkbmIzN0YwMXlRNHBtSDBuZDB4NHpITFE5amlhZl9pZlZEMG8?oc=5
+- Ninth Circuit Rules AI Agents Act on Behalf of Users, Not Developers - PYMNTS.com
+  Summary: PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpObWxmT2dRSTdxeWE1YW9IVjZLNGxqZGRiNDgyN0tEVkl5cWxQMGU4Ymota3U1YWFoMHAtcVNPU0pkVVB0dDZrVnpnWHlObEpMTTdZaV9GWGQzRzMxVW1kSWcwY1NGYmdqdmxLdUc4TWJJSXhZZ0pKUlZidmllR21UUGNJN3MyMXlLalpKcnByck5rdjRLRDVQZzJzOGxuUVpxV043Uld4RW81QWMxT0I2dmZSU0JFclZBZE5UbFlEVEU?oc=5
 
 
 Markets
-- Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision - Decrypt
-  Summary: Decrypt
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE54dWdXS2NJQlhRSDNSODdjWTN1aDA3Mkx0ZXVLVmQ3UWVYenhuaXNKUUZzLVBsZzZNLU1JMU9ERV9WMVFrdzlCSHB5MUVMS0pVckh1TWFnTEhpeGFHaE5Xb1dldzJWcjNxR1ZBbmY5ODBoVUN1YXZvUDd5d9IBgwFBVV95cUxPYmY2ZjZOLUszQ0RqWG1Jdm44c3ZseV9Zc0xydkpCV1NtWG1VY3oxdzlVN053QkJQa0twLWstMl9MNmhRQklYb2xocmd2Tmc3cTYyX0xjSzBRUHNMd2RXUVBuZjNKdkdHcExGQVVrbEtnYkVsSmpPQWxYOUZ6X1BUNnJkRQ?oc=5
+- Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down - The New York Times
+  Summary: The New York Times Tech stocks fall after calls for AI development to slow down BBC Tech stocks today: AI warnings send shock through chip stocks Yahoo Finance Stocks tumble after...
+  Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5
 
-- The Fed could raise interest rates three times. Here’s where the market could face the stiffest test. - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVdUc0tUZ1I1SXQtODE5dXY2OHBpRl9WOHMzZXhJX014aUV6QmVCN2ZpUjNmdnZMd3hVbzJuZzNJcDhPN2txelpQOFlQa0M3T1FaTW9BSWNXazAzd2VIbGRWb29fTWZRVjlVWUNlZWM1ZmZ3a3N4T1BVSi1TZXRPdHdqSzhtZWV1Q2dMLXlkbzk3ck8tb2RqM2Fobl8tc3ZmeGl1b0JRWndBZzdxdnRfZGxqaUgzMXFyanFNTlMxa3M5YlJCNUxGOW1xRXNwSGFMRHY4LWgzeW4?oc=5
+- The Fed is preparing to raise rates. What if it doesn’t work? - cnn.com
+  Summary: cnn.com Global banks coalesce around Fed hike call after inflation surprises reuters.com Inflation Comes In Hot WSJ What a Fed Rate Hike Could Mean for US Stocks Goldman Sachs...
+  Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzF1NEVQblNId1pHOU1fTlY5cndudGk3MXR5MWh5d2pwNHdxYlVUamQ5TW5VbXk1a3pTRDhxbXhKOTFFUkN0YlhUMVAwTWVCNWNHdzF1MG1XZUZxcU9YSFJSZWhiZzBXVDI0S2lCS2JQNFVTYzNiYjVpUnBfRDM4cWpWVQ?oc=5
 
-- Bank of America sends strong warning to stock market investors - thestreet.com
-  Summary: thestreet.com
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUdHWkZFMUhTMmtBaFhyYlRJNVNaR09iZHZHSVBMMGtYbmFMQ1JNZFhCSG1aM05SdE0tbF9rY0FZbkRDOWxvY3BwcC1WM0l6QVJuRElUaXZpc3R5d09FOExpeXBweDJ0TUZkQWlGNVZpUjF3T1BaeGVMLXhOTmxnVDdncVdueXljTkZ2ZmpxRVdrcXNRdHp2VkpoLUo5bko1MG9jNUZkc3Q?oc=5
+- The Fed may raise interest rates this week. Here's where you should keep your money if that happens. - CBS News
+  Summary: CBS News
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmprd0doMmVDRWhMUFdQSVZMZEcxc3lGNFZfbktTd0FETUJhMHA5ZTFwdFRWalpuZVhMcUpVek5KNW41TW00S0NTQmI3djF5VElsSlczVmVqNXpVeXFNNTRWNmxxQzBDV2k3bzlIdFU0a2ZKckliWVF6X1F6RE0wV3d1RnE0dw?oc=5
 
 
 Travel / Boop Relevance
-- Arabian Travel Market 2026 Opens in Dubai with New Travel Tech Show - FTN news
-  Summary: FTN news
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEhKelZFWXFsQzg0VUg5WGNXME0zc1BhSTRfb1FUYXFKQmNVRW43eGNhb1puYWpZamlrdzlfTS1aUjFKZTlwQzBnR240XzNoRVRyTjhRMzkwaVp2TmZLYVZmME9ZcWR2S0d4a2tYcFRKRi05VmJPVmlMSTl3RGxVZFhQVFFZd3ZMWmxiLXAwOGNxdTBWNDNoX1QxaWw0dkFoWXZYNnRnamI?oc=5
+- Arabian Travel Market 2026 puts AI and travel tech at the centre of tourism’s future - Fast Company Middle East
+  Summary: Fast Company Middle East
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDRrdUxrQjZQQ3JSOHBnR0lVcXZtQ2txZHkyaERxM0h1MjdQQkJWNmFFT1NfLWt4LVpkemVIWWRBZUNCd1ZKV1NETGVHa0plbk41bUc3Z2hCX0VNUkdlUDRkaUR3U0dtQlBHV3pfcTl1eWp1dzZMX0RNOTJBZmswVVRsdmRnOTd6bXo1NFFlMnhOdS1BdVhLLVZwX1pSb1REZ2Q2YUdRVEo2aGhDWVNxRTZ4SXJJUQ?oc=5
 
-- Turkish travel agencies raise concern over porposed online booking rules - hurriyetdailynews.com
-  Summary: hurriyetdailynews.com
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJOZEtnTi15RTY1b285ODBreXdNUUZDQzRKbzc3QS1scDhmZ3VWSEItOVAta0NWQzVyNDZ6QmwtZ2U3VmdNTklmVl9RRG5wMHVNSHBFYU1pdUxOUFkyc3dIVkwwQ09JQlRNS3VhSXJKUER4N2dvb2ZKZ2dnMXZuNl8xczFWQTF5OHJ5WTNUang0empMN1RIUlo5Zm9yVnRYYk5jR29BYzdrUi1CU2YtUVF6TQ?oc=5
+- Travel agents have adopted AI. Now comes the hard part. - Travel Weekly Asia
+  Summary: Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHN3Nkt1UHhDSkpOVGZDQXpPNFM4THpTU3pDdTlSc0IwakpQR282b3JNV2o1SVVCUXY5ZElpZm4tQVdVZmdKSklMalNPaXllMGt3eTRiY1VOUlF5Mmk0ZEFCVFhURUpJSVlmMHkwTXVaS1owVlMwcnphU0E5SUJUdlBwUTVka1lGTU9hbFJvTG5BNEh5M1BodW1jSEtqVFpPTDQ2V3dlR2I5ejVTTXY4cHNfR3NUWGdGa0E?oc=5
 
-- F1 boosts SEA travel. Booking loses Etraveli appeal. Laters.com raises $1.5M. VantisCorp's TMC platform. More - webintravel.com
-  Summary: webintravel.com
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQRXVDZkdNQTN2aGVINVNsZ0pXd3hpcUV5YlpUYkxfTjdDSkNqdHd2Mm4waUVfa0xrQklESHo0dWpDOHpIdlJUT1lWcWJQMk5wS1FObUhHWUMxVGpHSjZBUHdaREswc2Y0RUJKRkc5ZkVTVUdPT0hyS2pUNkY3eFVuUUJwSGxqZnZ0bVYxQzBHa3diNE1VZjJqTUM0a25hbXVqNXdUeTVqaHVGTVpXVFVNLU01QzNJaHRDU1NxdmViZXhEd1RDQ2RiOVlHRjY?oc=5
+- Global Travel Collection Launches Technology Advisory Council - Luxury Travel Advisor
+  Summary: Luxury Travel Advisor
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkVTTHJ1N1NwX3B0TTh3Z24wMm42dFFtZXhHY1hUZjZlRGc5eXR6UDdfRFU1Y0JaRXNTNzJGSHBqYi1SZ0QwbGJPeUNXcW5TU2NVT1JUX01xMnQxNU1NUVh1Q2swR1pMakdMM3VCNlNxenV4VHRxV3JubFFxLXl2a3NfSTBaRTAwMFM4aTM0UHBjMUVy?oc=5
 
 
 Bottom Line
