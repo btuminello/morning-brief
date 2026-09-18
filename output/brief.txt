@@ -1,78 +1,81 @@
-Morning Brief — September 17, 2026
+Morning Brief — September 18, 2026
+
+Seattle Sports Today
+- Colorado Rockies vs Seattle Mariners — 9/18 - 8:10 PM EDT
 
 Chestnut Hill Weather
-- 66° to 82° today. Right now it's 75° and feels like 80°.
-- Around 8 AM: 68° | 2 PM: 81° | 8 PM: 73°.
-- Wear: light layer, umbrella.
+- 60° to 78° today. Right now it's 72° and feels like 73°.
+- Around 8 AM: 66° | 2 PM: 77° | 8 PM: 67°.
+- Wear: light layer.
 
 Breaking News
+- [Markets] Markets News, Sep. 16, 2026: Fed Chair Warsh Warns About Inflation After U.S. Central Bank Raises Interest Rates; Stocks Close Lower - Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1KQkliQlZaUmF1bnlNWGVVVDNZbGlVRTk5QWF2VVduLXdqV0JkTWFQd0VPWmE4ZTVJOXZoNGV5amJPWDFKOTQtVWFpejFlWGlvNVlMcWFYX0JzWm03WmdrTExwbDJQdVFjYTZBZXZWNW9rdWJ5YnJzdWVUd0Y5LU1NMjU1Sl9CZ2ZwaWJ1MWY?oc=5
+
 - [Markets] Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries - Yahoo Finance
   Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGd2TzVZTV9aaENBZ2xETEgyUG5ESWNjZDFGcUwtOXUyN0s4dmw3TEVDUnJCQ0NFTkxPWEtBX2xyRi1kQkg1aVZhdEVYSHY1dXgzZmNzV0JNWjEzSFc4NkdEMVRzY0FGMHRiUm5nU1VhdTgyZTFtZVN5NDl2RWNTdlFKV2ZRX1g2eWNJY29KZTljMXRCaG1PZjNsNTM2dzZrSGN2X0g3SzVVQWJmdWE0UGJ3?oc=5
 
-- [AI] Portland startup Antfly raises $2M to streamline data infrastructure for AI agents - GeekWire
-  Link: https://news.google.com/rss/articles/CBMiSkFVX3lxTE82VVJUbklZOVVxRktQUWExWlVOeUo1S3Z6dTFKX19WNFN4eVcwX1RibWNVSndjS19rTWtfdVFGTjdpX0NyYkttX2x3?oc=5
-
-- [Markets] Stock Market Today: Stock Futures Climb as Markets Retrace Post-Fed Moves - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0xZSVJqTXZQbGtfdVhsT2xNNmFONzJETlQ4bGZhNWZIbEVmR1d2U0tydUp5eElIdF9MLTkyalZZMGt3TU04QVduOTEyUkphTlctaGpWQ1htSjZfcl93djhONVJKakRxY0JYV01jVUxyRFBpaEZJYWVTYmxNUVFSZ0twZ0QxZEE?oc=5
+- [Markets] Stock Market Falls On AI Fears, Hawkish Fed But Bounces Back: Weekly Review - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWtqc2R0WjNQRTlZU1hza3dfc29sRlByN0hYU1pvWjNCZzJQcEl2MEFOdXRqMVBDYVplZTAzd215MC0yRVdOSjg4S09mTjgxdUVFaXNzbXJfdktydVZMUWIyLVhZR3h6amtMMFQ0MlJRamlCQ3N0WEtOemk1azk4Smh1WFpMX19xOUdZMURlX0Q?oc=5
 
 
 Must Read Today
-- [Markets] Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5
+- [AI] Inside Temporal's journey to a $12.55B valuation, and its bet on building a backbone for AI agents - GeekWire
+  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFAycDd6UkxHZDkyNGVMZVVjcUYxb2pZRzVlTHV1bnJGRVdpaHFrNHMyUHYtbXI5NmJlaVRGcHdZaXI2cjdITW5qaEhNT01xSTZYNkVYckVPcXlrRF84bmZsa2NpUER2amFFdkZ1MXpqSjFHdExp?oc=5
 
-- [Markets] Stocks Climb as Markets Retrace Post-Fed Moves - WSJ
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA?oc=5
+- [AI] Can Rising Adoption of Agentic AI Accelerate NET's Revenue Growth? - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNemYxaThEenZwcWhEcG1vQjg3U21lbmhYRm1kQ0o2VVdvOHJFUGh5eDRDR2dkdm5JMGM3RnVtUFlWblI4UlRyMm9VR1g3NmdycXF0NEhSR0tmd09rcjItcGNkZHNPTFdMRWVDVHhHMnZqck5DYTNBeXR3NF9jYktoMlVDMDNhYWF4ZVE2aW1vNzRQVUJzVXg0WmozaDNjZUhFMDFv?oc=5
 
-- [Markets] Fed Raises Rates In Fight To Tame Inflation - Bisnow
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjQ5eVN1Ni1HX2N5ZnJyN3J2RXBEWmFWZ2tjRVpPeV9nRkEtNVp4NUs1MVpjajB1clNfdTI5VjNXRFFaSmtRQUZnUzJ3TGVDNkI3b0JIQjhySFpRbkhLXzR0YnBzYmJRV2YxR0JUT0pXTThxSFd3cjhCd2lvdXF4WmJhbDBIZDA0Q1o5YWlNTU9HNV9sVnQ3Umt4alRtMXpIei1reWhpRDVoQkpxUkxR?oc=5
+- [AI] AI agents repurposed a University of Toronto link-sharing tool to communicate with each other - The Globe and Mail
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnZIaTdOQ0lHcE5GTjZkNWFxYnlHS1lCdG43aUQ2WnZJMnNWd0w4cXZvZ18xSlNka241aWlQalFLdjhVSGN5WjJGVE1CZDdqQTlrdkxPZEsyMi1GNVh6VnJNM2tIa2Y2a1U1Y0JuaHRXb2RUTk5iUF95UFA2Y0J3QTd4NDJ5WERvRWlyMGlDNjl2NVRGLW9qZkZhUTU4blNFYjZueU1DWlZQa0lWbVV5cW9kcEtzdw?oc=5
 
-- [AI] AI coding agent startup Factory triples valuation to $5 billion in latest funding round - reuters.com
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG85U1M2Y1MtNHBfZmxIS3FNNWZELW5UeVM4dzFvQUI3R1VxZ1hCS1NPMnZZM3pNZXRWNE5HcG9XNXVvbzFXLVJQRG0zYXE0bHRoZy1kVmdsSFloX0ZWa1lDM1owQWs2NTNsTmo2OE1JemRFd3dPSXFGVzZuc1NBdnNNR3BHemVlSk51OVFwcUIyVGxJZGs5clZ2cGVoT1Ruc29OeFMydExnc3cyQWQ0TTRMN3ItM25YbkRkSXFyWkVRRHc?oc=5
+- [AI] Meta’s AI Agent Has a Trust Problem - WSJ
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5
 
-- [Markets] U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ - WSJ
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXpmRks3Sk0xbFZuU01XWVltWmRBU1pHbUFQdnhUQmlZNWNzR2J4Y2huaURKOWpJckkyMHY0ZkNxeU04Q0ZwaDJVd21sMFEtNHBBdS1CSFZ2QXdDNzc1elZwdERMdmliWkFobC15d2ltVlliaVBVZXpjU1RIVGhHWnMtQ1QxUk5KOGh1UFBiUkhudmNGNko3Tmd2QWd4NEt3MGllRjRGY09BM0JHeFJnVm1uWWdITUZq?oc=5
+- [AI] Portland startup Antfly raises $2M to streamline data infrastructure for AI agents - GeekWire
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXFtZEswczBJTUFtbWtGb0VMV2ZJWERlbkFRUk1zaGtZUWVMWVZzVnUtMDFCNTAtSjl1VEl3Si1QdkRaOUZIckxmWm5jSkt4SzRpdnBESzVGbFdJRjJYaTVYdnpyTHAyTEU0dU9XM1diNmdHSEJncXI5bE9tMEdrcUw4RDY5bThyd1BIRV84UERzZlR5Q3hlT3NQck9NeDY5ZlFqdnBhSVBWMVh5QU1WeG9B?oc=5
 
 
 AI
-- OpenAI Discloses Six More Incidents of “Concerning” Behavior by “Misaligned”AI Agents - Democracy Now!
-  Summary: Democracy Now!
-  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFRleXNMWFd6dU9Jc29DTEE1ZE5zaUNBdFJJclRvOXB5cW4yS2dYd204c2R4V0hGUzNqRFJjQU5hMWtNS1dwUUZQQld2dV8xRlZMZnpvbE4wcVlTTzNadHpSaXNhUWNyMWNxaFV5MVJyVkNFbWlUZFJZRnFjanJHVTBYM3BHV2t0U0dKdHNWVm45TmhmNDlhZ0JGUWxPUWZENHNzRl82MmoyYjdHTm1XaWdZZnQyS05GSjVEVkg0NlRxY0pGaVdvVVJ3?oc=5
+- The End of Shopping? Agentic AI and the Future of Consumer Financial Services Introduction - Consumer Finance Monitor
+  Summary: Consumer Finance Monitor
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN204Y0ZrOWFNdGRfVnJQc2JpRXF1bDY3cVhqRHVwcXdFc3A5WHRjR21zOWFFb0tsZXZwTm1OSTVMVUVzNFNReEljUkhsaHoxcHVxUThEQmNrVDlTZFpSSjRWd244NTZXZ3ZqVTVBVnpJODh4dVlLaHY3dDloLVhRZG14amxicGVpX29BTUYtdEI3aC1vYTZEZDdSR2lWRW4weEswRnkzRUFmUW9vZXRNZFB0RENtdzdJSHgwRXV4MmItb2VMM1VHNDN2UkQ1cWZiMzBEcWFQdw?oc=5
 
-- AI agents are smart enough to break the law. Who is criminally liable? - CBS News
-  Summary: CBS News
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPeW5nbVNrOXRORG9MY1o0QTdBdEFHVGdqaVMyZ0V5Wk9qNDN6Ry02RUFkNmxXX0R1M0UxX2JzT1FlRFg0NXcwYndBb1F1b0lyU05kX1hMNDM4dkU5UlZ2a0Y2cU5wdEVpX085bUl6UV93eE9aRkVLSzhIeGtHN1ZnaFJQNWsxdFZ0MFhzV3E1LWdQWUxUU3dfbzVIVQ?oc=5
+- Anthropic says its AI model Claude is helping develop its own successor - Fox News
+  Summary: Fox News
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOODF6a3NySlluY0RDOW15cDktZ2lpX3FPVzNTRmh2Sm9UUXpzT2o4QVlESzFHN2xkWU1yREw4aC1yUnBYSlZncy15c1o5ZjhjODVHWXhhenRFQzZNZXlpU2ZoeTVUMk1ZQ1ZWOWcyZlRRVjNUSUdiVzdlOTBpcUlvZnJ5Nkt2WlQzSk40TlE4bktyS3o0blFsZi15ZmFGZXJBTm5vemlFMlBqR2x1d1BrbQ?oc=5
 
-- What 40,000 agents reveal about the future of enterprise AI - Microsoft
-  Summary: Microsoft
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5
+- Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Phys.org
+  Summary: Phys.org
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdWE4OFk5Znh4dUI4UElpcDJfeDJNcE9XREhaWmxvVHZvTTZEUFdBUnpteEVVOEhYZlZVRXVvZUhjejVvQ1ZaU2VlR1RCV1JfVEk5TTJsUFZ6NHNlUUNfT2Y0WEF0VVBNcWhUSlN2emo1RXhfdW5wSzQ4VQ?oc=5
 
 
 Markets
-- Dow futures rally 600 points, boosted by declining oil and yields as traders attempt Fed sell-off rebound: Live updates - CNBC
+- S&P 500 futures are little changed after Thursday's post-Fed bounce: Live updates - CNBC
   Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE16dXpjUG95TlVORmlaMUtvNmc3bHFhdTJCZ0N0U2l0dmZ4aUdaVDkyUkdfSmhGeHlBYXpsM2M1Q09RaE1QQy0xcFgxSVh4WnpvaHdIZ09obUswQW1hazlveGZXdHdNRHd3Z0NsU2QtZ3ZLdjJseW84?oc=5
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5
 
-- Navigating the Market: Inflation, Yields, & the Fed - Yahoo Finance
+- Stock Market Today: Dow opens lower, S&P 500 and Nasdaq are mixed as oil prices fall but yields rise - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTl3alo5ZGhnMDh2WnJQX0lGNklVT0FZOFlBdk1PUkh5VDFKUmlyazc3UHJILUpRZVhqTS1XcGRBUUMwbEFtZ0ZFWXlheEw5T2Q4ekVhRjhKODZpSXBZSzVHQXJsME9Fb3MyNm9WODhRT04xS1daMm90Z2hLWWdTSWtOT2dpMGlCOF96aTFVTUZIVnprSHpmYTV3Sm9pd2xUQ1k5TWtNVHdVUTBhT0JaZDJHeENUSW1QUTRsbVczQlZldjJYb0trZ2E4WVBWSW1ESnlPZUhR?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq mixed as oil prices rise - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOVE96V2tPZG01QzFNNkNvb3pTeWoyTFg0c0ZEcHhBLVNveXNWamZyNktUckcxTzFlRnR5MjhJWEE0ZzByWjZCdlFRN1F4YnZvaFpHTTVwVWotekJtamtjQ1MtUHl5SnlxUlRmUUlvYjVXM1oxVWNHZ2tYUENDQ3NvdU1tQXBqb0lCVElCeFFTZUdkNU1TUmpMUk56TEpFb3JnSlF2WHF3?oc=5
-
-- Markets on edge as US Fed meets to tackle high inflation - Yahoo Finance Singapore
-  Summary: Yahoo Finance Singapore
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTQ4ZWJNcGhmdVVSY0JsQWxWb2dYRUJLU1cxWnNMU0tRRUtEeXVjTkFUZzdObEljT0ZOY0x0TDZDd1J1X1E2TExEdTBWSzFMMmdjRnRXS3BJQ3l1RURIV1V3elFCck5TcTZPTGUyV3FUSXJ0cFhVaEI3ajRCaFB0c2E4M09LMUo0WEs0MmJ4Sk1haU5tYmRwQjRtRGE2OUdFXzFVV0tqSVE1QXBFc2Rr?oc=5
 
 
 Travel / Boop Relevance
-- Singapore Airlines sees travel demand holding despite global uncertainties - BusinessWorld - BusinessWorld Online
-  Summary: Singapore Airlines sees travel demand holding despite global uncertainties BusinessWorld - BusinessWorld Online
-  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjVQOXlfYzA5d1RGMXJtWXgtaFllbWQ2Z0xoUTF5VWticzJodkh5UGF1eHgzY0xzSzlPZDNIUFp0VU5tQjVMZzhsWXZCU3BJUk1IUTJJYV9xQVhSVnpBSFBTNFdMQWNKV3hxUkN5cGI3NWFkLTJSSnlCOEhRMTdFUHRaMWFGQTNaYWdJVzRfYzE4ejRCcFd1aVU3SGZoYkF5Q0NEaEI4SkV1NFVZVGJ3YjhnUnBQODRGYkZnSnNQQUx1Rm1KeXp4aUVuOURIZFJQ?oc=5
+- Merkle Launches Customer Value Hub for Travel and Hospitality Powered by Adobe CX Enterprise - Little Black Book | LBBOnline
+  Summary: Little Black Book | LBBOnline
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXVGOHNiV1hhZmU3dmgxd2g5RWRmYlBIZnlzOEZPeGtraXl3bjVpdUpxTl9SZEJmcjZudXRxMkdZNFBNTEZZeFUwV2pNY0pMdTBzZjIydUJOcGItM0VSbmJSTWFaLTh6cGgtal84NjJrTzhSbzhmWVBmbjVldi14QU5ldWw3aDU2WEpfS1hvMzB0UHlGR1U4RXcxMTlKbFdsOTJkVzNya3BpM1pWbDRVVkFRV2xSN2lleFRB?oc=5
 
-- Travel marketers look to improve AI visibility and prepare for agentic booking - PhocusWire
-  Summary: PhocusWire
+- Travel marketers look to improve AI visibility and prepare for agentic booking - phocuswire.com
+  Summary: phocuswire.com
   Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0tBUjdlN2N3X1lhQkxvRlRDVGdhLVJyZWwycUw5bE9GNVZ1NHJ1amxNMkNlckgyU1lvOERaVGktUnFrdDJld2doRFJ0Zm54SmFhX2R2QmowODNyOFBjWllSZFR3TWE0ZGpNTTZVYWZYUTV6U3dSdTVrTHpFaldHR1VkREZGaDM3VGd4UENWZHl6eWdEcmxnYndldEdXb194eXZWbHAyV2JjYjZoQ1NQeko1SFVueEhqVzkxZWthbw?oc=5
 
-- What It Takes to Make AI Booking Work at Scale - Skift
-  Summary: Skift
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9VcWRjTlZPa25ZY1pYTlRIUEVxd011ek1XVUdZV0tEcEZ4LWVHcmp5MzdOWXd4QzMyQlIyaURxOUs2QVBHZEhTa2NMNGtwTmFpX1JGWGFGLUgzeHFRTWlpazNOR0ZKSW9VbVdpanozQ0UzU0otb1cyRWVaRQ?oc=5
+- Best travel tech gadgets I’m packing for the 2026 holidays - Gadget Flow
+  Summary: Gadget Flow
+  Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MYU02UDZwSk01NVNLSUh5UTNCUUJvYTdQQUhtMzRwaFJEZkVlS2NnMlpBcXdURW1FUGViTklPLUhyajRMcUtaT2V4ZXBtSWJlNllpOEtKb29KbXBrRFNaUw?oc=5
 
 
 Bottom Line
