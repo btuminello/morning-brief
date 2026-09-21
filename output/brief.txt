@@ -1,82 +1,78 @@
-Morning Brief — September 20, 2026
-
-Seattle Sports Today
-- Colorado Rockies vs Seattle Mariners — 9/20 - 3:10 PM EDT
-- Arizona Cardinals vs Seattle Seahawks — 9/20 - 4:25 PM EDT
+Morning Brief — September 21, 2026
 
 Chestnut Hill Weather
-- 48° to 60° today. Right now it's 58° and feels like 56°.
-- Around 8 AM: 56° | 2 PM: 58° | 8 PM: 59°.
+- 54° to 67° today. Right now it's 63° and feels like 62°.
+- Around 8 AM: 54° | 2 PM: 66° | 8 PM: 57°.
 - Wear: light layer, umbrella.
 
 Breaking News
-- [AI] Crusoe CEO Chase Lochmiller on $3.9B Series F funding round, demand for AI data centers - CNBC
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3NBSWNtRFFLNmxlQjM1YWEtOXU5ZzIwY01GUmQ5Q0xvSjRrYkxiVXdhYl9WYmxMVGxEXzBCei1RWXFzTWJYZmJJY0Q4TmJkRG9EV0FVRldCRURjVXlVM1ZhSnctYmdySW9KYTVHUThyTms5ckl5OTVMNmZSdDBUd2tzNDRLa3k2TGhLNEdWOHRLeXl3YWhjMkhuVFFXeVNkejdWRFEtWk9BeWZXamNzdnV5cEFHb0s1Q1lTRnFrQ041YXIxd0lUWWtRN1lSTDA?oc=5
+- [AI] NUMERATOR LAUNCHES CONVERSATIONAL CONSUMER INSIGHTS IN-PLATFORM AND ACROSS CLIENT AI ENVIRONMENTS - Yahoo Finance UK
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmJsQnNMR2RsQ3JSX0RzMXFtTG00SWFueWxBbGZ6NzNIV0FpMzRVUGRQM0NTWE5CSnZVREo4aThlSTZlU09reXRIWnBPYlNqUmc0NkM1MUYyUGpUbF9JZThNcnRRZ3gwVkh4blJVTTRIdEw3SGpQNGNXWGtWVHlOZHQwT3lwdFJCcDJ6dkhqa3k1Q0JRZV9BWGc1OGl6ZWV5UkE?oc=5
 
-- [Markets] A rapper gets the boot, and the Fed raises interest rates: The news quiz - NBC News
-  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE1LS2IwY3lqTTA2ZDROSk9NMDUweVlQcklUbnl4R2U5ZWNLQmRjWFdaXzVhYWxrUlZRQ3VnUnZVaVdHNFY2MWZzVTF3S0Q4R3ZObFUxYkVzSjRXNE9NZE9JOUQ3Z0ZnVW9oaWoyNnhhRUVFdzF6cjBNZGtB?oc=5
+- [Markets] Ondo Finance Launches In-Kind Conversion, Letting Institutions Convert Underlying Shares Directly Into Tokenized Stocks - Morningstar
+  Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZUU1LXo1OUw4UnlsbjBZZzU1UFgyVmc5empNcTFsNUllaTlnLTB3aEV0c2lXeUQ0aExLd1JKUVdqd1A3dE1yQ1Rzek5DbzFfWEpHcWZ1VC1Qd0FaTXlIN3REM1lMZHBhUzc2UVVWNlItaTlYU2JXaEVyUGV5NURCbUR4S1BhTlBjQXRCdnpBYmg2MEV4dUFuTHZOSFlBbTdDWE5lMEZDTGluU1gzQ3E2UUNCa3YtUk9MckpEWXpCU2dsMWRiT3diblRuNGlTaERfYjJMdlpNZzF6dmxmTXNhZzlOZWtvQ2lEVnE0SWZGR0EwSl9WRnZsQUc0dHNucFljQk52dnlxdGo0NTA?oc=5
 
-- [AI] Portland startup Antfly raises $2M to streamline data infrastructure for AI agents - GeekWire
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXFtZEswczBJTUFtbWtGb0VMV2ZJWERlbkFRUk1zaGtZUWVMWVZzVnUtMDFCNTAtSjl1VEl3Si1QdkRaOUZIckxmWm5jSkt4SzRpdnBESzVGbFdJRjJYaTVYdnpyTHAyTEU0dU9XM1diNmdHSEJncXI5bE9tMEdrcUw4RDY5bThyd1BIRV84UERzZlR5Q3hlT3NQck9NeDY5ZlFqdnBhSVBWMVh5QU1WeG9B?oc=5
+- [AI] Boston investors and founders say AI can't replace human judgment in startup funding decisions - The Business Journals
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVN0N1B4cDVhMThzaXBSOWlvekRwMzZfU3Z1ZXljcktaTXY3RXJneXRrandnSEpIa3JReW1wVzRPbjB6eW9kOXVFRVd5YjRZcVJUZlFQakVxSnJWNE9OOElTTFl2ZHpfel9DWWJ2Y0Ytem1jeG9PMzV4NlJqeE85OGV0NDdaS1pmZ0hRR2JDNzA0RGtY?oc=5
 
 
 Must Read Today
-- [AI] Box CEO Says Companies Will Have to ‘Build Something That Agents Want’ as AI Agents Become New Consumers - benzinga.com
-  Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMzRUdEhOTHc2Tm4wMWxlTmg4OGloZHBNdGllVHRDRG9rYU56NFE3YkxsTFU0aFl4Q1VSUEt1b0JfVlBPZnF1S3YwN3lFNE01VDRMb3g5clY4U0FFbEU0azJNamJQdGtTdDU0WVJCVUFGQkZmdEItQ2lFUEw5a0tIeEpBMFJDUUlOQy1ETGJuZWtXM0ZCSmd3WWtoLWxuVUlfTzhvdHZER0xqNlBna2NGR3pfNnZoZjgzN3M2UHk5eEY3OEVtUTJDUS1LOXlBRzlIbHlNSmlaRnNia0JUSXpFUklsWHBpSlI5Vk9B?oc=5
+- [Markets] Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmw5dTU0bUtGQk1BdkpteVFtOFpEN0tycVhJNnIwQndiRVVaZjlMcG9lanhVZkxLd1lMVlRRMGMyNXctZkRDVnE4YVNXQkg2QUFxcEhKdVJ0eWl6Yk9HOXRKMTNoUWNyNmtMX2FZOEdJd0FETUU4Mmc1SVFXcllLVmt1bDhoMUdWRzN2VGUzMnVIWk1qRXBONUZSN3BkMDBvOG9zMTA3WUdVLVFDTXlj?oc=5
 
-- [AI] AI labs are losing control of agents just as they want to give them more control over your life - businessinsider.com
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2ljai1rbHRLT19FbjdEMXRXTWVTLVpLN2RXUm5VLVBRUjBNcjc1ZWdWaVdmSk8tX3lLaTZ5QkZJcmZob24tWEw1RWw1YWpWN1Q0Z3hqS09vNXQ5ejVQb0ZZeG5TVXlBb0tJeC1PS1ZXWjZoWlNmX0VqLUhXVGZ4SnM4MEcxb1lNT2pYRTk0dklUX282QlVr?oc=5
+- [Markets] S&P 500 rises 1% as AI-related stocks surge, oil and yields slide: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5
 
-- [Travel / Boop Relevance] Beijing probes 4 online hotel, travel booking platforms in fair competition push - Global Times
-  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE15cWxZNHBXQXEzblAxcy1pc1FLZWtPN0F1ZWN2RHZTVGRaSlBOdWw1SGJESk5Yd1Rjb1FLVF9IYmN0SHdGY1VtWFBuRF9qYVEyOHE5VWd0Ym5mUFNJbnZNOVVR?oc=5
+- [Markets] Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. - Barron's
+  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSTIydHlWS0FFdS1GRHczbHByd0d5aXU0OEF5X1lkTUdVTjlldTlVdEYwZHNxR0Z3M0RvWnU2TXBKV2R3NDViTFoxZDlVV3RfQ0NaZVQ4VXhFdmdpVXh6eER2YjlhOTRrRVktQ3h5Ykd2THBmcmZiTVI0YTNWdw?oc=5
 
-- [Markets] Futures: Can The Market Take Off? Top Stock Of 2026 Is A Buy - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHhyVHV3V2FxU2pSSGVlenYwaWhzRTdFZE8xNENUdkNGaXVaUDFnWm5VdUJjS2owYnpUYzNnX0RfRTl3dDdCRkVTcl9ZX0tqQi1QLXU5RXk1bEVDUVFkTTZsR2ttN3A2d0labl9BSXhxbFhZbXl1MEhHRXBZN2tEeXc1S29BZllFUmcySEpTVVJGRWtmaDEtWlcxdlItNTREMGd6NVF0X1c0YmdmRUF0LXM1eTJZY3BrSXNoRmw5bw?oc=5
+- [AI] Urban Institute Urges Guardrails as Governments Experiment With Agentic AI - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNX3JGQzlRRTFGaGpFS3VfOWt1LUNKWVJndy0yMGZyZWRRbDdYVl9PNTNRNlBONzl4dDBQOFJzOFdLa1V1ek1EODVFQlJqSGJrXzhLaDRfMGJqMFdNQXVLbUdJTUpDUFQzeThzSGhDM2JaMXpXb1V5VXJPWl8yaXBTV3V1d3lGdndOVmEzNUhCNjFaMXplalYwMUI3UUlXVVluLTd6dTJyUC1nMV9hRDRTYllkMU1Fazh5b1JzamZiRW5uVFVhUFhVRWJuQXc?oc=5
 
-- [Markets] 3 Dividend Stocks Sitting Outside the AI Power Trade -- And Still Winning - Currently.com
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUpLT2phMDNrdE40ekZJTEluVlZSNTBEZlVkUjN4UDI1SmRCNHVpeU9XZENzNHQwOW45OVFHc1EzUFhzVUhQajZ0VXJrTlY4cVd1VlhJd1paVGY3NVVHQ1ptNGw4NGswX0J1TkdBZGp4bUpucklCZ19aaG53SWdTNzNCaWdXVldTZ283VQ?oc=5
+- [AI] How V7 gives AI agents institutional memory - OpenAI
+  Link: https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5
 
 
 AI
-- Consumer Agents Signal New Phase for AI Growth - Goldman Sachs
-  Summary: Goldman Sachs
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFY5QkdoeW02RHFfRHJTMU80enFMWnNoeWplZWZWa0xyYm1ES19NZVdISVJqYzNUM0N3emVGQldaRGNldzhsVmxJRWMxQkxjNFMyN2dDTW9hVTM4UG02X0hhdE1UZ2lLSWU0UlhxNlcwZFZTRnh4cHhTcjd5RDRvQXhZZTJvSFRvWEVFRmUzSHp3UFpxQ2UwTg?oc=5
+- Claude Code now also accepts instructions in OpenAI’s Agents.md format - infoworld.com
+  Summary: infoworld.com
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTRzQTdDY2pzbXNLMUxQemdoOXprM213anB2SUN5d216WHdBeExKRnYwOUkzcUw5VHZobllvb01IbDFMdFdYdFh5MW5qSVVkSVZiS194WUlYb2xFUEh6Nk82LWppNUdoUWVMdlZrYWdQanlRb3pDTmJpUVUwZFp6VFQ0dC1VUWl2LWRhRHpVcHQtUFpNUVNTdDY2SGdRMDYyTERsTml6RXBtc2dvT0lTNzk4V3BuUWc?oc=5
 
-- Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - The Guardian
-  Summary: The Guardian
-  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVXE5YTI5dDR5YjNpVHIzYnhMQ3huclFnajVuczZBaU40U2RqQkFXMFVOVXJJTWo5SzlVN0tQMkhvdm84bDJMa2lkc2NKbDlHWVFlX2c4VzFyVmFqdFdzbkdqMDNBSXE0N3ZHR3BKdVBzcG44emoxcA?oc=5
+- Consumer Headlines: AI Regulation Debate - news8000.com
+  Summary: news8000.com
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3prZ0F0MDBrSHFDYlJhTDFNSTFyYUx2Q1hrVDRuRlowTnF2c3pXLUNacFJiMHVvanZ3djdMWFpqRmRrZWVLc2RDUWJqZ3BVcHI5cENYa2dYOWRoVDcwVHFZemhSLWRNLUFNby1SdXcybHhOVnVpUHotQlhMbWpvaWNhTmJEbEN1cTFzRFk4MEFhc2pweXJfNS10VTFVX3haSzE4M1BnLVFTZ2xFUmZnQzBObUh0b25f?oc=5
 
-- Trump to host China's Xi Jinping for trade, AI talks - KCCI
-  Summary: KCCI
-  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWjJRTDE5YjFvaGlRLURDR0VsbWc3dDgzUkdyUThoWmVuT1JfXzFUNFFqYXBsOEM3ZnlEMnlJN1hqQ0pZMGtkUFhuT1BRd1FyM2ZnQ2tkWFJFOUZPWkZDWlMxR0N1cG1vR3dhVEI3dWpwSDBQeXc5UlFn?oc=5
+- Calls increasing for regulation of artificial intelligence - WTHR
+  Summary: WTHR
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEU5cWVHUEZWLUdNTndidVRydlBNQWJHNXRjTTR5YXlZRy1TbjVPbE9teENPTEpsQ1A4cGNSYVJlLUlVNE5rWTF4OTdlR2t3LURXMXlwcjktWGdld3F1WTYyejBwMWZ4dnB1TURvZ3lqY0RlZlppU2otclk5MVEtOE5HNE9MTERCSlhxSjZ3QzNRTjhxdlVDeDY0MkJOOW5rOFlsVmVmTXprbk5oRHFyenFNOVp0MmcxMEZoNVl1RXF3ZGxKRDJkLWUwNA?oc=5
 
 
 Markets
-- Ferrule Protective Sleeves Market To 2035: Automation and Semiconductor Demand Drive Growth - News and Statistics - IndexBox
-  Summary: IndexBox
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXFfWGdGWXNaNlhvWWs0OVNCVG1MYnBRdzRZQkFENW56WjU1SDdsSHJPcFZaWHU2MTI5UjFXYVd4VkxkNEpYbVc0NzhKcHJyOE1kdnh3N3lobXU3WGtXWklpQklwNm9rSDJaUWVXeTFja0pxSENiM0FSVkFaaTNCVUhwcDAyQTltQk9tc0F1Q0ZxTFEwcUFhM185VFBjbXhUZ2NBalJMWmpaR1k3LUdBeUUyajFWa0w4cFBvay1TRWNXYTNGQ3pxRW9sbw?oc=5
+- Stock Market Today: Nasdaq rallies to within 1% of its record, Dow and S&P 500 also climb as oil prices and yields drop - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEJOejBsOXJpTlppN0tVM2lCdFk5Z0VxVzUtcnpucDc5V1ZwaHBWWGNVazlMR0lZVTEwclZfXzhmbDJXVUg1eFRCOG9USy16TXZ0ZHl0dUQ5RDZPaHVzX0phbGI1dFh1anNfUDZ1SkN2OWZVOUtMSHhWUVJaRFpMOG10cW8tTW9uNW1KQUdNcllWVGJmalh1TzdyM0IzaC1fT1RvczZCSnJ3WkhHTV8wUk04QkN4aE1VN1pPVlg3M0hEZ1RFcjRMaw?oc=5
 
-- Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5
+- AI Chip Market to Grow at 22% CAGR Through 2032 as Hyperscaler Custom Silicon Reshapes Semiconductor Demand - EIN Presswire
+  Summary: EIN Presswire
+  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZkE5T2tFMGs4LS12V0pUOTRWN2dyX1ppNmxVR25KZXZicUI2Tmg4N0hzblItTDJtRFBhM3FqRndfaGtZcGVjelRuTWNsZGV0X0pvVlI0YWo2WTF5QTVGb0o4RWFVbzlaYWtwQWZ6b19lckRacUpDSjU2MW90eEdsamszRXJpRGRSUVZzWVhfTXNRV3VXM0xkYkE5blB6ZWxodTJPMzNjdkVicXFDcnhLX2VmcllQSVBIVlJBRDlNQmpIckRfeWltNmNPZmItUWhPR3ZDT3RZMWRpOGhCLVd5ZHVmUWtzRndo?oc=5
 
-- The Fed Rate Hike Won’t Fix The Inflation It Targets - Real Investment Advice
-  Summary: Real Investment Advice
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVBnRmhDUmVMMDJSYzRENzJlTy14VFNWa2JiSTl4eTRjSHFNWk9xdVhuTGRNQ1gzOTRMR2JJVXNITlpEaXJMamh0OEVsaWVhUGU5dEZDX0pkRElSbFZjbDQ3Ti1kSnBVRFBaZUNPQU5jamJhVWdEOTlIMlFYUEtfell6dzdDMlFoRkNNX3U5SUdfcVJPODk3RV9Fa1NwczYxOHc?oc=5
+- Tech stocks haven't been this cheap since OpenAI launched ChatGPT - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWl4NDdBWW5pRFFoTlA2OXZ0azlSV1BHZ2hrczBuZ01qUi1SWXJQZVJKMk42cFJPcWhUTWNzWEEyVHpwR3VVYkNwbjdZTEhQWHpuVTRDUXNzX3hyQ08taDlyRkNEWFJfNWZhM2RMdXdQbGVVOFR1M0ZVSUtHdk9Yejk3b29ha1pmOHhOOGo5Qi1MVFJKZ182YjhaYUw3UFNQZmhoQ2ZZdWRqRzR2MHZGanNlUnN6X3Q1OHBRRmlR?oc=5
 
 
 Travel / Boop Relevance
-- New Travelport Survey Finds U.S. Consumers Want Greater Clarity and Confidence When Booking Travel - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnBsb2I4bnBlRXo4bXhETm9fRVFOcU93aVlvWHVFRzlmZGY1NjcwbXBvNE1KRDZxYmE0WTVVejB6STJJbmM1LU1NaHByWkxQNm1JNFpkWmczakVobi1zWDBDWXViMl9fbHhodnlpMDdGeTBxNkhhR1gxOWo3c1Z0VVJneFNqNW42cmNjWlpRaS1fazlMb2pqRjNqazZYeHIyaG1SLXRKTENNN2FtTS1kTjhnS3oyRG16cmZuSmFDRVJqMFhxeS1EYktGLXVuUU9udk1iTzlNdw?oc=5
-
-- Travel marketers look to improve AI visibility and prepare for agentic booking - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0tBUjdlN2N3X1lhQkxvRlRDVGdhLVJyZWwycUw5bE9GNVZ1NHJ1amxNMkNlckgyU1lvOERaVGktUnFrdDJld2doRFJ0Zm54SmFhX2R2QmowODNyOFBjWllSZFR3TWE0ZGpNTTZVYWZYUTV6U3dSdTVrTHpFaldHR1VkREZGaDM3VGd4UENWZHl6eWdEcmxnYndldEdXb194eXZWbHAyV2JjYjZoQ1NQeko1SFVueEhqVzkxZWthbw?oc=5
-
-- Amsterdam founders launch Away.ai: an AI-based travel agent - Hospitality Net
-  Summary: Hospitality Net
+- Amsterdam founders launch Away.ai: an AI-based travel agent - hospitalitynet.org
+  Summary: hospitalitynet.org
   Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNxY0lPU0ZtTldQWGRkQnFBQlFVSmNoSmJYM0tNbUx3eEpXNVlkUVMyaFBOTnFVa2o0UWE5WkJvM05EOHQtTFNTaDk4N043aVpfN1M5eEY0YjRGYmxqRUhOci1BQ1ZqUzRzbk5QdUNydEI0VjAtRS1BTXBvMlR6TW5lR3B5c1BOaU8xcExMQXEwQldEZnk1RG42aWJzWGN2NDVB?oc=5
+
+- Explora Journeys Launches its Luxury Cruises in Thailand with K A Luxury Travel - Prestige Online - Singapore
+  Summary: Explora Journeys Launches its Luxury Cruises in Thailand with K A Luxury Travel Prestige Online - Singapore
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWI2cWdmSE1JRVhsd3FsSTJKOEZFWGNiQW5LLTdnem8tcFp1VV83S29WZWljUFFUajkyMF9oOU14RkdZdG9xaW5pcWpCbTJMSHhTS1M3eUpzQjRUY0pSdlJjT0k5RUZyZmtHZWFaZnMwNHRPZFRQbGZQcFA4RTBRcER1eFlRVndrTEJVLURUNUhxaGxfSndnSXplbUthYTlGdnJSbUdqMjN4Q1BpLWRkMU9aSjhwZzZ5YmFCRGpKTlhoRm5EOXFLZl9GZ9IB0AFBVV95cUxNejBtYnVNblpFMlgtb1FUaVhabXN6NGdNWEdhUERwdXVHYldadzUxejdMRkJnYm5Fak4xM3VGTEdpZVpTMjdpTzBEVlBjOTdyTHlFa0RvSkNBblZCYTZvdVg0dXM5LTVGRnRuVUV6TWlNVEJsQzhRcHJTcWtXWmFxVGxPa0lEZ09Ub2JHX1ZiMUV4b0h2N1FfVWVfZTBMcGZwdkNPSnJub1lYeFRvNlBEREw4cmtGZ1JSdmF2NTd2VG9HU09ZMUZ1Z0ZadU5mY1R5?oc=5
+
+- Chinese online travel company "TripCom," which has clicked at least once to book hotel and flight ti.. - 매일경제
+  Summary: 매일경제
+  Link: https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IS3lPWGxnSWJmbGJZaXNFNTZHbDZPU19ZeEUzTlVrWnpWWjBQWk1GaXVfYkMtYmVSc3BiTUNOV2hHT0x4WmlXWVcwaFJkckU?oc=5
 
 
 Bottom Line
