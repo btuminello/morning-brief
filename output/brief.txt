@@ -1,81 +1,81 @@
-Morning Brief — September 22, 2026
+Morning Brief — September 23, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Houston Astros — 9/22 - 9:40 PM EDT
+- Seattle Mariners vs Houston Astros — 9/23 - 10:00 PM EDT
 
 Chestnut Hill Weather
-- 52° to 62° today. Right now it's 60° and feels like 53°.
-- Around 8 AM: 56° | 2 PM: 62° | 8 PM: 54°.
-- Wear: light layer.
+- 46° to 62° today. Right now it's 61° and feels like 53°.
+- Around 8 AM: 52° | 2 PM: 62° | 8 PM: 53°.
+- Wear: light layer, wind-resistant outer layer.
 
 Breaking News
+- [Markets] Fed's Barr says more rate hikes are needed to bring down inflation - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEtlSDQtX2FyZnh0ekp6ZXc5ek5mdnhDTmJXdUcyRWZLalpFMGNXbnpWSm5oNVZSZkRQSmVPMWZLYVB4ZnE3R2xIXzNScDN1c1NwOGtpZldVbVQ4dGZRaEROZGRQNmthTEhCNm04MDZ1TDdqSW8ycEhEXzBwS29OcU5RbDZ5SmFiNWxRT05aUjdPSmRKcXRpejEwMG01clJWOXJKRmI0RjIybmRVSTkzSy03UzZuSFVMZC1CdGFkTWM2Rks1RTNTTg?oc=5
+
+- [AI] Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments - siliconangle.com
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2lpNm9MdjBiVVI4blRiMjcydmVPcElmaDl1aWVicllRbGVSWUJGTDlSUGdWZnhZaTFUaWsyOXFkc1JMWWJRLXBadks3QWtZalAwb3RDRm15aGRYdGFscllwRTFacklOYTA4VW1JVWJfSTFSaHF6UFNGSzRLTnNybkFRcWZFX2hZQ0wtWHc1LVZKeE1CQzF6S3dPbzZUNU9xaWxhNzNoUmJvR0dkWmZYbHItQzNNVUF3bG5QbU1jdmpJSTh3bEFtcWVDZnhoQQ?oc=5
+
 - [AI] ThinkingAI Launches Agentic Engine for Consumer and Gaming Companies - HPCwire
   Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzJyRnVhNmdicUQxTWY3Y1VSZWNYUVlMTnZRV29WN2w1V0t1Z1VpSmFRNFZjNUpDRlktZlpONjVwTzNGS1ZWdW9UVi1kQ0tJNk9hOEUtUHZCYU5ESUozS1owdjJXOHB2cmpsb2QyaEdWQ1BiRmZjalExNkQzY2xNTmUyQWhFS3dQQi02ZTF6MG1wYVdBdm5QUXkwcjVpUlhJcmhQbHB0M3B5VUl1ckFya2FSdVJkYVA1MUE?oc=5
 
-- [Travel / Boop Relevance] China Eastern Airlines Launches International App 2.0 with Enhanced Digital Travel Services - The Manila Times
-  Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVEpmWTZJT1FWNHhOU09QZmpxM0cweHVIYy02eUExV3drSGRrUlozTUtRcG96RWRSak5wV0Q2dmxlb2NaQ0txbmNJSkt0dTcyQjNUajd5VHlMSTdZTFBPTHVLUkpfX1BIQl9LazEtZGxRUzJ1Yk5sN0JxNnRGVVJPLVRWNHRSbVRDUEhjTndKeVZPakdxU0hDc1lGUXpTeUN4V1BZQ2RjQWhZOXVzT0l2MDVMSXlWbVVHRGlhSkdYSnYtbDhOSzIxajlTYkprSVdIaHQxUWIwV0pvY2ZtVjBZTWpDMXNIdHR5UWNYb0lsVnNJWnRm0gH6AUFVX3lxTE9hSDRpM2M4S1FVeHZfMjZHYnZPcXo5cG5ia2N1TDdwU3Nfc3lxRUNNQzhQLUtWVWd2RzJYelpGNmhoRW1LSHZ6YkZsNTNzMVlVcGFtdXV1czBab1VnNGY0TnFNZUZWYjZVUk1DQXk1c1JCMXdNM3FRZ0o4TUN3UmpEYUlKUDJRNFY0c0tsY0JvbFNfQV9zYTNraU9HTEdnM2gtQXFSb0FPeXRxejdIUGdhM0pJVDQ0YkNXd2pJSkZVbjJaNy03ai1HTzB1ZzVqaFJqZ1JGWGJiRzFqeFpqcUl4ZHJXMVNQYWc1ZkhpbTdQQUt2NENlNmFBYWc?oc=5
-
-- [AI] Tempo Launches Loop to Turn Fragmented AI Adoption Into an Enterprise AI Operating Model That Connects Strategy to Human and AI Work - Business Wire
-  Link: https://news.google.com/rss/articles/CBMimAJBVV95cUxNUjIzTnVkZDhUSDNvaVFvUnB2X1dpa3VNWFFDTy1FMk5kZGluUnlTNEpuTnRkbW0xdnJoaUVvVzZFcmxIaVVycHRkR2F3NnpMeV9yb0RsNW5tWWkyczlfMjJFc1pzR2JkOXNoU05UYm1ELXppVGZVQzZmemJuRFBnM1JsVFpuMm5OZGJETVFlWXNzcE1HNXI3eHQtWlpTb3RHdXdBX3ZmV2JVNjcwN1dral9PQ09zdTZJOU9yd2s2Sk9RMk90YUsxN1ByWjZBSERPTmJDNW1lQmYtYWs0U29KVk1TRzFVTlFBSVBsZjBtbVNYM1FyZThQV3R1V3VFN09KMjVNbk1YWUY5aFhyRlUtdUFiZmhENENu?oc=5
-
 
 Must Read Today
-- [AI] Major banks warned AI shopping agents are outpacing consumer fraud protections - qz.com
-  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMEo4VzJxdVJ4UUR2QkpxaVJ5R2s3TlhOLTJEbk1nMVNPOEFYUW5fYUpaTzdhT1BxZnZyY2gtaEVrZUJQX01PZWdkNHRyRXBqRm1QTUNTLVVURkU5LTg5aWwteFpOTFpxb3VhVFRXa3ZnTkZF?oc=5
+- [AI] Meta's Muse brings agentic AI to consumers; could prompt 'massive inference demand': analysts - Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTM3bW81bVdKVGtTbms2cEtNdWtUN0Y5N05XSjdqc3VXX0l6eUJmUWlMMldzOXFkTS1jVDl6bnJaV2YxeVBrak1ERjRrOFFPeGh0Z2duUzJIRkxaRUJpSkRRb3RvY3BKb2p1YklVSlFveE1CVG9GQVNJWDU4emlwX09odXU2dXhuVTZQMmFFblJfRGwtTGotU3RSUEF2VjZoTjdZLXFOSjFYc1QzazM2d0I5NnhsMkxEVGxXZnNNaUkwMkk?oc=5
 
-- [Markets] Stock Market Today: Dow Futures Gain; Oil Sinks Below $100 — Live Updates - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQbC1wY25QY0ZlNXdTZGJpQ1BjbUR4TDd5dU8yR1BZU2FfTEQzSkVPa0JJckN4dHI2eVpxS3lCVzZ4U19CY1ZMSnFBTEhraFFMcWpBR1dvMWNDbU5BTDhfQnczM2VIYlkzVVRkM2hzM2Y0MGpLS3UtcHVCcTYwZ3VJMld0cDdYODQ?oc=5
+- [Travel / Boop Relevance] BizTrip AI Brings Business Travel Booking Directly Into Claude and ChatGPT - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNRTAwcVB6SU9fdF9MT0ZuRzBZbUxpVy1ZOFZKWXJjQU4zMHdnTktjNFBCdlA2UEJaZUM0OWZKZ1JNLXY2aktxM2d1NFRnUmFVWXFzME9OSlRiSGRZWVRjQUI3RlhnZW12cWU5SkkwRzZZeUFqOGV6ekR5NXhkNmQtT3QydUV4RzlMbFRreFU5Z3dpVTVlVk9Scld0VjhUZw?oc=5
 
-- [Markets] Korean Chip Stocks Gain as Meta’s Muse AI Agent Spurs Enthusiasm - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJVaHRDU0xBVjI3ZTNuRnhIZjhZLXhidlc1dHBiZFFxYmQ0dlV1bDVFNFZ4ZVgwS2F5TVRCYkVPR1c1RmtmUEQ4LXVMdTJLTEJEYUJ5RGwxa3VIYXp2WkRtM1VKRjRLSmx0OW1RekdnXzhKRkxGTVlybFJHYWpJQnZxd0ZjWjBzb05HVURfWjFOMzl4Z1VVX3JMTlF2QUNkd2VKOWVZdDBsWXBRcVhOSUlzUE5KQQ?oc=5
+- [Travel / Boop Relevance] BizTrip AI Brings Business Travel Booking Directly Into Claude and ChatGPT - businesswire.com
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2xZbkltSm94SUs2aWRkcmlJWHYwMy12dERUUDV5ZjcxUkRkZXlPYzJ6OFhJSWpjWHFDSmgwTkE0dkRPQi1NaUJUYVM4bnk2QzVfNi16MGRSSDk4YnZ2Z2xXWlNhY3hGUDZfRFVXd3VzSVZiX3l5TF9ERGxwZzdPUGhWaXl2WXlwQlNwX2tkTjFZVmtJVDFoVU43S01TSU9xZllfajA5dzhCZjVWbWROT3hXdmhtZmc5LXhUOF9Zb0dhbkVyRDFiYVJaMA?oc=5
 
-- [AI] Meta Shows AI Agents Aren’t Just For Businesses Anymore - WSJ
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tJVmk4TXpveG52aC1XYWZkTWg4LUxpLTNPNlZacFJjWW81LUt6NS1zU3B2TXJTeWpZd2ZZRWN1dUNHLTNVU1hkWUxsYW84a1pLejFRV2p3VlkyRFRsaDQzZ2w4NHI4bWdaYnNvVDlmV2lBT0ttRmFzZFBRT3Zrc0l1ZEptc1NPMS11dVFhTDNmUFI1Z01kQXVldw?oc=5
+- [Markets] Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPNldHSHlZUjQ3STV3YU5VOEdjMnoxdnBfdWxlRndTc3E5cDcxZldXWmhVOFI0X1dYN0lZVVF1MTlwMnNqNEo0ZmhCX3dHU3d1enpuZmJzUWpoTk1rLUl6d05NaGRidXE1MXNwUWZib2lHdVExb1VPUGdrNllIdmx5STR6UkRLd2M?oc=5
 
-- [AI] AI Agents Are Rewriting the Rules of Lateral Movement - The Hacker News
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5yTFdMdUV5Rmx2cUVLQVNycFpBWG5PWlBHY3RTcHpKNXlvN2YwUXB6VmpEYV9tTXJfZEp5V2w1U3p5WV81S0l6T2l5WTUyYThoaUNmTmlXa1VLVHhiS1BfaWtwc2w3bGhhT1JaNklvSThkaDV0MDBZZnNvSQ?oc=5
+- [Markets] Meta's Muse AI agent is reshuffling winners and losers across markets, from chipmakers to brokers - Business Insider
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3FETkNEamY3eFhwRV9wU3c0VGNLckNUY2FuMVpFUE9iTEdIbnFVdUtMTEhDVWRqMGZlemRFZ3M1cEkwQUg3RTMxNXZXUW1OVjA4aWtpY3BYcGItU3JDeHRpYVFPeVZ5WmFLQjVhMGxIM19EN0doaVFiNF9weVdUVlRMcVJ6VEZ1NUR4MllIWEVKZWJJa2R5SVdPTWthMnJXNHo0YWhDdw?oc=5
 
 
 AI
-- Exclusive: Creatio to invest $300m to scale agentic AI adoption - FinTech Futures
-  Summary: FinTech Futures
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTBsWHFGZzN5cmhybW1Ca3FjNzNMQ0RtWl9jcjNFOEhxNHBXOEttcFVjQ1BSLXBpY1pIS0dXcEU1T3FzaUd3V05NV2Y0TS1BYUxFVGNwdmhld1NIcjZDalRLWGs3OGRUaWVKcHdhWUR1Z0owMzhXa0g4WXJJTFEtc1k5aXFUb3cwTGFHOUphLUo1UEU3SjR4UC1ORVl6VzFiRUlEdU9kY3V5QQ?oc=5
+- Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire
+  Summary: GeekWire
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5
 
-- Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally - SiliconANGLE
-  Summary: SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXBQR29Hdm96QmhJN1hyejdzcGpfZzR0WmE1c1BaYkVfTkJ4Sk84bFk0SHRjbk9GM2I5LWtXamJTd1NUMGptSUhNLVNmY0RQeUI2RXl2MFpzUU84MlBEZEE5VFhya2swOEtLREQ3TWFXQUxndERfdmtUVFI3blgzVGJYYjhrb0VJaXozb2hOSW1jVDVkMmxHU0FLbjI2RmhYNGp0UjFKRzJ3czAza3lPLTZQWmhteUhZODZzUU05aw?oc=5
+- How Blueprint Alliance Secures AI Agents Across Ecosystems - Cyber Magazine
+  Summary: Cyber Magazine
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlhuZnRiaVV6ZF9DYURINFVfckZwYWhvOFozdzZ5bWtJUllGaTJHdVk0MlloWXVkc3pfZkRfbTZQa2xSS1gtSm92OW5QaHprZGVESkgtc2pFcWVfWmFObjNpd3VOdGo5WTlobGMwbFJyQXpYV0Jnd05PRzNqS2VYbHoyNEVQVGdZdFR6WFI2cG45TmM?oc=5
 
-- AI Cloud Startup Verda Raises $189 Million in Funding Round - Bloomberg.com
-  Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiaVpkcmdRN0d2bHhiYkFTTThRSUhJZ1h5ODFrcnBzREJiLUZfLVlRUV84X1VYNEQzWmZmY2xvcm9FUGNPSDZwXzh3clFiVnctT0RraW5KTExDRlVGdHNEWVh5TXJMaXE5bHZEbFhHX2xBNkxoZ0R1YkRtZWkwUW9sNDR6VkVnT0UwU0g4YmEzcm9xMDFMS3pBSko2RDZiR3puUDRiaUx0UlVFRVE?oc=5
+- Oracle deepens life sciences push with AI agents, real-world data analytics - Fierce Healthcare
+  Summary: Fierce Healthcare
+  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG5sUWhVM0VpNjN6QXpBc0ZFRi1yNXcycW81ckh2QjVmM2k1YWd6LUZ1VVlzYnhtNjFPeFRjYVpMNGdaTFhCbjBjV1h4UE9KTHJvME5JWURVbk5ybjk3ZHBJRmFsV3hTVE1aTVhMRzFlSHdHWFZzNGhUWDVsWUYyaVNuYUxqTEY1SUFsZlFHQ2pKUlVLY0RTUXNrMmY4OHE4YlQ5M3NXRTh4N3JWaDY5ZWxYM3dzN0dmeldtbmZrTnN1SDF6alBtbDVR?oc=5
 
 
 Markets
-- Morgan Stanley says to buy these 15 high-quality stocks juicing profits ahead of earnings season - businessinsider.com
-  Summary: businessinsider.com
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVhqc2ZaUjMyYW05Qkd5RnRfLXZIdElYWkI1OU1PYlBHaXl4WjctWktzZk5jUGZWUFNvZGE4djZOd1J4N0lwTjJfcTB1SDFUNHM5bUJTZ0I1TTE4Y19aWXIya291a191eEdyVThOT1NhRVlIRTVMOC1PYXBySE9VaDdvS1p2RFlsUlhvazVWdnQxQURXZGluWnlXLXNDc3dXcXc?oc=5
-
-- Nvidia: One Of 5 AI Stocks Down Big (Relative To Earnings) (NASDAQ:NVDA) - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkFzZnNYM1lkbEY0NmhobjRZaDdXMXlaUjZrS3gxMk1fUnVGM2RxWlFfQmtTaFlsSEc4bW1WOVBJZ2xJM2dEakpYOTJCMm1DN0o1RldsX2hadDFqZlVZU3U2TkpxQTJINzhTdmJoZGhpQVVsakFsM3MwTUhkWXFqdE9YQ1dqemNWUEVwc1dYSkxTNzlvdHBzbE5Jdm8?oc=5
-
-- ABM Launches Technical Training Center to Help Meet Growing Demand for Semiconductor Talent - Yahoo Finance
+- Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDB1TkJCVG1ON2pSUDJoekEzeThoakdSTzRXQjFmTUJlMGNzcjZYenE1UmVlTk1INmNFekUtclR0VXhOTEpQaVdHTmNVTU51QjVDV0huLUVRZFVpNkdJWGtDQThTLTVLdXJhZmtsUnVmQ1ZfZUtUTWhMbWMzN0ZOTTdPZ0NOeHJ4TTctMHZIb0MyYjhiU3VOMlVVQ2hnamdK?oc=5
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFh1eVpnV2kwYk5mNDA5SWtNeUlra1k3NlRWSnZ4cmNXRThjVkFYa3AxcVpxekZCV2l5dWV6a0VqSlN0M0VXYjJxQzZrQ1llZXVrZ25MZmNIM0JDSHVGR2F5WkE1Z0tJTUU3TV9TTVdXaF9laE1CcXZvSkcwRW1mM1plWDBOYmJMTzdGb0hhRE9oeHhXcUZ0SjUwLUhreTl3MUFoVTRpN2pxZG9hcTJtdlk4QQ?oc=5
+
+- Fed's Collins warns inflation could be 'notably' higher after backing rate hike - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3JSTWhtWUo2N2llLUF0a245YTB0NUM2RFREaHA5UnNRRkRfTURiNHZwM0RxajlINXNIUHBSZWFSNkdudkdVX2sxNGJnMGdOUU8td3RMMG1JSENjMTgyNkFlcFBPODFBQU5Vb1A5ZXBDTXlTMVYxWmRpay1EN094U1hfamlMZ2JI0gGOAUFVX3lxTE9JMU5MaTJtZkxRNjJNbUtnZEkyU0NQT3N4QVpjamtKMDlSeTV6ZmpaOTFiTjRQZmtIa3lRMHJkU0o2eXRnOFBGaVFSeGZxMU5TM3NfOG55bVcxZGN2cW1LNzdqZkpONHVjTUJ5Tk5DUEZzQTlLRFkxUWwzME1vVlhxTkNUMjVPRzZlWmp5RkE?oc=5
+
+- Loblaw September Food Inflation Report - markets.businessinsider.com
+  Summary: markets.businessinsider.com
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOTGlBcFFsbHdRT25ubU9LSjhGeW9pcWJVS1FpVDIydFp3RDhmUDl5SUVibF8xbnZ2UzR4OXkxUkk1TjJWakNfT1ZOTHhiLUsyLW9DTGJvQUFweXdra1lFVEdNMkVnSFZ0bHg3T094dmVVZnVwQU1kRjJsWllXVXZJYmViUmdpQWtCU2J1aUdPdXNPQmZRTGhOYmI3eF84Zw?oc=5
 
 
 Travel / Boop Relevance
-- Sponsored Listings Are Spreading Across Online Travel — Just as AI Agents Threaten to Ignore Them - skift.com
-  Summary: skift.com
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWxHd0hGTWtxTjlKd1ZLZGJBa1RuRXUtb2pnSmhrNmtOY2dxVXBFX0lnS0ZfM0lULXVVRl90NFRvVEgwYXhsa01fUzZzcmpVQUJOeHlYU1lvR0cyVUlROXJIdHRYZW1JWXJMQXVxMC1RSDhKZGRtTERDeldPVVJZYk9OdUthV1BxbXduWW9lU2F4aWhxN00zZmJoaDBad1hreEVVemg3T2t1Ukg3aVlDTU96Y21BNWV6azY5Qml6OF9UVHM?oc=5
+- Booking anxiety is changing consumer behavior—and creating an opportunity for travel platforms - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjJHN3c2S2Z1WVNHWlJhbTltMkxyd0hwendhYUpPTUFoT0x4c29LUV9MRm8tdkJOMmdkckZIVWF3LXBUMmFlcTNXaGV4VWY1SG5GWUhtU0c1UnhsT1NJZl9YaEhzakxkdTFHaTV1YU1yQ2pObk5qSDhpY01pcHZqekdZRTd1NTZxZkk3Y3lad2tJQnp3T1k1bGtuWmxIUFRFeUlucmtvUV9PeHBIS2FVc0txUnUyNl9EOGhxQl95THpJWGJqM1pSRUNveFJuT1B4eXRZ?oc=5
 
-- Planning a Family Trip? Travel Advisors Say This Crucial Hotel Information Is Often Wrong Online - parade.com
-  Summary: parade.com
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnAwc0UydjJja0ZLME9hMXR1Xzd3Z25MYTNIMTczRVJKNDg2QXhpSzZLTnNubVBXb1NJd3hqR3p3cFFZZ0xsRXFnN3N0cTZRVUtNQ05MdklNaFNFQkxfckV2MFlTQ1BpZzRyTHd4eHliZUNoa2dhREI2OWxHYnBiZ1hpRFB2OFFqeDl5NS01ZEZ4bHEtd0wxelYybUhNaFFOdjZBRFBTeUh5OGZTSkpqSmdiNWROTEEzaVVlSzF3?oc=5
+- AI Is Guiding Travel Plans, But Travelers Still Want to Book Themselves - Asian Hospitality
+  Summary: Asian Hospitality
+  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1jemxRN1l6OFAzTkx3eHJRN0tpdjJNZlhiMWk1MWVOdWtWN3RMaTFYNWd1RUdMOVVqejN2Wk50S0NXR0pieW5Wb3cyWlRUd1M1V1pGOURvZWdYcmt3aUtoakNDX2xuVFNHLS1XeUx3SU0xNVhhQ0xLZ2xmSEZCZw?oc=5
 
-- OneJourney Advances to WiT Singapore Following Wildcard Win at the Global Startup Pitch Competition - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFJfcWZLMG1OM19xcUF6dVFCRDltYW1waVdYd3VvdFYzYVRJVUNKcGluZEpXdWlRNG45M09MNTB0VlpQUWEzSXQ3ZWVXeDVUUnRRNHN6c2w5MWxRU2FJaUV2SGk2MmNncmdGOUVYVVJHMlp0Rm4tNXZCMURjenY1YTZVZnBMRGdwRGs2S1lRTW5seHY1VVdZbjliTi1WZGRHN3A0TDhOeDlqZ1ppVk1UNi1LWFg5cWRHZ005N2ExakUzZndoUVdibHlHSGJJOTlXNkFsOUVqTVdHbWc?oc=5
+- BizTrip AI Announces Connection With Claude and ChatGPT - Business Travel Executive
+  Summary: Business Travel Executive
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxORkQ4OWk4M0g4S1NmX2JzYldtWExkbHNmcGVMblFBMmE3VDVra1JvRWZkb0hWS29FdjZ4NXNMYXRJRXN1a1Jjbk1DbDB1aEtHMzItck9Lemhab3Atb1U5eUNPSXg4MG0zNXBFY0VmZzZtZThTUzYyaWRnWFZUVkJwcnllYUo2a0tBdVlNQUpjcm8wcnVYN20zQk9qNFpSUUlUTTJR?oc=5
 
 
 Bottom Line
