@@ -1,81 +1,81 @@
-Morning Brief — September 23, 2026
+Morning Brief — September 24, 2026
 
 Seattle Sports Today
-- Seattle Mariners vs Houston Astros — 9/23 - 10:00 PM EDT
+- Seattle Mariners vs Los Angeles Angels — 9/24 - 9:40 PM EDT
 
 Chestnut Hill Weather
-- 46° to 62° today. Right now it's 61° and feels like 53°.
-- Around 8 AM: 52° | 2 PM: 62° | 8 PM: 53°.
-- Wear: light layer, wind-resistant outer layer.
+- 46° to 63° today. Right now it's 61° and feels like 56°.
+- Around 8 AM: 49° | 2 PM: 62° | 8 PM: 53°.
+- Wear: light layer.
 
 Breaking News
-- [Markets] Fed's Barr says more rate hikes are needed to bring down inflation - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEtlSDQtX2FyZnh0ekp6ZXc5ek5mdnhDTmJXdUcyRWZLalpFMGNXbnpWSm5oNVZSZkRQSmVPMWZLYVB4ZnE3R2xIXzNScDN1c1NwOGtpZldVbVQ4dGZRaEROZGRQNmthTEhCNm04MDZ1TDdqSW8ycEhEXzBwS29OcU5RbDZ5SmFiNWxRT05aUjdPSmRKcXRpejEwMG01clJWOXJKRmI0RjIybmRVSTkzSy03UzZuSFVMZC1CdGFkTWM2Rks1RTNTTg?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq fall as investors anticipate further Fed rate hikes; 10-year Treasury yield remains above 5%; Trump meets with Xi - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUpqU2hSdTdIM3BfUlNucWQzRk9VV2l6NHpQZ0EzVlAxR1A1MlhnNEVRNVBIVVhJR3huTmNmLWRHUk1sZDJVZUtmS283ejV5bTF1VzZnMFhzQmNWOVBxSTh1NHRDdkhHdG1YUUtrcEo0OF9wdFI2M0tfZ0JrTmZCVHliUWdoYTRvb1VlRzdHdXU2a2JCdmplMHFqTWRQZ2NzWm9taTZhaEx2LXM4T2VyM3pMb0lXTDJGc2JXMkpVTVZHbENPclQxa19MamJYTDBGS0thUQ?oc=5
 
-- [AI] Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments - siliconangle.com
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2lpNm9MdjBiVVI4blRiMjcydmVPcElmaDl1aWVicllRbGVSWUJGTDlSUGdWZnhZaTFUaWsyOXFkc1JMWWJRLXBadks3QWtZalAwb3RDRm15aGRYdGFscllwRTFacklOYTA4VW1JVWJfSTFSaHF6UFNGSzRLTnNybkFRcWZFX2hZQ0wtWHc1LVZKeE1CQzF6S3dPbzZUNU9xaWxhNzNoUmJvR0dkWmZYbHItQzNNVUF3bG5QbU1jdmpJSTh3bEFtcWVDZnhoQQ?oc=5
+- [AI] Island raises $400 million at $6.4 billion valuation as AI agents reshape enterprise security - calcalistech.com
+  Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KREIzY2hfcU9DMTBiYzE3WGNISURZVzhyODdHWnRBZlJwdVk5SWFUODRfeVNxOTk4TWhydnJ3YlVHdExsM2Q5emdfXzRMcndlOFYxbzM4endLN2FhcUFDY3h1Tmh1bktC?oc=5
 
-- [AI] ThinkingAI Launches Agentic Engine for Consumer and Gaming Companies - HPCwire
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzJyRnVhNmdicUQxTWY3Y1VSZWNYUVlMTnZRV29WN2w1V0t1Z1VpSmFRNFZjNUpDRlktZlpONjVwTzNGS1ZWdW9UVi1kQ0tJNk9hOEUtUHZCYU5ESUozS1owdjJXOHB2cmpsb2QyaEdWQ1BiRmZjalExNkQzY2xNTmUyQWhFS3dQQi02ZTF6MG1wYVdBdm5QUXkwcjVpUlhJcmhQbHB0M3B5VUl1ckFya2FSdVJkYVA1MUE?oc=5
+- [Markets] Public Launches AI Agents for Prediction Markets - PR Newswire
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1lrcEU1VHFLbm05WTFaM1dKWTZLd0d5WS1YcHluYmU0QnFQbHZjb1QzT0ZiVUtvbkkzWkZ2U3p6RnNfazZPNjFpUkI2R3VaYk96N1VfTDFuTlZuYXp5SE9NNXJNQ1QzRkFHbDRrQkdXRlN3Y2FzcWlDVDJ6MVdVRllsUHpjQzZuSHJkOVZzRUJfenYtcVhvTGVUQzF2S1dNQXF4UnZMZw?oc=5
 
 
 Must Read Today
+- [AI] Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks - Reuters
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1puRmlKdUNRcnUzb2hocUxkZmdland2NVEzY0V3T0g3akFuM2M0dzF4T3dxWEZVYlBMN1NxSTQ4cUR3VndWRV94eThxV3dzRjhzNzNIdnpKeUZJQ2JmZjBFSXZuU0E0LVh6cVp3dGc4RE9RVF9JWXVhbXZTQXJWREtrVkIzbzh2akFkUVJwNE8wcVlWLXd4UzFqWmM2c0p0bkk4dDZR?oc=5
+
 - [AI] Meta's Muse brings agentic AI to consumers; could prompt 'massive inference demand': analysts - Seeking Alpha
   Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTM3bW81bVdKVGtTbms2cEtNdWtUN0Y5N05XSjdqc3VXX0l6eUJmUWlMMldzOXFkTS1jVDl6bnJaV2YxeVBrak1ERjRrOFFPeGh0Z2duUzJIRkxaRUJpSkRRb3RvY3BKb2p1YklVSlFveE1CVG9GQVNJWDU4emlwX09odXU2dXhuVTZQMmFFblJfRGwtTGotU3RSUEF2VjZoTjdZLXFOSjFYc1QzazM2d0I5NnhsMkxEVGxXZnNNaUkwMkk?oc=5
 
-- [Travel / Boop Relevance] BizTrip AI Brings Business Travel Booking Directly Into Claude and ChatGPT - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNRTAwcVB6SU9fdF9MT0ZuRzBZbUxpVy1ZOFZKWXJjQU4zMHdnTktjNFBCdlA2UEJaZUM0OWZKZ1JNLXY2aktxM2d1NFRnUmFVWXFzME9OSlRiSGRZWVRjQUI3RlhnZW12cWU5SkkwRzZZeUFqOGV6ekR5NXhkNmQtT3QydUV4RzlMbFRreFU5Z3dpVTVlVk9Scld0VjhUZw?oc=5
+- [Markets] Stock Market Today (Sept. 24, 2026): Nasdaq slides as Treasury yields surge, inflation fears rise - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGdHQzgwdFRIMi02Nk1ndEpwSGlRU2I5ZzFpX2hqdDNOR0ZtU1piZjdkWHdZeF9pSzRoVkNGU3Y5cEFia0U2dUxFSmotV2NfNWc1MEYtMEJKQlFSVFNzN0c0Y05nZUpXVUM5RVZaWGxVazBqVVU0S1JHd2lFeGRiZXBWaU1nd3JJUS1rM2pKVjRyWDRCcWc?oc=5
 
-- [Travel / Boop Relevance] BizTrip AI Brings Business Travel Booking Directly Into Claude and ChatGPT - businesswire.com
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2xZbkltSm94SUs2aWRkcmlJWHYwMy12dERUUDV5ZjcxUkRkZXlPYzJ6OFhJSWpjWHFDSmgwTkE0dkRPQi1NaUJUYVM4bnk2QzVfNi16MGRSSDk4YnZ2Z2xXWlNhY3hGUDZfRFVXd3VzSVZiX3l5TF9ERGxwZzdPUGhWaXl2WXlwQlNwX2tkTjFZVmtJVDFoVU43S01TSU9xZllfajA5dzhCZjVWbWROT3hXdmhtZmc5LXhUOF9Zb0dhbkVyRDFiYVJaMA?oc=5
+- [Markets] As 5% Treasury yields lose shock value, investors start worrying about 6% - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNNXI4cnRVell0RmpuaTBPbE1kYzRFazlmandYaFN3QXlEMDc0WjlLSkRhRnJZUVg5bTJjUzdSeHU0OU9mS0NuUXMtNktPaVE0eDZBMnJlS1RMLTh3Zk1XbV9nX2h1RUZZdTNoT29KOUc2QkRYbDNiSDZidlZtanBhZ0hZdHpYU2paTU9XTGFkRnBNT1U?oc=5
 
-- [Markets] Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPNldHSHlZUjQ3STV3YU5VOEdjMnoxdnBfdWxlRndTc3E5cDcxZldXWmhVOFI0X1dYN0lZVVF1MTlwMnNqNEo0ZmhCX3dHU3d1enpuZmJzUWpoTk1rLUl6d05NaGRidXE1MXNwUWZib2lHdVExb1VPUGdrNllIdmx5STR6UkRLd2M?oc=5
-
-- [Markets] Meta's Muse AI agent is reshuffling winners and losers across markets, from chipmakers to brokers - Business Insider
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3FETkNEamY3eFhwRV9wU3c0VGNLckNUY2FuMVpFUE9iTEdIbnFVdUtMTEhDVWRqMGZlemRFZ3M1cEkwQUg3RTMxNXZXUW1OVjA4aWtpY3BYcGItU3JDeHRpYVFPeVZ5WmFLQjVhMGxIM19EN0doaVFiNF9weVdUVlRMcVJ6VEZ1NUR4MllIWEVKZWJJa2R5SVdPTWthMnJXNHo0YWhDdw?oc=5
+- [Markets] Market sees next Fed hike in October, following Barr comments and hot inflation reading - CNBC
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5
 
 
 AI
-- Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire
-  Summary: GeekWire
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5
+- 'Extreme concern': OpenAI agent hacked Australian public health website, prime minister says - ABC News - Breaking News, Latest News and Videos
+  Summary: 'Extreme concern': OpenAI agent hacked Australian public health website, prime minister says ABC News - Breaking News, Latest News and Videos
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzN1MF9LUkgyZE54alRybG9vRVNUSEdKbGJjb2M0Y2xkOTZVME85YVFvMk5lUXRIbklEcURxQ3FhT0Q0Wi1ha042RnNZMnZlb3RZYUNFSkJxYWdJcUxmbjNuUS05LUJkZHE5UzNoejEwTXo5b2MwU0dZcXBiWDE5TUZuSVlfejY1dmdMd1NQQVU4dllsM211LUxVYkxRY1ZTWGZLWEFfSmtIUklNRElv0gG0AUFVX3lxTE1sVWpsY0d1MklVVjZqaG92aVhvVzUzOGh0S3pPTHNOcGlFWVhybUg2UDR1bTBEcElqcDhVYU1ZZWdFU0JRSWxmRGVtd0pZUnJEUU5DN3B5WUFPUkwwZl9nV1labUJzUmkzUFRORk5FUGV3eUVXb3FkdFVnbW1PU3JSMmJwN0xnbDJzVDVtLXdsbGNNYWlqeXB3NjRuX2JNT3pkQ1ZZQmphc3lTdkhpUl9zRWw2QQ?oc=5
 
-- How Blueprint Alliance Secures AI Agents Across Ecosystems - Cyber Magazine
-  Summary: Cyber Magazine
-  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlhuZnRiaVV6ZF9DYURINFVfckZwYWhvOFozdzZ5bWtJUllGaTJHdVk0MlloWXVkc3pfZkRfbTZQa2xSS1gtSm92OW5QaHprZGVESkgtc2pFcWVfWmFObjNpd3VOdGo5WTlobGMwbFJyQXpYV0Jnd05PRzNqS2VYbHoyNEVQVGdZdFR6WFI2cG45TmM?oc=5
+- The Personal AI Agent Horror Stories Are Rolling in - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcktPbk8zMkJubkhzcGdGVndZN0dQRTI4TmFrQ1JvMXEtSGtneVVWaU5ncFRNYzh3UzlabXl2Nm9POElXVlR1cWI5a29uMmtlbm9ZV0F0R3ZpVHFsZUVwY04zMVhyTDk0RlB2aGowd1V4dHItV05rSTI0VHhfOFdnZDJyVXgzYzUtR3J1Yko2Y3R0NkhpZnVSQkZmOVJIa0d6NHRBVTNCS3Y?oc=5
 
-- Oracle deepens life sciences push with AI agents, real-world data analytics - Fierce Healthcare
-  Summary: Fierce Healthcare
-  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG5sUWhVM0VpNjN6QXpBc0ZFRi1yNXcycW81ckh2QjVmM2k1YWd6LUZ1VVlzYnhtNjFPeFRjYVpMNGdaTFhCbjBjV1h4UE9KTHJvME5JWURVbk5ybjk3ZHBJRmFsV3hTVE1aTVhMRzFlSHdHWFZzNGhUWDVsWUYyaVNuYUxqTEY1SUFsZlFHQ2pKUlVLY0RTUXNrMmY4OHE4YlQ5M3NXRTh4N3JWaDY5ZWxYM3dzN0dmeldtbmZrTnN1SDF6alBtbDVR?oc=5
+- Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India - Macau Business
+  Summary: Macau Business
+  Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0U3bmQ3bDdHSVc2eE1oSzVsd0FvZ3Z5dG5fXzFpa3luOG93UnpSaFVIa2NTeXZpbU1idjB5YkFHRGpZYVZ2azlvbDJ0WFZTbUNORnpfa0FOVTA5U19YbDhoaW53eVJCQ1VkX0kyaGcyWW4yMUZKNzE0cVE0Mlp2OTB3di11RUt1VVlQeTJqRDJ5Z2ZKS3NBd0VaczFiTFcwQ2FHUWtwRWx5ejFoeGxjYUY3ZW9lX0FVTEtoOFEyYURHMndVbHJvYUQ3M0ctelR3Y1FINjd3VG8xam5jY0V0WnJB?oc=5
 
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting - Yahoo Finance
+- Inflation is the main hurdle, Fed's Williams says - Forex Factory
+  Summary: Forex Factory
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHdrRkdFSXBweUpPYWJsSVprdU9KelhwSzFySHlkbDhnZG43TjhvUUxGX0kyQ0lac0xsZGdkTi1oTWVhajBKemVMeWJDVUVBeEFZcHpVcW9HR3hqVVlQU3lTcU9MSWF5dEhpY3hEWkRQS1Q3aTR3NEVfWHE0YzdKMzlfZ3FycHp0RVMwVWZ0NHMtRW_SAZgBQVVfeXFMTnVmRmdRQUk4VEloUTZXVTFfNDVLRVlCTndKanM0V05tWmx2UHVUWlZsSWZqWUpfYUdqTXZQZU1SMjk1ZFJmUmNJRXRteG40TkpMRktXUnFfNk1BbnBKQWNBRVloMGFfVGcxbkRLZlMzY2Y0Q0tmY2lSNEdoZ2s3Q1dNamlZVnp3Q3ItX3FvdG5hMWJDSkRSbnI?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq slide as bond sell-off troubles markets, China's Xi Jinping lands in US - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFh1eVpnV2kwYk5mNDA5SWtNeUlra1k3NlRWSnZ4cmNXRThjVkFYa3AxcVpxekZCV2l5dWV6a0VqSlN0M0VXYjJxQzZrQ1llZXVrZ25MZmNIM0JDSHVGR2F5WkE1Z0tJTUU3TV9TTVdXaF9laE1CcXZvSkcwRW1mM1plWDBOYmJMTzdGb0hhRE9oeHhXcUZ0SjUwLUhreTl3MUFoVTRpN2pxZG9hcTJtdlk4QQ?oc=5
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVZEcVBrek55VmF3RHMxd3ZnamdrdlFzdW40dkJtS2dFeWp1bnFzcU00SnVpaGJ1eWVsZ0doRVRMTVJYdERjUXFvaUkwR2FxNlAtQ0l3cXllTXpkMHNHRkpxZzBPazFkeWJGY29YenV5T0ZXWkUxTnY5UEdyUUZhY01ZRnlyVGV2blpmeWZnV1Z2b1FJcXgxZWhjTWdlVnU1VU11MHRJUFJlUVo4UENHRXF3?oc=5
 
-- Fed's Collins warns inflation could be 'notably' higher after backing rate hike - CNBC
+- Stocks slide again as Treasury yields push higher, Oracle leads Nasdaq lower: Live updates - CNBC
   Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3JSTWhtWUo2N2llLUF0a245YTB0NUM2RFREaHA5UnNRRkRfTURiNHZwM0RxajlINXNIUHBSZWFSNkdudkdVX2sxNGJnMGdOUU8td3RMMG1JSENjMTgyNkFlcFBPODFBQU5Vb1A5ZXBDTXlTMVYxWmRpay1EN094U1hfamlMZ2JI0gGOAUFVX3lxTE9JMU5MaTJtZkxRNjJNbUtnZEkyU0NQT3N4QVpjamtKMDlSeTV6ZmpaOTFiTjRQZmtIa3lRMHJkU0o2eXRnOFBGaVFSeGZxMU5TM3NfOG55bVcxZGN2cW1LNzdqZkpONHVjTUJ5Tk5DUEZzQTlLRFkxUWwzME1vVlhxTkNUMjVPRzZlWmp5RkE?oc=5
-
-- Loblaw September Food Inflation Report - markets.businessinsider.com
-  Summary: markets.businessinsider.com
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOTGlBcFFsbHdRT25ubU9LSjhGeW9pcWJVS1FpVDIydFp3RDhmUDl5SUVibF8xbnZ2UzR4OXkxUkk1TjJWakNfT1ZOTHhiLUsyLW9DTGJvQUFweXdra1lFVEdNMkVnSFZ0bHg3T094dmVVZnVwQU1kRjJsWllXVXZJYmViUmdpQWtCU2J1aUdPdXNPQmZRTGhOYmI3eF84Zw?oc=5
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5
 
 
 Travel / Boop Relevance
+- BizTrip AI Brings Business Travel Booking Directly Into Claude and ChatGPT - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNRTAwcVB6SU9fdF9MT0ZuRzBZbUxpVy1ZOFZKWXJjQU4zMHdnTktjNFBCdlA2UEJaZUM0OWZKZ1JNLXY2aktxM2d1NFRnUmFVWXFzME9OSlRiSGRZWVRjQUI3RlhnZW12cWU5SkkwRzZZeUFqOGV6ekR5NXhkNmQtT3QydUV4RzlMbFRreFU5Z3dpVTVlVk9Scld0VjhUZw?oc=5
+
 - Booking anxiety is changing consumer behavior—and creating an opportunity for travel platforms - PhocusWire
   Summary: PhocusWire
   Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjJHN3c2S2Z1WVNHWlJhbTltMkxyd0hwendhYUpPTUFoT0x4c29LUV9MRm8tdkJOMmdkckZIVWF3LXBUMmFlcTNXaGV4VWY1SG5GWUhtU0c1UnhsT1NJZl9YaEhzakxkdTFHaTV1YU1yQ2pObk5qSDhpY01pcHZqekdZRTd1NTZxZkk3Y3lad2tJQnp3T1k1bGtuWmxIUFRFeUlucmtvUV9PeHBIS2FVc0txUnUyNl9EOGhxQl95THpJWGJqM1pSRUNveFJuT1B4eXRZ?oc=5
 
-- AI Is Guiding Travel Plans, But Travelers Still Want to Book Themselves - Asian Hospitality
-  Summary: Asian Hospitality
-  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1jemxRN1l6OFAzTkx3eHJRN0tpdjJNZlhiMWk1MWVOdWtWN3RMaTFYNWd1RUdMOVVqejN2Wk50S0NXR0pieW5Wb3cyWlRUd1M1V1pGOURvZWdYcmt3aUtoakNDX2xuVFNHLS1XeUx3SU0xNVhhQ0xLZ2xmSEZCZw?oc=5
-
-- BizTrip AI Announces Connection With Claude and ChatGPT - Business Travel Executive
-  Summary: Business Travel Executive
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxORkQ4OWk4M0g4S1NmX2JzYldtWExkbHNmcGVMblFBMmE3VDVra1JvRWZkb0hWS29FdjZ4NXNMYXRJRXN1a1Jjbk1DbDB1aEtHMzItck9Lemhab3Atb1U5eUNPSXg4MG0zNXBFY0VmZzZtZThTUzYyaWRnWFZUVkJwcnllYUo2a0tBdVlNQUpjcm8wcnVYN20zQk9qNFpSUUlUTTJR?oc=5
+- Agentic AI Is Raising Travel’s Tech Bill - Skift
+  Summary: Skift
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1GZlQ5c1FEdmtNcnpDVjRicEhPam5zSGhmRlpUeEptRlFlbHBlcENBcjRjeHpxYzJvRHQ1S25MYUpPdXFkMUZBbmtYS1ByVlRvSkxsSWVENU9obDk3OGVXcTBZejU5UGtRR2VPQzdOb2lObjJLUkZPOA?oc=5
 
 
 Bottom Line
