@@ -1,64 +1,64 @@
-Morning Brief — September 28, 2026
+Morning Brief — September 29, 2026
 
 Chestnut Hill Weather
-- 54° to 56° today. Right now it's 56° and feels like 52°.
-- Around 8 AM: 54° | 2 PM: 56° | 8 PM: 55°.
-- Wear: light jacket, umbrella.
+- 54° to 64° today. Right now it's 61° and feels like 61°.
+- Around 8 AM: 56° | 2 PM: 64° | 8 PM: 60°.
+- Wear: light layer.
 
 Breaking News
-- [Travel / Boop Relevance] India Launches AI-First Digital Tourism Stack To Simplify Travel Discovery And Booking - curlytales.com
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUU5aFdvcnNLNEs3X1dxN0stNVMtZ2E1VXNPb3R1b1AwRHlQb2hMVlRKdmQ1WlNRbzVlbDBwNVFiRXExNC0xRXdvVm1LNngzTkVpQnA1YndXNUZIVkFrSlBPYWdtRV9YVWtiMnpJV2JnUENwMG4zaEk4Sl9Zd0VScmgyeXVEZV90OWctaHVaXzZwMmtsV2cwRzVOcEhpSm5saDdDWXZIYzlBX0EzcjFJdzBBcmtTNVRWUnEwbHVmS1dLM2_SAcgBQVVfeXFMT2ZTUnFoaGt2YzBsMXZSZWxLUGdpVUpUVFJDdldMaE1XcU5KWUcxcjBOb3JZbnRHakM1T0FJNTZXTFB3OGpaS21fUktkXzRLVk1QN045LVRIdmh1cEpwaWVtVldDTld4REs1TmFDSU4ycnJFUkpPbFFZS3MtaE94QWN4dnBTeTY5OXRQQTFlZnlOb3dHWl82R25oMHBBQWxfdFpCbXU3YWZOeUthelVBclBfVWdIenpXWkpVVV9WLWExMHJrV3FmRmY?oc=5
+- [Markets] Fed’s Cook says AI demand ‘broadening’ to increase inflation - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzBLLWFhXzZyb2JWRHdjTk9rbXhJRjJLZ3FJVTZoRnp3VzRwQkpyXzBFci1FNUtzWGd5aW9rNzhWSDBPTy1aY0FLQzA2T25MUy1way1jSjNFVjRMaFRVdGo4X1dWc3lPVmhWek51M1BWYkI1SU9LSFZ1dk5rRjd3QnA0N2ZVcmhCRkJjQnA4akNDUQ?oc=5
 
-- [AI] AI agent firm Instinct raises $1 billion in latest funding round - Reuters
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSng0ZWE1OGdrZ1h0amRIYTBJeFVXd0JpellybmtzcHY5WEM0RWpWY2hkZ1FVVUloZUVSalRkQnAxb3hPS0ljbHViV1NXMnUtcEpfV2hRdUU0YXV3OWFUQnp3a25icW9IbnFUbWs4TG9pYXVfZWt3bkRCOHVJb1AxZEpxbWJOekpRT3o1UElTT1dUR0N0bWRpc2MxTUtRS20wbHhzT203Q0VHdUE?oc=5
+- [Travel / Boop Relevance] Kayak Co-Founders Launch Lola — Booking Holdings’ New AI Assistant: Exclusive - Skift
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUFPTm1CaW1UcXVpOWtpU2VncmhxbUtsT0MyNG1qbFlTY1VNdDE3dWNoaUY1ZEJPR0FQUURHVTNsYTlkTHVHQnlmUlh6RVBaSjJkb2x6bE9tV2Y0eTNDdEJHbDlYUkJLdE1kaTJUT1JWMjRvMm50S1B5OXVyeDhRcWRiUDdjNmlPVjF0eHBQRk9TbDZKdmRrcmN2MVpKRV8xay1xNm53?oc=5
 
-- [Markets] Prediction markets' push into US stocks raises regulatory alarm bells - Reuters
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5
+- [AI] Nvidia says new tool can contain rogue AI agents in "milliseconds" - Axios
+  Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yQnh2Q19EY3ZNN0pqRVF5RVdsVDJDem9RVVZuaTZLbGwzUFliUWZLZ1J3ZEpJNmJxaGZrSXk5cWEzWE4za013VFBVZ2dWMzJxS01jcnF1Q3lPOUtUR0NXeTF1anA4Zw?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq drop as tech stocks slide and Treasury yields jump - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOclp1bUNiWV9CdU16Sk5IMVRPMnF5RWtUMVpjZjlFQTFraER4aHdUQ2Y0MHUwb3BRN2VOUmZkd2Q5WmI4NTJRaDY1SDVLTHk3UXlla0NQbll5QTY2d2lZb2p4RFhOdVIxXzhQSFFJSjZxOXpTYVJiS2JDbFpFenNJNUk5d2FwTDE0V1FaNDRHNVZiV3YzbF91eTEwcjJraUZmNlFiQ0RGSDk0eG1UY25xb2xEY1ctZw?oc=5
+- [AI] AI agents are fighting over your shopping cart: Meta’s Muse blocked by Amazon and Walmart - NBC News
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2c5MVIxcTRLS25nNVdnNGVIcDhORmhFVDZaZHlGd0pmWjQ4MTNPcDBiLUh1RUFnbzhvMlRRTDk3UDR2Z0QtbDU0UXVFMzVaYWVnX0k4RWtzNE5DTms0RzZSd09PcXhGOTJvaHdQcFBxSEliNGY1V2Jtd01ITlRpQUQwLWdSb3RINmNBWWl1ejBaWVNXalQ3LVllMmxqZkFmTUs1R1NUb29OVGc?oc=5
 
-- [Markets] Muse AI agent led Meta Platforms into the Best Stocks in the Market list. What Josh Brown thinks - CNBC
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTZQUW1lVUNuSVk5ZVpGUFptLXVMYWgyNWI4cDBhQndMVWxvU29xMXVHVzk3X1lUTXpmTkF3M2FwVGJYX3JUajZRbmpaZ1lNSDNQYXB1Zzd6Vk1zWjMyQmc2QUxJZ3JpRkRFMm9UQV9VWFozYVRsdG9fNXNUMzQ0dTFTTWQ3MFFMZUFCWTJnaFlUNHFmOXEwTl8ycTFQWEdpQlFzNTdIaEF6dEF0RHc?oc=5
+- [AI] Sen. Kevin Cramer on AI regulation and data center debate - CNBC
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjZvWTZLX3NoNGdHSUtWODRKd1BJRV9wbVhqS0l5OWFaNnhiS2NVbXBVTk1DMFNFZ1NSd0RmTkNfTGJWZE9WSGo1M3hZTlp1RWpwLWdTa3pwOG55V19EbHZacHMxWHVkNG1KQkdQWHZJQlJsQXpkRnY4Qy1NalFiUmJtMXBSRWxDQUR2VUFxcDBzUk9jeUtKMUpXcWt3S0Vt?oc=5
 
-- [AI] OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmhabDZfN1ZHQXprdWJ4QThjNFVRWTU3ODlmakJmcy1iVGpZakJpMGZULVhSaWZod29QaXdtNTkwTXV1T3lWVm1GTTk5Q2hZRG5CLW1DYTVheGt4ZnF5cnIxamlsaE1WeGlZV0pxTWxPZ3NLWEgzMGlERlc4WFJoa0h6enN1dUQ1dTdYaHZTOER2SU1uUUFTazNtNW5hdGJkYVJ5MjduZ1dkWEFEQ3BuVHVMZkozM3lySHZIbg?oc=5
+- [Markets] 3 AI Infrastructure Stocks Riding Data Center Demand - simplywall.st
+  Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeVIxbTBPUHpTQkExYUFpbDluMHN4VlNmcTJfX3pCWjdxTXdzUjRJcVVLZ2F6MGg5TmJVNkloSHFib0c4eXozdHI0emJGMThDaGt6aVBoeXdJbUI4OU1ZNVFzMnhsU1BKOW16TDN2OURpSm1uWUF4QzF0dUQ5ZTRvaE9GbGhPZzExQjVwcUFFOEpScVNQNzZYQTZoQlFFaUhLWXBaTVYtVEJDemFtNFowSU1yaVdDZHVLRVgyc0xKLUgwMUs5VEd1Y2tXM1FSeXNQMVVua2pLUWw4MFRKQkx2M2tnREhkLUo3akwxOHVTRVBQV0XSAfgBQVVfeXFMTTFvQnptWXpiQTNLTmdVdmVNVGtEcUtCV3hZM093Z1RnNjdUZ1VVOU9DN2pvaW5sN2pVc3dZRlNCa0NwWERPX1F3ZlJ4QzhBVUtDQ1ZhVU5GZWNheEtma05qbzdpUXNFVGlDZ0daalNjbVo1cVdKQTFlQ0NSX0dXelQwN2VZUThOQXBybjJfMWZfNGNvZGNzMklCQ3JYZVV4VzNvaHJNNEtMbzBGbTl4NmVjMVZyZmsyRXRDbDVtT2V5dWk5X21LSThrbDc3NnFFRWNvRWI0d0IwcV9ONU92WWJiMnJ2aGVJRTZXVldHNWVoY0Nvd18tYTc?oc=5
 
-- [AI] Manus Expands AI Tools in Renewed Push Into Agent Market - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR25UV0RsMFktbDU0QU4xTFlpRFJ4RzhDSlZmeW55MlJoZTRodGNRXzZQRFdUVC1tLVZRWEttSUNBQ2V5ZzNZWEd1aHVvUE9XTXRqRk5XNlJHTkZyTTExT3VreUdLNEtJZ005R2ZqWUNNZUhueG1FOHVYZ1pmMlhCUV9Va3I2VDd2NnZ2dng1Mi1TNnpKdjdMNUZwdFRkZVJqdVgwNzBsTEFDdkU?oc=5
+- [Travel / Boop Relevance] 8 Ways Hotel and Travel Tech Providers Lose Deals Even Before the First Sales Call - Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXRIY3hqaFFXQXNLdlZZdHhkNHc0bENuMExLNjZjb2w3YkZIRlJCR2hwREFTUWYtanVEYjIyZjkyQngydlZ3Z0lkVWVyem1tS3RZNnU2MUU4aHdkWTBxa3FLZDhLcXFDNUFGVzhISHdZQldtQkFiRXdRN1BCVnVDU0tob3lxRVpBZVlCdWZyNHFBR2pidTBNOUJFc0J3aWhMS29nNVZTQk1kRk9UVHFIVlU3Sno5eENsb1RrYWlaNnBLUWs0alhwRA?oc=5
 
-- [Markets] Stock Market Today: Treasury Yields Climb to Fresh Highs; Oil Rises on Rejected Iran Truce - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXE5MUh0WU03bjJHMmlXVGN2Y2hTVnAxNzN0SUVLN3lFTHJoOTdlcmxwMlhVeWJ2M19RZXpzaTc1cE5JdnRYN0lHaFNWd0hMWEtzSVBIcG8tbkN0X2xoWmJfNUFELWY2dzJuYklxUlFRVU56eFV0Q0xSUnNZWktFdlZZc2t5UVU?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq mixed as oil retreats, Anthropic and OpenAI fuel AI jitters - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFzVm9LX08zTnhfUXNSR2pjSkI5YWg3Y0NnYWltMFB4MHRBejJOZkFQQ2pYc25ycjhhWk1BRGFXbk5WRm1OamtkSzBRdWtkanlrUWVGLUFJSTlYU2RMX25TVDNPOURSc290Z0VJSnJFSlp4MjBhS2p2TzNXTk9RZGhRRC1XVm1Da1lNaG5UNnVZeEdfd0RmOVhkakVIRC1yb1BIejZGZVZ4MjhwSWdyVA?oc=5
 
 
 AI
-- Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - AP News
-  Summary: AP News Nvidia unveils security platform to rein in AI agents and $150bn stock buyback The Guardian The Least Worried Man in AI Has a Plan to Rein in Rogue Agents Gizmodo
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5
+- OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government - WIRED
+  Summary: WIRED
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0k5TC1vcnZBVEctaGxwT1VMVmtpQ2tWZzljUjBjOTlSazd1UUZtOFQ5Z0xLcVhtMXdBazNTWlhRZ3JySHBJS1ozdUhQQkpRdUhWVS1wcG5hWlFIVTZCa3dBXzFuU1BBZXh0WnF2Vm9tUFBRUmZ4R3VkcmZ0WGdNeUhXRS1icXNWV1hmQktNLUN6aTJQenZvTHBNUzh6akREMHBsS0pPVDhOQ1RSTUE?oc=5
 
-- Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters
+- China's AI agents can lie and scheme - just like their US rivals - Reuters
   Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5
 
-- Nvidia releases software to prevent AI security incidents - ABC News - Breaking News, Latest News and Videos
-  Summary: Nvidia releases software to prevent AI security incidents ABC News - Breaking News, Latest News and Videos
-  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWNrT0d5d2ZiWlh4QWU3cHFSVjJjY1VzbEM1U0gzN0ZyRmE4S1MzMHZlb3BGLUQ2OEgzbVFuRWRrMEk3SndNVWU0bHRqTElMaGp1RVhObzNZVXdNTUFKOFNvWHBsN3gwN3ZrQXpUcTZDbXNvMEVlOUJwTjZ2TWJjZjExN20taWNYYUgxZDBTTXduQmpTZXdqYUhlWGdMaC15TzRjZdIBqgFBVV95cUxNX3RSQkE4M21ac3luMlFQakotdGhRWnFTT2N3b3NqMFM2ZzU5UVRaTjJBUzhYY2FzanRzUUR3NnZyY1ZLNGM3aTZaVlQ5TUJlMUtaVmNwYzloMk9UNzBIMzU1cjZ3OFRUZFdxakV2RUd3amVncjR0bUdMSTAyX1BCZmh6WmtjOUhkLV85YlM2eUotVG9XaW00M2paSVhJVlA3aE04Z0daWGZSZw?oc=5
+- Why Amazon Is Shunning Other AI Shopping Agents - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2hXSDd5N3E5MElEbE9vdzdyRHkxWkFJdmtmTUwtTVZBSlV6YjBYa0dzLUJ5TTlxeWtobnU5T0x5T0RPampsQ1VuMDhhTjJUOHFHcUhud2FNcWtmVXJEamJFMFRPYVVqVHVVUzFHcXl2cTAwYXlFbUZOd3NUcFNwNGhwMURuUjR6dDRjWl9rMXNXbFJFWkU4akJhWmhaclppM3I5bFdrbnpnSnFyRGE4?oc=5
 
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq slip as US-Iran tensions resurface, Treasury yields jump - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmhMSnFQakVTNE5EWUd5ejV4V2M2RTV3VkY5TzhmbjBkUy10Yjh0bDZjRWFja3RUVVBXQXg4MTR6TEtfSjJXZFp6UDVPcVRhUjdUOUpWaXRGMmRQY19uQzQwbGI0dTRfLWFJRFhxbkxoOExmM1JJOUlKUzBZN1NTR3B3ZHY1VHEyVER6alhLVkxQY1lrVUIxVmJaT25CWU5md2pGaEtjeWgzOEE0S2Fv?oc=5
+- Data Center and Server Semiconductor Market Projected Grow to $254.11 Billion by 2030 Fueled Increasing Industry Demand - einnews.com
+  Summary: einnews.com
+  Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPalJodW9qZ3R5Z0xzOHBFdU9vbG5CTjhsLWRLQVdybG8yTWdtN0pHaGhoVm9jNng3WkJXQVNGM01EUW5WVnJ0cGZjR2l0SmtfZHlHUVYxUmwzeWo3TlZzakgwcUxBNmlxN1hRZlZzYUVQb05DQ3FGeEVZb2NqOUlEMGNYb0ZEdUduRms1Q1I0a3BBcmlnaXRrMWd5UTU5N1p0ZnV6Q09qeWEyRFdnTTFPU21pOGNOVFJ6M3F3QURYbGh5bG5QTlRXSzJxbXFFd2NKYUVMemd1S2VwTXVvSHNYOHl5ajdFWnBOTTU1VElfempQZw?oc=5
 
-- Stocks Down Pre-Bell as Trump Rejects Iran's Peace Proposal; Inflation, Labor Market Data on Deck - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0VrRk9IbVNqUnIwbTBYNlUtWjBfN3BSclZSQWJLS1hzNW5FYWwtWHlBamp5U2xCLTZUbjZ5WGhmZ2JfSC00cV90cHRzTkpqYmI2MUlwTlBfMTJwZHMxT1J1V3F3dmlscno5VE1XM3lHSzloNEY5V3dsM3pxQ1E3bG9YRnV5aUM4aVZwdlpIZzhkM2RVaHc?oc=5
+- Stock Market Today: Nasdaq Charges Higher On Inflation Report; Nvidia Partner CoreWeave Soars (Live Coverage) - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHJrS1FvLUE3dGtNRWJUbXhnT0pnTU5INGkzUFZMQ2dfdXJqZTh4eEVSY0VGajRSUW9naENPdmUwZ2Q0Ykhndi1PYVg5dzllSGF0Y0xLRVJWTnBtbDRGRmd4Ql9aWmlJYlcwNHdhRWtlQVRJMGdsSkw1YnhrSDJpMXJHTE9MVzUyaXJhcWt0TmNfU2htODVNU3Fsd3pCVFZUUVJ0NXBKRHlzaHBmajBqYlNkSWlVZEdRb05vY2pTZEM2LUE?oc=5
 
-- RBI to raise interest rates to 5.50% in October as inflation broadens: Reuters poll - Reuters
-  Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHFfU2IzeXpweG9ZdmFoZE9oV1BiN0hzZk4zNENnS2VMSDNVTnlLVzRWVXhsYVB5blA2QkF2emhVY0x6VHNYWW5pSFI0R3JmTGk1VlZVaXZKOEdtU0poUVhQOWFxREk2N3JOSktsZVdaZFBGRmFDaTRUUzNRTC04VVFuZnVXek5EczhLY1RfN3pSWUdRbnlNUUZkRktETGNIb3NuWlVR?oc=5
+- The Stock Market Is Reading GDP All Wrong: Why Jobs, Wages, and Inflation Matter More for Investors - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNSndQU0NWUV81WERuQmRXNS00QjV1OURXdHA5dldNdWNNNjJZdHVOWkdMOWZPTVMxRk1pNUUzcjF0bEs1Uk9YN2JyRTYtMjlndGZfdHhsY21kc0szSlBJMlZQNkRHbjB0cUxBT2VQaXBvNk9xalRkNm02Y2dHRW5ZdGxwSEFoVmtKVkpUQXNiUWZqcldvSW0wdg?oc=5
 
 
 Travel / Boop Relevance
@@ -66,13 +66,13 @@ Travel / Boop Relevance
   Summary: PhocusWire
   Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMnZLQy1oWlI5ejlUS0JGSk9WYXJEUEhWSTgzMVZQcm1jSE1ockphM0N6WThkX19TdU1hMDJQRjRscU53dGJiamdRQy02R0x3WUw0X2djWVJmSEVzNl9TMEtlLWJuQmJFckVGOXlnTVZTSUxFWHIxUlBVdFpvQQ?oc=5
 
-- Travel-tech startup CLICKnCRUISE enters Romania, aiming for regional leadership in cruise booking - Business Review
-  Summary: Business Review
-  Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2FQanFaY2dQN0NyUFM1MENiRWxFQk00cE9fRldXZEFLMWZudEh5cFQ3YTg3c3JMNTVtQm9qczhySDZqeExDZHhoSGtOQ2N6MnQ5MmRRbzRoVkFUUFdzUUlSdFBWM2syN2JQUkpXZ2dHSmpGN2NSbVN3eWtNQUZ4RUw4UEZqTnpJcjhLZ0dGV1RsNmI5dTlPTVpTRy1MZUFMZmRvM0ptcU5SVHZVS0ZZTE51TC1kRk9MeldvUGtXZ3lwTHFIUUZsaHpucGEyTFVLazZfSWVReFNGS1VlYVpTeQ?oc=5
+- New Travelport Survey Finds U.S. Consumers Want Greater Clarity and Confidence When Booking Travel - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnBsb2I4bnBlRXo4bXhETm9fRVFOcU93aVlvWHVFRzlmZGY1NjcwbXBvNE1KRDZxYmE0WTVVejB6STJJbmM1LU1NaHByWkxQNm1JNFpkWmczakVobi1zWDBDWXViMl9fbHhodnlpMDdGeTBxNkhhR1gxOWo3c1Z0VVJneFNqNW42cmNjWlpRaS1fazlMb2pqRjNqazZYeHIyaG1SLXRKTENNN2FtTS1kTjhnS3oyRG16cmZuSmFDRVJqMFhxeS1EYktGLXVuUU9udk1iTzlNdw?oc=5
 
-- OTAs set to reshape UAE travel market as online bookings grow - Bizcommunity
-  Summary: Bizcommunity
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGN0Z1NfTER6ZnJQT2c2ai1UcHBJUzJTd3hlU1NEZlFuR1RTUDVjT1dSMEJtWEkzaUJvSG42M3Vwai1RbHgzRzJNaTRsUnE2NUlqMTd5RmhMd1ZYblZtTEJJX1RtRmhxQUlJazZQc3NxY2RhWVJqcWxSeDVEdklNSTh0MkpwYWhHRUVNLW5YWGQ5UlE5blh6dHkwYmpMU21ldy1iWldkTDRRZw?oc=5
+- India Launches National Digital Tourism Stack to Simplify Travel Planning - IndianEagle
+  Summary: IndianEagle
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnBHbGsxRTZVSFk3OFhIdnhabTZRUzR4RDZhdDQ2b1lvWTJUZVRqWlEwbzdxUDJvWWl3NzJlX25jT2VFaVNTQmJKUTIwTFhUVUlHdTlOLUpwUFJTS2t3LTU5TmdxWWU5ZnpIWjZjS2JTY1F1ZHBlT1JaOXJCOHdJRnVaamc3UEtIcFdUbw?oc=5
 
 
 Bottom Line
