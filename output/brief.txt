@@ -1,78 +1,78 @@
-Morning Brief — September 30, 2026
+Morning Brief — October 01, 2026
 
 Chestnut Hill Weather
-- 58° to 66° today. Right now it's 65° and feels like 68°.
-- Around 8 AM: 60° | 2 PM: 65° | 8 PM: 62°.
+- 58° to 72° today. Right now it's 69° and feels like 70°.
+- Around 8 AM: 60° | 2 PM: 72° | 8 PM: 66°.
 - Wear: light layer.
 
 Breaking News
-- [Markets] S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets - Reuters
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 end lower, Nasdaq gains as tech stocks jump in September, yields surge and fresh PCE inflation data comes in cooler than expected - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkk1aS0tLXAwbzZ6cFdMTTIxeFA5WDRTSlplVXpZNmd0eEc0WFNfSkFiVFJPdkxtZ3VjNU9WTnQtOElMWXRXLWk2THpBdWdsak4zTmRZeFpabjBkNjJua1poNE9MY2pSV3NxZmtRNEhMZUQ0clA3cFhEZEt0UUIyb25FVWlGNnZJQkhPamlFVC16Q2x5OHFFM1Etc1hkWFUyVTBrTE5ybldXUkFWcURINnl3eVkxSk1nM0VNMHNiU1hNQTA?oc=5
 
-- [Markets] Stocks rise after data shows inflation slowed last month: Live updates - cnbc.com
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9mT1J0cFBqQy1oclZ1Vi1mazZCcjh5NlhQWlloZ3BTbFVWdW1vYnJFYlZ4UGx2aFJwX0l3a0tMTHVKMkpjSW9tZ3NMWkE2TjBLRzRidlAyMVJ4LVlHVm40clhZWGRxWk8yMGdwUlRfamROdUJXT3hz0gF8QVVfeXFMT294cWNsT2RVb3Z1UUtXaWtlQlRQQUFqZmtmWDhKZHJ5N3c4QkZUWHQtN1BBeGp4OFViYm8wVWVUeGRHMXFZSVlZVkQycTlSU0toTkM3Q3IxZGpnWk1UY1RGQVNxNXZvYjViVWYzeUs4MWFPQTZORDczUkd5bQ?oc=5
+- [Markets] Fed Officials Say Inflation Should Take Priority With Labor Market Stable - Barron's
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlGdmpwTWJHMTdWbmpQZ1FiY0NnaTVkQWJyWlRrZFpJX0xJTV9pRzgxX0txSmdGRFk0aDkyY29EMHJINlhFbEZkbVcxeW15endvampuS2w0eVJNRWo2U1RFaGNCQ0Z2WHBfMlVIME9Melk5dUNybnBzdldUeEdMTC1xLU1Sd0d1MjluSWdkaTl0WVg0eDBJ?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures edge lower ahead of PCE inflation data - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M2MnprOE1KcXQtUDJzWVNlTzdXclNvOE5uRnprc1B6QWtWZkRRNlR4bHVxZUFaNm05R2NYMjVIdGVoVzB2TzdpMW96RlZERUJGaUEwcFNISFNURUN1LW1MT0lURy1Cd04tN2I3MzZSNGpNRmJmaU53Xy1BR0F4Y19HaUZXekJhRFhoWmpOYWkzWGFQRk1BVG5GMk12bm5jaUJ1ZGdVSnoxLUZDVy1TWC1uUQ?oc=5
+- [Markets] Bond markets slide again, Micron earnings help tech stocks - finance.yahoo.com
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzV2dWJXSFR6NFl6aW1vSm44Sm14dm9Pbkk4THFhMTdkenFTY2V1b2RYOU9HT3FocFVEdWVzcWJkX21jTExIOGtKZkhKSVAxYW9NaGJwcmkzbXVmZUJLRVh3TUNvUVJBQXpUNkpEMWFYSXVIWmVCN0VTSHFST19ETkR0ckdoSmNVSjBaZHk5d1BmZ1hLRXU3S2VnSjNBUksxNVE?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Nasdaq Leads Rise With 1% Advance; Data Center Firm HPE Jumps (Live Coverage) - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDFib0Ita0xvZ3BBelFmZzB3OW5vaDUyUkVFejhrMXFXMDJvSUVHRC1NamlRbnp3S2xucGV2UnVEZERWUWdKRjVMLWNxd3RiczNac3VreDF0ZE9UM3NVV25rQmhTUkVxblc5OWNKbEEyQkd4WndmUzZVZk5CZl9xRElVWTJrczFiOFkwNUE0eUxFWGdURF9hQmNvbTY2N3hpZC11clNXWWxDcTl5Q0lBZFV1eUdjRXV3Q2U5SVln?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq fall as fresh manufacturing spurs cost pressure worries - finance.yahoo.com
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1SdnZIaGtFb1lNWHNpaXFsQ0gyUVhIZ3djcEV2YzlCVExrcFNhMG9ObXZQZDgxQk1ReVd6TGhaY2hUbmhLQ2xMSUx5S2lyYi15dXEtd2hkR2I0Yy1kdFVvQXZNeUl4cTlJZ1NkdzlHWkxhMXMwaVZEcE9DMVcwVnItcXRIOExzenBEeEFMc1NSa1NnUFk5T0xpWm9KaE45Ni1vMTVkdEk?oc=5
 
-- [Markets] European stocks flat as markets weigh hot EU Inflation against soft U.S. data - Investing.com
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmJSdEdJcDVVNW1ycWVSNDlicUExM0RqdEwzbHp6cEVfQXhFUURrR1duZEo0cWFXSUNiSl9ENmtOZFdkbnBqanhHTnpMY1ozVGV6NEx4V1FwV1ZYMUlXSFQtQ1dJa0pMN1dmNEZwUk5zeF8yV2YzYTFJQWNTbjhsUzd0QkNYZVlBVHZQNE1MbF9ZN0l1aFREX0psc29fam5Oc3hRVldqNTAwcVRNeDJ6Z3hEMkFXd2lodkhpWl9yZHpfS2Z5?oc=5
+- [Markets] Markets News, Sept. 30, 2026: S&P 500, Nasdaq End Q3 With Gains; Inflation Data Comes in Softer Than Expected; US 10-Year Treasury Yield Hits 24-Year High - Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3owY0xUd2YtNzVQWWI2REljc2VkYUctNUF5bHktMFloYXBuQXRmQUpMS2xOd1ducWx4bHRKRTNLQVBaUHFGN1YzeGZncDdoOGpiWmdqNEUyZFRhMHp3clFhR0xSME1FWXdnRndvTDNobVV6Zk13QkJqRmIyTlFzdjZsWkl5cmdhSkptZ0tubmg?oc=5
 
-- [AI] Robinhood CEO Vlad Tenev on launching AI agents and weekend trading - cnbc.com
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQM01oQnpzOVBUdHdJei00WW5BMEJ5dUk5Y1JlMmJtbGtHd3JnR3hxbzZhQmlia0hqUzJlclVGczZWQVZ1cWhFTFVuYXQ2aHNGSDg3MnNldWRrcTNwLU1xbmNRSUxiUjluSkU1OUVCMzNmWEg1NGJZaGxJR1pYNl90MW9nRjQ0T3NYMkxTUklhLWEwQ0RUaUl4enpHMVIzVkZGZ0VmZjJrdHc3QzVha3Yw?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures edge lower ahead of PCE inflation data - finance.yahoo.com
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M2MnprOE1KcXQtUDJzWVNlTzdXclNvOE5uRnprc1B6QWtWZkRRNlR4bHVxZUFaNm05R2NYMjVIdGVoVzB2TzdpMW96RlZERUJGaUEwcFNISFNURUN1LW1MT0lURy1Cd04tN2I3MzZSNGpNRmJmaU53Xy1BR0F4Y19HaUZXekJhRFhoWmpOYWkzWGFQRk1BVG5GMk12bm5jaUJ1ZGdVSnoxLUZDVy1TWC1uUQ?oc=5
 
-- [AI] OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - qz.com
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5
+- [Travel / Boop Relevance] Frontier Airlines launches AI-powered ‘Cancel for Any Reason’ flexibility option - Future Travel Experience
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHpTSUx0dEU5VUJwWjhnUG1UZjl0TFJTNnRCYkpaS2JtZDhrdnZWN2x0QlR3UENOR3JrVHZnUjF3bk53WDg0OF8yNXJLTlhyQkExRzVydUhHLTEySlRydlhMeWwtbnp4aHIwV2tWYkpHREhuRlhfUnFMY3pOdTg5YXUySUVJOHc5dlpwUWl3dElpXzVVSFdOQzNFZm92VkZxTTQ3UVoxOGFIUVNwWDZVZ3BCZF9nOHROUzBjT204VTRXTUJ3?oc=5
 
-- [AI] OpenAI Launches AI Agent 'Dots', While Reportedly Seeking A $30B Funding Bridge At $1.4 Trillion Valuation - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxObzRBQkVrcWNMUWNCUDZ3aGg1UTRnSHRmLU9qQ24zUU5zb3pTVTBzLUFOQ1MwelVQT2g2YlBHbmZfMmtLekxLeklyZ3VuejQ5aHJ5X2c2N29Fcm01dHhCcDBSdmVxamh3RGlPQXAxX2Q4V2tOMzIxbVBPUHhNbjdWUS1uT3JaOGRiWk9waVVuNTNOTF8wWER4Tg?oc=5
+- [AI] Not Chips. Not Memory. Data Center Cooling Is the Unsung AI Infrastructure Play Nobody's Watching - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPOG5MOURraDd1X3BQU1M1bXZ3eDQ1OXBGckhQZjFVdFhxTFZvYnFERG80X19sQTR0dGpTQXRndXJCcHZMeER1VjlWYVBCTFVxSEVvYnAzeEJCNVNyVk9ueUlXNF9LSFdmWkZkOVZDU3RVVHRNbTJMSkJsdXdBVkFYTDNZM0xNN0ZGV25VcEJNeFJ5bVhFaG8ySw?oc=5
 
 
 AI
-- Robinhood unveils weekend hours, AI agents to allow users to trade nonstop - cnbc.com
-  Summary: cnbc.com
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxONTQ3cVVQSE9HZUgyTS1xVVc4aTNyNDdlVUU4QU50aWNOcVNZUFpmYW9xQlg2bjlPT0MwVGNFV0VlVmxGTEFkQ3ZtYk41dnFOVHJBak02UXdQdmJQcmMtUE8xdUh5Um5DVWF3T3R4YTk1NXZaLVgta21MZWlBTERZQkhTVE5xX1ZtdEFPZ0JiLTRxVXRYYndncnExdk9GcHk4MWtiQURsb0k2VHA5OHE4?oc=5
+- Will the Rising Adoption of AI Agents Boost CRWD's Identity Business? - The Globe and Mail
+  Summary: The Globe and Mail
+  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxObEJnQmxESFJ1dHh1TUZoVmVLUXZ6UmRjOG8wVHZ5bTg5WTd2UEFIeFRfVWZDWXVlT3ExYWhYaGZxc2FyWFlkalFXbmNGLXhZa1lJYnZtbEZBQWJ2MG1FNzM5TWRwNkY4TXJwZVNYeFNMRDA1V25sN1pyeENyM29QRlNOdzFCUzBibzRReXF4M2NKcmtVM1RJc1hFSjVzRVlFVF9melJLVW9jWXFlREo4RzRqRUlFRXR5V3lVR0FTdFhiTFM2dTFSdW1XMWRuakhqelp5X09TbmJYcDNjLVRrSWZaY1haWm8?oc=5
 
-- AI agents have a normal-people problem - Axios
-  Summary: Axios
-  Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYlN4dE10RG55M0J0dFExcGlGRVFaZGNKYWFnWk5WekhtRVJJa2kwdnltbngxelZiSEpkeFVlOEhPRERqS3lHNFU4YTZhakkwUUZjTGhvbkhMMjhoZ1pVbDF1NHdFOGJFZVFGR1hR?oc=5
+- Reco raises $55M as AI agent security startups crowd the market - techcrunch.com
+  Summary: techcrunch.com
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPRW52SnVvUDJIMzZobWpaZGV1ajdjZUxNMTU0WWtaVkM1XzhEMG1LbGJjckIxaS0wOUtpNF9KWmdXZ0ROSmtGN0FxVWtlVDJSUFNtbWJORnpGM3BaOWJyZmxaUHU3MlZaTnYyTTVZazUyNTg2QzMybTF1WTF2dk50TjhKWVRRT3l6YnJzeGpXb1NPVHNWSzVLclJ6WTI2dw?oc=5
 
-- Restate lands $20M as the need for durable infrastructure increases with AI agents - TechCrunch
-  Summary: TechCrunch
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlqVkc3dFdzZXZmbV9xRU5Fbjl5Ynl0c2V1anZ0cHdZdVJsUVFSbDZNMHBHZFBucjV2UENTY0ZyRkhpc09WZWxNVC1hY0QzeTdKajAyUEFLemNBMVRIMENXWDFHOVE2Y2lIQUtkLUwyaUZuM25Xdm9Ia0pzRTZaMWhsMkpQU1Y0WkplRTZ4dVBQa0cweWprMjJEcmQ1YXVhajFmU1ZDQXVfV0oyWFdQNTd4ckJJZWs?oc=5
+- 'Data Center Revolt' tour stops in Brigham City, stressing importance of public involvement - KSL.com
+  Summary: KSL.com
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2xfc1FZTWRJLUVDMWM0Q21QYlBJYWlpcW9BRWdJTnQxa3VicTgtc1JMQ1RzVUZPSnBKTDI3ckxJU3JHM1dMS0hjSURvRTFrMG9XV2YtRDZ5OFF6MTVVV1dUNUhVMGJmVUNTR285dUVKRFp1VWE1YzJRTnhaWkY2ZWRuSk56eWlVSlZzenlvdy1PY0JnTFpnb1FEaEdjZlhRUTJwZ1VqMmdaVGxsX01sRHZKUC1WQ29lQ2E0eDl1R2l6eUE?oc=5
 
 
 Markets
-- Wall St climbs as cooling inflation tempers Fed rate-hike concerns - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm9Va3FFUy1COVAxaTZhQTFIaEt3UFdUaFhSY2VZUlRlZTVyT1RwTHA3bW1XM1h5UTF3azl1dEJWclBnb0Z5ZDlKaGcyakFSOGp4X1A3VzdfNW9yR2pWWExkSGd5STZJUDg5VDFVcjFWS2ZEODB3cUk0Vk1LdUo0V3Vzank5YW5UdmdxV0FPRml0VDU3bDMw?oc=5
+- S&P 500 declines to kick off October as yields surge, Micron falls post earnings: Live updates - cnbc.com
+  Summary: cnbc.com
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5
 
-- Nasdaq Gains to Close September, but Chips Aren't Helping - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9TSWhlOXRqVlV2QWVKNzFtUEMwNi1wc20tNEREajJRXzJXUTdsejFPQms2cU9ONUJKT04tWmZ2c2tUVFE1N1NDZjNKcFc0cFJ6eUwwVWM5dEsyQ1RVLVNnclNkVjB3SVhKdE5Dc0FMYWNQTjgtN3c?oc=5
+- 3 British Growth Stocks With Over 34% Earnings Growth - Simply Wall Street
+  Summary: Simply Wall Street
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk91dEhWcFl0NHluZFA0cW9obndfb2J0R0c0T0VqeUdhZlNMRzgtanpyTFg3TG9zQnpWcXNKWFpDZnI3U045LWFZclVTWXFnTU1DUVdhYWFSMmdPMGR1dV9JMUJRMWFuZVZDb2RWX3kwRjV6X2thMmZWOWNWZ1ZPLUJWMHNEZy1CeWx3T3ktcWdRMFZmN2JXdmpITHJZM2tydkJ0cFF3Q090U2htSm1JOUZxSDRvOWlhSjJhX1NMbEjSAcYBQVVfeXFMTk9wWWY1Nl9SVmFwVkRQaVpndmJtd3ZtRC1BWjZuYmZlZ0J0eEdSWUN6Sl9VMWJSZDdSa3VsTlptM3BKUlpocjVnZVNtTnlWa0Mxb09idHVZQlR3X1R4UFItV1htXzdiMThTYmdkVms5YjhVTDZwZmttRWI3RDNRWWdMQWxMTF9LTzFiMWRkYnd5MnRJN1ptU1MtM3hjNTFkOF9WXzZYVS1aZkZuMERPeUNtVC03SGJBd0lZQnBOT3lVU1laVXl3?oc=5
 
-- Europe's surging inflation spreads gloom in stock markets - afp.com
-  Summary: afp.com
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUE0RjY3eUFHcUp3T08zc1VlaHhxZjl0QVcyZVRJbUk0a3k2d0R1aVJWZVJ6RDVDYW1ZZkYtODJVR1FFaGFGQ1NmUFBXV09JWFdqenNtZWdOZXhoZG92aHI5SFVQb1RXWW4tckVncEVWOEFySExvU2JtMGRMTWZrWU9B?oc=5
+- US Stock Market Today: S&P 500 Futures Edge Higher On Sticky Inflation And China Hopes - finance.yahoo.com
+  Summary: finance.yahoo.com
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1BjTlVWUGo2dkYzWkt2TURENGVIOGhLVWZxN01NNEFuUm83WXhiLUNSM0hoM1BUblVtb3BYdFlOa0xSQURWaS0xa0hFWWp2OUZrUFdOS2VrcDJRcEJQQkt4RXQ2eVB1TDVYRDFiM2oyZGdCd2ZFNnJaY2J0Q28zcDZ3RWtXdkVvZG5ZS3ZqNjNvQQ?oc=5
 
 
 Travel / Boop Relevance
-- Truist Assesses Potential Impact of Meta Muse AI Agent on Online Travel Agencies - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm1Ld25uWXFYa092RjJJVzdVYnF4amd1WVVlR0NJVnJiNjQxMFZvQjZ5Z21temFJU3FxXzUxYVQ3Y3Bpb293V0JnRENtWmFIMUxYX1VncC1QRHF2RTcxWHgzRmVFREVBY3dwLTBfOGFVMldSSUozVGR3VUhicXg2OVpScm5YUG53Y1BrX3pvSUJoM3phUHI3djIyRjJmRjdhMDFR?oc=5
+- Juniper Group acquires hotel direct booking technology provider Bookassist - Travolution
+  Summary: Travolution
+  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjE4QTBKd0RGSzIyV0dRdXdGMUk2OHk0QS1VcGRleDJYVFphc3ZBX1lKcEQwMnhXRHE0cUlkWDBiXzBUT2lQSDE5LVNyajVRR3hsV3l5cEtYbmU0MUV0QzlJd3d0UEw4blhvSTkzakdTbzJEblN2V1F1RS03OTdOc0daTVU5dTh6MVh4UkdvNDZ0Z1E0ekMtN2wycVc3NkxVdmJsaG9vOEdLeW43X0lkZC1NaURxQlNPSzZLYTUxeFJjb29Za1VrOUxXeTQyRzR6d18w?oc=5
 
-- DW Travel partners with TravelSwitch on digital booking platforms - TradeArabia
-  Summary: TradeArabia
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1BqTm8zNFVvbVBfZTZzVC1qM2NoeU9TeW1sWVRaQWxoVm5hZ2F1ZkFRY2J2WHVacnEtZ3hndHdKdWdpaTNheXFweHpDc1M1TUN6Sm5HS3NhSFpENEFkbVd4VFdDcEdjQ1NqV1ZPRktWRjNGMktwY2Q5Vkl6UE9qNXhkQlNoYXhSNUlkd1IzN0tpN2YzUThEN01MTUFyRXE2Nk52SHVYYzVab0RtdUE?oc=5
+- Qantas Loyalty partners with Expedia Group, focusing on its Hotels & Holidays booking experience - webintravel.com
+  Summary: webintravel.com
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxORHRHdWF3TmYyRmZDb3BEVGxBMzd2Mlp6MXM3dFBTeDdfN2ZnVkFnT19hbDltX09peE1icjJBVHJUeWE3UUgxV25mNDRKSkpVc204RnhKTjM3LWZNY3A0bzRpRVVBam11SEZVV1d2NGo1UEthVlFEQ0QzRE1iOVFXNGxueWN1UktlOGFBbDBfS2hpV2g2enNpekdRVWRPbVk4MzB5VElsZEQ3ZW5FaTRUenN2eDBIOGRHTWh0LW9VWQ?oc=5
 
-- Booking Holdings launches AI tool for restaurants and activities - Travel Weekly
-  Summary: Travel Weekly
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjd6S19wenJOUXllcXZ3bm1SRVJDNzJzaXBMV3dlbjh4REo2cjh6Vkg1dm5nSVlxbjU3VGhmZUVQVjVJam1WWEV1U09vbVFhNHhxbFZXemlZMzh5YVV5Y3ZWWXhGTm53V2xHdUZMR3ZiVGpiWXdFSS1fM0FreFJPV0ZIZzRNMnczSVJ3eHBqNkVIRXozVkI3LVdSMUpOUWRPLWs1bXVwS1VkdUxvdVRB?oc=5
+- Startup Stage: FigFinder AI wants to simplify trip planning for travelers and agents - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMnZLQy1oWlI5ejlUS0JGSk9WYXJEUEhWSTgzMVZQcm1jSE1ockphM0N6WThkX19TdU1hMDJQRjRscU53dGJiamdRQy02R0x3WUw0X2djWVJmSEVzNl9TMEtlLWJuQmJFckVGOXlnTVZTSUxFWHIxUlBVdFpvQQ?oc=5
 
 
 Bottom Line
