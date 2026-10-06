@@ -1,81 +1,78 @@
-Morning Brief — October 04, 2026
-
-Seattle Sports Today
-- Seattle Seahawks vs Los Angeles Chargers — 10/4 - 4:25 PM EDT
+Morning Brief — October 06, 2026
 
 Chestnut Hill Weather
-- 46° to 61° today. Right now it's 60° and feels like 56°.
-- Around 8 AM: 48° | 2 PM: 61° | 8 PM: 56°.
+- 44° to 60° today. Right now it's 57° and feels like 48°.
+- Around 8 AM: 46° | 2 PM: 59° | 8 PM: 51°.
 - Wear: light layer.
 
 Breaking News
-- [Markets] Stock Market Today: S&P 500, Nasdaq rise as tech stocks rally, while Dow dips; Treasury yields erase declines after inflation data; oil slips - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW1jSXNES0p2V0I4TGxhVTQ3ZWFJM29maTBQejFSTU9sT0xKQ2syaklWd2g1Rmxmb3hqcWotOUs1dmZ1b3kzLV9hN2ZJRmVyU1BaQ0RUM1lud1ctVFBlZWgzRGVXU1B0MGFVZEJsRTQ0ZVpNVTB6Sk1nZUVRZV95RTBOVWJEYy01UnZjV0YtbEVoS3FGSndVTl92NEZrZ3RqR0tNc294WmtPUEJPWEZzYTd4UUJFejVnNExpLVZmNHhfY2s5eTJHeVRDd3VGZw?oc=5
+- [Markets] Investors Worried About Inflation, Interest Rates, or the Economy, Should Consider Warren Buffett's Approach to Investing - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnpocF9GNUZnM2JNRVExa2Vaajhha3lPcGlwa2lkaE9ZT3FZcTY2b3dWWmc2TExJYXJlam5Cb0dITnZVUEpvYUM4U2szdGlZNms3dEVjNks0OTdJXzFISzFpOTdORGROWnNJU24tODN4b1RIaXpVTmh5T1ZjeXVjX0MzZHU2QlFyZXB5eF9wQ2tEdUoxaVZENHl5TFBVaWJfUGZaSHhxSFJPdlU?oc=5
 
-- [Travel / Boop Relevance] AI agents are reshaping online travel. Who wins and who loses? - Investing.com
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmJrZ3RwVHNDQ2t4MkxaSHdrbk5SZGp1bkJCdWg2eC0yQlRxcDJ4NmV6M0JWOFgyVTdfeDhlTnVYbkxaTWtnTU9QWV9aTFVfMm5zWGR5REczRjV5a3BPeUh4ZF9KcnFaSkJndHl3QU4ycGhKQmpSR1pzN2JpV0ZsbHJON0pwMlN6b0RQcTlvSEdkUl9hMjhLUTYxWElmRWRfMldkQ0pkYkNNVUpscmszRGx3?oc=5
+- [AI] MemeToro Expands Open-Source AI Meme Coin Launchpad on BNB Chain With Permissionless Fair-Launch Funding System - markets.businessinsider.com
+  Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVjhaSUdFYWllZU14djdmX2NZaW1JQ0hocXZCdlgtUkVaTktzLTRqZUExYXZ0MEotYlRITlZXRm1YUm9id3R6WWRXVW5KcDRJNDU2b0o3d0sxT0FrdGRfVG56ZF80SDRqRjVCOW13SWotRVhmbVE4UVR3V3J1elRfVEt5SW9Qd3pJYmdiRWJfblJ3ZG83UWRSejNhUThmczRuRXRQdWNiRTRzcm9ZRXIteE5qZDM4U3FMMHRUakg1U3FGZlNoaEpzb00zVUx2SkZsMnZGcUFpNHV0TEJJdUhBUXlZN2UxVnpxQkttYmxCclR3dXIzYXdveEZDWnM0enM?oc=5
 
-- [Markets] These Tech Stocks Top Buy Points. For One, Earnings Soared 263%. - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPekpaRmhJd1Q0T0NtZjliV2F1VkVwTEVkdlhLZUF1QnFZb2w1WWVCODJ3RmxxSVd4cVRLNkp4TWdMdF9pWmdvMTFBVTZYek45MjRHd3BKTm12aDdyRmFIMU5BQVA3V0Rubll6SjlWcFloVTUzb1p1cDNvNWtEalJCSUltbFMtdw?oc=5
+- [Markets] Wall Street points toward gains, oil prices fall as markets await next week's earnings ramp up - LancasterOnline
+  Link: https://news.google.com/rss/articles/CBMi-AJBVV95cUxPMDJCdWFQN2tJNl81U3Z0WlljVlpPME9fUEZYWFlsalFJRzM3T01idlVmUl9zdzI5ek9hWkxaa29UcHZJSGI4emlCajk2a0M4M3pjdmNwM3Z5cllfMkJEUnNROHZFcm8tUTBFMDNmOHZXRmsxX0VSZ3VCSUpfcEF4QThjTnE4a0xnLWwyY2hvbnBLczR2VEhiNnZtXzhOeUd5d3N2emxDS1hMSmU1SDIzQzZodXU1aVRNLWdUd1hiN2RheWQxQzVGV2FLQkxMTnJ1bXVZbmJHVWRuVEJZMXZKOUpkMWpLRzVVNVM2RUxRQ01ibVlOZU9YcUphZ19pTnRqb19FckNjbXV1a1M5bkFhdWN3RzI5MnhKQ1JyN2ZwOU9DTFdrUWt5eDBsWVQtc0piclp3YTRYcE1Gb0JSNVJvNTlGNXhrdkdXdVltUndXeU5aTjFqMms0T0o3OVM2UEFVMTdOa1VvT3BfYnZoa19pLUZnbl95SjV5?oc=5
 
 
 Must Read Today
-- [AI] The Consumer AI Agent Race: Five Platforms, Three Pricing Models, One Winner - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNTElENEJkbklmaklJRFVrY2ExWGRPQzUtV091ejJEQ0M4WGZFSVl0T0VVT094UGlvNmVKRGRlaEtzTkxRVlZXeE9vUHNLaGw4SERvdWw2SVdBaENnZFBZQktLZldjMHIxYmFOamNqTjFTOHNKNy1UTlhLZkoxNFJlRGIzLXFZbXJSM20xdGNZZFJuOFVmYWc?oc=5
+- [Markets] Stock Market Today: Dow rises 380 points, S&P 500 and Nasdaq trade in record territory as oil prices retreat and Treasury yields fall; Google's nuclear power deal helps utilities stocks - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUkwRnlhVElXVFlJY1habFozT0pBMXNjUzV1VjFGWlZDdnJLTkk1S0ZRcnhxWFJiQ255ZmJvbWJhNHhHYWQzVkJSR19YZHRLX2pueVZyTldxYndsUTA4cG5zdmRIYW5vNWJZSDNHbFBYRlFLUXdrR3p4NEh4TXFPVm5SUUNxbUVvMkhBTm1ya2pvb2p0QXBxRDJtWi1MeUdFdEozNmVsYllYYW1BVmhxVDU5TlR6dUF4N2lCWA?oc=5
 
-- [Markets] History Says a 10%+ Stock Market Correction Is Inevitable Eventually. Here Are 3 Dividend Stocks I'd Buy to Prepare for the Next One. - The Globe and Mail
-  Link: https://news.google.com/rss/articles/CBMitgJBVV95cUxONkFHNWd4djE2d0hybEd6XzhCamtfakIzSy1PSEprR29sZGdtdEF4MEplWlBDOFcycUdTY2RLVHc0cEJVc0xiYTZtZEJnZnJpMjlEY2w5Z0VWRVlkU0R3Y25GY0d6LU1fUUpESUROb3dMMWlicXJhNVdKSXExT0pxSURFSDZwMk5MRTlib3Joa2wtaVV2UEhrMUdsRU9ndUQtS2V6cmxONGRGRkxLQVBUR0lraTZiNjhTMlAzaldzR092VlFCd3VMRjZDNXZYRWJVeXEzRGtJMUNWWWFRVmFWaFlfWGxYY3BTODFJbVBSb0hhNXltTkFNdG9mR3JfNlpiVGhEXzZrcXBDQmo5MXFMYnlkNUgyTGJtUmIybGJDSWxJS2VrV3FERExFdkI0Ny1VQW1OMGhR?oc=5
+- [AI] AMD hits $1 trillion market cap as AI agents boost CPU demand - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG03dW5oUWdJdS10NjhZaDBSQ3JyWHJGbU9mbHBWYmxDb2FxQmQ2cG95a3B2NXlwN0xIc1plM0l1TTFXdjVsNDhGaTg3UVp1RXFadWl6MTJQZzNoWVN3NE5fVnFHcU84QXIteWppQjFVYTJfUFBmX3UwR1FVd3hEQktDaVcxRl95NWI0WjFYNy16c201?oc=5
 
-- [Markets] Markets News, Sept. 30, 2026: S&P 500, Nasdaq End Q3 With Gains; Inflation Data Comes in Softer Than Expected; US 10-Year Treasury Yield Hits 24-Year High - Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3owY0xUd2YtNzVQWWI2REljc2VkYUctNUF5bHktMFloYXBuQXRmQUpMS2xOd1ducWx4bHRKRTNLQVBaUHFGN1YzeGZncDdoOGpiWmdqNEUyZFRhMHp3clFhR0xSME1FWXdnRndvTDNobVV6Zk13QkJqRmIyTlFzdjZsWkl5cmdhSkptZ0tubmg?oc=5
+- [AI] Street ups AMD stock targets as personal AI agents drive demand - Investing.com
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWxSSTBTRDBCZFlzZXhCdWJrNHktZnU3RXczWE9zQnU3dkphM3BJNjhicE55RmlaeGRMZkU5enAyRWdwV01fN1B6aTV4RnA4MTNCMThtZkNiTHI4cUg4ZmpMd1V0VDV0d2pGZFpFemx5WEZPX2RXVWQ3UlJacFNvOFR0c1F0dFNTNTMtYkFEanpybUZUa0JSNzhKQ3RYOF9DdnV2VXA2M1NTSUJ6ME5OQkxRS25tV3RVaXZ4Ng?oc=5
 
-- [Markets] Stock Market Today: Nasdaq Charges Higher On Inflation Report; Nvidia Partner CoreWeave Soars (Live Coverage) - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHJrS1FvLUE3dGtNRWJUbXhnT0pnTU5INGkzUFZMQ2dfdXJqZTh4eEVSY0VGajRSUW9naENPdmUwZ2Q0Ykhndi1PYVg5dzllSGF0Y0xLRVJWTnBtbDRGRmd4Ql9aWmlJYlcwNHdhRWtlQVRJMGdsSkw1YnhrSDJpMXJHTE9MVzUyaXJhcWt0TmNfU2htODVNU3Fsd3pCVFZUUVJ0NXBKRHlzaHBmajBqYlNkSWlVZEdRb05vY2pTZEM2LUE?oc=5
+- [Markets] Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5
 
-- [Travel / Boop Relevance] Airbnb makes trip planning more personal with social travel tools and AI - Manila Standard
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFFrbXdyLWs3aFJDN2s2QTl3YTF3LXB1YmZaY28ya09neU1MWHNzWmlpdExvM0xiLWd5SnlnSTlaemJDNjVaNDhfUHF6UHNUMXpmcTJtYVZWTzkxSy10dmFQVDZpc19qZzZ0T003ZVhtUkV1V2dYNGRzbV96SlFaUGZKRGJRTGVqYUthRGpNeWdwT29TMzVtTy0zaWliazdEZkVIVHFVM29wR3Y1NzBYaTUzLS1VYmlEdEpIQXRXdndERVNLUy0tbnhZZWtXOE5XRXdpWjVuaw?oc=5
+- [AI] Cybersecurity stocks hit new highs as AI agents spark 'biggest risk today': Chart of the Day - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0hPamdUZHdJakdHaUdveWU0LVpWc2F5My1BMVRZTFVRRUhlc1hObFlEMzNicmJWMVd5aDlndmczc3lUa1F3YVdvZGdLR29kNHZIZkw2Q0o5MXp0dXFjQVNFcVNxV0FPNEJyRFU0cTc0RjFNbmgyal9YTnpURC1NdU0yRkxOYlJ2emtaZzUxNEhjQ0M4dFhfMGJaZm95YUJ6RTlTc296Z3NNR3N1QU5HZVFaWlRNRkcxVmVIWml6TzNZcnVpdEdZLVZ1TmhYemRfR1FTZ1FHQzJaenFqYlZTVy1RRHZNNjlv?oc=5
 
 
 AI
-- Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials - KOMO
-  Summary: KOMO
-  Link: https://news.google.com/rss/articles/CBMihwNBVV95cUxPaFhuUVpiSVFNa21zWjR2UmRNYkdaNWl4cl9PR0pLemZVdTJ0ckprV3dXQXNnVEdXU0lodmFfUnFBVFRFN24zUFpTRDBZTER2R1JDckdJaEJUdTh4ZDhTUXV5dlR1YlJDV1I5ZkJ2ZG9pRGxYaVZmMVdZSzZCbEl4SlI0UUgwX1FmbEd6Q2lQY25EVkRKcVBoN3J5RlpqUTZfSy1VLTJMcWpFbTk3Y0Vqcml0REZsdEZtNVIyLUxDQTNudzFFeFlESFAxX2QxSWt5RE9mbUJjb1M3UGpYTXBUQkhLWS00RGhETDJLc0JIeXI2MzFISTVyQnhSOVRjVWtPUjdFeS01bkRuVDQ3YjUyZlk5Y1FKTlEwMkh6WkZuYWdFZC1Salhhc1pneFp2LW4xVGQ5el9Vek5DNVI2ejk1MG9ZbktrS25uME44bGE4TFRWbG1lR09QYU1oRXhEeGVlVnVYTTMyaFY3WEoyVGtPMzFoTzdPVUl4MFAzWkJVMHFKaDkxM1lZ?oc=5
+- New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent - Amazon Web Services (AWS)
+  Summary: Amazon Web Services (AWS)
+  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUVVRkRoQmhFNzFDNWRfdS02bm9zQWRoMUxKMnZQY3k0VkI1SHRkM0taWkRscE9pSExzVTdKUEhRZnk4Q3FKMzFRTVVPcTEtaWM5bUp5c0xJX1BzWTBrSzVZS3pVQlBBTFdDY1d0bkdXS055SEJFWW9FNV9MX1A2cmt5eFRvMGdYc1BxUmg3MTZ2Umt2NlpXN1QtNmZDWnJuMW5wa0picUNKUkNFOFNDNmpoZ1hYNGROenk4SWZubFJ4UXJTTGs1LU1hc2FqRFVW?oc=5
 
-- AI Agents Got Cash to Trade Stocks. Here’s What They Bought and Sold—Repeatedly. - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQRENKMEhaeHRrd0RNVXdCT3d6Qlhwb3RqTmdwbndjaVdBU1NNWVl4RWFmY05BNUVEWUhTMHA1SzBCOXJUMTF1NFR1U2RzVVhVai15eDI0eEVaSWZkaHBtT1ItZElHQU96b3Y2Q1J6RGw4dlRuNUZHOVFLNkJja1NfeFZEc21pUQ?oc=5
+- Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPR25oMkhvaXFGQ2YzdktZbGp6czJkMHVIbTNUX1lzS2l5Nmp4aE5fMXFmWk5NdGhoSjh3SjRhUFNiTE95OUtSSk9SMk9aVDhVMjdTWjZYajBVUGpsdzN2TlBFem5HM2hpZ29iNXV5WVhNczVtc2picFYwU2htN19hZjlqSVBrQmxSY3VKakxvMXV2ZFFOVWc?oc=5
 
-- FDR’s lesson for AI regulation - Fortune
-  Summary: Fortune
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5
+- Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5
 
 
 Markets
-- 3 Indian Growth Stocks With Revenue Growth Up To 27% - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPUklpQTFLOElzek9Ca3dodDc3NDRPNWE4M0JPWjZKckNrM3lJRGttZ2FKc0UtMl9HYWdtUzVMSmNaMGlBWXhZLWU0ZnljQnBnUGtTU2NPUjl6b3h5S1hUWUliRDRZVXYyX0tGZXRBUzZKS002dDVyYVJod1pRWDRJRGQ0VzJCUFdaQ1dGbHQwTURWZjhBbnVGX0oyVQ?oc=5
+- S&P 500 hits record high as AI stocks shrug off bond market slump - Financial Times
+  Summary: Financial Times
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPd25OOGtLZGFQYm9wMjExWWRaWlhUTUdFQjJFTG5oLThEaFFWcUh2QThaeXd5NWVNeVhOQWZ1U1VGRGprN2xueDFqSVRHRWNMMTVLNjlrRHBGbV8wV0dScERTOXh1VzRaTlh4RkZBQTFPVGFGMnJvSkdmLUZLamllRmVHTWg?oc=5
 
-- 3 Japanese Growth Stocks To Own In October 2026 - Simply Wall Street
-  Summary: Simply Wall Street
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmVxRkoxVjFyUjd5ZTlNZEpnai1JX2VjMHdNWHZVSVd0RkRISDZpWWFhbnR2RXFmVmNpY0tISThySDVZdXNabW85dnRJdXZtVllEYnJ3akVvTTRrZGdNemtaZlpoMnJTcUxibjk3QV9JSm10RWJFRllQa2w5NjdnS0I1Y2laRzJYWFEtNmRvaDlZRVpMZ2VBU0pkeEZuNGRjRVE1d2sxY3BlVENnVDlJckxwcUpDZ244ZmNEY2JYMTBNRGk0WG1v0gHMAUFVX3lxTE1EcHhicEdpTkZlYWJYS01qU29sYlc4N28ybG5iS2JSRzFqV2ZuVUxnLUZPc2xyZXhYejZNajYxQ0NPcU45NU1iVzlvb2g1LXRUS1JIVzdkZERhZnZXX3hxN1V5TVE4c2xmTlY3NWZkTHdlQUtLXzFycXNNalBGdkdKVVlRYVJyTEpVR1JXZzhnUVJvcGs1RklwRmlldk5WZ003WTlBTFJIbkpMdm95NWpFMjRiVFhaNUE4d3htQzZZazJ5cjB1V3l4N0RiNA?oc=5
+- Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5
 
-- AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha
-  Summary: Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkVITFlCODhHSkdVWjN1VXRqOHRLLUo3amo2clEyX0xSdmN1WEJlc0tiUzlLcVBXcTQ4WHVnRVpBZnFKeHV4V3BLc3pUWlV5SEgtcFk1ZEp0WGM1QjdZbUpfRzA2cTRJbzFVYzJhZ09uNVZWVG1LWDJqb0lpc0NJZzBDcEU2NjRkaDBRVDZUWmRtVFhMV2VfN296TkZWUEUwOUxQMHVVMmc0TkgtcnB0TTQ3Yw?oc=5
+- Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5
 
 
 Travel / Boop Relevance
+- Booking Holdings spends nearly $9 billion a year to reach travelers. Its CFO explains how AI is changing trip planning - Fortune
+  Summary: Fortune
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pzUzIwbVVrWUN4d19qQkJJeFBGTUlzNTZmdFBJZXpWS1pOdFhJcHZGTGtVd3VPWFhUdS1ZaXZNcktKY1IxLXYxVTRGcGd3VlRzSzVBSHQ0UkhxbUdDSDA5MFJuSW1jX0JraU5sa1d6TkFyRG9GZmRpYzdKN2VFMll4S19lQ0kwdk0zWGgtQlMtMVZURkpKaDYyb215S2xKMlEzVkFqQnFkRkpmcG90a0wwMTJyR3JYT29uY3VKWFVNckU?oc=5
+
+- Asia Today: AI, Fintech, Semiconductors, Travel & Startup Funding - Asia Business Outlook
+  Summary: Asia Business Outlook
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmVHaUJiMmE3S1JiTVc3MDhnc3MxVU02TzdlLWpRdEItR3pkOGhocDNEeGR5eEpPY2p6bUJnM1dfbktXNFNzaEZ5Njl3YnYwRV95UHRaLUdSLVpLcWJtdWc4eHFEM0RvbVZYUjY2Z1kzZ3dlVVJwQ0RlY3h2SDZfWGdRSTRvOWZ3RmJ5RnJOMHEtc2dLY0VMVHVwM2V1V1NqTUt1WGtOTFdWR1FsLW9Hb1NOamdGOW1PYWlyYw?oc=5
+
 - Arabian Travel Market 2026 puts AI and travel tech at the centre of tourism’s future - Fast Company Middle East
   Summary: Fast Company Middle East
   Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDRrdUxrQjZQQ3JSOHBnR0lVcXZtQ2txZHkyaERxM0h1MjdQQkJWNmFFT1NfLWt4LVpkemVIWWRBZUNCd1ZKV1NETGVHa0plbk41bUc3Z2hCX0VNUkdlUDRkaUR3U0dtQlBHV3pfcTl1eWp1dzZMX0RNOTJBZmswVVRsdmRnOTd6bXo1NFFlMnhOdS1BdVhLLVZwX1pSb1REZ2Q2YUdRVEo2aGhDWVNxRTZ4SXJJUQ?oc=5
-
-- American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
-  Summary: TravelPulse
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
-
-- 8 Ways Hotel and Travel Tech Providers Lose Deals Even Before the First Sales Call - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXRIY3hqaFFXQXNLdlZZdHhkNHc0bENuMExLNjZjb2w3YkZIRlJCR2hwREFTUWYtanVEYjIyZjkyQngydlZ3Z0lkVWVyem1tS3RZNnU2MUU4aHdkWTBxa3FLZDhLcXFDNUFGVzhISHdZQldtQkFiRXdRN1BCVnVDU0tob3lxRVpBZVlCdWZyNHFBR2pidTBNOUJFc0J3aWhMS29nNVZTQk1kRk9UVHFIVlU3Sno5eENsb1RrYWlaNnBLUWs0alhwRA?oc=5
 
 
 Bottom Line
