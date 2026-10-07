@@ -1,78 +1,78 @@
-Morning Brief — October 06, 2026
+Morning Brief — October 07, 2026
 
 Chestnut Hill Weather
-- 44° to 60° today. Right now it's 57° and feels like 48°.
-- Around 8 AM: 46° | 2 PM: 59° | 8 PM: 51°.
-- Wear: light layer.
+- 38° to 64° today. Right now it's 63° and feels like 56°.
+- Around 8 AM: 41° | 2 PM: 64° | 8 PM: 55°.
+- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Investors Worried About Inflation, Interest Rates, or the Economy, Should Consider Warren Buffett's Approach to Investing - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnpocF9GNUZnM2JNRVExa2Vaajhha3lPcGlwa2lkaE9ZT3FZcTY2b3dWWmc2TExJYXJlam5Cb0dITnZVUEpvYUM4U2szdGlZNms3dEVjNks0OTdJXzFISzFpOTdORGROWnNJU24tODN4b1RIaXpVTmh5T1ZjeXVjX0MzZHU2QlFyZXB5eF9wQ2tEdUoxaVZENHl5TFBVaWJfUGZaSHhxSFJPdlU?oc=5
+- [AI] AI Agents Now Launch Full Ransomware Attacks on Their Own - Forbes
+  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU9VRGIzZi1ISUFlTHN1cER1NmNwZzNWdnZWZURXaFk2RmM4TFZJekUzWXBNX3B5blBYb1REb1JGUkc2aWMwcXkwSnlDN3RmdXp2UDhQMUNsNVVjeHItM21GQWE1UTZsS0lrZTc1VWZEUTBicVFycWtKZUk4eGpDc1NWQmR4VUFt?oc=5
 
-- [AI] MemeToro Expands Open-Source AI Meme Coin Launchpad on BNB Chain With Permissionless Fair-Launch Funding System - markets.businessinsider.com
-  Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVjhaSUdFYWllZU14djdmX2NZaW1JQ0hocXZCdlgtUkVaTktzLTRqZUExYXZ0MEotYlRITlZXRm1YUm9id3R6WWRXVW5KcDRJNDU2b0o3d0sxT0FrdGRfVG56ZF80SDRqRjVCOW13SWotRVhmbVE4UVR3V3J1elRfVEt5SW9Qd3pJYmdiRWJfblJ3ZG83UWRSejNhUThmczRuRXRQdWNiRTRzcm9ZRXIteE5qZDM4U3FMMHRUakg1U3FGZlNoaEpzb00zVUx2SkZsMnZGcUFpNHV0TEJJdUhBUXlZN2UxVnpxQkttYmxCclR3dXIzYXdveEZDWnM0enM?oc=5
+- [AI] Watch AI Agent Adoption Soars on Consumer, Search Trends - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmx6VGhqUmRyaHNaazMwNWJTUFJOaG1FeEN1LW9OV1BEalN5d0N0YUMxTnVIUjRuRXlnbEpNS0I0ZzEtSzRKcEJwX3d4RTNjNWhidGdjbmpHQmRSb1BhTmJlY1BOb3lWMXdoajRZaERvOWlHa1gzWXU1TndFZHZpbV9lQk1oLUNWNzE4cWNMT0JocjRXZEhQOE1YNGp6dDRteEFzTXY3bw?oc=5
 
-- [Markets] Wall Street points toward gains, oil prices fall as markets await next week's earnings ramp up - LancasterOnline
-  Link: https://news.google.com/rss/articles/CBMi-AJBVV95cUxPMDJCdWFQN2tJNl81U3Z0WlljVlpPME9fUEZYWFlsalFJRzM3T01idlVmUl9zdzI5ek9hWkxaa29UcHZJSGI4emlCajk2a0M4M3pjdmNwM3Z5cllfMkJEUnNROHZFcm8tUTBFMDNmOHZXRmsxX0VSZ3VCSUpfcEF4QThjTnE4a0xnLWwyY2hvbnBLczR2VEhiNnZtXzhOeUd5d3N2emxDS1hMSmU1SDIzQzZodXU1aVRNLWdUd1hiN2RheWQxQzVGV2FLQkxMTnJ1bXVZbmJHVWRuVEJZMXZKOUpkMWpLRzVVNVM2RUxRQ01ibVlOZU9YcUphZ19pTnRqb19FckNjbXV1a1M5bkFhdWN3RzI5MnhKQ1JyN2ZwOU9DTFdrUWt5eDBsWVQtc0piclp3YTRYcE1Gb0JSNVJvNTlGNXhrdkdXdVltUndXeU5aTjFqMms0T0o3OVM2UEFVMTdOa1VvT3BfYnZoa19pLUZnbl95SjV5?oc=5
+- [AI] Siena raises $17M Series A to build AI agents for consumer brands - The Next Web
+  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1EN1NrbDdpSlRwT0tUcjRCWmV3LU9hQ0ZPdDRKaFEtRFJBc3ptbTZvMTNWamdUY3JpREdsWTVFSG9RUHhIa2FBOFFYTk1WRUxFU0RwaXVjVDFHWmZKYWdYZVdrTVo3alhkVGU1MEhSam44UQ?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow rises 380 points, S&P 500 and Nasdaq trade in record territory as oil prices retreat and Treasury yields fall; Google's nuclear power deal helps utilities stocks - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUkwRnlhVElXVFlJY1habFozT0pBMXNjUzV1VjFGWlZDdnJLTkk1S0ZRcnhxWFJiQ255ZmJvbWJhNHhHYWQzVkJSR19YZHRLX2pueVZyTldxYndsUTA4cG5zdmRIYW5vNWJZSDNHbFBYRlFLUXdrR3p4NEh4TXFPVm5SUUNxbUVvMkhBTm1ya2pvb2p0QXBxRDJtWi1MeUdFdEozNmVsYllYYW1BVmhxVDU5TlR6dUF4N2lCWA?oc=5
+- [AI] Man Says He Was Mortified When His AI Agent Posted His Bank Balances and Exactly What He's Spending His Money on in a Slack Work Channel - Futurism
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFNsSjl6TkFpbnQ1bGlNTnlLM0prY2prcWlSVFN3dGoyT0xHM3JrLU9OMzZ2TUxxQk1zVHNvT3pyLXNKTzZIYzFhTFNyYUJ4UG95VkxjUjRWWGZreVpLVV9QSC1IV0h6NEFyWG50Mlh4Q3JBb2RLZVlmNzB0LV9rNndPRnZZTG8?oc=5
 
-- [AI] AMD hits $1 trillion market cap as AI agents boost CPU demand - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG03dW5oUWdJdS10NjhZaDBSQ3JyWHJGbU9mbHBWYmxDb2FxQmQ2cG95a3B2NXlwN0xIc1plM0l1TTFXdjVsNDhGaTg3UVp1RXFadWl6MTJQZzNoWVN3NE5fVnFHcU84QXIteWppQjFVYTJfUFBmX3UwR1FVd3hEQktDaVcxRl95NWI0WjFYNy16c201?oc=5
+- [Markets] Stock market today: Dow falls 500 points, S&P 500 and Nasdaq retreat from records as Treasury yields hit 24-year high - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzdzeXVFbkMwaXViZjI2SHhUTnR6V2lmRkxTcEh2ZVd2cFJNR0tvOWpfajVRWDlHSXVqeVd6ZWdUTTBOUXpiSDQxQUdPLUtaa3oySVRaazVVd25TN1ZBNEtrT3pfaXI1UUNjaGQ4OW1VVC1XTXh3OENieG42UUxmWDR5ZGZROGFEdDVab015WTBPUmpFYnhOSEdINHhZbWZtUnFtTHByNXZhTWRLWXM0?oc=5
 
-- [AI] Street ups AMD stock targets as personal AI agents drive demand - Investing.com
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWxSSTBTRDBCZFlzZXhCdWJrNHktZnU3RXczWE9zQnU3dkphM3BJNjhicE55RmlaeGRMZkU5enAyRWdwV01fN1B6aTV4RnA4MTNCMThtZkNiTHI4cUg4ZmpMd1V0VDV0d2pGZFpFemx5WEZPX2RXVWQ3UlJacFNvOFR0c1F0dFNTNTMtYkFEanpybUZUa0JSNzhKQ3RYOF9DdnV2VXA2M1NTSUJ6ME5OQkxRS25tV3RVaXZ4Ng?oc=5
+- [AI] AI regulation must be federal, New York City council speaker warns - Fox News
+  Link: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYWhrcE9JejFZUlRmM05mbFdHejZqdnozQkE1MzJEY3V2MV80UnltbUF0M1I2Z0VIdTFRaHdhN3c5MjExZ3BJY2E3VXh5bmFCUVNGcjFB?oc=5
 
-- [Markets] Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5
+- [AI] Wizards of the Coast union expands, demands company stop pushing generative AI - GamesIndustry.biz
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDhoc051ZkJvRksyb3dDM1I4aGM0Q0M5WnFnMUdDUlYtZ1JfNDdGM3R0cGdCZFhOU0tjVks0bFlLSDhldWVGMWkyRnBGcnRJVXo2eXU1aVA4TWRfLV92c2dkQ2ZqaHItYkNUU3l4eWszekswUGpuSHRGZ0tLZjlUQVFFcGNoN3FZWGRXaE1JbXI1UVRnZTVWSFlYQ0I0aWtoSEtLcFJ3SmNpSEk?oc=5
 
-- [AI] Cybersecurity stocks hit new highs as AI agents spark 'biggest risk today': Chart of the Day - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0hPamdUZHdJakdHaUdveWU0LVpWc2F5My1BMVRZTFVRRUhlc1hObFlEMzNicmJWMVd5aDlndmczc3lUa1F3YVdvZGdLR29kNHZIZkw2Q0o5MXp0dXFjQVNFcVNxV0FPNEJyRFU0cTc0RjFNbmgyal9YTnpURC1NdU0yRkxOYlJ2emtaZzUxNEhjQ0M4dFhfMGJaZm95YUJ6RTlTc296Z3NNR3N1QU5HZVFaWlRNRkcxVmVIWml6TzNZcnVpdEdZLVZ1TmhYemRfR1FTZ1FHQzJaenFqYlZTVy1RRHZNNjlv?oc=5
+- [AI] Brookfield’s AREP Deal Extends the AI Infrastructure Stack to Powered Land - Data Center Frontier
+  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjFJZVpWQm5HY3pGa0xwT2JEQXRqYzJpclp3V3N5VXpETDhxVkNDM1I2VEZwaXVLVDVJRHZpcXl6R3JYZk9NLW14VTBWbDFpUEtMcHVMYmJmUVl4MUdfSTFXVXh1cEhMN3JQeVFia3lXdlBIUkVEeUxoanhmUkdOcG5KX09VOExVVHhpdGNrUmxFV0huUU5WWHhKUVIxU180cGtEYlhkTE5JZGZUNWF2eTN0aGhQN2l0d3NIN3g5eUFGUnNlemVQV0tWbUtnWDlOSVE?oc=5
 
 
 AI
-- New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent - Amazon Web Services (AWS)
+- Enterprise AI Adoption and CoCo Agent Expansion Drive Snowflake’s (SNOW) Growth - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNbGYyYzI2RmJfcW1IRnNwME55bWlqS0tWS2o1aUh6REdhY1dMV1lTOW9iX2Z4cTZyZnJXdUNDbHQ5RnBibmdLNllDYWxEMVNaYnJvYktyLV9fclFUSWotd05lQ09GUF9rNXJPNVVjMnI1Wll5dkRqdTI4TFR2dVRyaUptZTc5Q0htUlhLaUdLWWVjdUlINndhWVFuMjl4QQ?oc=5
+
+- Infor Unveils Its Agentic Enterprise Architecture as New Global Research Reveals Highly Divided APJ AI Adoption Landscape - CXOToday.com
+  Summary: CXOToday.com
+  Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxONnhfNVM0RGMxUXZNX0NTeUJZM2NDOGNEVlNaRGRKb2k0NU9KVXd4TldKa2xBXzdPVnlOU1Vzb3BUR0JfOFdYX0RRYmZVNTJTLWxEdUtLNUhoREJDVTRGYVhEczlyYS1TNEFzaGlwZ05WbVRYU3JVOTQyMEZTbjhzWFRvS2lfZ0tkRzdfZXBnYTQ2YmtleVFKb2pzYm1JRkRxVzYxX09veS1LdVRYQWdhaExyczJndmdzZV9ESW1GeG5aZ1UxV1hKZTZJc2ZrRngxR0lFQU9pWGdaX3hEZVY1TEM3aXpzTndPTmxOV1haWQ?oc=5
+
+- New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent | Amazon Web Services - Amazon Web Services (AWS)
   Summary: Amazon Web Services (AWS)
   Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUVVRkRoQmhFNzFDNWRfdS02bm9zQWRoMUxKMnZQY3k0VkI1SHRkM0taWkRscE9pSExzVTdKUEhRZnk4Q3FKMzFRTVVPcTEtaWM5bUp5c0xJX1BzWTBrSzVZS3pVQlBBTFdDY1d0bkdXS055SEJFWW9FNV9MX1A2cmt5eFRvMGdYc1BxUmg3MTZ2Umt2NlpXN1QtNmZDWnJuMW5wa0picUNKUkNFOFNDNmpoZ1hYNGROenk4SWZubFJ4UXJTTGs1LU1hc2FqRFVW?oc=5
 
-- Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPR25oMkhvaXFGQ2YzdktZbGp6czJkMHVIbTNUX1lzS2l5Nmp4aE5fMXFmWk5NdGhoSjh3SjRhUFNiTE95OUtSSk9SMk9aVDhVMjdTWjZYajBVUGpsdzN2TlBFem5HM2hpZ29iNXV5WVhNczVtc2picFYwU2htN19hZjlqSVBrQmxSY3VKakxvMXV2ZFFOVWc?oc=5
-
-- Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5
-
 
 Markets
-- S&P 500 hits record high as AI stocks shrug off bond market slump - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPd25OOGtLZGFQYm9wMjExWWRaWlhUTUdFQjJFTG5oLThEaFFWcUh2QThaeXd5NWVNeVhOQWZ1U1VGRGprN2xueDFqSVRHRWNMMTVLNjlrRHBGbV8wV0dScERTOXh1VzRaTlh4RkZBQTFPVGFGMnJvSkdmLUZLamllRmVHTWg?oc=5
+- Stock markets hit record high despite inflation, high fuel prices - CBS News
+  Summary: CBS News
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPckVEYWxLZk16RFpDZXE2VGVVbkFtWmZwaFVMSGdOMTJOWEV6TnQzWXBSSkh6RTlTZWFRVkQtdG9NWHMwbE81ODVfY2Y4Umt0MFgyTUZta0VIM29uTUZyc1h5NjdJalhiR2VFUW1aZkhmNU8xbVo2WmtLcDJLUlcxMUlsRTNUeUJQczJCZ0tJY3Y2aUc0TXNhYWFxSQ?oc=5
 
-- Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5
+- Temasek CIO Rohit Sipahimalani flags AI, inflation as 2027 risks - Quartz
+  Summary: Quartz
+  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE9IYmZ6cnFYM0hlNTF1cFFmWXBMQTZ4cVNXSkEySVdvc3NxdEhyakw4T2tNWHo3bHRuVzBLd3ZDYjNfby1PQ3FIdlE2NmY1bzhaV2pvWF9oa0dCdXd5U1Y5LUpwYnNndzdRNFRpZFhHXzROOVFTengwLTN3?oc=5
 
-- Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5
+- Markets News, Sept. 30, 2026: S&P 500, Nasdaq End Q3 With Gains; Inflation Data Comes in Softer Than Expected; US 10-Year Treasury Yield Hits 24-Year High - Investopedia
+  Summary: Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3owY0xUd2YtNzVQWWI2REljc2VkYUctNUF5bHktMFloYXBuQXRmQUpMS2xOd1ducWx4bHRKRTNLQVBaUHFGN1YzeGZncDdoOGpiWmdqNEUyZFRhMHp3clFhR0xSME1FWXdnRndvTDNobVV6Zk13QkJqRmIyTlFzdjZsWkl5cmdhSkptZ0tubmg?oc=5
 
 
 Travel / Boop Relevance
+- Exclusive | AI vacation planning disasters are fueling boom in pricey IRL travel agents - New York Post
+  Summary: New York Post
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDZVMUFmcDNnNmQ0eGEtNE83aTFRMXJTWmdaRWRnb0hGZnN0dFd3U1FCal9yWHNSX2U0X1Qzdi11eUJlS25fN3BMT1pyTjJhb1lRWFNUSlJoWERvbEdTZktrZ0d1QzFMU0tkektXTkFBcHdObjBUZ0xVbndJYW9xSHNOamxyaVY5aG1odXRNakVJWm1hZDJyYVQ1b29VbGp4ZHBF?oc=5
+
 - Booking Holdings spends nearly $9 billion a year to reach travelers. Its CFO explains how AI is changing trip planning - Fortune
   Summary: Fortune
   Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pzUzIwbVVrWUN4d19qQkJJeFBGTUlzNTZmdFBJZXpWS1pOdFhJcHZGTGtVd3VPWFhUdS1ZaXZNcktKY1IxLXYxVTRGcGd3VlRzSzVBSHQ0UkhxbUdDSDA5MFJuSW1jX0JraU5sa1d6TkFyRG9GZmRpYzdKN2VFMll4S19lQ0kwdk0zWGgtQlMtMVZURkpKaDYyb215S2xKMlEzVkFqQnFkRkpmcG90a0wwMTJyR3JYT29uY3VKWFVNckU?oc=5
 
-- Asia Today: AI, Fintech, Semiconductors, Travel & Startup Funding - Asia Business Outlook
-  Summary: Asia Business Outlook
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmVHaUJiMmE3S1JiTVc3MDhnc3MxVU02TzdlLWpRdEItR3pkOGhocDNEeGR5eEpPY2p6bUJnM1dfbktXNFNzaEZ5Njl3YnYwRV95UHRaLUdSLVpLcWJtdWc4eHFEM0RvbVZYUjY2Z1kzZ3dlVVJwQ0RlY3h2SDZfWGdRSTRvOWZ3RmJ5RnJOMHEtc2dLY0VMVHVwM2V1V1NqTUt1WGtOTFdWR1FsLW9Hb1NOamdGOW1PYWlyYw?oc=5
-
-- Arabian Travel Market 2026 puts AI and travel tech at the centre of tourism’s future - Fast Company Middle East
-  Summary: Fast Company Middle East
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDRrdUxrQjZQQ3JSOHBnR0lVcXZtQ2txZHkyaERxM0h1MjdQQkJWNmFFT1NfLWt4LVpkemVIWWRBZUNCd1ZKV1NETGVHa0plbk41bUc3Z2hCX0VNUkdlUDRkaUR3U0dtQlBHV3pfcTl1eWp1dzZMX0RNOTJBZmswVVRsdmRnOTd6bXo1NFFlMnhOdS1BdVhLLVZwX1pSb1REZ2Q2YUdRVEo2aGhDWVNxRTZ4SXJJUQ?oc=5
+- American Airlines Rolls Out New Digital Tools For Seamless Booking and Travel - TravelPulse
+  Summary: TravelPulse
+  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2swblg3UVdhbjVpSDRiNXRlQkY2Y05BMHROUEpQdGwyQnVwcm5xamNBSGo2T3p0WDRvTUoxb1liNjZjZVl1aDNTM1BlNFNjRkh6a3R0YzJUZHZWMlBwblZMZ1M1MHlyRDFoZWt5WTJpbHRjWmp4U1EwSWxJcV9zVUUwaHVtclNlUk5RQVh6aTRHYmtna3NkQ1NlSzBQVnY2M3N1WlpxaEl1VXhYb3prbmpiU1ppRWh2WTBxVGg3MlRzNlo4RE5r?oc=5
 
 
 Bottom Line
