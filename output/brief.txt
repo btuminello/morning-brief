@@ -1,78 +1,78 @@
-Morning Brief — October 12, 2026
+Morning Brief — October 13, 2026
 
 Chestnut Hill Weather
-- 49° to 66° today. Right now it's 66° and feels like 66°.
-- Around 8 AM: 49° | 2 PM: 66° | 8 PM: 59°.
-- Wear: light layer, layers, umbrella.
+- 52° to 60° today. Right now it's 55° and feels like 54°.
+- Around 8 AM: 52° | 2 PM: 56° | 8 PM: 58°.
+- Wear: light layer.
 
 Breaking News
-- [Travel / Boop Relevance] Travelwire Announces the Launch of Its AI Travel Booking Platform - USA Today
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanhvS2RyMFlKUUowUGtfcGN0YVdITHJTQ1h1N0tGZUZoSVpvSnJ3YnlZanBaNUFORm9aVlBxeEFvTjU4RjJVb0I5bUJsU3RScUdZczVIZWJLa0JPUVUwS2YtVUduQ0pLeHVSWHQwRGxWWjl6Y285Mm1LWXY5cjlMV1ViQ0Rrd2d5NTNOVTY1ZmM3dmtEV0tQWFotOURSd3dmYjdZOTl2VFpELUUtUjI2dVp4bV93cmNR?oc=5
+- [AI] Article - No Matter How Cute They Look, AI Agents Are Not Your Friends - Consumer Federation of America
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUi1mOFp5Q2V0ek5icEtsVHltSFh1X3pXeml4emF3Sk1INlozb1VadVhUREZDVjczQlVuV00yRGIxcGxTTTREbDdZaEh6alBXNE1UZ1NtcHVyZFV5MURTLUQzN2JacDlzSHRoQnQwZjZ4U0dqeUhfeUJMTEpWeDg1QkJQMjdqTTRNSGJlUUJ2dEg5eHRyRWFYSFQtNA?oc=5
 
-- [AI] Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpNa0VGMlFkV2I0bXFSQU02UzM3VmowV1JlV2NrQmU1NnZzNVJtYW5od015NVAzci0yM00xbXkxek1BSjJCWGM1N2ttY3M1TTdVUnZKeWtyUUhBdnBCREY4ZFVZdHdnRUNBM1pLTE84YWtVUXBGUk9keko0b1lrNTVLR2N4LWxha04wa3VRcG43ZDJURWJSUVdSMzhjbm05ejJYYUt1UQ?oc=5
+- [Markets] Stocks fall after bank earnings deluge; chipmakers slide: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5
 
-- [Markets] 5 Dividend Growth Stocks to Buy Ahead of US Inflation Data Release - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3RqRFBOQWliVGU2NVJwMXZiM3ozeHBubmMtOVRwZDg4M0R2WlRkWWdPMnFWcFFZNUVQamUyT2ZjSHp2dTJXZUd1RUN1QjlrNmU3TUpfcjB0WDRDVU5PU3RQaDVuUUFUajJxNG80WlVPdmlEeVBsRUFsZC0zbUtzOU54Vzd3YnlDUC04MHNTUzlqYWJ1VExPZQ?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq fall as earnings season kicks off - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjVaOEtwcDZiNkJYOWQwNXhoeDdYVDdzVnRUbjRKLWRsWEp5YThyTkR0aXJhaDUyZmRzN2N2VFNyVVIwdTc1d0tyNE9nRk5PN1RCeEh6TUhVUllUTW5IeUdfRERKQU9KT25sVVJ4S3M5ZHlBcU1MYzdPWUR6bWtBRURxcW9FOUFuM1V3aWVUY1laZDR2ZEJmaHc3c0FhUU00cXNUR0RNNjYtQ3RkY2c?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy Strikes in Ukraine — Live Updates - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOblNTYV9JS1kzM2ZZTUtSMTJOLUlqa1AtWWlqSm1pSlZyd3R5Z0ZTN0RwWVFwMFVUVFV2VXU2eTBXY3BSN0NIRFd5Q2l2Z2tkTUdsRzZoVW5TQUFrbVZqb3dpNHY1blFWRVJaVTJtTExxaERGT3MtNkJadldvVGs0WEFqQkZlbDA?oc=5
+- [Markets] Stocks Mostly Up Pre-Bell as Traders Await Latest Earnings, Key Inflation Data - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWRkOXEtMEkzWEt3cGkyNHRmQ2V3ODNFQWNxaUk0QVFHUkIxV0V2bkpzaHE3NFRHcUttalpIWDA4V3Rqd2lCZjZWU21oWFUxcmZWSDJTYWNkRUllQ0YxN1dsdjQxOFBDR2E1dkp6WllkVl9sdml5N0ZnNnlTYWgwb3BrQ3dYVFZpQUxfVVRubVdJVWNLaV9qQ0NUOA?oc=5
 
-- [Markets] Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them? - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMHFzTmdfSmlRTFY3Z21YT3NRQ2oxV0xwMVdtcmJVNDE3dXFKbTFPUW01dnlwVVJqUlRCY3ZrZEh0RE03MDU5QWsyampFdGVINDdPdEtXNnBjX0hOMlFuR2FRdGsyaDBrVkF3VENILU45WU9rS1luVi1LMXhVakhmSXhRc2JiU2JqQXpnZzVpOXFjRWozTnhzbDU0a1Vya2NVNXJXLTBBSnp1UEdfcW10eFRpekxrdXZCcXVxSjg2UmozWkRfNzlDY1FUOE1GT0FnWHc?oc=5
+- [AI] Startup Causa Prima raises $20 million to tackle billing disputes with AI agents - Fortune
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxONms3WE94ejlPZGFmQ3JpaE1kZ1JOdGRpRmJEdFh2UTRreENHM2hnY1lGajh6WEVYdmxLbzVQZTJBTEh2QjdkbnBaOFQ1elctRzlmUm05YWx2MnUyWkZSbUFuLTNkY3BjTWpyNW96eVJhV19OdEVheXVQQWJ6THhOWXVFczlHdWRGX1RLR3dqSDd0ZVk?oc=5
 
-- [Markets] Inflation likely peaked for 2026 but will remain sticky, according to prediction markets - CNBC
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU1Pb3NFLUVfaGFUZ2lIVExYeHNwYThaWGJHM0szQkdGeDBiT0NSeVRwRFZnQVBnLVhGYWx6VkIwNWsydDZhN09pLXI3YzAxcE9MZHRHS0J0allFc1IwdGNhMzluSHBBVU1vTnJVQ0k2bl9rVlRteEl3ZWxjMVY3UWk1OXZWY1VnZFkxaU53NVV4V3B5QU1hYmJ6b3gyVTFyNnVMWnJ4R07SAa4BQVVfeXFMTXRRVV9XeFR4TWdYWXVhdnh4NExFdzFHUmNxOGk2RDBnQk9FT25WSi1MRmpORDF1b21hREJRVnBQZy1IbjF6LU4wSFMzaXQ1aDhMel9IOVZ1aGZfVWtxT3c3dWZveF91SF9KVVlybjFZcGg5VjI1SW1zWGVpSTI5NlpiOXBwOHBLd0NnYVBwMGJ5bkM4cTQzWnFqWTd3UHlRd01fbWs4Nk91ZVE2OG5n?oc=5
+- [AI] JPMorgan warns of risks to consumers who rely on AI agents - American Banker
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNX09aeTMyQUJQdExCRFdnZkMwUDNUaEZVZ01GOXdIU0tCd1M3TktSVVVIa1dkZktOajhOLUdCcWYzTnptdUdKTmwxZ0RiWWRNM1FvSFNhaTBudUJhbFM1d1VDV1Z0VXI4WlF2bUtVcEIwVmM5b3hkR0N1YlBEanp6OGxVa3lpS1lyY3hGLVctMDBXWVVtQmdSUTNB?oc=5
 
-- [Markets] India Inflation Jumps Past Forecasts, Markets Brace For Pain - TipRanks
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3ZaWGZBcnU3MkoxYS1sVkstZUhOSTBWVU1yVjBXZmM5cWEwUUF6YVQ4aWdFamRqNVR4MVMybENGanB4d29QUFI1bG12ZnRDLVdpcmU1aml5UW5saDdtY0VpclF2LVl3dXVJN2VsUlZEWG83S2p2azgza3dGVXZPMEhmQ25qaFlsN1FqbTZOM0hpMV8xS1pzZnhnVG9ER19nTFFPSTdHYkdnWmhPcVNJTw?oc=5
+- [AI] Moderna Founder Calls for Urgent Regulation of AI Agents - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFQxWUlwYkFrOUtucEdHUTByWVp6Wmo4YmtMUF8zWnM3VHBpcUNaTmxfeE9mWGpfcG9yT2VudURUUXNLczlqOXFDWnpwQkl5M2dLNnMxd3UtLVZaWV8zWHBlVGtjN3NsM0pncl9IdE0zLUFRbHpEU2s3d3oyYTRZTmhXOVNfZkZ6SmdKVGMwcDhFcEZtN3RGMURmUWVwSFVEOUxTVWNVOHVhZ1U?oc=5
 
-- [AI] Rogue AI Agents Are Already Here and Companies Need To Prepare - Forbes
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1pqRzBhMG1wd0VhaTkzeUIwTVdLSUpZNzFDNllOVDVXbDMxM29kdGduYU1YM0hCb0NJNDF5V3EtUnRQR0UydEQzZlBUQVBIX1FTQmpqSnNuMmszeS04SnpTVXZBcmxyeFFzZE1TblhHYnN2QVV2RTYtZ1pjdEdiN0FWamdNUnl4b0t4LXZQMXlVVmJ6RHc?oc=5
+- [AI] Harbor Emerges From Stealth With $10M Funding to Handle AI-Agent Risk - Insurance Journal
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1IVENVbXd1X1FHdGppNkpneDQyUFhadEtLQ1FrUHd6TmVLbW1wdkkzNEtmbFRyX0dRZTdheFcxNkFNcVZZeVdqWmZPU3JFa3hnU0E5VTUySjR1QzlOb2NtTUR2REVOaXloYW5OQW44Z1VqdC1UazFR?oc=5
 
 
 AI
-- HCLTech and Anthropic Partner to Expand Enterprise Adoption of Agentic AI - HPCwire
-  Summary: HPCwire
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk5DekNJcHg0TGNYNzh3TmhPSHdIelVrVDNBS0RDaXZfdlowTXhnUHZfTnlDbFNLbldHSjBMaGRMV2tvaFdwcld1N2Q1UnFRWTRGd0lTUDRLOExLdFNtVHpxSFMtQjRfc0dUTm5WUndWS2xUYk45Q2V3TDVxU0dGTlFRY0o1YWhpZWY2aVRJS19KalZLNzlBYWwwQVlNdHgxb0Vvbl95WTR3cUVlbU1tWV8zOHA2SjQ?oc=5
+- Jamie Dimon says JPMorgan Chase is putting up gates to protect against 'rogue agents' - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTh0X3VzVC0xZFdzeXpGc2FWOG85NzZJc2FPQTFzZGE4LVRSWWxrRHEwb0VlTWdVN3RxaG5YdFRVSFBzNU1hUGVRVDJRNE1zX1FRLTZRWWZ1ODduYXFVU3d0UWVTYU1jQjBSVklRa09odjQ4bGxsYlVtdUM2d29hVFFnUFptMUl5SUFwMFJZOGRyVC0ta2JxMzdOSnc?oc=5
 
-- Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Central Oregon Daily
-  Summary: Central Oregon Daily
-  Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUtLN1ZlWDVncjJCX1pmeU1aWTZUdnhwZ0JEaXd5dkZjSUdSNE5zemQxMEFjd1NFUFFjc2FrM19tR3g4YjlMN0ZXeUhtS2taWTM5UUxBbXFzVm44NTRuLWlyRUotcGFBdnd5ODd6LURmQVJKbEJjTmpXSG1ZTUpsaFd1U0dPZk9HajlZbzVNVDJhTTJITTdqX1pOc280eVZIcm5ocy1YTmdwWDhVUEhyZ28wZmhMbVMxVDYyb3NZdXNKVVl3RW1yOERVRzZ6eGxMd05tb3A1QWJKcTZoM3pBOWMzNThVUHZ4dnZZQmZfc1pmeHE1VGdPZDZTcHc?oc=5
+- Barrett proposes federal office on emerging technology threats, AI - Livingston Daily
+  Summary: Livingston Daily
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPOG1aUGlXVGYzOHZ0Z0t5TTc1bkpjb3NDQkpEaUlteWhlSk5nTXlVbjN1X05VUHZROFZyUlZKVmhfSFQ2STJDRnJkcXZMM0t0amNkelQ3NUpJUTJ1VXpMMVJfWUZUUVdBZnpLak13NWo1U1d3MGlLdjg4VklOd3VXMUtoVXBITjJQZ2U1b05OTDdLblV1YVVmZjZMSmtqcG1tY2NhdWtMcmk5dzUxTlN1Vld2T3Z2Sm5pNno1MElLSDFDMU16cWN1TGRkekpNQQ?oc=5
 
-- AI agents are going rogue — and the law can’t keep up - Politico
-  Summary: Politico
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ?oc=5
+- Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpNa0VGMlFkV2I0bXFSQU02UzM3VmowV1JlV2NrQmU1NnZzNVJtYW5od015NVAzci0yM00xbXkxek1BSjJCWGM1N2ttY3M1TTdVUnZKeWtyUUhBdnBCREY4ZFVZdHdnRUNBM1pLTE84YWtVUXBGUk9keko0b1lrNTVLR2N4LWxha04wa3VRcG43ZDJURWJSUVdSMzhjbm05ejJYYUt1UQ?oc=5
 
 
 Markets
-- Dollar hovers near 18-month high as Gulf unrest, US inflation keep investors on edge - Yahoo Finance
+- Tech Stocks Are Crushing the Market, but There's a Sneaky (and Dangerous) Risk for S&P 500 Investors - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2IzeHFNY05faTVFTzlRU1FETzY2VGJqQ2RwczV6cHNiSWtJMmxsNUswZGhCOGM5Yk9YdnRpekktQlctenpZTkVCS3RoTE9YTVMyanJkaTJWcmtWOUpvSnAyQm00dmF2V1RvOXRxMFVoNnQ2Q2lwVmREZ2RiMWY3SHNweTU1TE5zQmt6QWNjSXFadkky?oc=5
+
+- Stock Market Today (Oct. 13, 2026): Nasdaq edges lower as banks report earnings - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1RQMC1KRTR2SXlWVklXMWRCVjNvU3NLc3otdFJqaTc0dG5TZ1hvN1k4eEQ0SmM0dkN0aThVYlNIZ1VzdFhQSV9KNHhicmlOU2ZwU1BZX21wMGlmNU16eEppQ0tObG1RbnY3aTZURTZjSUNFOXBjTk1oaDAweXRveWRncHhTYzhfOUFGZkh3UEczUmJ2b3E5b2lybXU?oc=5
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTQ4TTd1UlE1MjlaRkNzMHZVLTM3Z1FwV3JkZS0zNHpPT0V4NlZXV0tQSmRXQTQyXzgtaTJNenctN0NYWEwyalJBX1dMWS1yWHhmYTJnbEtjdERwaGVfN0ZpN25QNVFpRlFwWTdKRXQwVzRlTFlSajdncWVCSFRsUnpULUNPMFVMWlpFOGZSLVNEbGwz?oc=5
 
-- VIDEO: Anthropic, Apple and Inflation Set Up Pivotal Week for the Market - RealMoney Pro
-  Summary: RealMoney Pro
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVAxU1BYMGJqMHZfdEdNVGNseVVjaGNWY2RLV2VaZEtJaWdpSmtYU1gwU0Z4Rl9vaW9uSnY2UFZ2ZHBuUXhaUmpMTHlHN09NeWpWZkdLNGZsZ3MwaTAwM1NrU0tjMTlzWnRiWHZab1hhdnZOeFktdmpPSlo4V3k2QXNBdzQwZG9lTjBzS2pNT0swczQyUmZDR1lJTE92MXJIeVV2ME9JeHFGUQ?oc=5
-
-- Kalshi traders bet inflation has peaked for 2026 but will stay sticky - Crypto Briefing
-  Summary: Crypto Briefing
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcnRwSHRxS2s5OVI0eUVfaTF1OGVRdHR1clJGUU5VZk14bHZJdW5NcGlSanRxbFdfN3dyVDhuSVkzU1hkd19KczFKVHFYd0hzejJuZEJueEl5UmowRmxyTnVSR19ORUpqRjhEVWxROGtjYmk3VHF0dWlOOA?oc=5
+- Tech Stocks Are Crushing the Market, but There's a Sneaky (and Dangerous) Risk for S&P 500 Investors - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0hYODlFNERrdEVienRDUk42elJGTm1ZQkZVcUdZUHJIMXdrLThyUXJFbDZtT3FvcVVUNUpxb1dVMWtqRVFuek1nbDFkak5yVWI0RzhVcjVQTkJld2FLdEhJMUROazU5YXhGMzEtWjc2VjJYaWFTbWF3Qm1FczNyUnlaWWY0NzlqQ25UU2t3c3RvaGVDNXdkNm12aW11aWtl?oc=5
 
 
 Travel / Boop Relevance
-- Online Travel Training launches Autumn Advent Calendar incentive - Travel Weekly - Home
-  Summary: Online Travel Training launches Autumn Advent Calendar incentive Travel Weekly - Home
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUxZX21qRTBtSzdKQWlUX29MMS1FNlJUQUNfYVJBQ0xob0x5Y3E1TS1KelRrcmNONnQtOW9YQzd2UjZhSHVzNVJnaTQ4a3NKdnBiaWg3cF9FbHdaSmptV2RWczJyLWNsaXIya19ySUlIdjg5MVZtcFNLX1hlUGQ3ak96SEdmWGZ5YXJNbkVETGVlaUQ2VEhzU2xRZ1pXdnBNeE1DM3Jn?oc=5
+- Nepal travel agents threaten to halt Thailand tour packages over visa delays - Nepalnews.com
+  Summary: Nepalnews.com
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTJ4UEhWUU4ycTNKbldFWUJHc2Qxa29wZTRMdU1Pa0Ytb3d6UllVb0lsbGJ6QzJVRERaYURSMFZ0Q1RnVktBMmFOeU1aXzkxLTMwenFGYlpNTHVlaGhPUWRYRnFSUjktM1ZtZ0YzZVNRSDdXbTI3LWI4ZE9kLW1waGpSQnRKVDdESFVqSWowTnJaTy1TZ3B4aGpCdmtWSWxGcWRvRGVncUhiOVh3bkN1VEVPdDNMNVZqNzFsU1RyZFZOUQ?oc=5
 
-- Malaysia Airlines and PayU sign MoU to enhance digital payments and booking experience for Indian customers - Travel Trade Journal
-  Summary: Travel Trade Journal
-  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM3VEcE1iQ1Q1ZlMxV0d3WDZVMHZOQkh2bjN1SzJ5RWZtR0RNT3kzaG04SU53TUlpc2tFVHBXYXF3OXBEbDJBQWFzZll2dl91aDEzY09OTURHdGlOTWlPVExSd0hfRUxUN3lEZUdoY1FPTmo0ZHlfcHNYYVl2QUd3YlZDVzNsZXVSRU5fWG9yRU1pY3JoaGh6RGt3SWI4a05FMl9zZld4VjFpSnByWmxOYS1QZlJMbU1TLTRkc09YaFRadXQ5SVF3MEZ4Z3hia05GbHNjODJ3?oc=5
+- Travel leaders name six biggest threats for startups in 2027 - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjJCX1JLSEhKWXpDVWZsWUVpcV9xWW5OTmJJT0gyclBLQk9ZdnNnaGttUElrUUNaMDl4RWR2aEJIRnF4SEhWaFVyb29IRU5HQUhCUkVoV29CZW5sZ3cwSF8zX3pqb21JckxvRzlIdlJmbEpwaEo3NVl4SXFhSzdteXRtZkVWTXRJUW9CaXoxSTJtOGpnNi0tSExnbVY3Uk1xbGU0aE96VQ?oc=5
 
-- Ticketory Surpasses €550K in Travel Bookings Within Six Months of Launch - EIN Presswire
-  Summary: EIN Presswire
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTlJSEpGYUdsdTVMZVJBc2lrZC1VNlFWMjFzOFpVekN1WGwxYUdXdUVDZmFycTczaFcxeFF2UGNSTlN0REdySXhST1Z5SGVEWlNrNHU0b3d5S3VpRFNBWEcwcHQ1OEN0RmtrNW8weS03cHlmT2VXM2VNM3lVLW83alowUENlLWRlZ1p0eGY3UmJ4VFZjaUlXY3JYSS15NlRZRXFKakk2dVpja25PejZpUnpFaGdDTDNUdVE?oc=5
+- Travelwire Announces the Launch of Its AI Travel Booking Platform - USA Today
+  Summary: USA Today
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanhvS2RyMFlKUUowUGtfcGN0YVdITHJTQ1h1N0tGZUZoSVpvSnJ3YnlZanBaNUFORm9aVlBxeEFvTjU4RjJVb0I5bUJsU3RScUdZczVIZWJLa0JPUVUwS2YtVUduQ0pLeHVSWHQwRGxWWjl6Y285Mm1LWXY5cjlMV1ViQ0Rrd2d5NTNOVTY1ZmM3dmtEV0tQWFotOURSd3dmYjdZOTl2VFpELUUtUjI2dVp4bV93cmNR?oc=5
 
 
 Bottom Line
