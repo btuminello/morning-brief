@@ -1,78 +1,78 @@
-Morning Brief — October 18, 2026
+Morning Brief — October 19, 2026
 
 Chestnut Hill Weather
-- 30° to 53° today. Right now it's 40° and feels like 36°.
-- Around 8 AM: 32° | 2 PM: 52° | 8 PM: 43°.
+- 34° to 56° today. Right now it's 55° and feels like 51°.
+- Around 8 AM: 36° | 2 PM: 56° | 8 PM: 46°.
 - Wear: light jacket, layers.
 
 Breaking News
-- [Travel / Boop Relevance] Booking Holdings launches Vayo AI travel agent - Short Term Rentalz
-  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9oNV9oOFJKbEQ4d1F3ejJVM1NuYWcyYkt3N2laNXFPQzFzTVNGelRxZ2Y5SENDanY1UUVEOXBPcE50UGFQVHBLa0tfY1lTZi01WFFTQnkzcVc4NjNSbDFaTTl5ZFVVdGxRa1E5bUZYdGxEN2FHLU00cVNUVG8?oc=5
+- [Markets] Stock market today: Dow slips, Nasdaq, S&P 500 rise as the AI trade rebounds - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWhLWjJJTS1keFp4WDdXYUNfNnBfOFZjaGlncXAwelJYSFRIUjJOQ1FNdVdqSG5tMFVFSE1RbjlRb3QxS3UxWWxTZUE2ZEtvbVAwempiakNPamh1VjVlaWdkOS1kZUdVTnlVa0U5R3VXNGRBdThDdzRvbDF2cGNCRUc1dWlDU3ZJM3NMMUhXQzVULXJlTlB6c3lydW5pdFl2UzZqT204OXNRRG5jX092MkxLNDR2dXpvd3RLYmFCeVo?oc=5
 
-- [Travel / Boop Relevance] Booking Holdings launches Vayo AI travel agent, plans $100M investment - PhocusWire
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNWm9LeGVhN2psODk2TDNxYW1EODhSWUd1RTJyVC1ULUlUTXBpLVZhME9Ld2VrQVlCaFh1WHRfODlhQjFIMTR4Rkw2VTRuTUxPMVlDeFR3T0tQNmxLSW9DbnFIUE5vNWNDUWhJVVBTemQ5ZEhhNHlQNU5LVDJzR3dRRHE1Y0ViMTBtSmd0VDBla2NZdG5fR3lOLXNFTlR6bUU5?oc=5
+- [Markets] Stock Market Today: Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound - Investopedia
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2hZV25Uc0s5VDI1UlhqV3l1NUVVOW9QV1RHbDlySHRPRG9FdU5DN1htZnlJemJ4TmRtLVRac0Fhc0cwcmJRYVZyRlFEdXd4YXJpZjFUOWgyN2NTMXNkQ3dTeVRfckFpUGxha3BHNzlKZW9BYnRiSWd3Y1FDdmZJdGxuYVhkclB0REl0dUFSMjI?oc=5
 
-- [AI] Funding strains, construction delays test America’s $10T AI buildout: FT (NVDA:NASDAQ) - Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmVJYXgwWnpzOU1XN1pZN3dmNkpoM1VyZ3YzbG5mSS1ablNHUEx2Skh2ZDBNRGxMVUtjUVhaQXlnTmx0eFZiMGF4QUd1SUdXUVpHWWZZNHJRYUt3UzB1V2gzcHV4VldTdjhITnd1WnpXSjE5ZVUxNjRzOTd3bGlfU24yenZyMWo5SER5QmotU2tadFVybWNHZ3VKMUd6OHhUOXpTREthdDNwcjQ?oc=5
+- [Markets] Fed sees AI boom adding to inflation headache, but others may pay for the medicine - Reuters
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5
 
 
 Must Read Today
-- [AI] AI agents promise to shop for you, but Amazon, eBay and banks are shutting them out - Ynetnews
-  Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFBmU3NVUnRqazJKNW93b3BlOC1ZN0l4TmE2U1A0aHo2MlQ1T1JQbkdZemRFNm4wTmZVMUF5Q2taMVhyQTI4UlNFMHdPNnJScHR5UkZjelZ3WXY4NS1YS0MwS0Y5NTlOd2hLd2o3Mw?oc=5
+- [AI] West Virginia AI lawsuit raises questions about chatbot safety and consumer protection - WV News
+  Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOW5kclp2VTAta085TDlOcklGNWVCdk5teUlicldQaG5Hb3RhM1RyaG5WVHlfbmpoLVRjdktKSU5EVW9XZlZvMDNERmIxQm54ZUdKeVRmUlA0U3dSVkZBRjlha0hoX3BadU5kRE4xeGk2bHFCUXc2UnRLbWd1R21yRnV2bHVkbHctN3F5VHpHWkxsc0xjQWROc2xYNWh6clRWNUMzRWh3SkdKc244cThkWWJaYnFwdG15SzdpenBnM2VXcC1FR2VhRF9lX3dncDdYTjg2ZUNxYmNuTVFaNmJUb1I5ZjkwLXIxUzM5V1hDcEItRl9mX2hDR1NnVWN3cmVCT1d3N1BBYlQ?oc=5
 
-- [AI] Tech bills of the week: Cutting federal funding for Flock; Making data centers shoulder their power costs; and more - Nextgov/FCW
-  Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxObC1zSkliTEpqclNjT2U0ejVoLTFCS3FWUmRFZlhwTC04Unl0TFQ5Zk8xandtVEw3RWNsNG1uTEZ3ejRGbTNqaFlrVkxxSnBhazgxU2dFUnd6d3BNemhjZ01iWFZmZDJSVmd1RjMxbmlqNHo3SnZpVk1SQ1NsR0NmVlVkZENHbExzMkFyTmZxZWwwQm1ZY2N1WTV2aENJcFBNUC1YeWhsbFlGS3FfVXZnc2RUeDBBMkM5OTN3ZzRZcGhkV2ktWm5RRjFLWjFHUXk3MUJkcFdyMXVxY0FEVU9BMzBB?oc=5
+- [Markets] Intel leads chip stocks higher as investors jump back into AI trade - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5
 
-- [AI] Retailers’ AI pricing push faces consumer distrust, regulatory scrutiny (AMZN:NASDAQ) - Seeking Alpha
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmM1ZFlmSHpfZGtBVll5NVo2TDFwdUVHNDJWbWtqY0MzWjBOZHE4V3lsOFNGWUNuWDB6VVJDZmFXMHZBaHRST0xDTHB5Ql9zSVVzUGpydXpRN3RzeVc3UnJVU1dkaFNhVXRXVzEzTnJMNG5nTlE5OTdCdUJMT0MwcmtaQURYcWRWY2lCU2N2eTUtMzFjYWJsN2FUSTNIeklud2hVVU5sZ0NxUXM?oc=5
+- [Markets] Nasdaq gains as investors buy the dip in the AI trade: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9HbFJwRngzU3pDcVBXWDRFNkVpcDJNc1RGR1RQWF81S19DMlk5WUhxdUREWWhVaHF4blA1aHZPakNFWTBlWTJPXzdUXzZ1Rm13cDZlVFpyQ21hemtsdWxMUlh0eXgzS25nSGZCWGtsVXpqMFJHd2Yw0gF8QVVfeXFMTUZvN0xGZEdUVnJjWFhMb2d1SnNvOERHV2lRREpINzJFM1JrNi1sM0FMV2Z4UnpGVVdZNmR5OTE2S1I3VGZwTVVQZkFhSF8tRWtDOWJ3cDB3bnNSaFRubkJNMXVuVkl3TWhIa2VscHBweU1RRHBjNnd3d0xTTg?oc=5
 
-- [Markets] CPI Inflation Overshoots, Putting Fed Hike In Play - Investor's Business Daily
+- [Markets] 3 Canadian Growth Stocks With Earnings Growth Over 21% - Simply Wall Street
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnFfYVJDNzVfOUJDVGlaYnJKbXA5LWEwSjdsV0R1anhmQmhnZ3JnY3ZBLVNVZ0FfeE5PQjJPdWV5cE0tMlZoU1lhRDVZOFZGRXFlOVhUOUdIWnR0RjQyQXRWWTBOQ183V3NPLWNCOTU3ZUxKNHhCVXNoZ2VnYTg2S3ZXRlJ5WFMzYjl0QVNvdnVUck9Fblg1My1HSTYxRllmZnVFVEdJMVFDTjZMckdUNUdyTWVEd0d6bENpb3NURktUbmVNYWFoUNIBzgFBVV95cUxOOEZsVG9YNTE0N1FPZU84VXhHZnZtR25rSXJLVklsSHoxeVNRNXB5bTlmdDFxOGRjWWtxX3YxOUttWi1UaWN0ekxpckpWekxZeEsyY2JwdTQwRFM5Y0lCM1RjYUlXNm0xZHRXVl96cEpQUERSbmI4UjViYjMwWDJXYWtqNU51UXRHV0NvQ09ERHN6ODh3WGR4azhxLUZIQlRCVVdIaU10TUlfRjd2MmdkNVdHVm1iczVEc3VsT19XamxBbmtyczdESm9qTDVUQQ?oc=5
+
+- [Markets] CPI Inflation Overshoot Is Like Half A Fed Rate Hike; S&P 500 Falls, Yields Jump (Live Coverage) - Investor's Business Daily
   Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmVEY0xuYzdxengxTUJ5MThFeXI2SGNLRVVhRklVWjRrUm1Td2w1Z19kZmZ2SHRjbHhaOE92YmlJUXNfaV9TZG8wN3BNOXRtN0UzMUYybldXZlNXSGlFUV9Pb29hSGQzWTF2Z3R3ZHFpOVBWbXhUR29ZVnRTNG9MUzc4ZUc5Nk9xYUw0?oc=5
-
-- [Markets] Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTMwOU43MWxrVmtqcjAyOC1MbXp3RGJTekdPYkVzNktCMHhOcDU5UW9XR3VBYkt5NzhuVlZ0Rmc2NVJialJyVWVaUWNENzdwNFBzdENFdkF4RW5zS0lybGRTQnBQNXN6bUdGOFplaWJzODJESWRXUk5hSUZlLU5tLVd1eU1VbTJFbnViZU1VMnFFQXpQRXhxRHFkcGRzb2hId093R1NGMEpIRVhvRG5jMFpTbE15dmZJdHVSR09sSEZyOC1F?oc=5
 
 
 AI
-- President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1poLTRfaTgtMmJRb0RTV2tPbVRzd3kxei1KeFJ3cUk0ajY4M0huOGZvcVhKWE1kQnZEUHNKbjJGLUx4YmR5QzlMRjVnZWItVFZHc0dyVUozUWFock8tcDVyU2FCSGVNNF85dk1fN2FxOUZHSHVGWFhGczFneXAybkRnSEs2ZURpb0tHRVF6NGVodEdGYzlOQTEzb2dsVmJ0?oc=5
+- EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5
 
-- Google Open-Sources Harness2, a Recursive Agent Harnessing Framework - MarkTechPost
-  Summary: MarkTechPost
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5
+- A hacker broke into John Deere and SharkNinja with an army of AI agents - The Verge
+  Summary: The Verge
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5
 
-- Anthropic turns to lawyers to help AI agents strike deals - Financial Times
-  Summary: Financial Times
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5
+- Hackers Use AI Agents to Do Hacking for Them - PYMNTS.com
+  Summary: PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxORWJIa2daWE9vYlp2a3g1XzJqempFMmNiM3pCSnFOYjVqc2lrSmt0Z1JMVzJIUjZKOW9TcFdZUERTYk1PVDVibXdJaWphemJidzY2aU1HX25IcWg0Q2dpR3dPS1RtZW5haDdibFNON2lsemk3My03eUNYQW04SjlSTE9nWjlGcnJiR1BYcXBzNFJPc2VOdU44c2V3Tnl3Zno4OHFvSg?oc=5
 
 
 Markets
-- Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlZYd0JXRVRQYVpQUjlTdEoxWGZyMUFPNjAwZjA3Tlo5MUxLVTBLNTlXUTBHZWdyenVHZlIyMGVwR0JqRzZSZ2xwNzZJVDM5RU44c0lzVFk5RHprSEFYaWtLLVRwRzB4Mmt0a2tuYi1ab1ZjS01NQmhjUmVxVzd6OVdMYmlla3VmYlN0bVU2NFlpZHRZemk5bg?oc=5
+- Meta Stock Extends Slide As Big Earnings Test Approaches - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDVvN2dkQ29qaWFuRzM3elZ3UnhJWHlGMjBiRDNGdEJBbzl2YkRlQUVWQmlRN294VTJ6X0N5X24tNG8xSkVLRGcwSk85WEdPTG1kUjJmd1p3Mk5uSk9jamtZVVRzY2ZUSUZvbzZTSmRfb0pNOWdqMl9kQlhtX0pVdTJoUUJHU2c?oc=5
 
-- Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3JYN0U0a0paQ2hWbVZOSktKUm9QYWhjNi1xaEFzMmctbzNmUnBaWGQtVktJYmpHMjA5T0FacjZJWlVVVHdzS0V3X01SYjZpMFhKeHRVQ0N2QnREMzFYeTA2bUVMeXZCNUVtRVRySW5TT1JPMFd3WFpxN0o2NUxlV2RRbHE1QW91U2dMd0lyM1g?oc=5
+- AI stocks lead a rebound on Wall Street as European markets drop following protests - The Mercury News
+  Summary: The Mercury News
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1vQzQzc2VBalN3ZW5valM1TXhiSUh4cmF3QVNNVXh5Wjh4VlV6b3dGSUV6eWYtb0w5T1FkVGpHV3JIQXR1XzFJYkw3RjVMMWZQbFpVWE5QcVllNGs0WDIxa01zLVFPbUxXUEtZYjBfRzkzbkctbkxR?oc=5
 
-- 3 Australian Growth Stocks With Earnings Growth Over 15% - Yahoo Finance
+- Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnVzYXRMUThCajRxbTdFTGJvdlBocmh2X2xvaXk0Umx5eVVNaThQVWdjLWEzYjJHM3VqQ2NJX1piSmlueHdNRThwMWJvUTM2SkdzT0NVNkY0cXZDckJ4T0VON3B3eDJUdHhPU1JFeWlPSXdfSExDVTZCSnA2blpJNVI1aTBoUFJyWVdjVVEzTUswWEdXeEUwR2xwalVBWk5KNXc?oc=5
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxORVhGUjBpMEE0ckJiMUp6MXBTVi1TSDBTMFVtNHBILTNEVV9WMXV0WmZ0d3htRVBTUXRMaHpTYTFpbVV3S3V0bXdrSTlwMlhKZ2lvRnQtb2J4RUNQaG1ZYmhTTlFKSlRGSGlISnM2MUFhZ1dQWlp5TzBTQW8tSGtXcDJuVTFwUmhpMHhjQzZIdHNPNi1CYXc?oc=5
 
 
 Travel / Boop Relevance
-- AirAsia MOVE Wins Asia’s Best Travel Booking App for Fourth Consecutive Year - Varnam Malaysia
-  Summary: Varnam Malaysia
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjBVVE9QM2hMRG1yWnFYeHNDdl9fMkZMR0JqbEktS21ZMm5kNlVYdEZMM1pLYmppYkJKd29SaWZiYkRXYUx0dEcySll0QWRqUU9qUmxmMm1femdZWU11Q21jWnJrRzZ1aFVnWXlCTWlKeFhLeXRfTVk0NC1qTGhEamhJQk00MVJGTU8yNGIxN3B2VXE3Y0Q0Z3JDbWE1WEgwSzN3?oc=5
+- Booking Holdings launches Vayo AI travel agent - Short Term Rentalz
+  Summary: Short Term Rentalz
+  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9oNV9oOFJKbEQ4d1F3ejJVM1NuYWcyYkt3N2laNXFPQzFzTVNGelRxZ2Y5SENDanY1UUVEOXBPcE50UGFQVHBLa0tfY1lTZi01WFFTQnkzcVc4NjNSbDFaTTl5ZFVVdGxRa1E5bUZYdGxEN2FHLU00cVNUVG8?oc=5
 
-- Booking Holdings Launches AI Travel Startup Vayo with Planned $100M Investment - citybiz
-  Summary: citybiz
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWZsNGxiQnFBUjcyTXV4NjZPYnhoQXBVbXBmQnNYczAtaTdJZ1NIYVZEMVZ6QVZYVXFjSk5ZTXlNZmlsUnpLa0JMbUgxSTFWM1c0bjV5WGw4ZXdaUFF0dFM5VDNIU0RiTnpfMU9tbG9vbmdHT0hEY2l6RlJ1enhUNHRHSkx2Y0Vld0ZySXlVUmxkeXlMX0VlUVB0RFRyRUVEcjRmMVk5LVZfdjMyV29GT1B1Q0x3dHM?oc=5
+- ixigo Travel Booking Platform and Digital Services Explained - Kalkine India
+  Summary: Kalkine India
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxObEYzaF9XT0IwbEdONnpIUlZqLWp2cGYzVGF0U3N5OFZwbFpabDdSYXAwd3Zia3RsaGhWbHNkSTJTNndaQkRScXV4Vm5hNThnLVhEZ0M2NjJUVUZ4VHcxcTZ4ZjZlUW9BMmUwUWZ1bXI0eWxxTWhRemV5NDBkZUgybUdFMXBrNFpjYjViUXpzbmlqa3pveGhYVzB2TktQU1FMWmlrUnFaWjI2QkZDa2JzUXdra3RIaHlra1E?oc=5
 
-- InteleTravel Acquires Group AI Startup 40Hammocks, to Relaunch as Groupr - Breaking Travel News
-  Summary: Breaking Travel News
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlJGMm8tS21ocElKb1FLVTdkWTRmeUhISWhSSWgyTDNLM1FVZFRFWWxOOHZWOUlldTExbEFsNzdaZ2VmVm9WYXB6bkF5bnlIN1VVZkJLeVQ4bE1CYV81eVowVFkyOG5SeXZmLWVnVl9pUmszRUlURFdyN2FJNDdUdnVCZVVMZ3d0cjdLTDd3Ull5NUp4aF9qanNZZjgwMUZPb2VOZGRyQTNET0xiSFZZTTNuMVUtaGluZVZUMg?oc=5
+- Startup Stage: Tripician uses AI to build verified, collaborative travel itineraries - PhocusWire
+  Summary: PhocusWire
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjN2YzQ3T3EtTGVkd2ZXSUxJbUhrSEoxVUpEb2haeUlFSzhuUEI1a05JQ2x1a1ZOUjZSY0RISXdXZnJQZWVGOG9WMkY3czFadWhfMzNhYktONWJncllyWnlJeEdjZHVUQjFEUllhaHVNOThGTzRFM2owa1ltMkNvb0JQeDJ6QlZqVDZmOFNkZTRjd2ZUNFVYenJRZ3RGMVlNeFlrUWRlTEZHWE5oaWFEamRLcVVUVm1TX2UwNUNtQzE1d3FpRVE?oc=5
 
 
 Bottom Line
