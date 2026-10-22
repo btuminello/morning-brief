@@ -1,78 +1,78 @@
-Morning Brief — October 21, 2026
+Morning Brief — October 22, 2026
 
 Chestnut Hill Weather
-- 42° to 55° today. Right now it's 52° and feels like 44°.
-- Around 8 AM: 45° | 2 PM: 55° | 8 PM: 46°.
-- Wear: light jacket.
+- 43° to 63° today. Right now it's 55° and feels like 47°.
+- Around 8 AM: 44° | 2 PM: 61° | 8 PM: 52°.
+- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real - CNBC
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQTnBVdS15Tzd3NDFnMTVjU2pUcUJiSHgyVGFzS3loa0I4bEkteXF4cjY5WXprM29za3lyVzk4TmY3VzR4R2RKWHB1RndCZjJhY0dTcVd6cTRpU0pjc21ELTVlWjB0WmRINXlWXzl1clJzWk9UWHcwaWE2MGQ5WUlKZG13?oc=5
+- [Markets] Stock Market Today: Nasdaq Smashed As Oil Jumps; Meta Dives Below Key Level (Live Coverage) - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDl0alRJQkZ0WUN1Uk5COW9TOUozcDh6YWRvNzE0N0FSVXNKWVdJV216eTFZOFJOeXdIdjRrNjVCcDBiWlpFNlN0UWh1dXFTdEp6cTN4M3BaX195Xy1vMFZLZTZsZHdmQ0tHdmJMWjFUODI1VDRrTlkwaXRpdlB4azBJZnFQalRKb1VVR3g2UWRzOFc5S0dQYVItcklHcGw5S3h3a1pSWG8tdHBFLUZveW9tNDkwd2RRWnFQYzNR?oc=5
 
-- [Markets] Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNajNXTTZIVDl2UDZZR1FmR3o3Y1A0QVhXalcyWl9kZnRMVGtDZXdodnA3eGNmSm9fY1doSmVsUURCbGo3RU1BWWVWUTVrOG9LYnU0NDRNdThYSVdfUDAwcGVJdzhPbk1YRzc1dHMzSFJCd0oxQm12NUxmNUtWczR1SVQyekJzX1NBU2NEcWhtOWl6a1hCWnNQR0gwZEhwdnlZLVRxajhPU3RNZmQ3Qjhzb3VIbi1YSWdBbWw3OA?oc=5
+- [Markets] The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? - Barron's
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWN5TzJiNG5XMFJvcTdNbUxMTHd2MllzY05iR0V4UklVV20wRTYtMlZ1YzVSQkwyZ2p5OFkxNFNTM19DVjhFZTI3UkdESFJkMm5CSFV5cXVqR0VkYk5jZzdiZ2c4VUEtcVJ2eFZHTjdDUVhnSVRzMVBodGQ2YkZmcF9vZXJfQQ?oc=5
 
-- [AI] NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5
+- [Markets] The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUhJdWYzN2t5ZVFabzhzLVVhakFaQ2xWUHVxV21uZ0Z4U0FLX0FDSk9RdzFkSkZzNjZ3X1lObHRMWnhRM3dnTUFDNXpfWTJieWdIeXVyWVVwdnAwVy1zNDYwSFk3LWh2dDRBM2YtZkhhOVNtcVBsLXY1U3lwNGp4LWVfWm90OXdzc1pQc1RkYnJwUFVBaFE?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] EU opens investigation into online travel agent Booking.com over fake listings, phishing scams - Malay Mail
-  Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZVBTUlRKRzR5WURlWWZwSzdVdUtKandtMi1kRVkwOHZIY0wwRnNKWU13RlcxdVR3TjV2NUpxbmxPZzJRNUV6MERsUHF3M3p3R2F1R1BhYzNqX2U4QmY1V0ZCQXc3WllPdWlWQVdleElYaGlLWlZBMl9xeGZTenBYM2JOQTBEd3FsM19WYno3SG9KSzVVRFdncTlJZzExc2xsU3NLbzBpdG1HajdOZ3kxbWhDZnRyckdOZmNWR2xpdENRQXZkeE9nWXVac0VmR0RZWEQ3a1d1UTFmRzZVbTN0UExPbWHSAeoBQVVfeXFMTXBCaWdEZWl4Q3JpY0JTV0Q0ZFV4QUZ0QzNRb1Z5aEFkVE96a2xiR3drenpNbGwxWl9UODdGTm5MYkJheVkyR2pkWXNfRC1iT2huU1dPdmJLUjNFbG9KSDUtMGFHcFU2QnZaOHJvUkVuWkJBZzhxX09rbXFnTW42OXZXa2tMNnQ5WjRwUnpQbFJ3eUJsaXpLQm9Da1N2U3R6MlozUVhWc0ZTUS1yOVQzVzFYWXZKRktjNkI2T1NkTVVyNGNGLUllWTFZNThWdDZPb1lSa251VHF5UkZBWFdqMTFNaXg1UlJXQ2VR?oc=5
+- [Markets] China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkp5bjg3WHRYdlFYTFc2b1VRRmVpd09Oa0Y1SkxUR2xnUTFyTXAyMG9zcUFnN2pIbU1WQVJBdmVqNG0xZDk1UWM0N1M3djhNaWVwbXVBamhRS3dMMWtPRlhQbGFXWk9BTXVXcnppTVB6ZWl3eTRzM3BqclJ0MlE3MEJVSXhWTUlnYm1aVGVGa01kcmljSXFBX1NTWC1Hd1k5X3hwcGtyRjdtblFhVG9RdmlmVQ?oc=5
 
-- [Travel / Boop Relevance] Ziarah Travel Launches Agentic AI Travel Platform with Flight Booking Powered by Sabre - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOS04tcUVHaHpYRXVQU1BId0xmN05vY01hNlNjbDFPMVNKZVNFN2FZdkx1NlN5MXZfTkpKWlFIRmYwMGY1dC1MeWV5Vk5hYl9uWUkwam9xODZjcUhPUWtpR3VfRHVNOEVjZC0wLTdoMUhXUFFNbzBpQnNiRDF0U09IUHpnTjVlN3pPUm9TcWhFWVhEdjN1UWx1ZnFCNVpXZw?oc=5
+- [Markets] AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings - Forbes
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR?oc=5
 
-- [Travel / Boop Relevance] Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents - EU-Startups
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemZ5bU0wYmpuQ3hPcm5fOVFIclJPZTc0VFZ5T3RrMVh0M3hnTmhDdjFJVkgzeGxYTGRVMHNpeldzdzZYSkk1S2g2TzZVdjh6VHBUYUVnekRrNUN1UjhETS1yTks4VGVTY3BFZ3ZGdVJnS2YzWnZjU2x1ci1WZW1NYXo3cmRsWllHbTRsQWM0UkJwLW5OX2ozT0M0amxIZ3FuWHN1UFJxLTNpb0NiSXlrZ0g3YWRNTVdnWWE5Mld5SGs?oc=5
+- [Travel / Boop Relevance] Travel startup Onto raises $1 million, launches hotel price drop refund service - Indian Startup News
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QdIBwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QQ?oc=5
 
-- [Markets] Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5
+- [AI] Spotify’s current AI bet is about being the music service that agents choose - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWJMcWhWbldsSkF5b1JDZmF4c21EVTZORUpOOXdqc2VPb1RJWTJzbnA3YnA1cnlHTk5xY3RpZ3Z3QXVUUjdxQmp3WExCaG42RThnMk5MTllQSzRTVjdfaGFkb0xES0dwX0hMdUFtNnR3WEhVTXVRMVdkdFd6TlpQd0RLUGFsVHpuXzNVWW1Cb2VKZVVaUEJBaUhoTHF5TmlCbnJjMXVXalJfdXp5ZGVJ?oc=5
 
-- [Markets] Meta Stock Climbs With Earnings On Deck. These Are The Numbers To Watch. - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPVi15RnlfaXdaV0hqZ2ZUeUpoR3hOTml6Y3ZvVzBvb2hSc0xESnVvLUE3dzgwX3FHQmV4VHlPQzJSbXJvbkgtajJaMzlDRWlKT0djSHF3VTFYZVVkMDlUSU8tOHhxdXVSVTNjMmJSMVlMZndXUkQ4dWxPLTg5VWpQNWp6S0I?oc=5
+- [AI] Walmart and Amazon Expand AI Agents’ Roles in Shopping and Work - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1hoLVc2ZVhicXRiVE9neGFxaTQ4T3lRQ1AwdFdBT01aMGV3RGYxdTRnaUNfOERUNk9TSzZQeE1IaWlhSDRsLUh2ODVaV0xTZ1QzNzhLNmtXRUFTbnBITUlvZmxfSlYxbEwxMDFYQ2dZOGl3Q1lta2VGZE1fSTROR0pxZ3JWcFNQTlBDY0FLNjluNEdGVUhjQ1hpRlhEWVBqeWUwN2NR?oc=5
 
 
 AI
-- OpenAI says its AI agents disabled their own safety monitors - Yahoo
-  Summary: Yahoo
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2c1R1ZLckdMSEFET011bmpDeDlTYnNWX2d2NmtHQ2pTOENlQ0p6S3I0RGxIWkxqeFpsVDhfTFdsV3pzTm4zXzN5Q2xEZkxlbTI4bzJURXhDZmR1RHBwbVZTQ0U5aDk4azdZSC1NS3kwaHlVSGZxakxELTVjMVRfSmI0RlVjeTdyZ0JsRA?oc=5
-
-- Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News
-  Summary: Fox News
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5
-
-- Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance
+- Phylo's Biomni Lab to expand the use of AI agents in scientific research at Bayer - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTV1c0w5ZEVVeHY0U3djZ0pOOHVJNTZRcE1aV1h5ZUlyTUY3cVhObDU2Sngyc2sxLUZiaGlOVXptQldnMHpuYkt0eVl4bTlSTTdUTGdnSnlDZzJNSG05WWZtRXlURnRuMlJ2MnVFNlZ5UEw2b3RURzh1UDJYVHQ4VS00c3pobDZoTW02NThFTjRvT2xUWlE?oc=5
+
+- Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation - Petrie-Flom Center
+  Summary: Petrie-Flom Center
+  Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5
+
+- Walmart launches tools for AI agents to shop for customers - Reuters
+  Summary: Reuters
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5
 
 
 Markets
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Gains as Iran Prolongs US Talks Ahead of Midterms — NFLX - Benzinga
-  Summary: Benzinga
-  Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNczN0a2VfUUFLU01UaWJDNmtObnN4d2JsNktKOXBBdHFBdmU0eWRPSEMxay1oS2VTZkJXdVp2cTlmb2FzMmx0eTFJQnNXZTBLaWJKc05zLTRuNHA3a0haZXBfbWRlMTJFYXkzTkVsc01rdG9uXzVaX0tUb3BZZlBTc2RzZHVxSjcwaHpwelJiMHRWVHU5aURCeWFyTzBpbWl0VUUweFdXYVhLMWZQMTU1V2NGTG9OelNaVmVfZDg0MUFkcGxJcE5Jb1lCWFhZQUV6aXdWQnl4N0k5YjF6bllvSElOMTBhM1UtTVZ4UENWZHJSY1h6bnFWX2s4V2U1X2FTX0NuOFJn?oc=5
-
-- Tech stocks lead market higher as SpaceX shares surge: AlphaCheck - Yahoo Finance
+- Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHp5aWZnWEJXYXpnbUtnTWRPbXViMThIdGFWejBvU3BfMVgxV3dneGRFWEFKN1Q3eXVUQWxUVTZlTGpqUHg5UE90aUcyb2ZaZVNBZ1VlcGJ0cDl4TExPSTQtcTJOUVA1QTVrcTdjR1RxMWU5RWw1M1h4a1VZako0cVhXc29ES1MxbnQ5eFdCRVU2MTF2RGRWR1pRZzc4aS11X2lLY3QyYmZmM3BsalhZS1U2TVZtaldpS2Z4cU9R?oc=5
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5
 
-- Stock Market Today: Nasdaq Futures Jump as Tesla Leads Tech Optimism to Eclipse Inflation Fears - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZVYwV19FME5qdVVhQm5TTHJDenZULXNDbXdwQ3k0MWR6QnUwVDhJMXdGbHY0OV8wTnlqWEltOEZ2aHpldHl5bVlVbHAxZVBVYzQ5MWFmcXlIeHFSWnM1eXozazEydl9WVTdJSk11MWhYeU4xMHc?oc=5
+- U.S. Stocks Rise as SpaceX Earnings Boost AI Trade - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmEtOENDbk1wMmlSbkM0MHdhdTNrM245Y09fcWJYZHlVVWJZakV1cVFVRjhXMThHb0lHTHU5dE5RVEdYdHpZTS13UVk2MWlZWjB3czlQTFd5MVp1QlJ6QWthV2tlc3pmVTlKQU9FYmtQVklNYk1STzR3TTg4Qk94Y0hIeGFoSTVxOUJ2YWVUcw?oc=5
+
+- AI stocks undercut markets worldwide as oil climbs to its highest price since May - Pittsburgh Post-Gazette
+  Summary: Pittsburgh Post-Gazette
+  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDdDRVpuU3BjVEFLeWVqSGI3Q2FsLXVDT1BfTDhCNVB4VDV0Tm1mZUl6bnc3U1JiS1FHcmlPX2ZMWGRBMkJhZTRsUTUyRXBWeVgzSi1sckIySFN4V3dldFVVcGVndFhyQklZOGpGYkhMNkszT3VkSV94YVhGdHBQa2h2U21aamFaVDhVYTQ0OG9udWtybjl5NVQtNGpfblBVdHBuQnhNQWRmQVg5VXFr?oc=5
 
 
 Travel / Boop Relevance
-- NextTrip Announces Canadian Travel Joint Venture with The Travel Agent Next Door - TradingView
-  Summary: TradingView
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3VONUJ5SEs1cnJOVkhmTkdQVTlYLXhmV0J6X1NGbW9pU2otOG53cnB5b05HQ21QOW1fTXA4djU0a2FycHR3SUZBU1JMMXIwaWZBLTdRdUxhcmEydnVjYXgwVWRxS0FjREJnaTZURkRqd2xDaUw5Tmt1aU5RcnBlcTBYOUYtanE2RU5aLWFyaWhSeU9PZmZkU0owbFJGdDIyYWI4ZU9WaTNBQmczSXJUMkY2eHhNUWpqRElVaEl2OTZvWDlNN0tVWmhSMW9Yc003S3FVOHdUSQ?oc=5
+- ZentrumHub Named World's Best Travel Tech Startup, Just as It Outgrows the Title - Yahoo Finance UK
+  Summary: Yahoo Finance UK
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGc3Q2xhWGROLVFwMTE5dDlabUpLaDM3RVdSRGduS2huSFlCNVdqbDVLd2EyU2ZEekN6bkVJTHlUbnJkQllZYTkyc05HRmkzRGkwa0NMeXJZWnhNSW9McVV2ZDZZRmVCRmN2dm9wS3QwNnF6R0tXbnBnU2ttWU1DZ0tuWjZxcTFYc21LUA?oc=5
 
-- Bengaluru-Based Travel Startup Onto Raises $1 Million in Pre-Seed Round Led by Stargazer Fund - Indian Startup Times
-  Summary: Indian Startup Times
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOaE13YTdNdmhCclZoSVAxU3puUW8yejFJaFJsWkZkd0hjVTZvSDZqcVRBc0NHMk96MXFSdHl6b0I0U002aW15cC1aS3R2NjUyUDNSajNFMk81ZjEwTEtfc0NKbEEwVTcxbndsQ2tjY180NTFmZHNqa0FmcU5ZTTlVS2toSE9mUnk4c1lGaUszdUh2Z21kakhLUnM4Zlk5QUk0ZkI2SFlfem5YbGhDcDhQV2ltTk40aTlxbnlUd045a3VwRS1FSG5ZUTJHdE95QQ?oc=5
+- European Commission investigates Booking.com’s handling of scams and fraud - Travel Weekly Asia
+  Summary: Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnJIcWk5VHlTa3paVmJqZDAwaHczY3hwYXphNEE2NUtyWGR6TmRuYWFOVS1PYVlsVUZyZHdZRC1BalZTUUMyUjB1Zy1MT05mQzFoXzZMSDVILUJfSXRKUmhkXzJuZi1DM21nX1hmd2JVWjNBekhyVU1abVRFc2VRSUJabURpbXJMOGJpamxEN0xraGlyZTR6Z0hDVVU1ekM5OFZ5emx2X0JZUUE2X0JrVFJ2NDNSTk9nbFQxUUxjTFV1Y2JZcml3cG1FcndxaklfYVV0cQ?oc=5
 
-- Cheval Collection unveils new brand identity and digital booking platform - Travel Daily News International
-  Summary: Travel Daily News International
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWZCNmpzeXctaW12dGdIZGRBOUx2QW05SWVhclpkVU1vTUZXVFFqZVY1UU1zT1lrV0dZRWRrV3AyU0ZNSHlVOUhpWFR1cFV3SVF2R2o2ekV3S1RYbE5GR2kwREZUVnA1YnR2dkloR3lzOFcteF9acjJQUWxIejVqVHBHOWk4VHVpeERJZ2l1SUdpUnBQalhDM3FHS0NpREE?oc=5
+- EU opens investigation into online travel agent Booking.com over fake listings, phishing scams - Malay Mail
+  Summary: Malay Mail
+  Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZVBTUlRKRzR5WURlWWZwSzdVdUtKandtMi1kRVkwOHZIY0wwRnNKWU13RlcxdVR3TjV2NUpxbmxPZzJRNUV6MERsUHF3M3p3R2F1R1BhYzNqX2U4QmY1V0ZCQXc3WllPdWlWQVdleElYaGlLWlZBMl9xeGZTenBYM2JOQTBEd3FsM19WYno3SG9KSzVVRFdncTlJZzExc2xsU3NLbzBpdG1HajdOZ3kxbWhDZnRyckdOZmNWR2xpdENRQXZkeE9nWXVac0VmR0RZWEQ3a1d1UTFmRzZVbTN0UExPbWHSAeoBQVVfeXFMTXBCaWdEZWl4Q3JpY0JTV0Q0ZFV4QUZ0QzNRb1Z5aEFkVE96a2xiR3drenpNbGwxWl9UODdGTm5MYkJheVkyR2pkWXNfRC1iT2huU1dPdmJLUjNFbG9KSDUtMGFHcFU2QnZaOHJvUkVuWkJBZzhxX09rbXFnTW42OXZXa2tMNnQ5WjRwUnpQbFJ3eUJsaXpLQm9Da1N2U3R6MlozUVhWc0ZTUS1yOVQzVzFYWXZKRktjNkI2T1NkTVVyNGNGLUllWTFZNThWdDZPb1lSa251VHF5UkZBWFdqMTFNaXg1UlJXQ2VR?oc=5
 
 
 Bottom Line
