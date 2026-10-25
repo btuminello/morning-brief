@@ -1,78 +1,81 @@
-Morning Brief — October 24, 2026
+Morning Brief — October 25, 2026
+
+Seattle Sports Today
+- Seattle Seahawks vs Kansas City Chiefs — 10/25 - 8:20 PM EDT
 
 Chestnut Hill Weather
-- 32° to 59° today. Right now it's 40° and feels like 35°.
-- Around 8 AM: 34° | 2 PM: 57° | 8 PM: 46°.
-- Wear: light jacket, layers.
+- 32° to 63° today. Right now it's 50° and feels like 46°.
+- Around 8 AM: 35° | 2 PM: 61° | 8 PM: 50°.
+- Wear: light layer, layers.
 
 Breaking News
 - [Travel / Boop Relevance] USAirtours launches new online booking platform for travel agents - Breaking Travel News
   Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHkxemdfS2NKUTAyY25KQ3doQ2FuRlktMXp6Rk5pWEtOVF9sZm83eVRuVGc1dTBUMEswVy1rdDNDNTdXZGQ2ZTlvX0RaSGZKOFJhaEQtSjJWcWE5bEFpc3p6bHl2NmlIZVFfRDdHQ1pRclRmTUt4NXducUE4SVNrRjJXQ3lRS2JIR3ZQOVpVWnJxcmdkY3R2MlN4R0Jod3hIVjVEdVZXMWJUekZqR1RhTE5NNE4?oc=5
 
-- [Markets] Smart Investor: How to Hedge the AI Trade, CoreWeave’s Tumble, and the Outlook For Inflation - Morningstar
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFhnczBOckhCakZyaGFoc3FmdDBORUJndmVCeWFRMkhxa0NLNTcwUlNnZDhVdUMxbG5TRUlqZlhJWkpQSW01MDZIVlNGVGpqZ3hqZTdOdU5zd2h2OGRPdldWVmVCQXVPZnlHdWVrRW5QekppcnNHNFowRmhtODc2ZDRhLVlsYnFILTBpd2J2bFZDTE5lMks0Tmdpd2p3MG1CVzFCNkUybVg?oc=5
+- [Markets] Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5
+
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures fall as oil climbs, investors weigh Tesla, Meta earnings - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXJjNWgxTzlXaXBEejRVWmJFVFBISzd6QkFvSTZxX0x3UWllaFJaTVVlOXQtZDlQTV9XZVQ3eWhVckdpLUhJZTVJUl9PSXU3dmtoSWZfM2xSUDZ3SXFVNFN3LWRhREx2NDVmbjhhdlJuM1pETkZ1RGowUjRFaWFReWRoVXdYRVlsdm9pMmdHSFV0N01mN3RIWUhwVEp2eG5PQzdEWTBhZ3dXaFF0MTl5ZVNfblF6Y0VsUmk4Qk1B?oc=5
+
+
+Must Read Today
+- [AI] OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes - Tom's Hardware
+  Link: https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5
+
+- [AI] When AI agents run your life - Vox
+  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlUxWHp4ZmZWcUR2azNkdF9GYWNEZUhxeFN2VzBYYjNFZXd2bVJsQmZ0Z1VUQXl3SnFaUUpGZWx0akVKdG1nQ0drZ2xFZGdTU2JfWGVIRkFyR2FpVHlTTU5jZ3djUHhuVW53ODdCeExHYzdMUXZuN3U1eG9TUVFYc1VxV0F4SkJaRHc?oc=5
 
 - [Markets] S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus - Yahoo Finance
   Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkpId3lQbkNYNFNObEg4YnRsMTBvWDBTLVpwdUNnNFdqUzg2eVlnWGhuT05YemVpT1RzQlhueVJabHdtaV9ha0VQLWlkNGstWUg2Z1c2QWlLZzRJZVE0ZDJzLUlRTkpzYU5VWUdKRnlhNVU2ZWU0Y0ZjcExjSWwwcWR6VnhKQmQ3d3FoOHpIV1FTQQ?oc=5
 
+- [AI] Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1EcXoxY09jT1IzdTlXRlZBZ1kyMEozME5xSFJyeWRsVXBUdFd3aTJ3eDFxbzFvdFZHaWVRLXgyRFp0dWpMaGRVdHdsUVI4OEVsR19yczBzTm1aTjg5MFBXWW1odklWQVlxbVh2d2xZU2ViSkl3TEpSMzAwLV85VVZFeWxBQ1pWcDVZclZtOFNuQ1BJSWc?oc=5
 
-Must Read Today
-- [AI] AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOW53UFVJcjU3M1I4SzlwMlNqdHpTZDF1QlpkZ3F5OEZTQzRnR2lfc2R0ZmZRWGtHc0ItamNxemg2V19EWVlMSHQ2STdRcVFpQ0x4QlRSbklfYVMtcEN5dlByMmpRLWRQV29jNHNDSjZRNGFqOXFORWFXRQ?oc=5
-
-- [Markets] Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5
-
-- [Markets] Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump - The Guardian
-  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5
-
-- [Markets] Goldman says these top tech stocks have plenty of upside ahead of earnings - CNBC
-  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1RsT0tCaElxTUItVWIyQl93VUlSSkRDQlFaU1N5cFRGMzVMUWs3aWZyX3NBTHk5ZFpQNmRCNzVTRmcwb3QxTl9QcEdYYXl1UTd5TGhXM0hHMEl2VHNoUUVmd0FvZGFWdDhUNDA2SU1zeGtMT3ZDYl9sbFNmMVgyWEpSZWpOcENXcWJKRDlxaw?oc=5
-
-- [Markets] 3 Growth Stocks To Watch With Up To 103% Earnings Growth - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEpnX3VnYlNrV0NsMXB3QnJMRDdyLVVoTmhZem9ZeHNHT3hZakRWSUJzWVI1eWRJNTQ0Z0ZKMlNteG00cGdNVUtnNVBPY054SU1uTExEdjdVNG9CalVmMXZjOS1vTXRDU1ZCbVhGRTVWOFVsMUpmZUxkeU0zSndJRlNpN2hWMUR0VXI0TUZ5SVVCN0VH?oc=5
+- [Markets] The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUhJdWYzN2t5ZVFabzhzLVVhakFaQ2xWUHVxV21uZ0Z4U0FLX0FDSk9RdzFkSkZzNjZ3X1lObHRMWnhRM3dnTUFDNXpfWTJieWdIeXVyWVVwdnAwVy1zNDYwSFk3LWh2dDRBM2YtZkhhOVNtcVBsLXY1U3lwNGp4LWVfWm90OXdzc1pQc1RkYnJwUFVBaFE?oc=5
 
 
 AI
-- Amazon CEO Jassy: AI inference costs must drop 90% for widespread enterprise adoption - KuCoin
-  Summary: KuCoin
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWhPdndTQTZPb0pzZVUzVjU0WC1aOFJhdnp3R25jUFFtRXJLc2hLT3Y5X1lOWWhBRktfWTVuTUJrOVVzTXJpM2Y5VklHRUVMUVNmUkhWWVk1bnNlM2VHMlhTTmo4aExHSnhFZmI4ZjNiblBuSk5XLVJpZ3V2SVVTQ19HZ0Fxc3NhZnF6SE1zUkJCd1FqSlNNeEY5Wnp1ZktiVEhZb3BpeFdLWVhSY0ZyQ2NlcWhHQ3JF?oc=5
+- SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0RSekczdjlTWEJJUldpMnlMRndRNjUtdFN6a0FXQVBfdjV6dGJGVm1wQXlXN3AyRVl4MW1JNGdqM2YwRV8tWmlSSEZ2QnV2dzBnNks3ZHBvQVBHZjdOUnlYN1oyenZXbVFjWHlhQzIwem5HU1ZaekxPbWVIcGRNMlIwVDlfbC0tcTVTZlNWRjZyZXZscGpMYnowTDVuaGZXR0J1V09ZdzU5SHhYQnU0N0ZIZWNKZl9FdFVHSTh6VXlHZWpEOVdHc0EyV2xmZS1LejBoLXRUTWNrd2U2T09GSzd3X2s?oc=5
 
-- Despite beating expectations, Western Digital's stock was still hammered—what exactly are AI‑related trades pricing in? Keep an eye on the funding sources behind its earnings. - 富途牛牛
-  Summary: 富途牛牛
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxORHVHT2pVUV9lSTJhZ3ExS0xkSWNKZUlMZE82QW9aQUQxeDhfQjU3a2JkczRjMXlmeEJNSlp3SjQ3STNJV3V1X3RlbERVOTdaT0g4VWVSZWFwdHM0dUpFS0ZBeEhkUlVoWXF4Z3BzeTJCWExRS21laTNJbmFxeWN4MjBlLVFDbEFuOWFjNHJHZTRxOXhTU0dQQ3hIU1VocjI5ZXJMSWF6OExRMjBlRVh1RUhQeWo?oc=5
+- SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHU5T18tS3F5UFdTNEpMc0lONG5EaE56SFQ2V2ZreUtyR1BiTElPUnpVNjZsbngxU3V4YTdKbmpDcV91S0NfQkpuZ25kNkdyUVdGZmh0R01kNl8xYi1VNnBCejltd2Q1TmI3d2dMUS1jcnBPbmZJM0RSZ0JxNFFZNUpETEYwRXVOMjBpRTR6ejI5WExCYUNmVQ?oc=5
 
-- Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog - NVIDIA Developer
-  Summary: NVIDIA Developer
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5
+- Put Your A.I. Agents to Work With These 5 Killer Tasks - The New York Times
+  Summary: The New York Times
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJEeDdVWlV4QVNFelhJZjU0Q244SzdNbUZsQjNGaTc1dTNxLWNwZHVkS2dXdG8yazhvTFk4MGNNM255OXZrejA5MHpIWmVqMUxiRE5wS0JveWUzdjVOc1VjZGEtU3FFRlNGOHNadGJPaUJHVFUyUGZiamxubS1LZUZvMFZBQXlfclp6dGFoT3VDS2otVTc2YU5sMFVMd3FWOXc?oc=5
 
 
 Markets
-- 3 British Growth Stocks With Earnings Growth Up To 47% - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPUVZkNVJ4ZmRzWmFnODFBakZDYVJ2SWx4NjRUR2J0V1c5dTR3WGd1blp2dVB1SGlzNHB6X29VaEtIZjM1UmJtQ0pKVHgwN2RxalFOZndiQXVCUFhNLW96NkZfV0RFWC1PV3MxejRnY1Y5aDVrYUl2TXFBZkVSdWhmZmxMazliUVR3ZDJiR2RzTnNzVE13NWRmaVg4dG1MZw?oc=5
+- Smart Investor: How to Hedge the AI Trade, CoreWeave’s Tumble, and the Outlook For Inflation - Morningstar
+  Summary: Morningstar
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFhnczBOckhCakZyaGFoc3FmdDBORUJndmVCeWFRMkhxa0NLNTcwUlNnZDhVdUMxbG5TRUlqZlhJWkpQSW01MDZIVlNGVGpqZ3hqZTdOdU5zd2h2OGRPdldWVmVCQXVPZnlHdWVrRW5QekppcnNHNFowRmhtODc2ZDRhLVlsYnFILTBpd2J2bFZDTE5lMks0Tmdpd2p3MG1CVzFCNkUybVg?oc=5
 
-- The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxORHdfZmpSc0NKQXBmZGV1ZU1ZQmhwbHdmRHhvZ2UyY0ZDM2pLN0Fsazd1WWVJdEFBazdHY0tpOXVIcmY3VTc0aGFPalBlZWtWbzlRY3N1LUM0d2RqLVZHM1ljSExYTy1oMVFKckVzV3FIZVZ1VHpiaVlxVWg5R0FpYXB5THZWSFhURVR0ZHNfb2ZiN3k0MGlWTGh6Mmo4dw?oc=5
+- US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms - The Times of India
+  Summary: The Times of India
+  Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1JicDg2NWJQMmptNFJkTHh4SUFWM213b0dOYk0yT3hXemFCNGExb25rellPRFVaajNDWmxNR09KMVVLSE92M3J6WXRyMk9wSlY4ZE5sODk0N3QyMlhQUkpFRVFfTEFCQThVYnhPcXZwUmFxQW5XYjN3Zm1IeTBnSkFLalJGMzZ5VjdBQnpaN0l2eXM3SUM2NE5SVzhVXzJjVmZodG91YmJoUTRTVFNiMEVRdGpmcnR5b1V1X2JhdVNuZzV1WmdVRW9waE5iYkYyNGFFWVZVeUtveVEzbXBmTVNKeTF0TlpKbVJXVktoNmV3a2xDVTRBRHdzV3VDbFFuZ3hB0gGIAkFVX3lxTE1xN1dqM0U0Q2R4RmVrNWt2ODhHYUVUZm1NRTRFZDhsYVVyQURLWEVHY3BCTDRQVWFaenloZ1BwWnAyc0habjNzZ0l5TzBfN0JjZDI5d2FlZzBmbXQtT0FpREVySkxhYTNlYVNhUnlvV1hpYUVRZHFwaHFLRlNkbm9iR20wRU5KdGUwU2ZSYWctVjRWRGpZdWVweVZ6VE5VSTdVbW5Lak9xU2FxWWVJbzNveGl5aVVBRU5HUVBKOGJlNDk2MlZzM0ZXTzhoR3FSbnNTUl9Yb0Y2ejNRQ2pnUXNUc1BYbjZLUWNGRnZtRGltanYwSGdIWWpSaTJ0TmZDWFdWN0lSLVdPdQ?oc=5
 
-- The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? - Barron's
-  Summary: Barron's
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWN5TzJiNG5XMFJvcTdNbUxMTHd2MllzY05iR0V4UklVV20wRTYtMlZ1YzVSQkwyZ2p5OFkxNFNTM19DVjhFZTI3UkdESFJkMm5CSFV5cXVqR0VkYk5jZzdiZ2c4VUEtcVJ2eFZHTjdDUVhnSVRzMVBodGQ2YkZmcF9vZXJfQQ?oc=5
+- AI money shifts from chips to software, exposing Korea’s lack of alternatives - KED Global
+  Summary: KED Global
+  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE11aHFmRFhscEh0aFJiZjN5eEhhZXIxazJVWWp5MVR4SnV6NkotLXluT3dubHM0VnVuYURORXd6Tnp2VVNKRE5RZ1lmcnRuM2V2ajdZMmoyQzdLdVZpOFpPU2tULUh6ME5DV21kNFRPMzEzdmNYMDlZc3Zn?oc=5
 
 
 Travel / Boop Relevance
-- Ziarah Travel Launches Agentic AI Travel Platform with Flight Booking Powered by Sabre - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOS04tcUVHaHpYRXVQU1BId0xmN05vY01hNlNjbDFPMVNKZVNFN2FZdkx1NlN5MXZfTkpKWlFIRmYwMGY1dC1MeWV5Vk5hYl9uWUkwam9xODZjcUhPUWtpR3VfRHVNOEVjZC0wLTdoMUhXUFFNbzBpQnNiRDF0U09IUHpnTjVlN3pPUm9TcWhFWVhEdjN1UWx1ZnFCNVpXZw?oc=5
+- AI raises the bar for travel tech start-ups, investors say - TradeArabia
+  Summary: TradeArabia
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQNEZHZ09jZGtKYmkxdE1iUzNJWlJ1WGhGNWZzSEc1bDMydGY3dDBnZGd6cjdDbmItV3ZqajhTd0hjbUYzWjJBbTE1WHJzbzlYeGFCNmdncUczd0FhbVdwS1NrYU1abkpsWXgwUUlReXJxT3ZnTnlRSFJuM3NqTHJoQ1VyY1hlRFdCN19iaXkwOElweFB1Mk9CVnk5VTNOZw?oc=5
+
+- QIB launches travel booking on mobile app - Qatar Tribune
+  Summary: Qatar Tribune
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUtqd3pwMndqUVhjLXY5a0NDWE10SXA0ZFA3azljQ29uVnItUFJoME5YREFfNTgyYlRack10VXQ4RHBMaXNsU2I3XzM1SGtwaS1tRkxzdFZjNFpwenFqLWxTOTdfMU10Qml2Y3RvT3lWTi1Kb095eFU1Z2lfUWNSTDZERTdOaWUzYjRZUkQ3eGRpeU9LUk9CblhyYw?oc=5
 
 - Travel startup Onto raises $1 million, launches hotel price drop refund service - Indian Startup News
   Summary: Indian Startup News
   Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QdIBwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QQ?oc=5
-
-- AI trip planning raises safety concerns after hikers require mountain rescue - RVtravel
-  Summary: RVtravel
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUF9keXlpUjhBYlhLNHozalYxbjVOdGdnRnVKR0poQVdFb0llbFkxZW5HVkhtQ3lpY1RuY3ZZTERIdVhUWmVua19pa3I3aWZ2OUZQZDJtT2pFRlQ2VjlIM3lvcmJ6cUNELXdpUHJQN18wZ0RNMjRIdTFRVENDclhZd3FJU2pQRTZyN3I2Sm5kenVHN3MxeWNxcEJ0WHRKR1JmSV9GUDY0MHM?oc=5
 
 
 Bottom Line
