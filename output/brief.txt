@@ -1,78 +1,78 @@
-Morning Brief — October 27, 2026
+Morning Brief — October 28, 2026
 
 Chestnut Hill Weather
-- 39° to 57° today. Right now it's 52° and feels like 45°.
-- Around 8 AM: 46° | 2 PM: 54° | 8 PM: 43°.
-- Wear: light jacket.
+- 32° to 55° today. Right now it's 52° and feels like 48°.
+- Around 8 AM: 33° | 2 PM: 54° | 8 PM: 46°.
+- Wear: light jacket, layers.
 
 Breaking News
-- [Markets] Stocks Rise Pre-Bell as Traders Await Fed Policy Decision, Inflation Report, Big Tech Earnings - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnplcnZ3bll1ZUtsRm9WTUVSRDMwOE1oOVdxcEsyMFE4eUlaUGVDZVEzOXBVcWt6aDJsQzZsdERMVW9uYmFiWFhvbkZ5a3ZGT3RhOXV1WkUtM29lUDdONHVsaVpYSkJxN0lReGp2Um1xQk1Uc2QzVzZHVUhuY3FVSks2NFBLdU9yMnZVVnlHM3ExSDlCNXpCeA?oc=5
+- [Markets] Stocks are on hold ahead of Fed decision; chip stocks gain after SK Hynix profit boom: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
 
-- [Markets] Stock market today: Dow slips, S&P 500 and Nasdaq rise as tech bounces back - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2hycUcxMGR2ZVZDek4yWVplY2JnTF8tVUtkVG9nSnFMRWt4R0Y1QkZTbHVJQWZ2c0czWnQtTUNEcHkxUUNtUXpCYXdZNFhLb0kzNXRmOG5pMnYxWmJPVWZRMEtMNklRb0pwYzVuUlpYVnFvVy13dlhpWVRpUHBoWHBtRjF2WkdMVmZCcF9xOThMbmxHM1VHU0gydWdSRmNlSGotMzljemxuVlB6V1E?oc=5
+- [Markets] Fed meeting today: Hot inflation keeps pressure on Warsh over next interest-rate hike — live updates - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNWl8xOGJlblJuWmFsN2RTeVVnTjNjd0ZCMW8ycFMwRGhnNGNRSndvRnFzbXgzRjZZRUp1VzllcDkwbXQwUXdXQ2x5bi1pRkRJNmlySVRHczBNcHI0OEJOSVFhRnRwTUJ2Y2pKNmRwaU9IanNSUTgwUXA1X2NuVHpHd1oyRjRtRkxxWHZ5QXJCZVFnN0tyVVBzREhIVnVoc0xNd09Haw?oc=5
 
-- [Markets] Markets News, Sep. 16, 2026: Fed Chair Warsh Warns About Inflation After U.S. Central Bank Raises Interest Rates; Stocks Close Lower - Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1KQkliQlZaUmF1bnlNWGVVVDNZbGlVRTk5QWF2VVduLXdqV0JkTWFQd0VPWmE4ZTVJOXZoNGV5amJPWDFKOTQtVWFpejFlWGlvNVlMcWFYX0JzWm03WmdrTExwbDJQdVFjYTZBZXZWNW9rdWJ5YnJzdWVUd0Y5LU1NMjU1Sl9CZ2ZwaWJ1MWY?oc=5
+- [Markets] The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch. - The New York Times
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzFwb3VmYjhQUUtPMDJTZkVqZw?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Touchstone 1 Named World's Best in Hotel Wi-Fi and In-Room Entertainment at 2026 World Travel Tech Awards - Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzFZRWRjTElFc09nRTVvSXRRdlk3NnQzcnN6TEQtMGtHaGZLeHJJaWRPU1dSVUxXMEZTdjRUM1pBMzZLTDNNQjFOamVDM3NwWTlCSmtzNVQtVlJkbTF2VUhUR3pCTE5IZkdPc1JidW9ELVVKZlZEQWNxeXJLUk9CV0dWR2lIQkswZGdBM1UwUEZfeUVHclV4VS1pNkpIbHZGSDZQMWtMWWFPMFEya2hLTnBHbWlSVHpUbG96N2RIcDloT0NMRi1kTkJtTWxrNmZRUkQ1QmJCdFVLanI0aE5EdVRR?oc=5
+- [Markets] Tech optimism lifts stocks ahead of Fed update on rates - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXJLMXkxeUZ6TUhnSmg5ck5NUG5yRDZSOUV6WUViLW1wUDh5NThKTS0xRDZjNjhtSzAtcXYzelNIQlZrcmJYSl9EZmFrbHpiamtVaEpJdVdKWVVYSTJZX05TUzROdER1Y1BvODJXZGItbWtVWFNWal9Ga1Baa2pfZjJHSy1kSDdaU3FJZzlxSUhSWm1H?oc=5
 
-- [AI] Microsoft Alumni Score Funding to Build AI Agents for Finance - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG1EMm1zRXd3OGdKaVRHdTgyMmpGWFMtVnZnR1U3a1paTWlvRWpYSTYxRE1walUtdDVudk9NNFlrQnhjX0gwOEgwcG5EajZmZlcyNGF3bzdlRFhxZlFuMmxIVnBIZzJEMExsREVmTDhrdkprcS05QkhoZVpsampQYmM5R3hnWjFiY1R3aHpOMXd2RkVaMngyUkZyN0R0TTJka3ZnNVR5aGRNYk1SRzVac3p3?oc=5
+- [Markets] Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDZPY1d5Sks1YmYybHAyUTBMdFRrMkFTaThYc1huMm5uOVExWXhwbWgzY1J3b2YxQ1p0TUdvRUlVTTZZNXBvRm02UUdqSGltYlFtMUNGUkZiNzMwMV80ZjZlazVMODJZcUFqVEpYaTVfY19XbHpqcGU0SThVek9DY2NnbGZLOEoxcjR5Vg?oc=5
 
-- [AI] Hyphenate Raises $45 Million for Finance-Focused AI Agents - PYMNTS.com
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5
+- [Markets] US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - AP News
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5
 
-- [AI] Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push - Crunchbase News
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlV5TmZCQmFNWFl6UEpMakVNNWVTVUpkNzdqcDk4U2xnWTVadDdTWkRFbG1nbTRzM1luYzEzNnVQbVZxWDNwVFhMWGVuLUloNFFPS0Q0Wkxqd3VlSFI5U3o2NnV4amNjOGctbm55NTltUEpyYVJ1NGcyM0s1Y0R5QWtweDBpYVJRY1dWMTV0TnppdjJYdmJYdWdwRDM2eV90NjZJ?oc=5
+- [AI] AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation - Business Insider
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzJZTUxmbWtkZXFBR0Q5UXNYeVIyMWpMVHF2Qks1MlNCcHI1Ul9sSEp3VDBIZGRUakEwdEpzY2lXUmFfVUp3X280czA0c183d3Zkdm9adTJ4LXV3YlA4TjE1ZkJqZUJTekRzMVYyUnZEUVEzWFBhZ09aanFTZUU0S0dHQjBwclNNMnd5NDJ6LXlQYVFqcGRj?oc=5
 
-- [Markets] Investor bearishness climbs as inflation and midterms unsettle US markets - InvestmentNews
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHVpX25NTXotRVZINEdBQWFYcW9fMkIwVUlHRWl5RHVHb3IwU3VSSi1mU3dRdnM0eWpMcEQ3RXNDdlRQa2wtZDQ5WVVOZ0FwR21RRjBaeFJEUy1ZWGk2ODN3TWhmQ2Vrc2lObXozdk9seDY0X29QbHJBZnJUVTVqY18yUWk3a2pQd1JaMDVBTThDRmg2dExJTkstczJtOWl6RGh4aVEzZEx6bVpveGV1Ni1IWGxQcFFDY2RxNQ?oc=5
+- [Markets] Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXctSXZneUdSOFNkQzc5bC1BWHgyUmJNS25RYldwUzJpeGwwUjVHTFhGSlZmS2Ytd3oxTEdHbFdrVlRPaG56eGZ1X0FVTmgwYUUwUDlmTlljVEx6V2prWHhyTWdZUXJJWG5oWWtXOUFuckhPZGRZR3p0eWxhRXZFVmhPeFdxVHNMOEJwWThoX2xtZXNwb1pYclVUd0hjVUU2QUNmQWtadndfZnNRNG9Td2FVM0xJeGZHRTFVZkoyQzVDVEFjWGc?oc=5
 
 
 AI
-- Your customer’s closest relationship may be with an AI agent - Fast Company
-  Summary: Fast Company
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWttandOam5McEtPS3BrOV9MNXZQMEJaeUFZWjlfUUprakVsX0k4NWc4VUF2SndWdmZhWlFyN2ktVzFLdWllbnJ6NThYN0V2N2xidVYwMjBHQUdsMVJLUTdISFd2LUxlUGJRN2loTURYWFhTb09pUFdQc1g2eEY4aTJJQnJWbVMza1Iwa0ViU2taZ2k5eWZWdlJzbFA?oc=5
+- AI agents need middle managers too - Financial Times
+  Summary: Financial Times
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGFwQjgzNmNudE9wNVdaT0ZJOGYxNkM3cVNWRTlmQlV2UnVRX0Jrb1YyVlg4V0N4RUw2NUpQYU1iY1hPVlhHbFBzaVR6TkJtLWowRlJFQmc5MjlRQndObS1fMFJEeTZiRXJpbGxNY2Fla1V0bkpxYTNMUVFaWkxjTXgzNUw?oc=5
 
-- Analysis | How to get started using AI agents even if you never imagined it - The Washington Post
-  Summary: The Washington Post
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFgxVlFtWFVRU2JQUW9mT1FqWkRvanBIay10ZkxRWjZoOUF0M2Vna2JtMk5rNngyZjU0WG4wMi1rQlhCOHdMT01va1RBYXE3RTBBeXQ0emZfTXo1bnhlMGdhcXB5WUNhNEk3WHNHeEVzMzJ0TFZlTlRBbWhxUE11dlk1bkhVdVctM1BEeUc1OElUQkZoc0FFTGxMbHBHUlpqNG1Obi1QT01YZDh3Mkh5aWtDNk8zZw?oc=5
+- Inside Anthropic’s IPO + How AI Agents Spy on Your Messages : Machine Gods - NPR
+  Summary: NPR
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzZmaWlydTRmOXk1ODN0ZTVZc0lJMVd5cHpBMVVJVlhrZzUxNnlGNWJGRHRTQ2pWSXNFc2Y5bWU5UWZWczJfUjJqMUV6MmxHblhtVHoyNFFreTF2UEFZMFNiX3l0Y3BvTm1GVW5WYXZnXzI0YmdkRHV0QXc5azBqLThySm0zalBxVkszeHQ0emkyZDMxeWdOcFRsT01GeHVPalc4?oc=5
 
-- I Tested Every Major AI Agent for a Day. Here’s the Best One - WIRED
-  Summary: WIRED
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQc213aXN3Ri1PVnY3NGRSa1h5TEdFVkpYejdJNm9XWnJ1cG1iR0ZYU3Y4TEdlaG01MjNieFljWHFOdDJoUlA1U1A0Z1ZjZ0ZiMFV4WXptMlJUVW02cGtPb0VZM1ljSERVT3Q3Q2xheVQzQks2bFZEZWh2RVM3TGlEdTVYc2hrdVZEVjdOOFh6VUc?oc=5
+- AI Agents Are Already Inside Banks. Their Risk Framework Isn’t Ready - Forbes
+  Summary: Forbes
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzctb0dWSDg4WE5KWWcwOGdBeGEwdW5rT2lVQ2pZOXY0V1pIVUJYTTFLZm4wcUFvblhCUnNVTFZPVy1XS0Rnd2tlb0lwS1lqdmRNWkQ3d0h4RUZ3UDFmZHJlN0ZmZ29xdDM2Yzk1TFVSb2QzSXR0ZmJiYmprQXUxcU1pWGNmNncwLVZoQWM2VFpKTmNzUmpXbFdGa1lFckZvc0NQY0dRZVVjZ1B5U252aE4wLXRaUGNTanNv?oc=5
 
 
 Markets
-- How to use I-bonds to create guaranteed, inflation-proof income in retirement - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTFYcnFmR0tpYzJvX2VwajZLVEVCcVdZUjNyMGEyLXc4S2pIZW1xYjk0TE5ueHFEdktLMGFpNFAzdGhJZ2EtRWZkSXAwZnZ0Ylh6SUNKeGJqN2x0dTVFcHktNFdRQ2FaQngzVnNRNHJFS19nQ1JMUWNkSFU5elJtUnQ0M3FCQjVscFBGLXpwUzl5QWtZdTRsS1UyQnFqMkVSZnJpRmI1MFhRdTRZWk9LT3dzTHhvczY3Mzlz?oc=5
+- Fed Meeting Today: Investors Await Interest-Rate Decision; Warsh Comments — Live Updates - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
 
-- TSM Q3 Earnings Call Highlights Strong AI Demand and Expansion - TradingView
-  Summary: TradingView
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2xSQ3FXUFVrcEpDVVdKTGV2aHR0UXA5bnRvOXdXVHZkNU5ENl9lZXNpRDNiUU9PVHA2b2JEdkdzVVhBTE5ORkRaeTV0dTBXT1NaV1FpQnhzcG1uODQ4ZHFDdGpfdWFJSHAyNEoweXhEZ0RZbi1XX3BONWFMTzNlRnY1OVZCR2ZLNi1rT3poRFhmYVBuSGN1bFhlQURXMm9TbnFJVzVEenNwWENtajRyZkZEaEtNZDBZemc?oc=5
+- Vertiv Earnings Set a New Bar for AI Stocks - Barron's
+  Summary: Barron's
+  Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZDdoZWh4clhZLWxyOUJSbFpVNUp0d0lueHBGSjl5bENsNDdJdHFKS3Ewa0xLZU1vdzdxY05GYmtwSHFGb3JVNDZ5YU03YXBGMGhNZFJCR1Z2Y09aRi0zb0hvOVFGUUM3azBodmlHalNpZVVacWozQQ?oc=5
 
-- S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5
+- OpenAI and Oracle to Use Google Chips: 8 Key Items Shaping the Stock Market Wednesday - RealMoney Pro
+  Summary: RealMoney Pro
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUsweWZGbDFEczlSMGhjdkcxSmRZaXdISDltVU5uYmZHRWJzTFNWaExuTkJyekJ4YnpUTlNpX2FNemNrTUFQS0ZvVHpLaHRnZExMNFR5ZlJpNktnRHBTQUtCTk0xaEJIZnRXOGhBNDBTNndsX0VHUDBWcFk3cDlYQlFZOGEyMEI3d19EWThBMnhUM091dHJOb3d0V2EtWUsweDl0dEY2WU5COG0wWGRyeVVDRzk5VzJHZTJvNw?oc=5
 
 
 Travel / Boop Relevance
-- Ziarah Travel Launches Agentic AI Travel Platform with Flight Booking Powered by Sabre - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOS04tcUVHaHpYRXVQU1BId0xmN05vY01hNlNjbDFPMVNKZVNFN2FZdkx1NlN5MXZfTkpKWlFIRmYwMGY1dC1MeWV5Vk5hYl9uWUkwam9xODZjcUhPUWtpR3VfRHVNOEVjZC0wLTdoMUhXUFFNbzBpQnNiRDF0U09IUHpnTjVlN3pPUm9TcWhFWVhEdjN1UWx1ZnFCNVpXZw?oc=5
+- What Agentic AI Means for Travel and How Google, Expedia and Booking.com Are Using It - Charlotte Observer
+  Summary: Charlotte Observer
+  Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVWlLdDlwTHFCUWFJclZ0YlpOaFdxcXFUMzFxQ09QZXpOMVE4Z2NrLXpaSmtJT1BKdlVkcXMxUjFfYmpqTDlOaHVCWUh0R05QV3l2UnlwTlZLM1MwVkJVNU1rbHc4ejh1NVZtVlFTY9IBb0FVX3lxTE93N2lXYzhIR2JzTHBMd1cxU0hKcTFVczJXUDFZMlYxZWVNOUJsVUhvUER0SVVUMzZrSW9Jb0VuZlB0REgwWU5mb1NidFhvd1lSSmhWUlg5MHc5b1RLRnUzc0RwVk1ZZGxNcWhqZXdFbw?oc=5
 
-- USAirtours launches new online booking platform for travel agents - Breaking Travel News
-  Summary: Breaking Travel News
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHkxemdfS2NKUTAyY25KQ3doQ2FuRlktMXp6Rk5pWEtOVF9sZm83eVRuVGc1dTBUMEswVy1rdDNDNTdXZGQ2ZTlvX0RaSGZKOFJhaEQtSjJWcWE5bEFpc3p6bHl2NmlIZVFfRDdHQ1pRclRmTUt4NXducUE4SVNrRjJXQ3lRS2JIR3ZQOVpVWnJxcmdkY3R2MlN4R0Jod3hIVjVEdVZXMWJUekZqR1RhTE5NNE4?oc=5
+- Biometrics, AI and digital passports: Europeans ‘most cautious’ about travel technology, IATA survey finds - Euronews.com
+  Summary: Euronews.com
+  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUdSSHB4ZWp0cUFjNGJONGRRUkZNLWVaYXQzdkgzSEV0TjljcGV6XzBSS0I2a3VQTmFidE9jN0JURzRTVEFwUmhmVkxMYTh6V3NXNHhaekpBVXctd2IyYVEzOG04Q1FpOE4yZEN1TFF5TVA2YW9KTGZ0Y3JrSUtxdks5c0pZMm5hd2hRaVByYmlaRDZoM1pIamR6V0tKOTdjajBZYXV2djRRYndTVEh2SWg4aEI0NE9PTkZZVnRyaFkzeDlH?oc=5
 
-- HTS (Hopper Technology Solutions) and Serko.ai Bring Novel Fintech and Lodging API to Corporate Travel - Hospitality Net
+- Touchstone 1 Named World's Best in Hotel Wi-Fi and In-Room Entertainment at 2026 World Travel Tech Awards - Hospitality Net
   Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMGFnNHdVYTJSNmVnZWdXdkpCb28wRzlFc2VSMHlCY3pSek9YX2xhYmMwMUcxMGp5R29raWJNakV0SktuU1k1dXJESlYxWWMwSWp5cTV0TWVWM1JXQVVQOU8xMlNYZVg2aC1Nb3k1d0xhTW1LWDJ6X2hPbm1Od3NuUkFZS3FXWUtxMVJ6QTQ1NlVuSmpmcElrZHFQclFfT0tjbGc1LTdzWDRIOXd0T2VkNndKS2JHWDNIRWVySEVpdjJVNElhckNxQ2drZWM1TTlrRmpoLTJ6ZWs2Y2c?oc=5
+  Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzFZRWRjTElFc09nRTVvSXRRdlk3NnQzcnN6TEQtMGtHaGZLeHJJaWRPU1dSVUxXMEZTdjRUM1pBMzZLTDNNQjFOamVDM3NwWTlCSmtzNVQtVlJkbTF2VUhUR3pCTE5IZkdPc1JidW9ELVVKZlZEQWNxeXJLUk9CV0dWR2lIQkswZGdBM1UwUEZfeUVHclV4VS1pNkpIbHZGSDZQMWtMWWFPMFEya2hLTnBHbWlSVHpUbG96N2RIcDloT0NMRi1kTkJtTWxrNmZRUkQ1QmJCdFVLanI0aE5EdVRR?oc=5
 
 
 Bottom Line
