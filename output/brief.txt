@@ -1,78 +1,78 @@
-Morning Brief — October 29, 2026
+Morning Brief — October 30, 2026
 
 Chestnut Hill Weather
-- 44° to 66° today. Right now it's 64° and feels like 58°.
-- Around 8 AM: 48° | 2 PM: 65° | 8 PM: 57°.
-- Wear: light layer, layers.
+- 47° to 69° today. Right now it's 68° and feels like 61°.
+- Around 8 AM: 58° | 2 PM: 67° | 8 PM: 52°.
+- Wear: light layer, wind-resistant outer layer.
 
 Breaking News
-- [Travel / Boop Relevance] Fall 2026 Product Release: Expedia Group launches AI-powered tools and services to simplify the entire trip, from planning and booking to payment and support - Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMipgJBVV95cUxOb2JfbGVuc0FlU1hFalNya1hmN0lmY1QtLV9vdms2TEhBeE80NzZEYVZWS3hLX19IcUZPbGhJX2lSZm1jRzRjejZwYWdlX0h3Q3J5RzRaRHZHQUE0RGFHbFFTNHVNTVFVRTdNc0pEMUFaNXRTekxXbEI5TFdoRDFEdTVqb3JGXzQycDdOa0ZFcG1xNnpIQWxuUTQwMkFkc2FsbzZ5NmdxWE1KNnNKMkMyY2NVcnVVRUhpWXVBQ0FoNmdhdW5hQjBZR19ZUGJUNXgwM1k1dzUxdjBDMmhaX3FkeFVVNEVwZUp5a0NuZkZTV0RJZ2F1VS1xZ0hFcXFJMS1YYWw0eTFnWkxna25TeVlTaVUtRlAwZ2FkNWZFdGctUHpicXZqRkE?oc=5
+- [Markets] Stock market today: Nasdaq futures dive, S&P 500 futures fall as Amazon, Intel earnings rattle investors - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmNEai1SV3dYYlZwUk1QY3FtOXoxZTktbmpocFhsTzNfY0F0OVk2MHRBa2N4ZjEwUXQ3RWRyR250SlladGk0TXI5aF9wa1BHdDk4YkVacGFnTXJqaGswSTFHazB5MWxuNm5sMU1odjV4U0FXR01EQ3k5RmREM0F6d2VlQnh4U29TMXhvWG1VWmJqQjFfQWFvODZyX0djZ2ZHNjFrQzdOd0R1c0RSeHNOMEM0cUplbE5Ecm44Xzhn?oc=5
 
-- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnhRUXZJSkhiOTc5RWpkbF9kOElXRi1Ha2tLMkVUMVZSZGpjQW9MZG42S0RnUEI0TmpJM25VOUY2ODc2b1BpUzdjRFpvbEhMM0h5QTNhbHdwT3oyN2hoVjRFZUkxTzdEWlk3WHNOVG5UdEk4cE5fZG1CaUh6ZHZoQ09lek5FWXhVWjR5c3RBUnJiRVpHWW5Qamw5NUVrVDduaVFfX3VGWVA1WGoweGJLeDNSQU51ZWx2?oc=5
+- [Markets] Nasdaq falls more than 2% as investors rotate out of tech after Amazon, Intel earnings: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
 
-- [Markets] Stock Market Today: Nasdaq Sinks On Alphabet's Woes, Inflation Report; Fortinet Craters (Live Coverage) - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5
+- [Markets] Tech Stocks Sell Off as Amazon and Intel Earnings Spook Investors - Morningstar
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDllRzVYSzltSVJZREVJQm5kbXpRb3RiX0Jlc2xCcW8yOWRfNVU0d1VjWDZrcWVnQkc0QURTbzJwMTIwSnc2Nk05QTBQWXA4d29tUEhYM3lCZU5Yb1Q5cTVrcFVlNG9JU2V3bEtQN3R1T2dnSGhBWEZXeXZ3R3BwQXRxWU80YzIxSWRXSkMzODAyUEtFdEdBOGRfR1B0WHFmRnFweHRB?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Nasdaq Tanks After Alphabet's Earnings Miss Sends Tech Stocks Reeling - Barron's
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5MalFWTC1mQVhaSkxPY2p5SXlxWkdpWlh1bWllTFplUDRIczN6a29BQzUwRHpOYWt3WTNvczctRWpaMzhuWWlldkNyejNsX1NtVDRKdnA1Njd2U2ItVnAyYmMzcXR3V0t4by1TZXlBRjlacENtbEE?oc=5
+- [Markets] Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions - Simply Wall St
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVCemFZX252UVR2dS1xUDh2RUpVcERxUlZISnBUTWNqUnFHU1E3YU81NkZuVnBsOU1Cbl9FX3hNUGZIcUU0OW5ORTF2LVUtbjFkTkxOQlJyNzhjbFYtZVdYUVl4enJCZUZkeXM1SlEzSUwyazhQR0kzYmswWTZOelJFN0hyUEZiS1d5ZDRWd01ORnBrTUF2VXExSncyTW1TQkZvZzA5eHA1bnNVOFFhdFR5SkI2SE9Hd09rTlRuRHdKcUFUbnZDX01Fc9IB0AFBVV95cUxPel9DRVFXcmhpaUxlVlJrM1JhV18yc0JQV21qTHdESmxhRHk5N3N3eHR3YzYxWDNqSElLc2dDTFNlY0hMN2JfbzYtRHJham85eXZvTl9IWVIyQWNINGhkVWhlNjA3R1g2LThxakpQWjVweXF2UGhjQ1N1VlRDSERUdDVuLWs1bDZoTGxyU1dmMTF0bTMzMTNueUp2SmRLQ3ltNjRuN0JNUktFcEhCaFRSc0VlN1hVTUVHck9sZU5HeW44UEM5OXctbk1CeHlKb1Nx?oc=5
 
-- [Markets] Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzV2MVFCYV9HSko5LVlLNVI3S0FXZWVGRWduVDhacFZ2cUFQU2F3cnhhbTlBelpGamx6RkFlUXBHLUdRRUdIdjVmUWtOMjJRQkZSM254SXVUZjZhcnhnMndlRkdIUDAyYkY1UGtwN0ZpRnhVOGpvdUo2U2JxNWhaRkdxTWV0UEthRUMtTEVud01sQlp1MXc?oc=5
+- [Markets] Tech Weighs on the Market, Midterms and Inflation Data Around the Corner: 8 Key Items Shaping the Stock Market Friday - RealMoney Pro
+  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS1Z2RE1LZ3J6WUdqb2NDOHJBMTFZTkNvdTRTUVM4SVhFY1R0S3pEcmwxdXBUTmJfSS1MSXFUNTlkZ0k2RUQtX0E4YVJLWWtRUTdLai1KTlJZcG1GQXNIWm1kdlI4LWlUN3I2ZjIwMzZLQm5WWmdFZUJYaXpKZ0d3U0ZkbEN2bzFsSC1IdURzMm1YV3c5TmdnYk9PZ3V1M1p6ajJ4d25ZWW9fQmlyMWNhaG5IZTdSZEFrSXBINm5uVHQxMzlzemxuZDZNLU5relp5NVlvVzBvUU9wc0wzbmo1LWY0VVFHUQ?oc=5
 
-- [AI] 4 tips on how to get started with consumer-friendly AI agents - Fast Company
-  Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQTF9fUHo3eHA2NUJBQzFTY0w2NndiOGU0VG9mQnJEUXI5aHRweUZsQWc3Q3BUc2xyMEdMcmt4MkFEeHB3cEJ6bWRoUUREdXZjZGNsY1dhX3ppdm9iX2NPb25iZGVNWVJOVEdxbkUxdEZKM01rQ2o3aEVuWUNlZTJfQk5Ec09Ra25jTDZScmdhdDJiQl9yOWQ2X1JXYS10ZlJreUJUMU1BOGh1MHlfQzlEMGkzX3ozZFNJRzBBcmVTVmQ3eHJjSXRsWWJlVS1ISk9Nbk5MSFdNa21ZQXNzbGFlYnJWYWQ2WWR3QVU5cnRfRmV4U3U1Q1NiTzBGLWFodjE2Y3hpS1Jrd3Vid3g1T2VubHNJanIwdw?oc=5
+- [Markets] AMD Shares Fall 6.5% as Intel’s Weak PC Market Forecast Raises Semiconductor Demand Concerns - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUoycS1rbkxSeHhVdV9DR3ZpQkhGem5HUGJNQ3pqM0ctRkE4a0tHdjl4Zi1mZG51dGpQTEdvN0RSTmFVUDJwZ0hYbkpGS2pRVnJIYzBRWWx2S29VajhNeEhZRmJuZmhWeVhzWXdjRFliQ0lybnpVbkd4UFBsUm1NWEFTV1ExbUxBZ0ZNNw?oc=5
 
-- [Markets] Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5
+- [Travel / Boop Relevance] Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push - Crunchbase News
+  Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUdJY3dma29nX01YTGw2cGw0SDRRLVBjZzBGbVFhSjY5SGExNV9xdnpTWDY3T0JkSEJLQkppRzRYeDVfYWdWNkVldWlQTk5JRzNBNGV0Sl9zM2p1OWwyYy00bzFzQ0JpVWU4R2plQUNoTTBwdlJ2N3ljaE9zUm5EeUFsaVZOdkw1Ml9BY1JhZw?oc=5
 
-- [Markets] Watch Fed Can’t Beat Inflation Without Market Pain, Says Dawson - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0hVNlZqOHZnOUJyenNWQWVKa3NmX3hUMFVJN21qS2JXN1I4LVJNaE1uLWJoeTl3MnVtb3hCTFBDTTJ5MjN3UzFHRUpoV0x2T1lNOW1YamNIREhpcG5tcG45cnZLR3BTX1RtS0FiVE1iUjZLN0thdlRSX3FjNUM4LVZ6bEluZ2N1azFpM05vWUJwWXFQZlZrWXRfWURyQzBab3RZTEFraw?oc=5
+- [AI] DoorDash said it’s only received ‘several hundred’ orders from AI agents - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1JsNUZ0TXBfcC1aRXlONmtUSllQOVRXbEVzbmEtYTZseWtvZjNCbUZZRDZCdFdwbldSRnZoMGlabTF4R1hCZFlHUjR0UDRtZXV1NlpVYTRLYWo4VXJyVmRzNnMzeTlLc1ZQSlFUS0pwVC1NczBEUVdtU0MzTlZBYS1tV2trb1ZGNDNZV2NlMkxpZVc2OXFmYWhTOGNCb0xrRjZXbkJtRQ?oc=5
 
 
 AI
-- Insurify Launches AI Agent Gateway to Bring Consumer Choice and Carrier Protections to AI Insurance Shopping - Morningstar
-  Summary: Morningstar
-  Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSWpPZE9WNG51a3Q3N2VmSk9RYUdjZGt3a2FXN0loVUEyRzVEeDl1cW1ucVJTbVVuMG1RQkdNQmhwTjVXVmgwUHBjcHM2Zmt1dUh2OE8tX0FxbzYwUFppWmN6Sk1oazFJVVVfdE1GYmRiN2JNU1BRd0NlNk9LTmotQkVaaXFkNG5HNE5ybVdMeTUzWG1aSks5MGZ4M2JhUXN4UEJyY0s1R2Rhazc3REFNMmJGb3pxSXJscU93bUppQ09CX1JCQ1BtSGlxcmFWOE1wNkJrczZsa2F0a3RTd0QwMUt3dEFrSEE3VThTSkd4aEloSTl1ZkFGbFgxUE1WQQ?oc=5
+- Twilio CEO Khozema Shipchandler: The need for AI agent infrastructure will provide tailwinds for us - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG9hUF9ibnB0U3VUeW1vSkZ2MHNHQnJIN2RzLTlGWlR4OWZiM2UyNFZlWS1fLTQ2OUlocEhLa0dZUUlZZUhDQlBiLVBiOGtLMGwtcWRjS3lBVVM5aTRUTnctOWdxVVZSclI5T1lVcHl5dkthM2pxaVNRRmdiR01mWHNncklCME9rTk11QlFyQUFtTWkyYUN5UExzX1ZfVllndzhLNURMSU1JekhValo5UEtMSUh2QmhJWm9PZkZ4VjM0LVp4a1VUVjR4dUdzdURoRXZ0YVA4QXA?oc=5
 
-- 2026 holiday shopping predictions and the rise of AI agents - qz.com
-  Summary: qz.com
-  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE85YjhpaVg3TlFhYVFzTmtZejlrczBlLS0wV21Td1FFVElSejFybi1DVXU3SDZfZUhTRDdwQW1YZmxSVHFMUTJSbHVzSjFwekdQUFJlX2ZLWHluSGMzZFFYYmcyTDI3Q081UUE?oc=5
+- Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5
 
-- What is it like to work when your co-workers are AI agents? - The Guardian
-  Summary: The Guardian
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBMTWZZb2xlZjZraTZvWUVlRVFKMDZhaWNWQnF1Z2pTaDNUS051dHA4U1E2dlBJdEJYd2NJTDR1ZWptd3BDYU4xR2RVUnJYZDhPaDVuT3E2V2ZpcW5HUlhNZE1UcVpvcG1samZyODBCVGw2TXBDRDRz?oc=5
+- AI architecture startup Dream launches with $17M in funding - SiliconANGLE
+  Summary: SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5
 
 
 Markets
-- Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation - The New York Times
-  Summary: The New York Times Federal Reserve holds interest rates steady even as inflation remains high CBS News Central banks take a breather, though more hikes are to come Reuters
-  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1BdGtmWVdsaDdsWktpYlk1d2lzWGN2OGdvc3VSNFZxcC1EZ0lWVHhuT1ZpOWphTHoxMzlVY2U2cWxKZDNIZVBhTkR4OXNzbW5fVG41SFZ1b0U1cHFtempLQzVQQmRuQmhpWVJXdy1mV2NxSERSZjZqVnJRZkRJR1diMFY1dkxT?oc=5
+- Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq futures fall as Alphabet stock sells off, AI jitters return - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOak5VMmJTcmZQNV82ZXN1X1NjUlp5bkhfQjZKRUo0ODdIZFA5cTVSM3VzTE1OcnZMOFhCUFhtQXQzY3NNZ2QxQV9tb1VKM0p3S1NoSVE2ckNfQ090RDVZR3Q0RTE1WnpUa21keUJEMFRMc0J6T2toY092emVXa1ExTVhBaUlldGs5aEdTM0l5enlhYW1aS1ZhdUM4OTZaNnRqNnE2NFV2Y0ZwYmdKRk1ueVV3MXlsX2hKM01sQVZxN3duZk5nQXpYSA?oc=5
+- Strong Earnings Mask Growing Struggle With Inflation, Oil Prices - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzVpQnJqdVJvVjR2bVRFQ1N1dm5oSzIxMFhQQ3NpdkJNSWpMdmNRZE9RMERJdFN5WDNzN1pUSmtidVhvNVJBNXgwRUsycGRjY3NyVHN3WlZpNFFGaVZ5N2pDMnpka0lBQnBXX3lpTURjVlB4VkYxWm5tbXR0b2F4eWNwU1dReGVnanAyMVJ5Vmp0V1h3WG1US2NlMWt5U0c0WmpES2o3eGhVMkZxdFQ5aWtQd18?oc=5
 
-- The Fed Holds Interest Rates in a 10–2 Vote. Here's What This Means for Artificial Intelligence (AI) Stocks. - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmVkYVY4SGUtTDNnQmtDTXVmZ3J6cl9XVS1BZEJxNlRPb2FxVjlSTVRXM2o1VHNHdU9vVy1qX3V1VDFzaW1aYmRhZGJUVVhHWFRqTzRpeVBza0VvVUpvMjNlNzdvNWdtWkZHd05fV2hBbVFmTTNjSzV4YURVMDl3UGp3d1lrR3JEdFVvTFhrdVRlTU9vU0I3anFXdG1FajdrVGkzZldjS2xOSENpanNSQWNKUWJPZmt4SHh6czRjTWNsWHZhcUg0SW1NeFJsUGRzaTNXQlRmQ0pHSVlpUGc?oc=5
+- Construction Stocks Begin Turnaround Even As AI Spending Fears Mount - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTVrOWpzTU9XMHcwUGFySXpFeGRGY0d0MkRQLUpuTUUxRy1ocGdZQU4wRkJGNC1vRTd2TTZtQUt3ckxZd0t0aFBQUTFMdEdiSkNoamZFRHJZZTF4NDF1VjQyZ3pnWmM5QzlJYl9wQTJZYVllR2dfMEJyZlVmOWJZNnVBZlhNX2NZb2d1TlpMUm1tVkNpNHR1ZGRlNkdXSmMxYWxJb3Q4S3puMDdoaFdtQlBn?oc=5
 
 
 Travel / Boop Relevance
-- Why AI Agents Could Become Travel’s New Digital Front Door: Watch Video - Skift
-  Summary: Skift
-  Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9ISU1DY1lFU3FXaDJTZm1QOUx0TGNGQ3M4OVBtNnZHOEp6dUo2MDJmQWFmNjJEcnJ5a09KOTZzRHVsdC0tSVRXNHNWai1OVWoyVlF4dkxfZC12YzdKdm9WdmRqRkVaM3dmdDktdlVnNFNCUEk?oc=5
+- Travel Tech Funding Hits $2.2B in 9 Months [2026] - https://tech-insider.org/
+  Summary: https://tech-insider.org/
+  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0Q3OWMzVzRJRjJGejR2RGpkU3NUQVh0TDZjWVRlZ1NoQU9OUjBiRFBQNTctRUFCeDNJaGpwRlRZVHRXT1F6V2pTZjJpSGtvZE1idl9ia0ZzWlhFQTZ1Z1IxVlRlTVNDNTZ1cDRmUkRFaXBISWtkal8tWDlTa28zQ0VZQ2MzeTdta3Fv?oc=5
 
 - What Agentic AI Means for Travel and How Google, Expedia and Booking.com Are Using It - Charlotte Observer
   Summary: Charlotte Observer
   Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVWlLdDlwTHFCUWFJclZ0YlpOaFdxcXFUMzFxQ09QZXpOMVE4Z2NrLXpaSmtJT1BKdlVkcXMxUjFfYmpqTDlOaHVCWUh0R05QV3l2UnlwTlZLM1MwVkJVNU1rbHc4ejh1NVZtVlFTY9IBb0FVX3lxTE93N2lXYzhIR2JzTHBMd1cxU0hKcTFVczJXUDFZMlYxZWVNOUJsVUhvUER0SVVUMzZrSW9Jb0VuZlB0REgwWU5mb1NidFhvd1lSSmhWUlg5MHc5b1RLRnUzc0RwVk1ZZGxNcWhqZXdFbw?oc=5
 
-- Cleartrip Launches Creators Club To Turn Travel Inspiration Into Bookings - Everything Experiential
-  Summary: Everything Experiential
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnpaZmFhVmo5ZFpTT28wU3VLUXppbFk2Vy12X05KTmNkRmg0c3pFdDJ3VXZ5NWlMTTlCQmh4bXZGMU05MHZSS2VWcDZhck9tVjdBOElXcVZWQXFHX1gyNS1MaGY4MlNNV0JMeVlPb3ZXUjFJaHhyUDRySEYzcFJwd0RFZm5PUG41MUFxekMwYVVlX1FLck5zbktDYVlZRzhVZU5xQkNoNVNXc1hxUUJfMHdnYmVBOHUzV1h2bXpDVks?oc=5
+- Booking Holdings Launches AI Travel Startup Vayo with Planned $100M Investment - citybiz
+  Summary: citybiz
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWZsNGxiQnFBUjcyTXV4NjZPYnhoQXBVbXBmQnNYczAtaTdJZ1NIYVZEMVZ6QVZYVXFjSk5ZTXlNZmlsUnpLa0JMbUgxSTFWM1c0bjV5WGw4ZXdaUFF0dFM5VDNIU0RiTnpfMU9tbG9vbmdHT0hEY2l6RlJ1enhUNHRHSkx2Y0Vld0ZySXlVUmxkeXlMX0VlUVB0RFRyRUVEcjRmMVk5LVZfdjMyV29GT1B1Q0x3dHM?oc=5
 
 
 Bottom Line
