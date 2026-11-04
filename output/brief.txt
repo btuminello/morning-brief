@@ -1,74 +1,74 @@
-Morning Brief — November 03, 2026
+Morning Brief — November 04, 2026
 
 
 Breaking News
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq waver ahead of midterm election results, AMD earnings - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE9qREJuVE9aaTltanNmU0dLZmNqLTFMM0kxOERKRmZtRWtWQWZUTHBsYXhqQ21kbHZpZ0daRUFzTEpZdVBNOXpxRzdsTklXYmU1TXZERlZrdFZBTkViOWFra1lVVHlPRUlVaUtnQm1WdlJlQzV4Zmt1eF93aVlkYmxyeW9aR01lcTJsS0dIeUdYaFlNQUVOVS0wNzQyaFoxd2hzeDNjcmhVRDlTQjVTX3ZLLVRnVllvV3ZwanFTdVJIT3BXX3llR1dkOA?oc=5
+- [AI] Descope launches Envoy to let consumer apps accept personal AI agents as users - SiliconANGLE
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTBkOUZwZk94RHZaT1IweDlYdVI5VlNPS1NCVFhvckNpcWJkTU1RTjFjeGRIV1Y2b1ZBZnNqRUx6bC0ydE4wNy1aV1ZxOENvcXFhOE9hNGdTRFItSUt0Ql9oTnhuNXVLLUhCc292UnRQNVZBMi02Z05Iejh2Ul9nTG54LWk2SEtRMzF5RURDc0pUVzJwQVdhSHZlRm03ME9pZkZiLWNzc1pVQnFQOHcxTVpQSlJ6dw?oc=5
 
-- [AI] Startup Athena raises $2.5M in pre-seed funding to revamp the revenue model for legal AI - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZXTVZSaEVYbXJ2aHlGdWg3QWRYLWJCazlYTk1UMDA5TUpiT29hMkRTLWFjV2RjUDVDWl9OTkE1bXE3MFBaRkdoVGp5aEtrdVRGSm1jSWRBa0pwSWxLamtiTWFuN2haNDlwdXRIMG44T3puU09IWTQxYVhXOEx3U2JBM21zN1BQZGlDRldKdTVxLWtkLUFhZ3h4RDRkN09vS0VXeVI3Y2ZtTllJTmpfSDdTSHM4eU5LeEl4TEFmMWZzZw?oc=5
+- [AI] Finpilot raises $10M for AI agents that handle the grunt work for institutional investors - GeekWire
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGRtT0hiYXU4UVZFZU9tdEU1UmhNUjk3NkZsbmh6UFBFa19TZEVvakhDV09sLVAwYmtpMmhzeElObjd3N0tBZVN1aERWcUlCSXF1aDJ0dl9TUF9HcEVlbHVnY2l1QmZMS25OVnJVS3F0S0d1NEdsM3BZX0Y5ZkxYQlI0WFhUNlA4dWs5ci11a1hyQXZVZ2h3a2plV1U1MHoxdGZFTmR3dFZhY2ZOeFRzdGR3R0dHNy15TlZV?oc=5
 
-- [Markets] Markets News, Sep. 16, 2026: Fed Chair Warsh Warns About Inflation After U.S. Central Bank Raises Interest Rates; Stocks Close Lower - Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1KQkliQlZaUmF1bnlNWGVVVDNZbGlVRTk5QWF2VVduLXdqV0JkTWFQd0VPWmE4ZTVJOXZoNGV5amJPWDFKOTQtVWFpejFlWGlvNVlMcWFYX0JzWm03WmdrTExwbDJQdVFjYTZBZXZWNW9rdWJ5YnJzdWVUd0Y5LU1NMjU1Sl9CZ2ZwaWJ1MWY?oc=5
+- [Markets] Stocks Rise as Democrats Flip Control of Congress - The New York Times
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Travel Startup Got First 100 Customers By Sharing Posters; In 10 Months, Clocked Rs 22.5-Crore Bookings - NDTV Profit
-  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOamtRSkZGbUtWTDE4ekRkUHl5S2c1b0lucWhXWVdZaVFIYnk3RkQyVVQzbnFfQWhhQXZQQWN5eVVqcVdsa0QzbWgtRUJCQVJJdUdiZ211Y1NzWm1saDQ1bzdDc3dXa2NaVUpuNm9YUGlTUWR1dEllMjQ5Rm84U3V3cXRsUjZ6OTNiUTdQaHF4cWMtME1JNUNWNXhKZHJJa1loWDl6WXJVY0FFd1BhaWxfRlBKcnVJd01yLXJ3cmRzSFhKY2F2dWFzbWM1UXpQaFkxRkpTWWUyV3ZTMzlrLWxnTUtkNk5GV3ZK0gHwAUFVX3lxTE5FLTBsOW03c3p5aFVhWGVBcjZmcWpkNGFldWQwaTloblJuYVFiWk1JTVQ1dzZSZzNvcTBLcWhnQkgzdUExMG9NaUF4a2p0cEx6SXk2U1RrMmQwaUFnRXRUeTVjRnVGV1hObWhDMktKSGpjdU5WYmNsWHlJMjk4bGl5dG9sVHV4QTZjSHpTSExXWXFxX3cyR2Ixa1psVXdCZ0RfNmVxZDg5LXI2ZjVERzN1ZldIXzhFN2xHaFpFYUNvSUVheWFUUlJxLVc5X2piS183ekRxaGlPNXhMejFZbE1jU29LZTlLNnlHaXZ6VnpIWA?oc=5
+- [AI] BMO's Harsh Kumar on midterm results, AI regulation: The demand is there to build out data centers - CNBC
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3JJSGo0R3lJa1FtZEZvczVTWlVLSm9jTDFOX0UwbXQ4cWpKWmkxZkpldW5Eb0dRdk1heHN0WV91MEd5TElIb0lkRkdYVnFqSlFYV2ZCNVBEekVUZWlqVVk5ZVJ4cHVMQWIyVndIZ1k3aVhmN1J4T2ZuUXY4dHVBT2dxdXpFa1kzcy04MHNrc3gzc0lZNzdsdzZXcHF2WS01dU5CRm11N004My1fY1pVV19Dbk0zLUlQSDcwYUd1NUw5djlGYXFpczROUWgtSGJreTVpdg?oc=5
 
-- [AI] Crowdstrike says it will buy two AI cybersecurity startups, announces 'kill switch' for AI agents - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLWd6a1VYcmlSZGFMMHBWQ2E2UFhUbkJNZXMzU3R0ak9wZFBQaGw1eXRkSEtmYTRlQUtSWVVQQmJDRzl6akEtMXNqYTdiTV9MMHRNX01HZWl4MVF1VEFOc2o2YnF2SldPdUtLZlVNZ2I1SzFoTnpWNm5TdnBuTEhMdmFLR3d4NUZvQ1JQVnhnQ2xYbmI5VDNzcnAwMHVzeC01bmFtRG5wQkt6d0FjdnBNNHFTd3pWUk5CVGpmMTlPODhUZ1FzNmxBaDFlRlpEVUFUcl9wRHpXUmQ1WjROWldNRU5IOEtYYzdVN3ZtRXdqMA?oc=5
+- [AI] Pliant Raises $80 Million to Open B2B Payments to AI Agents - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21SRW9ENExRQVdmbGlOSkc2MUF6cmdGUGlOc3FUWnctUU1YUnVsNHQwM09Sb25JaTl2dUoyRFowLS1XRmM3T3JGOE1GTmNoaFB1emNCM0Z4T0J4Zk5oVm5INXZNcU1Ta3lJVnhRSlRwNkhHamp5LTVkVzBMUUFVbkdSNnBQMWNvb002NjNWUE5FSk0zOF9ZWDVUUXBvb1cxc0gtUFlxRjNxaFFPeTZXMw?oc=5
 
-- [Markets] MARKETS LIVE: FTSE indices trade lower at midday as localized inflation fears revive - Proactive financial news
-  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0tLZEI2SlBfRzVtdWNMNmJuV3JkSllXeFJoWXBTSll5ekt5bTluVHQ1Nk5JdzZIUnR0V01qUGE1NG1xMkV3Rld2Z0RCM2RiMnB2NjB5dGh6SzZEbm9IYzItNVl4dTJnX0EwQWpJeXFLVHY2VUwyVHE0eEtLWUl0U09XZlBUVGI5U0x3b1NXTWZyS2lyRUVUZHY3NFhEemNzOE1hb2J5dHRVZUhZb2lSYTYybUxoZVRxaUNseGY2ak05YmZJcHY3UVZOdVpEU3M?oc=5
+- [Markets] Stock market today: Dow jumps over 1,000 points, S&P 500 and Nasdaq gain after Democrats win control of Congress - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVJpdWloYmdyVkpKX0E1LTQzNm5LMnlnYkQ3UktwbU5OUWJ2MEpEQUgxWEQ5bk1FQzhydGhaVmxsSG9hMGdFUjFiWTBGTzQzcHNnVWtZaE54YUlhTVZLc29yQnM4Mk9pVUJNaDl6eG9YNUhnamdjMmp4UFFEWUZUWEdUQlhndDdfa29KX2xJTlRJcGlnWG14TG9YeW5VZTFTdzM5Y19mclhEaWN5U3ZEZmprTG9wTjBr?oc=5
 
-- [Markets] S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results - Reuters
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5
+- [Travel / Boop Relevance] Air Canada Vacations Launches Next Gen Technology - TravelPulse Canada
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzNHQ24yRmVCai1WRDZwNUo5ZmRORHpSLVpfZDFaZnpPNU44SDZYeHFicnE0U3Q0dEVvSmpzMW83NjZYWXVYbnlFMjdjX3NsUXBYUVdCMUFscEpYZVJNMFZhblZDdF9LMUM4SEZsNUhFYzg3UDAwb3JkVFdWNDQxWTRvZTYwcXZ6ZnA5RHptZDZWMmYyRHVz?oc=5
 
-- [Markets] Fed Chair Kevin Warsh is actually managing U.S. debt costs not inflation, economist says, as interest rates threaten to top GDP growth soon - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXBjOXR0SEp0Sm9yRGNOSHlXazNvQTFQUnNqNkRvMHVOdXdTUHBLcllVSi1PNmFVcUpqRkJUWm9yWjlUUUFCMFhqM09zdmNMZXFscWhmODFTV3VUM2VPTVZuU016eWV2bVVseGhiNWFxMHJpUk8xemd1a2lVXzZleU9YeVVrMnJzQXpDTWc2c3ZXTmQ5MldYenF3Zw?oc=5
+- [Travel / Boop Relevance] AI hotel bookings rise among UK travellers - Travel Daily News International
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDRoX2ZESk9mVnRMc0VRNkVEc2hvdFJ1bFBXZVJKaVlRWXFjTy1MWHp1T0tlSWZCcTI4Yms2VWx5QjI5UXJFSWlBNmJTYlo2NzZiZDYtSUhkUWVKS2hXV0Y1RE9uT2xUMHVMajhmRno2S2VXUk1OeGJWSE5jTDFVTFVyX2pmTzZwbzZxdTFuQWtOd0NCSDVZa0JZN3lHZVV0?oc=5
 
 
 AI
-- Emerging applications of machine learning and AI for predictive modeling in precision medicine - Nature
-  Summary: Nature
-  Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NWIxdF9vMHNNVGpKbVl4V1dNc1V6VFFNaDU3czQ0TmFoTVFOTWk5RDhJT1N1WmJhVmpUVnl3M25ZazVndVFpYnNYOW5CVXZuMlI1emF3WW94dHdhUDdF?oc=5
+- The Security Companies Trying to Get AI Agents Under Control - The Information
+  Summary: The Information
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHhyTkNrdGpzSGo4ZEdhQ3NZSl9HZUxHcXFLVnh0R0VkUU03c0U0NUZBeklEbnc1Y2QxTHJHRkZleWJaU2hkSXRKYU9GbHA4WWt6aGVXRHp2YS1yM3liQXlObWJIY2RNZzY4NDBPWjBaa2FpUmViVXpaU2ViQzBiRWZhYklnMURmU1Zqb1lLYnlTUlVzUWxhazE0dWNDRko5dVE?oc=5
 
-- "Weird alien minds": A new report warns of AI agents hacking to survive on their own - Axios
-  Summary: Axios
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBodnBrUkN3LXRRTFppTzVNdEhfNUZQSkVCajJ6TEJjSW5FZDVSYXBuaDd6NWRWcy1tZjk1alJ2YTZvTUZMTmp5eU9xR2FIc0VqOTgzckI0M05qVnZoSzRlRjlQQ1Z1Y0syZUkzc1kyeENMSTdFLVNn?oc=5
+- Do you use AI agents to run your daily life? We want to hear about it - CNN
+  Summary: CNN
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE0ySGh1bnR4ODR2RVJkcy01U2xFX2ZpbkFyaGhTV0t4dVhyeVJ5WS1oaFgxcWMtdWlKaXlVVkt0MUlQZmJ3MmkyV05XTG5mcU8ycnBGUjdMTHUyWUxiaGlVWVBWR21Xc1ctWE5va19jSzNQOEt3WWJr?oc=5
 
-- Retailer Zalando launches AI shopping agent as margins squeezed - Central Oregon Daily
-  Summary: Central Oregon Daily
-  Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnUyN3piQlJjRHpsR1FsSi0ycFV2TnNlVUxnTFlBOFUxTGY5YTBaTTB6U2paSmFpZnFqR2p1Vlh3dUZjYmZhbjJDcEF4VldGOU45ckg4UGdFd0stb0tXbzhvRTVVUE0zSzc0LWFrOGN0bjljLU9Ia25NN2JLRjFjczRXWGh1NGI0YWtHRUdzRkYwQ2JnZm9FVHZOWi14MVZ3SUgwNlNQRjRIZTF2LXBXelRNMUsxSnZhdU9pN0xoN2toRVhHZllrbmViSW13a1lUV0plTl9UWFRmVExEWkVqZ1BRSkNKUTc1MzQ5b2xyUjlDck5N?oc=5
+- Uber only fulfilled 4 rides from AI agents last quarter - The Verge
+  Summary: The Verge
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEFLMHV4Y0ZFNElIWHNCQTFvU2dhQl9yNTdfdXE1ZkQyb24xaFQtSzRPSGx4QjVFanRvdVZPU2ktRFBMNVplRkkxdzVOeVFqaFhCZjdQN0tWcXZIVGJ1MUgxMHdFUi1ubUc5bFV4Sm9KSWZMTmh4RG9PNjNUV0pnakJTRjdEYzdVdEhzYUd0UGhsbmg2UHRF?oc=5
 
 
 Markets
-- AMD Stocks Jump 6% Before AI Earnings Test - Yahoo Finance
+- European Stocks Rally in Wednesday Trading Following US Elections; Euro Area Inflation Rises - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPY01Nd2tYdHpYaUJxSHcwMGR3cFY0SnBUZXl4MUJPbi1xUFpMRnkzVkZwcDBCYzFqbzFUN0dUMmdfQWNaejQycFp2ZURIOGxMS05vaENRNl9JSl9PWXNGd2JFZ1BraldLbmNMaElEbTBsRVY5eUlNVGxYZW5DSkFtS2R0YUlvcjg5YkN0T1VR?oc=5
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWNkYWJmX3RXYmJyLUE4bjVnWGo5amtiQXY3OHpvNnBxOFliQllqMFJrenMzOWJXTGJZTHU2djRHQjB2Vm9UdnRWWGN2R0dITGZXZU1ld2JoR3VHaTFTZ3B0OHhlY092UC1ieUlDakUwMFVCbGNRSW10ZWZzOGZacHJyVXFkZWpiWjBWbWJoRURnMDJzTFg1MlY2NzRjcm8xR1p4MktEMjFFVDRoVTVqXw?oc=5
 
-- Stock Market Today: Dow Opens Lower; Apple Stock Falls After Earnings Disappoint - WSJ
-  Summary: WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlZMVUFvZ3hWLUsySWt1QjlHMWk1UjBzMVdRU2Y2TFVSc1ZEODgxb3BRc0hJaC1ONjg1Y0VhUFJLU1pzQUNfMTh2Nm56MnBXTC1kaTcwVTBiQlRXQzR1Njd4emhUX1lSWnBBeHgtZzZybU81ajZfOXVSakQ3Z3dWT0ZDQloyeWs?oc=5
+- How Recent College Graduates Are Managing Money Amid Inflation and a Tough Job Market - Investopedia
+  Summary: Investopedia
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajczdWs2cjh6aF9PMERGVF9UaVJ5bUxPckRqZHVQX0NCaUMyUUd0MWNBQ094SEJacFV3dWdqM2dOemZVYkVzc2c0MWQ3OHc5VElpYWdVWkJoOF9DcDEtNlBiYnZxVlg5b1BMX0t6Y2NPVmVxME5tamJpSGl0ZWFoRFNmZlZTTE5vRlg4ZmdSSGgwUzJxbTFQd2IyU0VuNjlMdWlEeTdoNUdvbVV2QVFuZFl1LXVlZVV1eTBCS0dYUVc?oc=5
 
-- Nasdaq rebounds as chip stocks bounce, Dow dragged lower by Apple: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5
+- College Graduates 2026: Inflation, Job Market Struggles, and Living at Home - News and Statistics - IndexBox
+  Summary: IndexBox
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQUnRHOHJaeU5kU3k2YzZ3b1NmY1ZzOHlCNXBvQ2pFWFF0eHA5V3RLYjdEaGVOSFVSNDU2c3VHNGpTNTlGSHZZaVd0U21OM1dscWlJQlFSbEpvaGVOc1ZTR0tGb0RnSFRxU2EyNE5HSFJBMXFOSlp1UWxjZmNXUFJiMUhhZW93ci1yemloR0N0cXBXWl80TnVkZFhPTTg0dw?oc=5
 
 
 Travel / Boop Relevance
-- Cardiff tech firms launch AI assistant to transform how travel agents work - Wales 247
-  Summary: Wales 247
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVlpSllKWVVBRzFTUVFMMzJBNVF6VVVpZmxTeW05eW1kSGpVRkRtc3dsRndkVFhjZ1BtSjlEemRqVVRYSW5MaEFKV2FfT0hVamRUY1J6Tjg1a3MtaUZ6el9zc0Nibm9KLXVNNU1jZzRpbUlfZERDTWpncGNGbnRTTHNkUnBPSVpmdVo1YURMZWdFZHBTUEttVXlDSmh0Vjd1Q1dz?oc=5
+- Expedia, Hotels.com and Vrbo Bring More AI to the Travel Booking Experience - CNET
+  Summary: CNET
+  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0IzTm4xOVpzWkVKNEdVZnc5YW9HazR4SFhkcldUeEJQTTc5NW1HNVJfb3pHRmNtWmZaYjlDY2tFc2pTVm5zbkZCSlRzM3RlOGNJdzJxSHphNTFYRUlKemRMNGZSR0dsZHVvNTV1X1JGS0lPaG1zYVQ4M29Hd1FXS3FpRWtsWkVwMnJHeDE0ZFk5ZXBvbkpkT09IUmw2NUNzMm1BWjhCZ2l0cWhFdzFRX0RhNzQ3WVNieC05aDcxeHk?oc=5
 
-- Booking Holdings Launches AI Travel Startup Vayo with Planned $100M Investment - citybiz
-  Summary: citybiz
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWZsNGxiQnFBUjcyTXV4NjZPYnhoQXBVbXBmQnNYczAtaTdJZ1NIYVZEMVZ6QVZYVXFjSk5ZTXlNZmlsUnpLa0JMbUgxSTFWM1c0bjV5WGw4ZXdaUFF0dFM5VDNIU0RiTnpfMU9tbG9vbmdHT0hEY2l6RlJ1enhUNHRHSkx2Y0Vld0ZySXlVUmxkeXlMX0VlUVB0RFRyRUVEcjRmMVk5LVZfdjMyV29GT1B1Q0x3dHM?oc=5
+- Travel Planners Say AI Is a Good Starting Point for a Trip, but Not the Final Word - wyomingnewsnow.tv
+  Summary: wyomingnewsnow.tv
+  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcGxhLTM4R1huRUJjcmprMUVqR1hlNFJsT0xic0RtV3RJLTY2UWxpS0p4MXBSdWtEMk1PelM0SXgyaXhRWFRfRGdaYXVCLS1hb0pqT001V0VCZ2NKdXFwOU9jc2VBUEZIR3lVUFRGWDE2S21mMjBiM2dROS1BeGpwTXBPQ3VweUpNLWRVbGJCV0J0TXQyYTRwYmM4bVV3QV9QOGFvcTZUbUtEVDRJVXREclk3RGx4OG9idFZzdWVLcWh5T2o2dF9SZ0ZXdmZPWTRlVEZBNThXb0J6MXZCYnpBMTUzM2tqOGs1LTJ3bVZoc010Vmx2NHRR?oc=5
 
-- Top destinations and bookings: Where did Europeans travel to in 2026? - Euronews.com
-  Summary: Euronews.com
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOLW01X2ZpTUtYRzBQMTc5ZW9FRlg4WlVoT2wxRjZpeVVWazZiTlkyRk9tSHlGRXQ4R0xTRDVuTC1KNUFhUjl6emw4dXdPdGxyRU0taUoxRnJiX0lWLVFTZW85VW9taWtBdTNxeDd5dm1hRGNpcG5lX1ZUa0NiODRkOXJ1a2cxejNLSFM0WjAwTnJvLXZkQl9kZW83ZThpRFRNUzRMZXhOZm1FNzVr?oc=5
+- Nearly Half of Travelers Now Use AI to Plan Trips. Will They Trust It to Book? - Business Traveller
+  Summary: Business Traveller
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2NNSG9FZnMxZWtUWkhqd2hfQ09kT1lLdkgzZzBWSzM1RXpfS2VLMTJrNmdGZzJjRFRJby1DNUM3LXRuZDRpTk1pZUNZdUgtMzBmdFA2c2c1YkdhMkVzUXk4T0FVdjlFZzByeFhjOElHY2g1TTNZOVhwYjNSNnJPdUhlMHRENHpzcWFfR3AwcmZlMXdobXJzaFZJWE04YWg4R1NIQQ?oc=5
 
 
 Bottom Line
