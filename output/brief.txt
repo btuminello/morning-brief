@@ -1,81 +1,78 @@
-Morning Brief — November 08, 2026
-
-Seattle Sports Today
-- Seattle Seahawks vs Arizona Cardinals — 11/8 - 4:25 PM EST
+Morning Brief — November 09, 2026
 
 Chestnut Hill Weather
-- 43° to 53° today. Right now it's 53° and feels like 48°.
-- Around 8 AM: 47° | 2 PM: 53° | 8 PM: 44°.
-- Wear: light jacket, umbrella.
+- 43° to 55° today. Right now it's 53° and feels like 46°.
+- Around 8 AM: 47° | 2 PM: 55° | 8 PM: 46°.
+- Wear: light jacket.
 
 Breaking News
-- [Travel / Boop Relevance] Airbnb to Launch AI Travel Agent in 2027 for Planning and Booking Trips - Rus Tourism News
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQMDh6MWVrRWNLakM0b1NTRWpOR25nYWV6NmRxVENUUGNfMWRjb0pmTFZVRnd1bHR6em91X1pFN3V0OC0tT0lha1FIZ2t0a01qV3l0TUhTZkIwczFzZFVZTnpmOTNmUk1SenVnaWs4SWdERDJ6eFlQc0ZSR1BsUzRkVzJwTEhXRERLZFo0bEJ5Q1dyd2gxRmNaQUNTU0h0UkZwcEk1ZTJYNEhRdlNvSE9mUE1lYlc?oc=5
+- [AI] Exclusive: Spines, a 'hybrid publisher,' raises $64 million in funding for book publishing platform powered by AI agents - Fortune
+  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbE02cUFIUEhNcll6NzhqNVN5N29jYzM0NGV2eXBzTTg4SEtqcmdVekdVMkxVbUU4MXVIUHpRMUxBVEhmSUVZNTlHMk1tZU8yOGE5MWw5enZkSG5iQlkwUUI1eXhKSDZOWDFYaTJSakNPaWNCWGJOdXdJaWpxeTI2cXpZZmFodFhOS1lzcUo5WUtscmhCU0RJdzV3LUN6SzJqcFFYRXVYTFdQNkFwSmJzUHhfTnBJZVoyWFBQTkktb1VpdVJJRVY0dmJZZTNhZmZaREJvbThMYzJPZnJ1T2c?oc=5
 
-- [Markets] Stock Market Up, Still Suffers Stiff Weekly Loss; Inflation Data, CoreWeave Earnings Due - Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWS1CUGRkOWhJQ3NnaUlpS3ktVElZaTNQb1ZGTDRVY0pycGtPZUhCTV8wd1lxanNYUk5JOFpfcXRNNnhmVHJadmtfQUhfUW5ZVDlwaDZUdGNDYVNEVTlEcUxSQUxOSVlmY3Nkal9rSnJ3T1REcEoxMWV1T2R2dTUwS2VTSFRqZHl2WnhpZFdvNlQ4VXJkVEtYU0hBb3p4dFlKd2JZTUNZNzhZOHVsODNCbU5lY3VPTXVzVFNtRnZQZHc?oc=5
+- [Markets] Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5
 
-- [Markets] If the Fed Raises Interest Rates in December, I'm Making This 1 Investing Move - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQdWpJUjdJUUJzVnFOeXRpRmxPNlBFV2hWOU9IbVRvdjF3eVRxM0Z6Z3JGMm9tZURWWnFZVmZYcHd2OHZHcTg0MGczS1hSWl92RnpPTnVCcWZKTkpXclRHYW5WRC1RZy1KMVFpa3pZbU1LQlVrV21lMFQ0UFg1Z2hxczZZenVrR0ZqVnhacWRPWm1ZbFlxZnJWWA?oc=5
+- [Markets] Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout - Investing.com
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOanM1WDcwTXVzamhMemItUFFhaFZxbmR1ZTJOWlVlaFV0M3h4TERrWmxkdjBWTURkanVVbngzV2dvYl9IR05lSkUzRDZPQmdyRnQxSXplRUFIOThZYzhrbWEwNktURy1aNmVhb2l1WE42OVBJVC1IMkxDc0RRYU0tTXRJWmhxUTV2MTdyVUE0RnBja3FPRzZGWVVZSi04N1BRM3JPZ3FFaTdiUWxUNk9yV2hIYkNrTkVkdXJNZmZjT2xEWFVOWFdQZnQySQ?oc=5
 
 
 Must Read Today
-- [AI] Business Tech News: New AI Agents For Construction, Accounting, Property Management, Healthcare And Marketing - Forbes
-  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSzlic2RfZS14ZDgzOUI4VncxSDJSRHFHUEkyOUFqLVBZSmI5SVBJUWZaWHBDTU1FRDVyNnM1Q3VPOHJrcFZmdnJMcXNBbVJfeVdLT1R2YUdyMUVxS2ppRGRRYzRTRmhsZWUyWnMtdERpRXNsdVN5RzNLS2JkNVo5T2cwNzgtNlFHYTV0MHlzWUlJNThMMWZLM1AwejcwRXBkWmhSMDRhUnAxN3lLM3RJQU5iZnZ2RVJWdmlMbWhMaVhuX2NoeS03VEFTTHJfcmVONTlyR2YzSlozd1hkcnMzcXJ4U3oya0U3aV9PWkgzdDMtTW9HNkFR?oc=5
+- [Markets] Week ahead: US stocks face inflation test as AI uncertainty keeps investors on edge - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQTy1MY3l1N2RrdEJoVXNWMUJxREw1WTJ6RWdoQ0pGUFBHREZRRnp1MkE4SnlRXzBHV1RTMUwzSVd6SHY1alFvOGN6eEV0bVdkM19jM0VmM0dreDdrWUlFNVNIMk14YjBNbmpaTVlqbjBSMWk2OHVvMTFxcWRIcjY3SW04ZmJuUWd2OS05YUx5OWk4eS11?oc=5
 
-- [Markets] Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUGtVSmh2dDhaUDJWN2x5SWlLSW93SDgyMm5ybTd4TFo5R3NmZ3I0aDdHSHRNT2VxRVdVLS00NjZXeUE2ZDFSTExOaGtIaFY3MEFWYndKUENSWmMwVml3cVlMb1lnUk83RThmTDNvZGlCaVV0YkJn?oc=5
+- [AI] With new Democratic Congress incoming, Illinois Gov. JB Pritzker calls for federal AI regulations - CBS News
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3lRaU4xRnNaX09hOVVGN3JLVFhBcnc1SFgxZ2hnSW83aXNNeER1bmFRdUtCeWM5YXctNEJWeDRianpWTmxlQjF4MDFYeUhEQTVFUUI4NGptMUlISVJVMEFqLS0zZFBCaWYyRndMZzZTdE8wZkNpUnBoZ1lXOHNaWDc5N0JFSnlUNV9NSS1jOVYtM3h4TXBaMkphS1pQejNwYllvSGZRTU5fSlVEVHhTOGNRUkxLbkRybjBzMQ?oc=5
 
-- [Travel / Boop Relevance] Airbnb Plans AI Travel Agent for Trip Planning and Booking in First Half of 2027: 10 outlets compared - NewsCord
-  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNkZGeHNFRGlhOVU2SlhWTVZRQ0pTMDJidlJTV3JGQW9aTmo5azhDTlJqa2wxU2trTVNiVGdsZmRLN0djOXZISWNmNjBpeXRwTTNxRG5NdjJ4LXdWUTNkcEI5Vk1sZ29ka29yc1J6TThBUFduQl81RFZKaS1EdWlkSGRTaHdmUlZuZ3FwbG4wTEhnS3BDZmlvTkJ6cGYydGVmeVRxTW1OVk9LVGJSUnU1SXJGQng3VzRDSDlFNHRzcGk3ZWlQVFh2UVBuLTJuZmtmb1RBNTgxUm5lbVBHeEFpOW5KU3BNWjZ4VkE?oc=5
+- [AI] WULF Q3 Earnings Call Highlights AI Expansion and Funding Plans - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjdGWTcwdmRVdWtZLXJNWDNScHNzZ0Fab2w1RkdCbmROdmFBbFJoZUN4VTNnS1QwNW1qSVUwR2M1NjZYZ3hUQlYyb3MtWU05SW04Sy1HWUxSTE1IVDN4djEteTdWWHd3aWF6ZnhOY0RFS25qM2R2YTNqREVMekt3STlxRjJhT21Gb2RPZGxqNERULUlTVXpublRrN1E?oc=5
 
-- [AI] The only town in the U.S. that said yes to data centers - The Washington Post
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0xGeGhDLWU0MHpHNUlQZ1o1dGF6dGozR2JwOF9TcjJUX2FPRkI2TzZsUGlDQ2ZWYkp2emg1QmpfZDc0NFVWUEdINXk0QVExNV9pQl9aMU04QjVZYm5lT18yelJlcE9BRFpnV3FOV3ZyaWZKaGgyZXoxXzA0cUFKZDhLTVh4VEw4V19zQ2I5V2ljN3ZESjY3aXpLMWdsRzA?oc=5
+- [Markets] Mexico’s Inflation Accelerates With Banxico Rate Policy in Focus - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdzZDMzcmFwSkU4OE1WWWtFVU4yMEt0TURNMWxCRzdMTDdScW9yb0ZVWjlmTXBhZ2NmVjZvM3ZMSmRLbTBJb2d6ZHVQMnJmQkdwWGUwaTFMc0thcHVCTmFKVVZtandqbEpfeG40aUZibW5UZkhmMkg5M3B3ZFpzTy1EcHl6OVhhT1llMXZzNTZrdXdYa3JTYzljQS13S2htcDhfM2RJUWJBYlR5S3ZNTTlIZ0lFZw?oc=5
 
-- [AI] Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations - CNBC
-  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5
+- [AI] How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFNZTWU0dzBieGQ1dG1FbUc1eGk5Tm9ZQXcxNmthM1N3OUJmUHZOdkwwanRIbzFnaWVGNFpLQUQyTnF6MEp0LWtBVkdiOUJkTWlnZzBNRWNYUnZ2R1hhRkY2dVNRZWRRN3dBTnY5dGN6NDFTdlNlUV94RzBqc1VoN19NZFE1Z1oxVGJEWmhaNWUwRGRoclVXamhMQlZtcWluNnIyWmh3WHY3TnE1dWo1dXZR?oc=5
 
 
 AI
-- Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers - Tom's Hardware
-  Summary: Tom's Hardware
-  Link: https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5
+- AI agents are developing odd dialects humans struggle to follow - Tech Xplore
+  Summary: Tech Xplore
+  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBhS0tUSXNiVHRsNGF4UUtzaEhfN1VVVGNISG1UbHBLMFVYU2FweVJ1c3VQZG5vRFAzYXRoaG5WU2hscmN6QXJodWN0RVhvZV9yejBIVWY4SEtPbl94NnBrU3pra2dQbTVzMUxyNUR6ajNNMU9NWU1jRzNB?oc=5
 
-- One Tech Tip: How to get started with AI agents, and which are best for specific tasks - The Morning Call
-  Summary: The Morning Call
-  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sOHNRY2xpT182dzNIUF8wc1lQa010YVZUTWZaQ0s1ckd2ZnZUYjJ5bXNWMEZXcHlJWnI3MVZ3TEZ4MXMzNTBZWTl4SjRHdV84aUVCLVJES0V4NlZHR2E0RlhR?oc=5
+- Northern Trust streamlines client onboarding with AI agent - CIO
+  Summary: CIO
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGFJcDBBeTJEaHc2QUtXYzE0UmJLOEpVZkJhQzRrNXN3Tkl6VlVPQ3E4SV9VWkVYQ2d2d2Z0cVFiRVZHT1B3S3FfZDk2N1BrMllQU1FrcTFtZzhNLTdsdlJHSFRRVVlvRTJwREdVWldqRHZlRG94TldkQ1JlQWFlQXFvYXBlYVZVelYtdWNmQUFSQlY2dFpVWVJwbEZmajd2?oc=5
 
-- Entire's Git Forge Rethinks Git Collaboration for Coding Agents - infoq.com
-  Summary: infoq.com
-  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1ocDE0QmhKYjNLaTRqQ2VsRm9xWFNMb3dDQTczS3BFQmtrazhpWmhqN3hTd0M3NWpBNEo0aUx0LUhFaWRoMnhuX0JVQ3k1SXZ1SEtZRmZrWUhnMmEzbDRUZ21KaUpWMHYybm1JQ19fNDRRSGJn?oc=5
+- Nvidia Drama Explodes; The Startup Tricking Scammers by Using AI Agents - The Information
+  Summary: The Information
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNlQUVnUXdMWTQtTUtWSEVUcTJTSVRSRnZzcW1QN3ZmaTR0YzJRbVJ5SVJ2VmJzSmdhOTNLMzZST0o4Y1BWTTRSRV94ZXNDaUFhNzZyajRtbHdpQlB3WmhONkl3LUx6Y2QwUWhUVUlYb0NqWTBONERnZTVvT2FfaFQ5al9UU2U1b0dDcFRLbkVNUjdmaUdXSmd1VENScWVyOThjYjk4Tm1lU0lGMGtSTVEwbmsyUmc?oc=5
 
 
 Markets
-- Stock Market Week Ahead: Gear Up for a Major Inflation Update and More Earnings Reports - TipRanks
-  Summary: TipRanks
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNamRUdnJPazQ4Wm9yRGdvRnFSRHgzR0Q3MFlrMXp2U2hhTTlKN0Z2ZTRJQWk4VmZkNlRMNFJfZUtPdmdOSmc2SVdESVMyVlNMLVRwQWxhaHZ6MG1heUhqaW1NNWNPbjBKSk9heFFkbE5NQnRJZTRNa0UzR090X0xBajE3WW5NTWZXZ0VFWVZSZWptZXhBOE9XYjhyamYxM0g2Q0JfRm5EZ3VtM1locVZNVFl4Rm1heHc?oc=5
+- The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test. - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbElzUEl3dVVBaVlmTFVuX2kzRlJIVlNWZThFdXR5VmlGSGJhRnV5U0tfUmlHQy1nRkstNjdldDcwY0czb0ZVb0dnaGV4b2g0dlV5YkdWRnlCOGloQU5aVmhFdnlXM2JUTU8wbGwySFI3bzk3bU00WC02S2FxR3BoU2szZDhwM2owaGVacFZtN3p5cDh2aG9GUVNRUmxRVk9NandhbHdnMlQzWElORVl0bTZuRG1aZGJzb1NXM2hTNVdVczdiOF9SM3QxUnRGR2xXb3B5bGY2Nklra182elE?oc=5
 
-- The plunge in artificial intelligence (AI) and semiconductor-related stocks in the U.S. stock market.. - 매일경제
-  Summary: 매일경제
-  Link: https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZGNnbTMwZERsU2lkeThLY0xJN3pEWWhsdENGODRFaGFIcmlTek1TT0JaRG9qeUdhZW5Cd2tDUF9lLTNIWkZTVEZFRldFdW8?oc=5
+- Fed officials on watch for overheating demand as they weigh interest rate path - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDdqRjJYZnV3SmRkeDg2UHlwTDBsMHNiVi1qUDVfcVJSaDNTSTJGR1JEU29KOGlHd3BHek42Ml8wTEJQdVVvamZJaE8xX0U2LTZwblp3bFlVcUtkYjdZLXc1LXRhSGwyUzBfMHU5dW53d0NhY2hmQ1h1MVh4Y1dKZVY3dW9UVmV5cVFoX2M4OWtIWmJ2SFQxR0laSzBxaFVmVHdOeE9VTFhQdldCc29DM3pJNzNlMWhaY0Q1c2RNTG1HNl8zQmxIcXRhTzFkc1lx?oc=5
 
-- Gulf markets retreat as traders await Trump's next move on Iran - Reuters
-  Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEhqejQxdWF5MFpVWjduZHVuY1l1VmxKYm9CN3F4aC1qWkFIWFJqZDJEZ1VoWmthUW1NaWdWQUY4UUprUGsyWFA2a0trUE5HUjEtUHpPNFV1UnBpMHRrR2RlQWo1c2xvY1J2QnprNnNkbHNpY3ZtUWxMQkRzTVpKcktuZjhJdW5zSHdsZUhxYmxBVy00UWVnbndnOEc2WWplMEEwREVib0VyZ3BzZWlR?oc=5
+- The Stock Market Is Crashing. History Says the Smartest Investors Are Making This 1 Simple Move. - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUQwRGZhX0pPWlNtb2JnSUZpakNpVWpHTzM4eWp0ZFlJNzlNZG85TkZNWllVQXlfYzlQQ25DbjhpWjhXUDY0YzcyNUVOelNjYkVjWWM1QXFWR0N3NkNuc3M0ZUxaYmNzMTM5alZ3LUt1TVVPdFotSS1zdFJyajZsUlZsQ2ZvVzlwMENVS3g0VEF3SUozWnpidg?oc=5
 
 
 Travel / Boop Relevance
+- Airbnb Plans AI Travel Agent for Trip Planning and Booking in First Half of 2027: 10 outlets compared - NewsCord
+  Summary: NewsCord
+  Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNkZGeHNFRGlhOVU2SlhWTVZRQ0pTMDJidlJTV3JGQW9aTmo5azhDTlJqa2wxU2trTVNiVGdsZmRLN0djOXZISWNmNjBpeXRwTTNxRG5NdjJ4LXdWUTNkcEI5Vk1sZ29ka29yc1J6TThBUFduQl81RFZKaS1EdWlkSGRTaHdmUlZuZ3FwbG4wTEhnS3BDZmlvTkJ6cGYydGVmeVRxTW1OVk9LVGJSUnU1SXJGQng3VzRDSDlFNHRzcGk3ZWlQVFh2UVBuLTJuZmtmb1RBNTgxUm5lbVBHeEFpOW5KU3BNWjZ4VkE?oc=5
+
+- What Europe’s changing travel market reveals for travel technology - Cirium
+  Summary: Cirium
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW9wQVVOM244MDZpbDVMZ3J0NG9MUVNVSjVGV2xncDhwR3Z1cks4VnViamZ5U2FpRWlLQUU2alI4X0ZLaThSU3dFRmRSZGwxeVRTZFAwWkRwZnlMbHRBQ2x6Y2lpZExGUDJWRUtaUHF1UXQ1RVZraUpqY0d5UWFkN2lKbkdUUQ?oc=5
+
 - Airbnb Plans AI Travel Agent for Planning, Booking and Support - Unite.AI
   Summary: Unite.AI
   Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHEwQmphT3BwRVl4R1R3akVQZGwzdUtqaW1LdFFnMHlreHNJSGxQaWUyenNycGNBd19zQWpaX2VMNl9namlNTU1PeVJhR3lOM29Nblo3TmJxWmxNUEVtTmYwZENIXzJTYnNzVWNXZ1NwM3h0WHYzSmhCR2pucDBhYmZIX21DMnhoUHlN?oc=5
-
-- Travel startup Onto raises $1 million, launches hotel price drop refund service - Indian Startup News
-  Summary: Indian Startup News
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QdIBwgFBVV95cUxQbmFtbi10Tm8xSl9kX2oxd0RleXVrbjhYYmFhWjBwSUx3N24zS2t3WUdScVhjeVk3LWJkdVNRWWtkSFV0SVFXU1lNWUNpLWttWS1mX0NnU2tteWtueGZQSXB0OHBxTWVFbFdrVU1LSVUweExvT3N3RktTSmpSRFM1VHlfRVlLLTRIVEIxR1o4Nnp6M2R5U3Q2MG5IUXhYTVI3YXEtQTRVMnEzVWRHZGEybUpGdjR4eldtRWJ2dHBQLXJ1QQ?oc=5
-
-- Dohop Introduces TravelSure, a Disruption-Recovery Service for OTAs, Travel Sellers and Airlines - Breaking Travel News
-  Summary: Breaking Travel News
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHNDRmFYYU1FNFNzeUJRV1dYc0I4MVpwTWwzUXQyN0w4T1N6OWlEbkp2eHFHc09qb0dyTkdlRXpJcGU2MXcyYlJ6bHhacVlMTk1teVcyd01hZ3dNQk82V1p6QXA4SURqOGFhX0RZYV9lOTFzMVIyTHlTX3dkMi1LRVZ6aXJVeUstdWllcDNzMDlIUjM0OWd1WXJ6SVkydzNtZzMwcGZ5dExEenBmVmJ3aHg0VlVYNGc5LXdtRG8wT2FIQQ?oc=5
 
 
 Bottom Line
