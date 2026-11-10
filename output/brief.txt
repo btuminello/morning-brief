@@ -1,78 +1,78 @@
-Morning Brief — November 09, 2026
+Morning Brief — November 10, 2026
 
 Chestnut Hill Weather
-- 43° to 55° today. Right now it's 53° and feels like 46°.
-- Around 8 AM: 47° | 2 PM: 55° | 8 PM: 46°.
+- 42° to 55° today. Right now it's 54° and feels like 48°.
+- Around 8 AM: 44° | 2 PM: 55° | 8 PM: 47°.
 - Wear: light jacket.
 
 Breaking News
-- [AI] Exclusive: Spines, a 'hybrid publisher,' raises $64 million in funding for book publishing platform powered by AI agents - Fortune
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbE02cUFIUEhNcll6NzhqNVN5N29jYzM0NGV2eXBzTTg4SEtqcmdVekdVMkxVbUU4MXVIUHpRMUxBVEhmSUVZNTlHMk1tZU8yOGE5MWw5enZkSG5iQlkwUUI1eXhKSDZOWDFYaTJSakNPaWNCWGJOdXdJaWpxeTI2cXpZZmFodFhOS1lzcUo5WUtscmhCU0RJdzV3LUN6SzJqcFFYRXVYTFdQNkFwSmJzUHhfTnBJZVoyWFBQTkktb1VpdVJJRVY0dmJZZTNhZmZaREJvbThMYzJPZnJ1T2c?oc=5
+- [Markets] S&P 500 falls after hot CPI ignites inflation concerns: Live updates - CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5VWk50RzlXYlZaV1pUOVFBLXNSUjFaOVhYSUpvQ25CVm5UWE1EMkE3bjRYSWNqVVRKUC16T3pId3BLLTQzcW9KRTJOUHVseDZJT3JwQ195cnZjX0IyODU3MHZNeVBtYVd3V2dxMlR5ZEphWnhBeERj?oc=5
 
-- [Markets] Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq slip after CPI data raises Fed rate-hike bets - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREVVTENmTlJlY1Bnc0hHM044UjZReF9oT2s4c1lpSnVGdEtmYmN1eGZqRE5RSWszazktSkR0NmhpNW5hd2MzR1ZiSzNmdTU4UGI4aEFuMHpqSHZ3TVZnbjJRSlhBYWxsRk5sNERlSVhGM01RVlNfMW9hVkkwa3BsOHBJeGdxVWU4cmVxZDFrLTZnbW42NzFZOXBKOFhxTjNRYUFTUXVDS2ZLaUhZSElyT1VSOUFURGV0YWRwZ2ZqZy1feUdEdXdLaA?oc=5
 
-- [Markets] Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout - Investing.com
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOanM1WDcwTXVzamhMemItUFFhaFZxbmR1ZTJOWlVlaFV0M3h4TERrWmxkdjBWTURkanVVbngzV2dvYl9IR05lSkUzRDZPQmdyRnQxSXplRUFIOThZYzhrbWEwNktURy1aNmVhb2l1WE42OVBJVC1IMkxDc0RRYU0tTXRJWmhxUTV2MTdyVUE0RnBja3FPRzZGWVVZSi04N1BRM3JPZ3FFaTdiUWxUNk9yV2hIYkNrTkVkdXJNZmZjT2xEWFVOWFdQZnQySQ?oc=5
+- [Markets] US Inflation Shockwaves Hit Markets — Fed Rate Hike Fears Send Gold Tumbling - Investing.com
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQdExvZTRLZ2hLaDFILUFrRElhejc1cDZ2ak16ZHM3WTQzcGU0TTc2amt6TXZOZ1l6V3p4UV9xczgycnFyQThPQ1hlRHJLWDNQZlhSeGRtME5KdVNOWC1pTzk1M1U0eFdSNEFWUFdCdnAwQkdicU9nbFNlS2xpV2c4U0hVRTNkU3EtMWlOenVGY0VRaE56S0FfZ1p4NXNlY0U5Ym5uSTlMWlJNRWFuR0Q2cGhiQmRiak9TcWZWdA?oc=5
 
 
 Must Read Today
-- [Markets] Week ahead: US stocks face inflation test as AI uncertainty keeps investors on edge - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQTy1MY3l1N2RrdEJoVXNWMUJxREw1WTJ6RWdoQ0pGUFBHREZRRnp1MkE4SnlRXzBHV1RTMUwzSVd6SHY1alFvOGN6eEV0bVdkM19jM0VmM0dreDdrWUlFNVNIMk14YjBNbmpaTVlqbjBSMWk2OHVvMTFxcWRIcjY3SW04ZmJuUWd2OS05YUx5OWk4eS11?oc=5
+- [Markets] CPI report today: October inflation comes in hotter than expected, opening door for larger Fed interest-rate hike — live updates - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFdFdWw4RkFsNmtDc2NQaHR4WXFNTk5ZVTVTZnJVWTZhVzZDSXN6a1NTOFdaUDhwWXd1bnhMS2h3LTJUSHVaemxlZXlRTE02RmgzVnJGRmo2TzE3V2hTN3pHR3lpVUFMYnFXSnRsVDF0bldQMS1NbHhLUlVCNE5sQkhZOEtzc29SMGpYdGpidFFNb1lBSWs0eXFjTC1zYWs?oc=5
 
-- [AI] With new Democratic Congress incoming, Illinois Gov. JB Pritzker calls for federal AI regulations - CBS News
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3lRaU4xRnNaX09hOVVGN3JLVFhBcnc1SFgxZ2hnSW83aXNNeER1bmFRdUtCeWM5YXctNEJWeDRianpWTmxlQjF4MDFYeUhEQTVFUUI4NGptMUlISVJVMEFqLS0zZFBCaWYyRndMZzZTdE8wZkNpUnBoZ1lXOHNaWDc5N0JFSnlUNV9NSS1jOVYtM3h4TXBaMkphS1pQejNwYllvSGZRTU5fSlVEVHhTOGNRUkxLbkRybjBzMQ?oc=5
+- [Travel / Boop Relevance] Travel + Leisure Co. Introduces VOYA to Turn AI Vacation Planning Into Bookings - Unite.AI
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE0xZmJSX04wRWhUbEZ3eFRnRThSbV84ZGN1eFRQaG9YZUxleVNwekZuTU9DUzRXa3pyc1R6OElTNkpMMXl3T2llbnlPRTN2ZTdFa3hnbmtTTVBQd2N5Y3ZKS09Rc0FPaVRRWWkzVVRHNHl4TXhXMXVyQzhaWQ?oc=5
 
-- [AI] WULF Q3 Earnings Call Highlights AI Expansion and Funding Plans - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjdGWTcwdmRVdWtZLXJNWDNScHNzZ0Fab2w1RkdCbmROdmFBbFJoZUN4VTNnS1QwNW1qSVUwR2M1NjZYZ3hUQlYyb3MtWU05SW04Sy1HWUxSTE1IVDN4djEteTdWWHd3aWF6ZnhOY0RFS25qM2R2YTNqREVMekt3STlxRjJhT21Gb2RPZGxqNERULUlTVXpublRrN1E?oc=5
+- [AI] AI training startup Mercor valued at $20 billion in latest funding round - Reuters
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQakRyVVFaNHJEdFVOdTVHYUtNSWN3MEw4SkZXNFFXZFRtM21LLTZmWGtHRU9RcU9QM0dSUENscUhOZWV0WkFBZ1hQQV9vcHBFMzZxRlNrTjZvZFZwZzFZeDR2eGo2U2Q5b3VEcExyek9GY0JxQ0o4SkZYZmRTR21GaDhLTmE2b3J3MzJrRGZORXd0akdkVm41V0gzRGJYVTlvZ1hnZ0VUZ3RSa1RqckxUYUMyQ291NjVVQkdZa3NB?oc=5
 
-- [Markets] Mexico’s Inflation Accelerates With Banxico Rate Policy in Focus - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdzZDMzcmFwSkU4OE1WWWtFVU4yMEt0TURNMWxCRzdMTDdScW9yb0ZVWjlmTXBhZ2NmVjZvM3ZMSmRLbTBJb2d6ZHVQMnJmQkdwWGUwaTFMc0thcHVCTmFKVVZtandqbEpfeG40aUZibW5UZkhmMkg5M3B3ZFpzTy1EcHl6OVhhT1llMXZzNTZrdXdYa3JTYzljQS13S2htcDhfM2RJUWJBYlR5S3ZNTTlIZ0lFZw?oc=5
+- [Markets] US inflation not improving at 'fast enough pace' for the Fed - BBC
+  Link: https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wVHFWTGhSek5pMFFpVWJDQ01TQ2FmZ0ZfcE8tc0VFUWoyQTFPZDAwRlVhd1FFbnlIZ1JKS2ZBRGVXZ0I1aUZMVXFFVEtacHJFeGhvMFRWbWk?oc=5
 
-- [AI] How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFNZTWU0dzBieGQ1dG1FbUc1eGk5Tm9ZQXcxNmthM1N3OUJmUHZOdkwwanRIbzFnaWVGNFpLQUQyTnF6MEp0LWtBVkdiOUJkTWlnZzBNRWNYUnZ2R1hhRkY2dVNRZWRRN3dBTnY5dGN6NDFTdlNlUV94RzBqc1VoN19NZFE1Z1oxVGJEWmhaNWUwRGRoclVXamhMQlZtcWluNnIyWmh3WHY3TnE1dWo1dXZR?oc=5
+- [Markets] FedEx expands China-US cargo services amid surging demand from AI supply chains - Global Times
+  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE82N1lrRE4tTUNiSWh2ZjJjTFN0alJGV2gyRDFXQVJsanpfaHdjMDJpaWlnSXJFc0tPQWJVU2xyU2JHaEVINzlPc3lBZTFhNDI5bGtZV2hXdm5lQk1RUm5ob2xB?oc=5
 
 
 AI
-- AI agents are developing odd dialects humans struggle to follow - Tech Xplore
-  Summary: Tech Xplore
-  Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBhS0tUSXNiVHRsNGF4UUtzaEhfN1VVVGNISG1UbHBLMFVYU2FweVJ1c3VQZG5vRFAzYXRoaG5WU2hscmN6QXJodWN0RVhvZV9yejBIVWY4SEtPbl94NnBrU3pra2dQbTVzMUxyNUR6ajNNMU9NWU1jRzNB?oc=5
+- Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch
+  Summary: TechCrunch
+  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5
 
-- Northern Trust streamlines client onboarding with AI agent - CIO
-  Summary: CIO
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGFJcDBBeTJEaHc2QUtXYzE0UmJLOEpVZkJhQzRrNXN3Tkl6VlVPQ3E4SV9VWkVYQ2d2d2Z0cVFiRVZHT1B3S3FfZDk2N1BrMllQU1FrcTFtZzhNLTdsdlJHSFRRVVlvRTJwREdVWldqRHZlRG94TldkQ1JlQWFlQXFvYXBlYVZVelYtdWNmQUFSQlY2dFpVWVJwbEZmajd2?oc=5
+- IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom
+  Summary: IBM Newsroom
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmlzcVoyeUhXT1RZT3l6WFh6S0d0TnY2aDdwTU16S3dRUk4xbE9HaVphcHduV3ZObGE3R3JpNTRTaVFINjdJeXdQUnExdDRmZmpMckYySnlwQjVqX2UxODRfVUlVRXJIaVVrMnRfTDdzTkZ4eUFHa185RTlEcktaM0tTTUw3SEU3NTFDM3EwV2x1d1YzQTh5bXJGa2dZcGZ6dzFSNDRUTnUxRllELW9ZejJsMEE3dGQ2UHBpcFNvc0xTeFJMdXhlSkNtMXU?oc=5
 
-- Nvidia Drama Explodes; The Startup Tricking Scammers by Using AI Agents - The Information
-  Summary: The Information
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNlQUVnUXdMWTQtTUtWSEVUcTJTSVRSRnZzcW1QN3ZmaTR0YzJRbVJ5SVJ2VmJzSmdhOTNLMzZST0o4Y1BWTTRSRV94ZXNDaUFhNzZyajRtbHdpQlB3WmhONkl3LUx6Y2QwUWhUVUlYb0NqWTBONERnZTVvT2FfaFQ5al9UU2U1b0dDcFRLbkVNUjdmaUdXSmd1VENScWVyOThjYjk4Tm1lU0lGMGtSTVEwbmsyUmc?oc=5
+- ChatGPT is getting verified AI ‘Business Agents’ - The Verge
+  Summary: The Verge
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkdJblVLLTVHVVBiaVJ5dENmXzI3WXhvQk50TjlKTnVrREJKYTJ1Zlg5dmlwYUI3Wndic0lPWTRZX1E1V1hsTWx2X1ZPVVNJQXcyVHc5ZFlSM2dmdHViQVZJak80amZ5dWFyQ2JHWlZwT0ttQTZQQUVJdTdrSVcxdnNpRUZiczRzeWtwUVVxbURkNlFjM1dxcHl3?oc=5
 
 
 Markets
-- The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test. - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbElzUEl3dVVBaVlmTFVuX2kzRlJIVlNWZThFdXR5VmlGSGJhRnV5U0tfUmlHQy1nRkstNjdldDcwY0czb0ZVb0dnaGV4b2g0dlV5YkdWRnlCOGloQU5aVmhFdnlXM2JUTU8wbGwySFI3bzk3bU00WC02S2FxR3BoU2szZDhwM2owaGVacFZtN3p5cDh2aG9GUVNRUmxRVk9NandhbHdnMlQzWElORVl0bTZuRG1aZGJzb1NXM2hTNVdVczdiOF9SM3QxUnRGR2xXb3B5bGY2Nklra182elE?oc=5
+- Hot October inflation report rattles markets - AOL.com
+  Summary: AOL.com
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWVRV3VHdjZFSTY3eFhlTVdjWDFNTkhhUk9ITFVrRUxieHlIaU1TaXo0R0JNLVJYTFZaQ3NreG9mSjBkajF5ZVcyZndJRUh4enRNaGFOazhYc3ZCMUJaMnJ6M3NYWHNIVHU4LTVXRnFwX0NjaEJGMXR2NjA1OVl2QlVrdmpwS2c?oc=5
 
-- Fed officials on watch for overheating demand as they weigh interest rate path - Yahoo Finance
+- Taiwan Semiconductor's Revenue Growth Accelerates Again! October Surges 60% as Demand for Advanced Chips Remains Robust - Moomoo
+  Summary: Moomoo
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzFBbVFYOWFXQ2ZNTGdCSmJfTWVwTHRRMm5LbDE4TXBYdTZzSWwyaHZJUTVoekQyaUZaMHZ1MmxlclZvNFJabVJDYXlFbGZXc0V3OGlPTm9xdTVTQ28zazR6UXJiMGRDXzE0cTZKd3hwbUN4MUtLdEFpRVVwMV93S2swU0tGQTRMSV94bGFrX05wMkh5b0VncmpiUGlBVlk3OHo3MjVucVgzaGlLanYzLTFobUVVRlc2?oc=5
+
+- NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDdqRjJYZnV3SmRkeDg2UHlwTDBsMHNiVi1qUDVfcVJSaDNTSTJGR1JEU29KOGlHd3BHek42Ml8wTEJQdVVvamZJaE8xX0U2LTZwblp3bFlVcUtkYjdZLXc1LXRhSGwyUzBfMHU5dW53d0NhY2hmQ1h1MVh4Y1dKZVY3dW9UVmV5cVFoX2M4OWtIWmJ2SFQxR0laSzBxaFVmVHdOeE9VTFhQdldCc29DM3pJNzNlMWhaY0Q1c2RNTG1HNl8zQmxIcXRhTzFkc1lx?oc=5
-
-- The Stock Market Is Crashing. History Says the Smartest Investors Are Making This 1 Simple Move. - The Motley Fool
-  Summary: The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUQwRGZhX0pPWlNtb2JnSUZpakNpVWpHTzM4eWp0ZFlJNzlNZG85TkZNWllVQXlfYzlQQ25DbjhpWjhXUDY0YzcyNUVOelNjYkVjWWM1QXFWR0N3NkNuc3M0ZUxaYmNzMTM5alZ3LUt1TVVPdFotSS1zdFJyajZsUlZsQ2ZvVzlwMENVS3g0VEF3SUozWnpidg?oc=5
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVl2ZFFBek9qU2Q4a29xd1BPVzdMS2VWaXBFdkVMRmRBRC1IOGVaRU1ISktjbkZ5d0xJNlpUNUhTeHFIUFE2ZHpldFVFZW15MnV1amhId1V1NmFzX3d2VmhVZEhnQ2lZREFkNzVpVHVzbVo1ejd3QXFzcVJ6N2plYVNJaDc5VFNrTy1KMjlNaFMtWFk?oc=5
 
 
 Travel / Boop Relevance
+- Consumers Have an Awkward Relationship With AI Agents So Far - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUY0WWU2YmdBcWd2RTVzM2J3OG9XdkFXM3lDd3hEM2ZIbWVFdDVzMGJWblk2c29xVDdJOWs1WGVHWGY3ek4wNzhvREtxTGdFWjhHeWpnVlFJWlQzXzVmT0lNTlpETlNsNHl4WHRMcXpWYnl4bDNKWlZ4bWZwSE5VVTE1czlJd3U3Y3d0YVU1YUtsaUpwRWFZdnFFbi13LW9tVFlYVDJHREhQZldKQzB3ZzBlblg?oc=5
+
 - Airbnb Plans AI Travel Agent for Trip Planning and Booking in First Half of 2027: 10 outlets compared - NewsCord
   Summary: NewsCord
   Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNkZGeHNFRGlhOVU2SlhWTVZRQ0pTMDJidlJTV3JGQW9aTmo5azhDTlJqa2wxU2trTVNiVGdsZmRLN0djOXZISWNmNjBpeXRwTTNxRG5NdjJ4LXdWUTNkcEI5Vk1sZ29ka29yc1J6TThBUFduQl81RFZKaS1EdWlkSGRTaHdmUlZuZ3FwbG4wTEhnS3BDZmlvTkJ6cGYydGVmeVRxTW1OVk9LVGJSUnU1SXJGQng3VzRDSDlFNHRzcGk3ZWlQVFh2UVBuLTJuZmtmb1RBNTgxUm5lbVBHeEFpOW5KU3BNWjZ4VkE?oc=5
 
-- What Europe’s changing travel market reveals for travel technology - Cirium
-  Summary: Cirium
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW9wQVVOM244MDZpbDVMZ3J0NG9MUVNVSjVGV2xncDhwR3Z1cks4VnViamZ5U2FpRWlLQUU2alI4X0ZLaThSU3dFRmRSZGwxeVRTZFAwWkRwZnlMbHRBQ2x6Y2lpZExGUDJWRUtaUHF1UXQ1RVZraUpqY0d5UWFkN2lKbkdUUQ?oc=5
-
-- Airbnb Plans AI Travel Agent for Planning, Booking and Support - Unite.AI
-  Summary: Unite.AI
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHEwQmphT3BwRVl4R1R3akVQZGwzdUtqaW1LdFFnMHlreHNJSGxQaWUyenNycGNBd19zQWpaX2VMNl9namlNTU1PeVJhR3lOM29Nblo3TmJxWmxNUEVtTmYwZENIXzJTYnNzVWNXZ1NwM3h0WHYzSmhCR2pucDBhYmZIX21DMnhoUHlN?oc=5
+- OneJourney Named to PhocusWire’s Hot 25 Travel Startups for 2027 - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUDhOdEJRRXh0MmNTZ0lyLTZHNWhWU3JVcFZyN3VkTjB6dDBCNDhOc0RFMGZ2REtQNnZGci1iYklZMDJBQjY1aW1Lak1KOFBnckpKdmNya0x1X1pVaC1FVUQzaFFsTDFXOVFHTmxoRnVrUk9QWnN3SmhuTzNXMHFuc3BtWnJ3T013QTY3Mks2a2lOZEk3WFBIZkpNVzBTandHRVhDQjBwLWIxRXM?oc=5
 
 
 Bottom Line
