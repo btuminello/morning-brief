@@ -1,74 +1,78 @@
-Morning Brief — November 12, 2026
+Morning Brief — November 13, 2026
 
+Chestnut Hill Weather
+- 32° to 45° today. Right now it's 40° and feels like 34°.
+- Around 8 AM: 36° | 2 PM: 42° | 8 PM: 36°.
+- Wear: light jacket, umbrella.
 
 Breaking News
-- [Markets] S&P 500 falls, dragged down by Nvidia sell-off and rate-hike fears after hot inflation data: Live updates - CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5VWk50RzlXYlZaV1pUOVFBLXNSUjFaOVhYSUpvQ25CVm5UWE1EMkE3bjRYSWNqVVRKUC16T3pId3BLLTQzcW9KRTJOUHVseDZJT3JwQ195cnZjX0IyODU3MHZNeVBtYVd3V2dxMlR5ZEphWnhBeERj?oc=5
+- [Markets] US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap - Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5
 
-- [Markets] Institutional Financial Markets, Inc. (COHN) Q3 Earnings and Revenues Lag Estimates - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnBJbXczWUpKMU5TRHhMeVEtUV9VazgtRmpneUYtNEJjeEg4SFVHNUhscTlpeGdRb3ZBaHo4Q3A2TkhDVGtlQ3V4TVRxQmNteDl5aGZBbFdBMk9oYUVnQzQ1MGVsVjktVFJLRzk0RUJjOFpyUXJscThfaFNPcVlWeXg2SnVId09mR01QM0VBcWh5VDNmakFMRWxGNUREQ3A0VEZoMU9YU3A?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq futures edge higher after wholesale inflation grows, Nvidia stock rebounds - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5
 
-- [Markets] In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates - CNBC
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlF0NTdyNlg3YzhrMXU5RjhKTjB5UGdOQ3RQM1lHQXdzclJpMS1iVTQzTzd3eElndENaWXpnYmpSU2VCZ2dEYXRRelN1SmliTzYwWF9NeTJkRWZxbGFqQ0gta0hFN2t4ZF9jbEtmd0V2WFU3MHlaRHRneWZDd2lHcmJzVnZJRE1GRjhkZFdPbWJOeVRtOWJSLV9GazFfcU81Y29aSUJKQVVVdzF6LU5mYl9aeE9OcTdpUXkzYUw2LUtGdWc?oc=5
+- [Markets] The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks - WSJ
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXI1R2hxNEhBZHUwVHoxdm50VWw0ZldHMjltMFF2Q21MTEtCeE5xdHQ1dlJudHJHaThoS3pzamczeWl1VTZ1YXJ4NkJwbWowNC13Mk1fcGozTjB0OVIwMUZLRXBueXJybDhhVkEzT1RuN0dqRzVZMHp1d3lhdy1aZUJwNUtCVXdybzlKYkE4WTE0UlZZLTcyczZJYUtiVjlvS1BPaWFBNW5qZXl1TEhzag?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] NextTrip Advances Cruise Strategy, Connecting JOURNY TV Programming and Digital Booking Tools with Personalized Travel Advisor Support - Corsicana Daily Sun
-  Link: https://news.google.com/rss/articles/CBMitAJBVV95cUxQbXIyYkRFVVVXVG9QYlZsUmo4cERXRFNjamJ6c0E4ckVHM0NkTTZ1YklEMmttM3hmNWhFUW9Pb3ZsaWo3WDFoLUgzby1pd0ZPcHkwRlc2YUEtUE9yOEtnMXJfQXJMSmJOWXdJUnQxX1pnZnhRNjZjMjRZSmRjZVdXQnRGb1VMcmhzd2VfYlVvcUNNY2hhajV3Y2NvYlNzOURHTFhXQkNhREljaTJwMTVlbGFoZktsUFdlZXFXdkEyRU5SMmlNdjhrUVVZeGt0THNPdFRaYndSRXVUUjJLNU9XWmVZSUctdTZaRUJ2aUl1YV9SNU9Tc0F6cmhaZjZwZkE4ZGFVQ1QzMFBHaXBEb2lxbTBvN0gzV0ozQVZwVFJGQWRtZlRrTFJjcHlHVzdvSWk5Z21kSQ?oc=5
+- [AI] OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC
+  Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5
 
-- [Markets] Nvidia Live Updates: NVDA Stock Price Down 5% After CEO Jensen Huang Resignation - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5
+- [AI] OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5
 
-- [Markets] Markets News, Nov. 11, 2026: S&P 500, Nasdaq Surge as CoreWeave Paces Big AI Rally; Chip Stocks Jump as Nvidia Rebounds - Investopedia
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUFWTnloRHoxSWh1X1EydmhBSFN3NklwWHZTc1pzRTkybkdGTG4zbk9tQU11Ri1GZW9xUDEzSnRfWGJoQkRLd0xDdE1ldElWQS0td1Frb0E4YmtkM2tweVJyTjdLVG1GdnN3UllKbGZMajFfOXg3LXFjbU43eWhibU0xTGNIZ0d5NVoyVW9YakNhbU5Ld3FNbk53?oc=5
+- [AI] Can AI Infrastructure Demand Sustain NVIDIA's Q3 Data Center Growth? - The Globe and Mail
+  Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMWFBclh1REpGNFZRLU96Y3lkYWJWRnVSelJiZU1pZU81Z1dVaGloakJVMHhBaURvaXdfREswSFREVFhKczZBSWI4dUNuZ0ZaakFyQ3VQVmE0ZWpfNnI4cUNEZEcxM2JmcTdySFktS1gyTF9GX3V1QUxqeGl2OFNWVGZjVW4wTTRmQ2hnT1QwVmtmMWJXcWczR2gtaUNrRjBhc01BRmltVUkxa3pCMDdVUDFqSDJvUm9nU3hfeXhvVUM2TWs3aWVzZGduZUFtYVdGaGFTUjNhQUVtaWJnZlgzSURSd0Q?oc=5
 
-- [Travel / Boop Relevance] BizTrip AI in Beta Launch of Planning and Booking on Messaging Platforms - Business Travel Executive
-  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1AtX1EwMjVERVBnaGowRVJaU1ZCV201QmV5LUo5X05LZVlwb2JXQWJrVkJXX3Zld093U29yaERaUVN6cUtHMHpLYzA0blVwcFVCZkFFLU15b3dxNElNb2hrSWZtdHVfUXNaMjdCWXdqTmxLM3JsMGllaGNLbmZMcUcyVHhkOHNZT19valhkX0JZTkRyZGdCeTUtNXRWaS1CbjBlQXBURnhLYTN3ZVlhaUVQbThmQ29jUkE?oc=5
+- [Markets] Stock Market Today: Dow, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil — live updates - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5
 
-- [Travel / Boop Relevance] A wave of acquisitions: European startups go shopping for AI, travel communities and last-mile delivery - EU-Startups
-  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVZUOG9HRmZyRmRyTG5ROEFyVF9xaG81aXhxbTZKd19GT0FZRnptRXNTZFYyeUh4MXpCTThxc2pDUmFYaFhlTlp3T1RRanFiY1NpeXpvR3EyenRvNnlVZjU4dDB0eXpTRmZFYmlNWWctVWF5YnBPNWxZNzhhNTgyZC1uTzZLQXRIbFpKQTIyT2FzVHhEQ0pyUGtUVlk1b3FJRDY0NTFLV3kybjlIWThFNzJQQWRGbXlyVWJjZkxVVGpia0RuRUtJNzhuUGI2TFZSR2FHbg?oc=5
+- [Travel / Boop Relevance] United Airlines blocks AI agents from booking flights - Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXFfb1Bxc2o1UGNobzl5SE02YXhXN0hPVkxLTmNGS2NKOHBzZktqcUk3MVlBQW1Ia21aT2RDTC12VFp6bHBCVl9vRjBsRGp2NE56WWJQSndiSHQwZUtXQTlwRkFOdElBRHpneWR2azFfdWVkMm9BbTAyRXVDS2JaWWlDVlNNTUxVNnVUNVhOdWY1dXhCTTBaYVdQQ2NvYTVkYXVIaU9oS2Q3anJoMnN2NERR?oc=5
 
 
 AI
+- ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch
+  Summary: TechCrunch
+  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VqV2RZM3g2SEMzeEdNNmNjSmtZNzY1dTVjZ0F2WWdLdW9iaENMajhQdEpiX2t5VnFxaFdJR1ZPcVBGVmstX3ZZNXdUbFprOE5oTFFfa1Q5UkhXaXJQRER4Vkp4YWQxeEtJNmVvM3FjTWhXc1c5TnFGVzVsUVVRV002dlpSQlh3alhwMDFiZ2VvZlVuQjZ4dUJTcUM?oc=5
+
+- America's biggest data center state faces new regulation - Newsweek
+  Summary: Newsweek
+  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDlKanFWaDJtZ21kY2FWVGtVRkR6OEF3QjdTS29ERnNvQVloc1gyUEw5OEd5ZHc4MVgxdk1TOXVpcGd1QkxPZ0xETS1hMmhrOVpHYnoxeFhtVll4X29ROEVjVVprQXI5M2tKb2x0R1htQlVaQ3l5SmNmY0dHcGJtdlgxQmVUZ242Qm5z?oc=5
+
 - United Airlines blocks AI agents from booking flights - The Washington Post
   Summary: The Washington Post United Airlines bans AI agents from booking flights on behalf of travelers CBS News Exclusive | United Airlines Is Banning AI Bots From Booking Flights WSJ
   Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5
 
-- Torus Launches Modular AI Infrastructure, Foundry, to Meet Surging AI Inference Demand and Secures $500M in Funding - Business Wire
-  Summary: Business Wire
-  Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxNTXVHaVNmNmtZVkFNSi1aalQ3ZmljQjF4aEVaQjUzb0ZLckUxRGNrYUViVjNCTDJmMFRJTkdoa1Jzc05za3AtX1ozNHBHc1I5WEFKc3hFd2VFdi1zSmw5bWhvU0VsNHFPVlJCSm5JQ1FhMmY4T1EwNG8wTV83d0Y2MHdwdE52b3pmb0UzbV9BWGZlYV9keXhOMFFhVkJiTENldXhkVG54NjN4T3kzMTctaHRTVTVpejNqYkxxTXNUWmYtVWFLLXJNX05aS2RybGFOVDByaEdiVzh6X2hINjBwdG5wd1VlS0Mxdy1tbUxQdkMySkdIb3BObHkzZVJtNElqNGc?oc=5
-
-- UK-backed AI chip startup Fractile hits $7 billion valuation in funding round - Reuters
-  Summary: Reuters
-  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5
-
 
 Markets
-- Stock market today: Dow, S&P 500, Nasdaq futures sink as Nvidia CEO Jensen Huang resigns, stock tanks - Yahoo Finance
+- Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5
+
+- Stock Market Today: Nasdaq Slides Amid Surprise Economic Data; Microsoft Outage Trips Up Stock (Live Coverage) - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUh4NjJPT0pObkx0WXBCcTVMRXgtX1RId0RYYXNhY0xadmpGeVBKT3lKOXVnQVRuX0gyRFZHeW5jcEc5Y09IdGFfY1RyenNMWG9LakhGR0ZrV3lpeVU5V2FzMXJhTWxtdXl4RzZCYnhWa0pMNk51bDQ2VFRCMXdNOWR3QUFvUUlWTElBbi1SN1g3aTR2Y2VuLU1kWXpCUGlwaE9OWVNEbDRnbVExUnV5QzE2WDc3QS13ZVE?oc=5
+
+- 10-Year Treasury yield spikes on hot inflation read, Nvidia leads chip stocks lower: AlphaCheck - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmFPRDZxNWZrTmpxMHpldTQ3YTU1cHpucFNzbGhPcFJVREszVWJ4UjBwU1ZNMUF2eC1maTZYaTgxSXp1TzhVOGxWXzdlTHVoZlFsdkVkZTdXa3k2cFM1WkZXX0VsWXN6N05QTXZyYUdhXzJSdXFFSVNKX2FYMVRRR2NVRFNUQkszUjY5MTZfUHozbTJNLXJYeXdRMjNhbFlGTDlvWmpmZzlVSVUtYkRYenJTNG5SMFY4VEtaTmhsV08xa0k?oc=5
-
-- Stock Market Today: Nasdaq and S&P 500 close sharply higher, Dow rises 250 points as tech stocks lead a broad rally - MarketWatch
-  Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFpKa3lmRXd6OW5ZSUdaYzdGQlNzRFVILTF4Qkp3U042U0xDOUl0N0xrbUpkN0tXbkl2R0RUdTFHN2N3aW0zVGhvWjhmTjd0dzhPLTVwTDI3bmVIMjN4VzVkbENHMGRuVkY4TFp1d2NGM0ttai1JWVM5ZFdqUFpQTEprUmQ1ZmZUOE5Xb19kUFRjcjRFdWpxalZqV1FKak0xWWxUaXZhTWZUU3ZGUktXNmM1ZzFpeHF6LThxMUh1eW1WLXVuaWJF?oc=5
-
-- Brazil’s Inflation Ticks Up After Lula’s Win Rattles Markets - Bloomberg.com
-  Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQSm9yWmJSQ2lNTHgxcnJmd21kMmpKbHNmQ0Y4TUV4c0VibzNTekpRQlNOQTdyX0RJMGRwVFhQbUxPNUpWVC03clNNdlkxaVYwWHR4MmpiblktMzF1aUpYNXd6UXNEdWlZcDViaGtYYm5wUU9iUDRsNG5sbm0xejIyQ2hMd3g5WnFiNlN2cXRzU1FJc1MtTDhKemhIVzZycnVhemx1Z2FvTDFtSWhPdW53cXdB?oc=5
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1M5NjNPTHpWd3gyWEVnX05BY0ljQzRaQUxoS0VEWlN0WGJKb3JTZWJqTTBXUVVIXzZ3blBQUVJMVGlUUGdRaExTZ05BeEtkMXR0YUJhRnVueDlIdjdyYjEzVzVyWXVlbUVzZmdJTzhMcVZfUEV1Y1NLZmRFYm93V2hUOFRaQ2Ftdjltb2NQb3Y0ZVVvQlpIMDJyVW5EeVFhZjFoUGo4anlpU3FNUW1ndVVWSFRuWlFwdHBn?oc=5
 
 
 Travel / Boop Relevance
+- AI bookings don’t necessarily mean direct bookings - Travel Weekly Asia
+  Summary: Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZJV0lFRUxCNTRyRFhadVNDbHlGS0x4eGI2Qmx0NG85ODFNWDJlb19Fb09DUlU1SFg3VkJRblZYSUNPZjJqVlNaSlJ6cWgtVDVfSTlENzE2VjhMU3p1RDZQUHBRRnU0YWZmZDRVUkM2ZFNCY3JOQUZDLUlVSUlZZUY0WGNodTJ3LUI3empSRExMeDIwODhVMHZULWFyN3dlLUVsLVVvaTU2aVBUUlp2SkxHMA?oc=5
+
+- NextTrip Advances Cruise Strategy, Connecting JOURNY TV Programming and Digital Booking Tools with Personalized Travel Advisor Support - Corsicana Daily Sun
+  Summary: Corsicana Daily Sun
+  Link: https://news.google.com/rss/articles/CBMitAJBVV95cUxQbXIyYkRFVVVXVG9QYlZsUmo4cERXRFNjamJ6c0E4ckVHM0NkTTZ1YklEMmttM3hmNWhFUW9Pb3ZsaWo3WDFoLUgzby1pd0ZPcHkwRlc2YUEtUE9yOEtnMXJfQXJMSmJOWXdJUnQxX1pnZnhRNjZjMjRZSmRjZVdXQnRGb1VMcmhzd2VfYlVvcUNNY2hhajV3Y2NvYlNzOURHTFhXQkNhREljaTJwMTVlbGFoZktsUFdlZXFXdkEyRU5SMmlNdjhrUVVZeGt0THNPdFRaYndSRXVUUjJLNU9XWmVZSUctdTZaRUJ2aUl1YV9SNU9Tc0F6cmhaZjZwZkE4ZGFVQ1QzMFBHaXBEb2lxbTBvN0gzV0ozQVZwVFJGQWRtZlRrTFJjcHlHVzdvSWk5Z21kSQ?oc=5
+
 - Airbnb (ABNB) And The AI Travel Deal That Could Rewire Trip Booking - Yahoo Finance
   Summary: Yahoo Finance
   Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNaURjRngxemM5R1VFcDRlNVhEWS03WkM5aVJ3dHlzMldqMElOSG4xNE1uWjh1b1NXc240S3JrUkZ3U08yYzgtWk1Gb2M5UE9fOWpOcDVBdzdvdFZVaGI4azhHeFR1aEpPSVA5UDd1cV95Q2Z1Q2JMc1l0WHFKczlyNE1URXZiZEN6bWVYWS1DVHBHekM1?oc=5
-
-- FCM Travel Appoints Mark McSpadden as Chief Product Officer to Lead AI and Technology Strategy - citybiz
-  Summary: citybiz
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPRE1rR3QyTjZwTWNSS2dlWEN4Z3dadXVuSlFKTkpOdkI2ZUhtWjFzbXI1ZTdQaHpKcldZMjZMbjQ3dHVoVUNialRZcHVBUEYtSDI2SVk2eEJhU2hzMHBTNE1wQ0tTbjZMd1ZZTlktMzBLY0l5Vy1pOVMxYnpuZDFtMmZfVWlockJCZWVXcGtRM3JKQUtrWHJuNUVSZDNsVno5OU1uSDdoNEtkX3FEcWlva2NNTkxOX242Z29iUUY3Z0J6YUppU250aGlQclg1UQ?oc=5
-
-- How Luxury Travel Advisors Compete as AI Trip Planning Doubles - Luxury Travel Advisor
-  Summary: Luxury Travel Advisor
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDBuQTFJOFQ2RW5uZm8tMWdXcFJtbmhySllDY1VQMmhCUDc2Y3ltVllFWG9FOG5rOUZOUUdFZ2dleEMxOFJTVi1xVUVvUVFhSHdZa2p4TnJQcjRadUZPUkRsVVVKd2FRZHJLZVFoalFZNDJQY2xmbmNfbzdVS1JoQk82TTd4V0ZXMnZFREVuTHpMLXZKeWowNGpEYmVpcEEwdm1YRnhXdWpBS2pKdlE?oc=5
 
 
 Bottom Line
