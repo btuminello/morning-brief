@@ -1,78 +1,78 @@
-Morning Brief — November 16, 2026
+Morning Brief — November 17, 2026
 
 Chestnut Hill Weather
-- 33° to 52° today. Right now it's 50° and feels like 44°.
-- Around 8 AM: 36° | 2 PM: 52° | 8 PM: 40°.
+- 31° to 55° today. Right now it's 55° and feels like 48°.
+- Around 8 AM: 36° | 2 PM: 55° | 8 PM: 45°.
 - Wear: light jacket, layers.
 
 Breaking News
-- [Markets] Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5
+- [Markets] Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq dive as Nvidia stock falls ahead of earnings, Anthropic IPO looms - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5
+- [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- [AI] Platinum Demand Soars with AI Data Center Expansion - Investing News Network
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBxRmVOV1Q1YmZnbU5NZXdSQ2xmM2F2d0p1OGEwR0hkRVFQUm85cXpnOGJwa184MDMwU3FGVzAtSnBMM1ViaktDd0FweHVxSWVKZDRmY2ZpSDY2WGxzMVRDUEJSZlctQTRodXpZM2R3VDJubVRuelE?oc=5
+- [Markets] Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5
 
 
 Must Read Today
-- [AI] Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI - SiliconANGLE
-  Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDdZeG1zel9jVlpScUNGWlRmVFlUOTBNQm5UNTBOeGo3bDNvU2YxeC02b1QtcjJ0cVNYZnFnLVotanpyVl9STDc2ZGJSeGNLSmlxTms5b1FCT2JmZk5aTkJicXVwc2xxRHRzSVk2WGhoRDd5RGhIUmJReGJTcTFXaGFQUDlENVFKT1prSUZscEVWMktRdjc5NnJZNlAxVEtNVjdWNHdZbUZkVGp0YmhlZWhVdXhyYVU5d1pWai10QkZqeFVfUjRF?oc=5
+- [Travel / Boop Relevance] Booking Holdings' Vayo starts booking whole trips with AI agents, including on rival Expedia - MLQ.ai
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQa19BYUMzZTEyNEhKUEc3Y0pIMmRhaVFMS2JGR0lsWW5WVUxROHdMOVI4Qi1DcnhobnY2TjQyWklrOWhwQTZFVTdxdnhvZU1JWW0tZXJkMjdrdzgyS3JBa0lpdWZ3WnlrSFFoTUZicTNzS0tqc1FBZW1BOGp2Qnh3RkFzMHVWQXJVdmtXc1JHZzI3ZTAzdERVWFRURzV6YXhVc052RkliSVFkbGVqdGxOag?oc=5
 
-- [Markets] Asian chip, tech stocks tumble ahead of Nvidia earnings as AI concerns weigh on markets - Anadolu Ajansı
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1drcnpoazkwN185aHRaQmVGWmNKa09vSDJXSFFTYVVQRGpuaXBKdGl5QXJoRUpGQ2U1c3M1ZTlseGVRUVNxemtseHBKcXdfaVl0OVZST1pIUU9iaVhsTkFjX3pITHhTejlkc3VRQng0LWMwZHNTOEx3TmJsdU54QW9FY3ZlS3FSRi1ONG81ZVVBemFFLUxUZF8ySGZ6dl9wVTBTOG95amNjUmF1Rkp2VGxqYVVwN1dkRDlXTi1lWFQ?oc=5
+- [Travel / Boop Relevance] Is ChatGPT Getting Into Travel Bookings? OpenAI Acquires AI Travel Startup Odessia - Travel Market Report
+  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUo3NnB1LVV5M1hqSGU5ZWFMOU1oZmJkQ2hyaUFfandQMEpJVzNUOEswWHJLczlNbVlHSnN5czY0bklSY1JEZlM0MFc3U1I5enUycVFYalQ5NWo1QXhQOVFwSFVUTWpvMFZ5VWh4M0tlYUdTUW1wcFRiQU8tWVRTcXlLR1BzZDFaX19NeEZ4OWhLVlZ2NXY1WWtqeHI2bEtDOWJJMGJDenVrR09Dc3VkWENZaU5hV1hibHNVcGgwT1lqZ1VGT3Z3SkNlelpZQ0ZxdDdJ?oc=5
 
-- [Markets] More drops for Nvidia and other AI stocks drag the US market lower, pulling the S&P 500 down 2% - AP News
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5
+- [Travel / Boop Relevance] Voyage Labs raises $12M to build end-to-end AI travel agent Atlas - Dealroom
+  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXRuNE1FeGVZai1oU2puZXVhTzRxUG1pdnIyWFRvU2RYWXZodUE0dTNHUUpFY2Z5blp0ZTRoM05zOEFib3lRZklMZk56RUducjlpcFItTi12ZkJzS0Znc3pRTUthbFZBUk04bEdMVG5oS0VXbFBCbWsxZTJmOUZvWDdpWkNNaW5hUDNDSjFqZFVnX3VpWHFRMWVaOVJFb2c?oc=5
 
-- [AI] SquadUP Cofounder Launches New $15 Million AI-Centric Consumer Venture Fund, Press On - Forbes
-  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSHJhSlJlbkNRWjlQMVV2M2kxQnhXWXYxTzFyd092MGQ0cTR6V1RXZF9ITGZ3aEJYZVY0UVF2RkhZdVJQQkp2UzBjeDhaMDdQWHFEaG5YaFh6d0J5bHlCelJrek9nbU9ZSW9XM1pzbDNSUlpSc0ZNay0wMXdhQnhjbzhrNVl2U0dxRnFGcElDS1Y1TVlhVHVFdllyZ2EtVFp3eUJxWklhRmN1ZmxNYVFvZFJRdGgxUkcya3JRc0Z2ajlWdzZsdGp2bjUzelNVVmdIeTh3?oc=5
+- [AI] SpaceX Debt for AI Chips to Hit Market as Soon as This Week - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkQzSHJMY2NBR2VPUy1JR3g2TlkyNS1FYUdyMzJLb0IxMTVpeFAtNFptVjBTcVBBY29sS3lzUjlJQ29DOUNfdC1fNW1mTm5aWGpHQXp0QTN2a1VHbTI4YTdpU2J2MUxTcU12UThaT0RNQXlkWnV6MzVVODdqc3BSdDVfTzFxUi16MDBVaUhscU5FUQ?oc=5
 
-- [Markets] Stock Market Today: Major Indexes Tumble as Tech Stocks Slide; Nvidia Continues Dropping Ahead of Earnings Report - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPbW1wUS1nbHJVdTJkWVlfcnM3VVJyZnlOU09wZk5aUkh6WGVDMTFKdEZwV1Q0SHUydXhpZmtteVp0NU9PRnFvMFk3YWw2OVVNa0J1SEZWdldoQnNKdmhlOWtxZ3lRbUZVSk1PREFSbzNrWjZGdkViY2RRVEVqcGdndm9SS081TzZsTTVINE5KWFMwb2JoeU5rZE9LZmVSQQ?oc=5
+- [Travel / Boop Relevance] Booking Holdings' AI platform can now complete bookings - Travel Weekly
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVZfSDR5MUVjWHN6a21rT2k0QmtSc09FMUowQTZjd2RjNzFCTE5WSXJaQnpSUW12S3BsR0pyRW5hU0g5TTRJWnhEZkgxZ2tDajZtRld2R3JVYXhzQmJOSTYtdU5OQjdrQzlPdjcyUl9IMk9Nbk9JLVpZMjlZNnNBTVZnZ21UU0J1a3JZWGRNNnU1ZkQ1UU01TTltMHg0U1hFd3lNbEYwc056eUdXMDRadWVkWQ?oc=5
 
 
 AI
-- Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’ - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc?oc=5
+- California sues OpenAI to stop "public nuisance" of out-of-control AI agents - Ars Technica
+  Summary: Ars Technica
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3JNTjZ1QkdUMEhpN0oxeDREM0Voc2IxM2dVaFBqaE0xQkpsaTJlWTc2TkZLS3lUcVNMOURBLWpWcFEzSXVlejVraERGc1pZeFZjT1IteG9PSGtvQlhkRE1OOC1YVjVMTVI2bGdpb3FVcEZTaElxdms4MnlXQU9udzlMVmVBYy1qWXZ2aUxBWEQ4UmxyNms0MWtWamdOeFpGTzZ5WXUxWUc1VFRiOTVlYklmMmUwVkEtRFAw?oc=5
 
-- Commerce closes China’s backdoor to Nvidia chips after White House steps in - Politico
-  Summary: Politico
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeU1jcWtGU0xCZEN1N0RjMEJwTVBTbmRxd2k5QTdZbWpDT1I0b0NkVVpJZ2MzOGxQU1dtcF9rMXdWYmFoM3FKRWlINkVKXy1OTXBsc0tDa3ctTlVpVUQ2c0NuNktMaWRXaHVHd01oRHR4OVoyUlJsbmVkRnd6WVhkOXhfN3lqTVhtVlRqQ3ZZeXphdENpNl9KVmFvV3RqNVYtV0lYYm8yZDJnWXZrTGtCVktwVnI3RUlDZ0lUYzNjdVdKdw?oc=5
+- ChatGPT Maker OpenAI Sued Over AI Agents’ Disturbing Behavior - Yahoo
+  Summary: Yahoo
+  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjNRT1FlX0NIRWJySXJURGhWTlUxX1N2QVU2NzJYTDZsYjBiQVRkOTVZcDJ3dlZ2dFhfVFluSjZURzJXenQ5dkdXOWNzVmlxUkt6aDZXMUhMblZpZzVCVUhnc2hYMzA4UFpITVpPcmd4UnhuZ2UtMVhVa2VZWWdIeVJISjFBd0U3dHRNUw?oc=5
 
-- 5 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEJiTVl0WUlWRTYwM0pXMWZYRTRhVlR2RWFqbWdIY3FvMG9DY2owdUYydktzYUVoZXpBaTRzVW1OWkVrM1RBbDQ5YWJtVThTMTB5Z1pTcy01UHdpZ1ZsWHo5c3ZpTHU0WVdwNGQxYXNHSjBZU0U5VlZIejZjRGR0MkZBSTRFRThFN0RWQm9Qbi1aV1plTS03TnRB?oc=5
+- Build WhatsApp AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
+  Summary: Amazon Web Services (AWS)
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5
 
 
 Markets
-- Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5
+- European shares fall as Deutsche Bank slides, tech stocks tumble ahead of Nvidia earnings - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHJDZmFjdW9lam5TbVQ0SExud2d3RmVmNmYyYmdtXzdiUWxwSlNyRXZjTElYb2gwWWZLQmIxMDBoN0pvb2tSYzZtVVIzeGp5dGxIWU1ZRWpmaFUyN1NwRUVWOUpSTDN6dUZwQUkwRXM0M2lVSHJpM0FyamV2anZZaEFMalNBbHViT3JISXV5VTh4azdkeDZNRWJmODJmVzVYY3BseExzWlU?oc=5
 
-- Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold — Live Updates - WSJ
-  Summary: WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy10SlNMRlFPdjFwZnBNZEwybjZLOGwxdENoX2wxZWpLTlB0bXNvbFctREtRcThZUXcxRUV6ZXlYSVZjR0d1MVNEaHNvVDJfVXVvZEN6MFJMMUF0VnNTMHFTWmtIZzVKMWxCM1BMU3l6UEJUWWVnbzNvTG13TmhQUjNPZlJYQlU?oc=5
+- More manic swings for Nvidia and other jittery AI stocks drag the US market lower - Dayton Daily News
+  Summary: Dayton Daily News
+  Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ0dUNzFETFdLRElla0lVaHVDT0hYZ1l1US0tRmdHRG04d0ZBV0pVQThkMnRUVVYzZVdZTk4tR2luT1JQU2xoT3dWSlVaanlSZkFnbzQxRk5OaEMxQzZnUXgwcklfNUsycEMwMFFtSC1RV2ctNkh5UjhiYzl0YXdIN3dhb1Y1UHZWYzZURDNFZ1AxZWFLTS1OQ2pLNUJLRHFZX0t5VWpWOVp4aDEwMG0yUFRkNkhXWTZsNDhrcE0wNXBKTUpPcTJJTDFudzlGaGFpMHpPRzJTdFZjUWpqYV9QM3F2TVZ3RDBwSEFJY1RpdGJhR2NRVW55UzJZcnlkbEVyd3BOYXIxMA?oc=5
 
-- Tech stocks are leading US futures lower - huntingdondailynews.com
-  Summary: huntingdondailynews.com
-  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWw2d2l5aHBZdlU0YmRoaUhOZGpneVpMaW44YXlzS3pWMTVzT2NSanVYREQyc2M1QnpPVTBsVW1RcVA3Q0NvQ2Y4cDVSQ3gtM1l0akJJTVI1TkM3QUhUWlNpeEVsRmI2R1FtYjVHbTFYSUV1dFk5QkVNWmh6Rk5QS1ltaGl3ZzFJZTRnbVd3dFdUMnZ1cGFvdV9wYTVGTUdCWDNNSHhDY1RrOFItMGZxMVZFSGZFb1QtOHFSekJUTVhUNi1iLW1xVUdGb21PRDVTZWpUZg?oc=5
+- Risks Beyond the Midterms: Tackle Inflation & AI With Value - ETF Database
+  Summary: ETF Database
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnpick03cGl1a2l3ZGJjV0VxVThqb05jUTJIdGhkTmxHTmpzQXN0LWNqMWNkaFNWbldUTlk5TUh3cGRNVFZKLVEtN2hVSGtJSmNld29NMnpXYXN2aXRiY1pvUmlXM3FYUFRUbnFZWXdxOEwzTXN5bWo3MjM5eXJwc0w1bldkT3B0YmhyVzdKN0Z0b1ZnUko4OWREX3QyNWlv?oc=5
 
 
 Travel / Boop Relevance
-- I Tried 4 AI Travel Planning Apps. Did Any of Them Actually Make Booking a Trip Easier? - AFAR
-  Summary: AFAR
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHp3S3RuSWdrLTFSclJBRkViSUE2OTBFQXU5aVlLY0szY3dfTjZoZnI1VmljSFhUcUVBM1JPM3d1ZXFHTmpwNGdzeU5rb3ZqVHFxODlNbURuRFZCUndaeVFHbEt1UHh5ZVBqZlNaQ2Rwc01DV1EyRmh2aDBfUDI3S3dXSDRIM2NBdTBVbHVWSVBRV2VaVmZDaUNraE9mWThY?oc=5
+- Deloitte: 47% of Americans Plan to Travel this Holiday Season, as Travelers Adapt to Make Trips Work - Hospitality Net
+  Summary: Hospitality Net
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM01DWThsMHBqSWZtRGtuaDFqR1VDalUwTzFSOGtVS2VKcEtTbWJZZThDMGhuWGpwU1ZTV0VOU3h5QVdVQjhXOFdvYmdTbjBLSUx2YllJT0daQTJUam9CcTZmMTRWSUd4UVk1M3FFRGtGdWpsRjJRTlVmWHV0alU4dDVXYzdtdnVUa1lLeEpiZm9XS2lmRU14Q1Y0MUdMbWZzZFVvV0VGOU1aakk5ZUNULXMyYzFoNGNTMlRKbkVzdmJJeURZRmVZZFJCREV1dlhsZ3h3bHV3Q1o?oc=5
 
-- PhocusWire's travel tech news briefs: Airbnb, Duffel, Traxo and more... - PhocusWire
-  Summary: PhocusWire
-  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5hUUN5MDNCT0ZaRk8tOUlDclJIcE5DeE9vMmRLVVRXQ2JtV3hCRWt4a0R5Q3MwekVpQXd0VjItRU13MHZOdWxEM3N1NlNzQkVodnRKM2Z4aUx5YjJXdHlqQzhjZXZTUFpmcGkzS2tIdHJXQlgzTWc?oc=5
+- Voyage Labs raises $12 million for a specialized AI travel assistant - TechCrunch
+  Summary: TechCrunch
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEYwbm8xWFQ0V3NGM24zUDBEcnFramJIWmtDaVQwRlRTanZ1bzFlNjhLT09PWHhqNGhZQVNBOEdZRlpwaUJfSlZjOFVrNk5EekY4VGVJejZqYWV6bmZsa3RTUTVMbVRYM1hVNjEtN1NXQUVYN3p5UFkxSWtJdzlhaTI1MDZHNXJOaDNJMVlZQU9zX21GbF9fSmIzOGlQNmFLU0R2Ng?oc=5
 
-- iSeatz Wins Gold in 2026 Travel Weekly Magellan Awards for Travel Technology Excellence - The Manila Times
-  Summary: The Manila Times
-  Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZi12empYeC1oVjN3UmxJa01kaUVqLVhhb1hZdGd3V2c5ZnBjUkJoV05qQWVKNHd5OHpsQ0xPS1IzcEZVWXJJNGVnaGJwenhxZ1pZeWptLUkzRUdhQUwwSG05UHV3ZThsajNlTFhmMXZrbmVTRHJiOU92U2wzbVI5eTJWUVNHdnVfSXBvUFBnWXlfd2EwWl9nczRmaVJaZTdCT2lYRG1mWGFzX0FleFhJUXhQQncyNGVKVDNoTG5lQ25ndVZpcERaQnFPbm1TdGtfVDIyQV9xSzFvQzJXa0hpVlRMV0o1R1g2ZEZrdl9JdTU2SmfSAfgBQVVfeXFMT1NYNDZxUHMyNU5kV1ljRGtWMHdCMFRQRFBTUVItY05xSElBUDRNcGhnN3N0Tm1fNC1LMGl2aUFtYTFwRjd0VUtYWjRPWTFIMmxOMzBnYWRnT0w5YWVlVXBibTNQd2tUbl9xUG5RTktrZGJYSjE2bEd2dGRvMkRoWk00RllOcEtoUFl3S210cy1jX0ZDMWxUZ3BmeDZzaXB4Z2pVT09uNzBxUXVpWXUtY24tSVVnMmhvVmxkSGRicWxudXlzX3pCRzFDUUJGMTI0Yy1lMTV4UGcwR3FORUdMNXVrYkJuZm5Hcm9OcWVzakk0TmZ4bTRTVlI?oc=5
+- Wave of technology outages raises concerns ahead of holiday travel season - WRGB
+  Summary: WRGB
+  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSF9QNURDNFFFOXNfMnBWVlVsY2NIUkx6NS0zTUJuT1ZDeUwwTm5GV01Bb1ZBMXN6bzY4NWNpaVBISVdDcE9TakRzMHdXQkg2S0g5YmEydjJ4LXd1eFpYTHh0alFqV2lNeFBIS2lmblZXcEpLSkFNdGp4UGJhZFpLbGJiT19pNzR6WWctYWZ4cEE1TUV4TWVRRTZ1eFZBS0tHUVd6Yk50V09TbUk?oc=5
 
 
 Bottom Line
