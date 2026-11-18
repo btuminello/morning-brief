@@ -1,78 +1,78 @@
-Morning Brief — November 17, 2026
+Morning Brief — November 18, 2026
 
 Chestnut Hill Weather
-- 31° to 55° today. Right now it's 55° and feels like 48°.
-- Around 8 AM: 36° | 2 PM: 55° | 8 PM: 45°.
-- Wear: light jacket, layers.
+- 41° to 63° today. Right now it's 63° and feels like 56°.
+- Around 8 AM: 46° | 2 PM: 63° | 8 PM: 51°.
+- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5
+- [Markets] Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves - WSJ
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5
 
-- [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
+- [Markets] Stock market today: Dow slides, S&P 500 and Nasdaq rise as Nvidia clears earnings hurdle, Anthropic prepares to price its IPO - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5
 
-- [Markets] Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC
-  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5
+- [Markets] Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURESHotYzFzck1UMzlCXzNKdkthQUVJNVFZOHNlaExhR3IxSjhsazlZSHphalJnMlQ2VjNqWkVnRm1OTWFfSHl5ZkRiQ2dQLTF3SVpua18yMXp1cWhyWnNEdWZGcmFZczd6MmRxTDhsc0xPRnprd0tLUjhLWGprdWVyUnNKMEFDZWxJM0tfQmdaQm1QT2FGMlU1eE5iRUl2TzZENVZtNHpJTUJ6ckhHbEljXzJfXzctdjR4Rl9UQ0tvUzhSTk9IX29KYkdvNlFBbHFWNzNpbXFIa3M?oc=5
 
 
 Must Read Today
-- [Travel / Boop Relevance] Booking Holdings' Vayo starts booking whole trips with AI agents, including on rival Expedia - MLQ.ai
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQa19BYUMzZTEyNEhKUEc3Y0pIMmRhaVFMS2JGR0lsWW5WVUxROHdMOVI4Qi1DcnhobnY2TjQyWklrOWhwQTZFVTdxdnhvZU1JWW0tZXJkMjdrdzgyS3JBa0lpdWZ3WnlrSFFoTUZicTNzS0tqc1FBZW1BOGp2Qnh3RkFzMHVWQXJVdmtXc1JHZzI3ZTAzdERVWFRURzV6YXhVc052RkliSVFkbGVqdGxOag?oc=5
+- [AI] Article - Local Government AI Policy Toolkit - Consumer Federation of America
+  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnVfNzhBbWxvNDdjLVJSSFVzXzgxcy1RR3ZpTnAxU29ma2txckR0SDV5Sk9uWDN1WjlxejlmWFE4bmEtR3RQYXpRc25WR2lsaHBxUWphSEVid2xiSVVPbjVjRFRjOGhZd1BlOFRxVmhrdTIweWlFWVJIdDVlTF93SDRR?oc=5
 
-- [Travel / Boop Relevance] Is ChatGPT Getting Into Travel Bookings? OpenAI Acquires AI Travel Startup Odessia - Travel Market Report
-  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUo3NnB1LVV5M1hqSGU5ZWFMOU1oZmJkQ2hyaUFfandQMEpJVzNUOEswWHJLczlNbVlHSnN5czY0bklSY1JEZlM0MFc3U1I5enUycVFYalQ5NWo1QXhQOVFwSFVUTWpvMFZ5VWh4M0tlYUdTUW1wcFRiQU8tWVRTcXlLR1BzZDFaX19NeEZ4OWhLVlZ2NXY1WWtqeHI2bEtDOWJJMGJDenVrR09Dc3VkWENZaU5hV1hibHNVcGgwT1lqZ1VGT3Z3SkNlelpZQ0ZxdDdJ?oc=5
+- [Travel / Boop Relevance] A.I. Is Rewriting Travel Discovery. Can Booking Platforms Keep Up? - Observer
+  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5xNjR4WkcteGhIbDNnOFBhWjVJZy0tQi1BNU1HNDdIMFY4VnBwc1RvamktX2NCLW5mNWhNRU10VkwyS0lkNDJRTmRNU2F0VjVDWFltNGhtQkJPT0xXcXVKRkNUT1hEekh3UHdJR245MVJUbXFnZFBWMmF3dw?oc=5
 
-- [Travel / Boop Relevance] Voyage Labs raises $12M to build end-to-end AI travel agent Atlas - Dealroom
-  Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXRuNE1FeGVZai1oU2puZXVhTzRxUG1pdnIyWFRvU2RYWXZodUE0dTNHUUpFY2Z5blp0ZTRoM05zOEFib3lRZklMZk56RUducjlpcFItTi12ZkJzS0Znc3pRTUthbFZBUk04bEdMVG5oS0VXbFBCbWsxZTJmOUZvWDdpWkNNaW5hUDNDSjFqZFVnX3VpWHFRMWVaOVJFb2c?oc=5
+- [Travel / Boop Relevance] AI agents could take over travel bookings and payments by 2032, finds study - Fast Company Middle East
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzhWczVtT2wzZmJvVWNmdDZ5NS1pSmJycDFYQTl0LXZuUFlyelVBMDZ4WE90eFZDZnVmY2Y1aktMd1Q5X25LeDdrLTE2Y3RtTFBOd25NbG5MZ2llYkFlNEt4cGJKUGszeGtZVVlLdDRNYllkdTZ4dXF5LUhpZnFwb2tObmtRSUFucndJSFhCc21OckRrTW5SVER0akNjLWFrekF2SVBmb2lpUQ?oc=5
 
-- [AI] SpaceX Debt for AI Chips to Hit Market as Soon as This Week - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkQzSHJMY2NBR2VPUy1JR3g2TlkyNS1FYUdyMzJLb0IxMTVpeFAtNFptVjBTcVBBY29sS3lzUjlJQ29DOUNfdC1fNW1mTm5aWGpHQXp0QTN2a1VHbTI4YTdpU2J2MUxTcU12UThaT0RNQXlkWnV6MzVVODdqc3BSdDVfTzFxUi16MDBVaUhscU5FUQ?oc=5
+- [Markets] U.S. Stocks Slip After Nvidia Earnings Fail to Soothe Nerves - WSJ
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5
 
-- [Travel / Boop Relevance] Booking Holdings' AI platform can now complete bookings - Travel Weekly
-  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVZfSDR5MUVjWHN6a21rT2k0QmtSc09FMUowQTZjd2RjNzFCTE5WSXJaQnpSUW12S3BsR0pyRW5hU0g5TTRJWnhEZkgxZ2tDajZtRld2R3JVYXhzQmJOSTYtdU5OQjdrQzlPdjcyUl9IMk9Nbk9JLVpZMjlZNnNBTVZnZ21UU0J1a3JZWGRNNnU1ZkQ1UU01TTltMHg0U1hFd3lNbEYwc056eUdXMDRadWVkWQ?oc=5
+- [AI] More banks says customers using AI agents are on their own — even if they get hacked - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHNqd0hod1hNMEdGRTMwTHU3cS1NbVZ4dlBYamVFQ1lLa0oxSUVkd3BFSzJpS05rZ05VVV9BQkRvSlpxaS1STmZKVUNlRGpWZmRUV2hPVTlJdHZpSzNUR2pYYWpGTk5BcHhrQkhUY0ducUZSd2VBWS1VQklsajBFR3cxbmM1VUo0OWFMeElKSzUwWkFFQjlQVm43QnA2WkRxTms4RW1kVGdJemV1YU15QUZGVnpScHRB?oc=5
 
 
 AI
-- California sues OpenAI to stop "public nuisance" of out-of-control AI agents - Ars Technica
-  Summary: Ars Technica
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3JNTjZ1QkdUMEhpN0oxeDREM0Voc2IxM2dVaFBqaE0xQkpsaTJlWTc2TkZLS3lUcVNMOURBLWpWcFEzSXVlejVraERGc1pZeFZjT1IteG9PSGtvQlhkRE1OOC1YVjVMTVI2bGdpb3FVcEZTaElxdms4MnlXQU9udzlMVmVBYy1qWXZ2aUxBWEQ4UmxyNms0MWtWamdOeFpGTzZ5WXUxWUc1VFRiOTVlYklmMmUwVkEtRFAw?oc=5
+- SPONSORED Putting AI agents to work safely - Axios
+  Summary: Axios
+  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1PalBBelg2d2JQUkZSZXpPNlMzeEMtUXh3eXoybHIxbVJnWU14cUt5WlhJZzRpWVpHaGlhY3JYUF8wUzlkb1JrNzRnRW1PSHlBM0hmQlhKaGFVMm51R3VnTFVOVGhTRUpCN2lwQWt2eTFOUQ?oc=5
 
-- ChatGPT Maker OpenAI Sued Over AI Agents’ Disturbing Behavior - Yahoo
-  Summary: Yahoo
-  Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjNRT1FlX0NIRWJySXJURGhWTlUxX1N2QVU2NzJYTDZsYjBiQVRkOTVZcDJ3dlZ2dFhfVFluSjZURzJXenQ5dkdXOWNzVmlxUkt6aDZXMUhMblZpZzVCVUhnc2hYMzA4UFpITVpPcmd4UnhuZ2UtMVhVa2VZWWdIeVJISjFBd0U3dHRNUw?oc=5
+- Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents - Microsoft Source
+  Summary: Microsoft Source
+  Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPNm14ZjRrTW93dFpEX3FpMzhVcGNZQ0dGMm0tc2dxcGhxQ1Y0WjN6T0YtbkxlYjh1YTFHVHJ3R3NrbG56anItWjh2bTRpcktQYTdmLWdTUUI3aGRBVzZ5UDlEWGJXMlhLTDYyeDdiWFZUbDVMOHAtMUZzbm5zTzEzcUpERTlLbG5CNmlTbnNZcTNPTXE5Zk9Mc1I0QjF5bjJDcWdvUVNzQjRZRmtqX2Z6NW4teE11dGZGN2ZCd2JaUXR3X00tQlZvaVhLSG45QzlwZ2JLeXRMTlgtSFRNdnRieXd1Sklwc0U3dk5fc0pxQTlmTWlnTUlSUDVhWlF6WkxLVDhqMmVVa1dnY21t?oc=5
 
-- Build WhatsApp AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
-  Summary: Amazon Web Services (AWS)
-  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5
+- Mississippi gov. on AI infrastructure sentiment: ‘Everybody in America uses data centers regularly’ - Fortune
+  Summary: Fortune
+  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxObUZLU1RMUDNlRkRCclBsTE41ZmxlbzVMdUtyeG02VDFLc1AyYXJ0TmpTelBqTGIyS3pZRkxPNXhXTzA3ODlwTzZyYzRvTzZIS1NaU1p1RUV3Sl94RnhMOGdrX01UZUhybEt4UDJxeG9ybGFsc0tTT180Rmt0dGtuMlZ6UXA5YUg3ajN1dkExajJ0VkJUNFl3?oc=5
 
 
 Markets
-- European shares fall as Deutsche Bank slides, tech stocks tumble ahead of Nvidia earnings - Yahoo Finance
+- Nvidia stock erases earnings pop as investors face life after Jensen Huang - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHJDZmFjdW9lam5TbVQ0SExud2d3RmVmNmYyYmdtXzdiUWxwSlNyRXZjTElYb2gwWWZLQmIxMDBoN0pvb2tSYzZtVVIzeGp5dGxIWU1ZRWpmaFUyN1NwRUVWOUpSTDN6dUZwQUkwRXM0M2lVSHJpM0FyamV2anZZaEFMalNBbHViT3JISXV5VTh4azdkeDZNRWJmODJmVzVYY3BseExzWlU?oc=5
+  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5
 
-- More manic swings for Nvidia and other jittery AI stocks drag the US market lower - Dayton Daily News
-  Summary: Dayton Daily News
-  Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ0dUNzFETFdLRElla0lVaHVDT0hYZ1l1US0tRmdHRG04d0ZBV0pVQThkMnRUVVYzZVdZTk4tR2luT1JQU2xoT3dWSlVaanlSZkFnbzQxRk5OaEMxQzZnUXgwcklfNUsycEMwMFFtSC1RV2ctNkh5UjhiYzl0YXdIN3dhb1Y1UHZWYzZURDNFZ1AxZWFLTS1OQ2pLNUJLRHFZX0t5VWpWOVp4aDEwMG0yUFRkNkhXWTZsNDhrcE0wNXBKTUpPcTJJTDFudzlGaGFpMHpPRzJTdFZjUWpqYV9QM3F2TVZ3RDBwSEFJY1RpdGJhR2NRVW55UzJZcnlkbEVyd3BOYXIxMA?oc=5
+- Dow slides 400 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5
 
-- Risks Beyond the Midterms: Tackle Inflation & AI With Value - ETF Database
-  Summary: ETF Database
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnpick03cGl1a2l3ZGJjV0VxVThqb05jUTJIdGhkTmxHTmpzQXN0LWNqMWNkaFNWbldUTlk5TUh3cGRNVFZKLVEtN2hVSGtJSmNld29NMnpXYXN2aXRiY1pvUmlXM3FYUFRUbnFZWXdxOEwzTXN5bWo3MjM5eXJwc0w1bldkT3B0YmhyVzdKN0Z0b1ZnUko4OWREX3QyNWlv?oc=5
+- Target earnings squash estimates as inflation-weary shoppers see great deals - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0E3aW9Wc3JXc0tIbWtLaTRLaV90MUdheFFrcFlLb1lzOVlTa01xc185ODdud1hjb0hBRHFDVTY1aUhOZjd6RF80Q3FJX0gyalREeXR5RlppUGRNa3RvcmhUZVNBeXZBQWVzd2RrVHYyaEV0eVJJZTdTd0VONHVPS2VMZGxRMkxWVXAxMUc5QTM5dEs3NnpVaWU1RjhFZjlUS3V6Tllad0Q0WVd0WFpiOVVHQzJlLU1ad01hLUk2Znpod3Y4aDd3WDRHdHptZEJ4enRuRzdkcw?oc=5
 
 
 Travel / Boop Relevance
-- Deloitte: 47% of Americans Plan to Travel this Holiday Season, as Travelers Adapt to Make Trips Work - Hospitality Net
-  Summary: Hospitality Net
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM01DWThsMHBqSWZtRGtuaDFqR1VDalUwTzFSOGtVS2VKcEtTbWJZZThDMGhuWGpwU1ZTV0VOU3h5QVdVQjhXOFdvYmdTbjBLSUx2YllJT0daQTJUam9CcTZmMTRWSUd4UVk1M3FFRGtGdWpsRjJRTlVmWHV0alU4dDVXYzdtdnVUa1lLeEpiZm9XS2lmRU14Q1Y0MUdMbWZzZFVvV0VGOU1aakk5ZUNULXMyYzFoNGNTMlRKbkVzdmJJeURZRmVZZFJCREV1dlhsZ3h3bHV3Q1o?oc=5
+- Travel industry leaders predict AI-driven changes to travel planning, bookings in 2027 - Travel & Tourism News Middle East
+  Summary: Travel & Tourism News Middle East
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTGNGdlNfWDZ6YWFHc3RWRlZKdk1oR2tQY0lkNHNqZjFRYml5Q0htMVhHOEoyaWRzb2xOOTk0Y1BaVjZ1NTA5UG9Ld2g1bmNndnlIMzZ4Zll5ZHlvSk5HNXRzYW9uVXdCcjhWQ2pvcHNqU1FVb0U0X3ZiQTFCSndCNDcydGtzYXRiSGJwZDduclUwcW9qcUo3X0tDZUhhcG5MRi1oWF9qY1pPYnBzWUFnT3Q2YmV4LWZIU0tVRHRHQlFFTG1Vd1AxcV9GaEI?oc=5
 
-- Voyage Labs raises $12 million for a specialized AI travel assistant - TechCrunch
-  Summary: TechCrunch
-  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEYwbm8xWFQ0V3NGM24zUDBEcnFramJIWmtDaVQwRlRTanZ1bzFlNjhLT09PWHhqNGhZQVNBOEdZRlpwaUJfSlZjOFVrNk5EekY4VGVJejZqYWV6bmZsa3RTUTVMbVRYM1hVNjEtN1NXQUVYN3p5UFkxSWtJdzlhaTI1MDZHNXJOaDNJMVlZQU9zX21GbF9fSmIzOGlQNmFLU0R2Ng?oc=5
+- Booking Holdings creates new enterprise division as AI reshapes travel planning - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMickFVX3lxTFBTUWlOUDIxakpuX3IzMTdTUjd3VVYxTHV5VGVFdHQ0OUZsRTVXNS1hS2Vkb0Q4SGI5d3NYcEtXOUhFUE9ycTVVRlFjZ1g5Ym1MNXZhajlELU43bzRhWjVKSGVJV25Bbks4WXF2aXpuNXZuQdIBd0FVX3lxTE4zQTZka1luZmxzZG52MWQwTFdMMU9qLTM4NEpObU1IWlJxVlhMMTUtTmdMRUx5NEZuRlp3N0Z3MGdseUFUU3pGcGtKTk1uNG96QWNTYnBVS3FGWl9UblU2MDFzdEp1QTFEQ3lyOWNYczNLZ01kTmJz?oc=5
 
-- Wave of technology outages raises concerns ahead of holiday travel season - WRGB
-  Summary: WRGB
-  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSF9QNURDNFFFOXNfMnBWVlVsY2NIUkx6NS0zTUJuT1ZDeUwwTm5GV01Bb1ZBMXN6bzY4NWNpaVBISVdDcE9TakRzMHdXQkg2S0g5YmEydjJ4LXd1eFpYTHh0alFqV2lNeFBIS2lmblZXcEpLSkFNdGp4UGJhZFpLbGJiT19pNzR6WWctYWZ4cEE1TUV4TWVRRTZ1eFZBS0tHUVd6Yk50V09TbUk?oc=5
+- WEBUY GLOBAL LTD. Launches WeTrip App on ChatGPT to Connect Travelers With China Tours and Personalized Proposals - Quiver Quantitative
+  Summary: Quiver Quantitative
+  Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeXlrZERRQ3hEbVhmVkdUeWhYOUpsQm5MVU1ETm5mS1ItV3pmaUJsaXMxcGxpejNCaVotQ1dpVTJHNGFoaHB4LUpzTzlidi1XZWxzN3doTGIwTE1NaF9qV2hYRHloVUVHYm91Ym1qNF92cjRfcHp6Rl8yU0pNYkVfT1dhZlJ2a21aZ3VlNVVXcUJ1Z2FhMDQzN2MxenpYdFRicDZIb19ySjJlcFBqYkwtVmUyMm9UVWNVMllUcjZURVNhRG42eHdOZlhzTjRXcmV1VDc4N0E1QU00d2ZmbUJv?oc=5
 
 
 Bottom Line
