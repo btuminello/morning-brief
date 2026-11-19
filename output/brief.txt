@@ -1,78 +1,74 @@
-Morning Brief — November 18, 2026
+Morning Brief — November 19, 2026
 
-Chestnut Hill Weather
-- 41° to 63° today. Right now it's 63° and feels like 56°.
-- Around 8 AM: 46° | 2 PM: 63° | 8 PM: 51°.
-- Wear: light layer, layers.
 
 Breaking News
-- [Markets] Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves - WSJ
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5
+- [AI] Gradiant Refocuses Water Infrastructure Business on AI, Launches Entropy Technology Platform - Data Center Frontier
+  Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGdrRkd4YnM1N2M1Wmt5eE5UU2ZydnhmMURlYnpqS21scjkyU1E3T1p5ejZlSFNYVW9DU1RKVnkxQTB6bml0bWk1d1FJc2pQbl84MnlNYUl5TXZBenJRX3pTYmNMVmYtUmVZdDhmUDAtZDJCUm4zelpTRHdGUWFGQ3RVWnB6T05TMUY0NFo2eUUwaEtmUDdaeXRfbHpraUdRWDBoMkNYX1BKaTVQVjBBQVhQNXI0SUNJbzVpMjJMS2hKODZxMS1KZjVRUVV2TFRJT2NCcEEwRDBxZEhIc2lNSWcxdjhsLUJIM1lTZlRLeElZeGo2UXFj?oc=5
 
-- [Markets] Stock market today: Dow slides, S&P 500 and Nasdaq rise as Nvidia clears earnings hurdle, Anthropic prepares to price its IPO - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5
+- [Markets] Fed Chair Kevin Warsh Vowed to Hit the Fed's 2% Inflation Target After October's Rate Hold, Even as JPMorgan Warns Democratic Control of the Senate Could Make Him a One-Term Chair. Here's Why That Political Risk Matters for Markets. - The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGRMc0x2SllJRzJ4YWlQN0NPYmNaMU9ZelRCZWVCSVBNQWtiUHpJWVMwd2R3cy1IQzNnNFRKR2tBMDh3MXV3QzR5cFF0ZmVRV1hqQTJ3X0lkU2I3UVFBQ0QxTnpoWGtVQUFLSGQ2YkUxdk9SSnhib0xlUDNFd0xPRWRZaXdQY2t3LUhDU2FaZ1huNHl0RTN3RlR0ejNpcEdGT3BjVDNLN1ZVNXdYeFpSdFNLSUp1MUhubUhhcDMwNmtOa1dKanNWMDhsYnBZWFJWMmI2dXZCdDNuNVhTWGc3MWFhZTFFLXhjTUxtVnhoWW1RTFBVTllHSkNRUGFsa1g4LWJUcFc4SjZDZGlQTWF4NnhBcHo2cnpmQk9tbVllSXkyQkJVQ2dMckF0RUIwclAzSkRFRmd6dTlobjE1MGVfQ3BqRHoySVhVODRzNWxxbEFvRXBSa1IzcjNKTWRqVjJDT1lGZWlQSWlhanlLRktKNzRjNGpfUExESWZxSk1PVE5IdS1ZQTIyR0VaMnhKOUFpRlNXeHE5aVEtMzk1RHo0?oc=5
 
-- [Markets] Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURESHotYzFzck1UMzlCXzNKdkthQUVJNVFZOHNlaExhR3IxSjhsazlZSHphalJnMlQ2VjNqWkVnRm1OTWFfSHl5ZkRiQ2dQLTF3SVpua18yMXp1cWhyWnNEdWZGcmFZczd6MmRxTDhsc0xPRnprd0tLUjhLWGprdWVyUnNKMEFDZWxJM0tfQmdaQm1QT2FGMlU1eE5iRUl2TzZENVZtNHpJTUJ6ckhHbEljXzJfXzctdjR4Rl9UQ0tvUzhSTk9IX29KYkdvNlFBbHFWNzNpbXFIa3M?oc=5
+- [Markets] Fed Eyes Bigger Hikes As Bond Market, Oil And Copper Signal Inflation Is Already Fading - Seeking Alpha
+  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkc5YjNjbVkxUTEzaE1BTXRISW50cmJMYUZ2ZFRiQkQwb3VVWC1aejJlV1hwZ1d3cHBqRmdfUnUzRlNhLXd5SGFraldKYV9SVDQtVzJYaENldEJWRmxIeXFIRjVid3VpMkFXS0NBTGJTbXFnNHdLY3hqOEJ3LXAzQ3ExXzU4RkdVM1ptTThiYXRaNFlZZm5vVmVQbWpMRjJGTk1LOVFwRWQ5N3p4MjlhUlJRSzUzdXAw?oc=5
 
 
 Must Read Today
-- [AI] Article - Local Government AI Policy Toolkit - Consumer Federation of America
-  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnVfNzhBbWxvNDdjLVJSSFVzXzgxcy1RR3ZpTnAxU29ma2txckR0SDV5Sk9uWDN1WjlxejlmWFE4bmEtR3RQYXpRc25WR2lsaHBxUWphSEVid2xiSVVPbjVjRFRjOGhZd1BlOFRxVmhrdTIweWlFWVJIdDVlTF93SDRR?oc=5
+- [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- [Travel / Boop Relevance] A.I. Is Rewriting Travel Discovery. Can Booking Platforms Keep Up? - Observer
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5xNjR4WkcteGhIbDNnOFBhWjVJZy0tQi1BNU1HNDdIMFY4VnBwc1RvamktX2NCLW5mNWhNRU10VkwyS0lkNDJRTmRNU2F0VjVDWFltNGhtQkJPT0xXcXVKRkNUT1hEekh3UHdJR245MVJUbXFnZFBWMmF3dw?oc=5
+- [Markets] Fed minutes show growing unease about the outlook for inflation - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5
 
-- [Travel / Boop Relevance] AI agents could take over travel bookings and payments by 2032, finds study - Fast Company Middle East
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzhWczVtT2wzZmJvVWNmdDZ5NS1pSmJycDFYQTl0LXZuUFlyelVBMDZ4WE90eFZDZnVmY2Y1aktMd1Q5X25LeDdrLTE2Y3RtTFBOd25NbG5MZ2llYkFlNEt4cGJKUGszeGtZVVlLdDRNYllkdTZ4dXF5LUhpZnFwb2tObmtRSUFucndJSFhCc21OckRrTW5SVER0akNjLWFrekF2SVBmb2lpUQ?oc=5
+- [Markets] Mortgage rates move higher again as inflation jitters mount: Mortgage and refinance interest rates today, Thursday, November 19, 2026 - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMirgJBVV95cUxOZWxzVFZ5V29kVEJ4emJ6NndBMGZWLWVIWXVMS0ZrUS1xX1o2dk1jM3FtUTdaalVqal80cVVmNmNvMGVBRDlDdmFGVmh1WWxrUWhZSEU4U0pYUTY1eGNBZ2dXeWpzRkpmeHNPYjJXQjdndC1qSHRTM1JseVY5RlF5bXJra25XY0pIcWUybUprREpoZHFKYV9GNXpxaGZxWGcwRzM2OVlQelY0Z256VlQ5ZVVYZjFDck9feUc0VkRNR2xUaG0yR2FuRlE5QTlCbElaWm02U2g5V1ozcVVtUGx3SVRSdW1SVUplV2FxMnVYYlZWc0J5d3NtSzhQdUxiZzRaazVVQU5EYk1xdENRQ3FnU0xMeS1rY1M3U3RfRmtjamF2N3lsZ1dOcDZhMjVkZw?oc=5
 
-- [Markets] U.S. Stocks Slip After Nvidia Earnings Fail to Soothe Nerves - WSJ
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5
+- [Markets] What Does A Fed Hike Mean For AI Stocks? - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTlEaDdUc21aTkJHSU9OQzF2X2VrampzR3FWbHgycTEtR1A4dldtTkFxOVExSGNVOWpyd3NCMTJBZnk2ME03eEhSZmo5X19xemxfak8wNUV1Yno5UXZxcTlNZllXOXh0OEFpc0dEVldETkVTVmNETS1pZWRPcmJMY0ZTT2ZicHFrcEp3aW5R?oc=5
 
-- [AI] More banks says customers using AI agents are on their own — even if they get hacked - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHNqd0hod1hNMEdGRTMwTHU3cS1NbVZ4dlBYamVFQ1lLa0oxSUVkd3BFSzJpS05rZ05VVV9BQkRvSlpxaS1STmZKVUNlRGpWZmRUV2hPVTlJdHZpSzNUR2pYYWpGTk5BcHhrQkhUY0ducUZSd2VBWS1VQklsajBFR3cxbmM1VUo0OWFMeElKSzUwWkFFQjlQVm43QnA2WkRxTms4RW1kVGdJemV1YU15QUZGVnpScHRB?oc=5
+- [AI] Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents - WIRED
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGJoN2NDT1pLQnRlbzdfV1ZjQlBlV1JxUjZIV1hXYVlTV2FNZWpyYTdTZWpyNXFYdm9UNDF1ZG1MZnUwakVTZmxXelN6QWJ3UGZkZHdiRTBOMUlnQTI5Sng0bC1yRDhNYjFYYmszTExwNDdNdWRBVGd6bUtwTG4wZlAtam5pUEdOU0NScGJfMEUtbHhBeHQ1ajNRQWc2UFhra0plTFFybw?oc=5
 
 
 AI
-- SPONSORED Putting AI agents to work safely - Axios
-  Summary: Axios
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1PalBBelg2d2JQUkZSZXpPNlMzeEMtUXh3eXoybHIxbVJnWU14cUt5WlhJZzRpWVpHaGlhY3JYUF8wUzlkb1JrNzRnRW1PSHlBM0hmQlhKaGFVMm51R3VnTFVOVGhTRUpCN2lwQWt2eTFOUQ?oc=5
+- Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop? - Forbes
+  Summary: Forbes
+  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1NoVk5haG1jbkZQc0p5eklTTldTRnBaNno4NjdNTnpybWZEVTdMSGYwdzRpQjc0bDk0WEw5X3hIenNZV0tvX2Y5enhPTjdTNmJuVDZMQmktOFkybWRtRE4xamZjM2pma04zcEtBMHdFLTZJeUoySEtTOTNtdko2dFJfMF9CNXg1S00weU9DQXFBb2JoU0EwdnZRQzdLcVROc1BsWXJrNnR2VXVXakgwNDEtRFBGUng3ci15ck4wTQ?oc=5
 
-- Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents - Microsoft Source
-  Summary: Microsoft Source
-  Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPNm14ZjRrTW93dFpEX3FpMzhVcGNZQ0dGMm0tc2dxcGhxQ1Y0WjN6T0YtbkxlYjh1YTFHVHJ3R3NrbG56anItWjh2bTRpcktQYTdmLWdTUUI3aGRBVzZ5UDlEWGJXMlhLTDYyeDdiWFZUbDVMOHAtMUZzbm5zTzEzcUpERTlLbG5CNmlTbnNZcTNPTXE5Zk9Mc1I0QjF5bjJDcWdvUVNzQjRZRmtqX2Z6NW4teE11dGZGN2ZCd2JaUXR3X00tQlZvaVhLSG45QzlwZ2JLeXRMTlgtSFRNdnRieXd1Sklwc0U3dk5fc0pxQTlmTWlnTUlSUDVhWlF6WkxLVDhqMmVVa1dnY21t?oc=5
+- OpenAI Faces Investigation in Arizona Over Rogue AI Agents - PYMNTS.com
+  Summary: PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ0eEhZU3VWYjh5MHA1aWRPcjRxX1FIeUJiWkk5dU9jWlpIN3lhenYxRzZjVmR0N0dEOXJXYThHejZVcEtpUGx6bzBvN2ItdXk5WGxvaWVpMjdkZlJvUWdZREdxeFMxMFlmVDFUbks2VHNmVm5vVVRsTmtrN2JOM1pDLUNYWXVrd2szd3ZIaTVrdGZTY3pUcGpOVlBaTFNOSS10VV8xVnRyQVNsLV9wX1RQZw?oc=5
 
-- Mississippi gov. on AI infrastructure sentiment: ‘Everybody in America uses data centers regularly’ - Fortune
-  Summary: Fortune
-  Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxObUZLU1RMUDNlRkRCclBsTE41ZmxlbzVMdUtyeG02VDFLc1AyYXJ0TmpTelBqTGIyS3pZRkxPNXhXTzA3ODlwTzZyYzRvTzZIS1NaU1p1RUV3Sl94RnhMOGdrX01UZUhybEt4UDJxeG9ybGFsc0tTT180Rmt0dGtuMlZ6UXA5YUg3ajN1dkExajJ0VkJUNFl3?oc=5
+- Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway - Amazon Web Services (AWS)
+  Summary: Amazon Web Services (AWS)
+  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3FfcWJ4UVRUNENTcDFOZE5aSHhIY2x0QzVFN2szTnR2R0pMYmkyMkUwdjk3UjZFUnk0dnE1OXRobEdpb2J1NElNZGFUOWtUVkhtSGdyUWRiWG5EcFdZS292QVpuNUx4MG1PY1o3WGhJazBvQlJLRGVPMXYxb2tEajVzbG5NUi1Yb1NsWDFxV1hTVkU5NWJLakhNdEJkS3lJbFNkOG1EVFg2aWJkOTZDNUxxcDdFTy1XSlA4WUdn?oc=5
 
 
 Markets
-- Nvidia stock erases earnings pop as investors face life after Jensen Huang - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5
+- Stock Market News, November 18, 2026: Nvidia Earnings Fail to Soothe Investors’ Nerves - WSJ
+  Summary: WSJ
+  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5
 
-- Dow slides 400 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5
-
-- Target earnings squash estimates as inflation-weary shoppers see great deals - Yahoo Finance
+- Stock market today: Dow, S&P 500, Nasdaq rise ahead of historic Anthropic IPO - Yahoo Finance
   Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0E3aW9Wc3JXc0tIbWtLaTRLaV90MUdheFFrcFlLb1lzOVlTa01xc185ODdud1hjb0hBRHFDVTY1aUhOZjd6RF80Q3FJX0gyalREeXR5RlppUGRNa3RvcmhUZVNBeXZBQWVzd2RrVHYyaEV0eVJJZTdTd0VONHVPS2VMZGxRMkxWVXAxMUc5QTM5dEs3NnpVaWU1RjhFZjlUS3V6Tllad0Q0WVd0WFpiOVVHQzJlLU1ad01hLUk2Znpod3Y4aDd3WDRHdHptZEJ4enRuRzdkcw?oc=5
+  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXhNWlBKdWY1c1VVOUFWanUwVXB1TUw0b1BmS19waUxtbERqZFpkR0F2dGMxbnVZZXRPNmRtc1lVMGo0cXlKZjVZMXM5N0VHajZpd3RuaFo3UHVPRVVtaERNeXE2OTZZcU9SaDhOWENOR3M4eFNXY0dPTFJ2LW04TEptVGFTZmQzd2p3WFhhNEwwMXRVR0dSdUh3ZXZqeTkwQ3RueWRZY0JYOUQyZGl6SWo1aGREcHdGcVo2anUydFBLb0gwOVdUQnhB?oc=5
+
+- Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5T valuation - Yahoo Finance
+  Summary: Yahoo Finance Anthropic IPO Live Updates: Stock Begins Trading at $111.50 Per Share The New York Times Dow dives 800 points as Anthropic IPO milestone causes investors to take...
+  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJBc3JzY0NwYkFWVWFEbGtLUTlvYTRHeFdVUlhTTUhhNFp6TzNIS1ZhejNINXk3ekxNc2lwNklyaXRDNWt3NjJkRldjZkpsTmNDSVYyNHNOTG1FRjBtOFZYelV6b3d1YXk5NmM0LW5RZUp1UHVHLU5FNVgzNlZQX2ZxUmpfTkhpYVBEYm5ZclBZUlk4dEJfYm95SF9aaFV1ZVAtclZZbVJnVE1Sd0xmN21ZLU9uSFh1Si1KRUhfRzhHVGJhT0VYQlEzNmg?oc=5
 
 
 Travel / Boop Relevance
-- Travel industry leaders predict AI-driven changes to travel planning, bookings in 2027 - Travel & Tourism News Middle East
-  Summary: Travel & Tourism News Middle East
-  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTGNGdlNfWDZ6YWFHc3RWRlZKdk1oR2tQY0lkNHNqZjFRYml5Q0htMVhHOEoyaWRzb2xOOTk0Y1BaVjZ1NTA5UG9Ld2g1bmNndnlIMzZ4Zll5ZHlvSk5HNXRzYW9uVXdCcjhWQ2pvcHNqU1FVb0U0X3ZiQTFCSndCNDcydGtzYXRiSGJwZDduclUwcW9qcUo3X0tDZUhhcG5MRi1oWF9qY1pPYnBzWUFnT3Q2YmV4LWZIU0tVRHRHQlFFTG1Vd1AxcV9GaEI?oc=5
+- Booking Holdings expands B2B travel technology offering - Marketing Tech News
+  Summary: Marketing Tech News
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDZjVVZtSm5qdWpxMjhLM3J2elRTa0R6aUwyalRkVUNvSzhtMzVNVzNxZU0xX1BtZnJZOGJqT3Jhd1RydmZWaUhUMTVVdlBQLUxwZUN4WHotUi1TNEpWMkNmQjBVenQ3bW14eWM2YUUyTl8xVGFvQ195TURGTEFrTGNqc3dGRHdwNmpzNkhXVWtIdDRHaXRpZnQ3RQ?oc=5
 
-- Booking Holdings creates new enterprise division as AI reshapes travel planning - CNBC
-  Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMickFVX3lxTFBTUWlOUDIxakpuX3IzMTdTUjd3VVYxTHV5VGVFdHQ0OUZsRTVXNS1hS2Vkb0Q4SGI5d3NYcEtXOUhFUE9ycTVVRlFjZ1g5Ym1MNXZhajlELU43bzRhWjVKSGVJV25Bbks4WXF2aXpuNXZuQdIBd0FVX3lxTE4zQTZka1luZmxzZG52MWQwTFdMMU9qLTM4NEpObU1IWlJxVlhMMTUtTmdMRUx5NEZuRlp3N0Z3MGdseUFUU3pGcGtKTk1uNG96QWNTYnBVS3FGWl9UblU2MDFzdEp1QTFEQ3lyOWNYczNLZ01kTmJz?oc=5
+- UAE online travel bookings to top 50% by 2030 as market rebounds - Khaleej Times
+  Summary: Khaleej Times
+  Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGZIbzZoakZKb0djRlU1UnlJUnQyZXB3bUk2TXA4WVdZcnUteF9PTVRmdjJXYTJrdWF1TUl3RG5MWDFPSzZxelhycnVnanNRUUNnSDJnVVk5LS1CS3M1d3ViUWtnR1htYUNFV3JKTkZoYmtLM1dQR0djUHNKUHhuRF9OdEROLVRSV1RoRTh3VUVtVjZKVFJZWTZzdzJhX25TdVRB0gGrAUFVX3lxTE1adGhscDgxcjRmZ3p0c25UVXdFT0FUVV84LTNGcVJXTGZlY1hNandFY0lYckVUd1VKY1pZNWdFdk1DcnFfMzhySVc3WHkyNXpSLW1Zd2JnNEh1OXNKLXlkMkh3QV9jZktWRDd2aDRyTnBiZ09JZFFTdXRzZDVzR01SMU81amxBaWFUV3BCc0xrSkZ2Y25SNGp3X0FCaGZ4ZDRLc2ZMOG5jZUxRRQ?oc=5
 
-- WEBUY GLOBAL LTD. Launches WeTrip App on ChatGPT to Connect Travelers With China Tours and Personalized Proposals - Quiver Quantitative
-  Summary: Quiver Quantitative
-  Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeXlrZERRQ3hEbVhmVkdUeWhYOUpsQm5MVU1ETm5mS1ItV3pmaUJsaXMxcGxpejNCaVotQ1dpVTJHNGFoaHB4LUpzTzlidi1XZWxzN3doTGIwTE1NaF9qV2hYRHloVUVHYm91Ym1qNF92cjRfcHp6Rl8yU0pNYkVfT1dhZlJ2a21aZ3VlNVVXcUJ1Z2FhMDQzN2MxenpYdFRicDZIb19ySjJlcFBqYkwtVmUyMm9UVWNVMllUcjZURVNhRG42eHdOZlhzTjRXcmV1VDc4N0E1QU00d2ZmbUJv?oc=5
+- AI agents could take over travel bookings and payments by 2032, finds study - Fast Company Middle East
+  Summary: Fast Company Middle East
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzhWczVtT2wzZmJvVWNmdDZ5NS1pSmJycDFYQTl0LXZuUFlyelVBMDZ4WE90eFZDZnVmY2Y1aktMd1Q5X25LeDdrLTE2Y3RtTFBOd25NbG5MZ2llYkFlNEt4cGJKUGszeGtZVVlLdDRNYllkdTZ4dXF5LUhpZnFwb2tObmtRSUFucndJSFhCc21OckRrTW5SVER0akNjLWFrekF2SVBmb2lpUQ?oc=5
 
 
 Bottom Line
