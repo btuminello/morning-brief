@@ -1,60 +1,56 @@
-Morning Brief — November 20, 2026
+Morning Brief — November 21, 2026
 
-Chestnut Hill Weather
-- 40° to 67° today. Right now it's 66° and feels like 59°.
-- Around 8 AM: 49° | 2 PM: 66° | 8 PM: 52°.
-- Wear: light layer, layers.
 
 Breaking News
-- [Markets] US CONSUMER 1-YEAR INFLATION EXPECTATION 3.7% IN NOV FINAL VS. 4.3% NOV. PRELIMINARY, 4.7% IN OCT. FINAL (VS. 4.3% MARKETS EXPECTED FOR NOV. FINAL) - TradingView
-  Link: https://news.google.com/rss/articles/CBMinwJBVV95cUxPb0p4WmRVcW51TllRc2Rzdnd5NFk5dmZ0MjdmMk02SmdNeHQzUFF5eVpKVS1peXdoclBRTHhVWG80MktEVFNRcVd1NnpaMXp0T21ra3drT2VPVmw5ek1rVFNaMEJnVllxMWxvSjBwajRtSkxLZEE5RFhXWS1TRUdpV0pJMnpTUU1kdkVGVDdUeXlnRmM4aE1POTVLSGFabWVoN2dpV0JFNjd4ZEFWM042TDdZZDF4ZFhOWXQ5ZEFXT2taMmxvbmQySDE0a0JJRl9xdzVpWHpmekN6bmo3dnhoYkxHTGFDWlRWdmdPcHBwNTlXcGluOXp2aUtYbWlkRkpFTlZHMUxNdkRZTmtwWVB2d0c2c1BOOVFHak9OUlZ0Zw?oc=5
+- [Markets] The Fed is too busy fighting inflation to rescue the stock market - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5
 
-- [Markets] Fed Chair Kevin Warsh Vowed to Hit the Fed's 2% Inflation Target After October's Rate Hold, Even as JPMorgan Warns Democratic Control of the Senate Could Make Him a One-Term Chair. Here's Why That Political Risk Matters for Markets. - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGRMc0x2SllJRzJ4YWlQN0NPYmNaMU9ZelRCZWVCSVBNQWtiUHpJWVMwd2R3cy1IQzNnNFRKR2tBMDh3MXV3QzR5cFF0ZmVRV1hqQTJ3X0lkU2I3UVFBQ0QxTnpoWGtVQUFLSGQ2YkUxdk9SSnhib0xlUDNFd0xPRWRZaXdQY2t3LUhDU2FaZ1huNHl0RTN3RlR0ejNpcEdGT3BjVDNLN1ZVNXdYeFpSdFNLSUp1MUhubUhhcDMwNmtOa1dKanNWMDhsYnBZWFJWMmI2dXZCdDNuNVhTWGc3MWFhZTFFLXhjTUxtVnhoWW1RTFBVTllHSkNRUGFsa1g4LWJUcFc4SjZDZGlQTWF4NnhBcHo2cnpmQk9tbVllSXkyQkJVQ2dMckF0RUIwclAzSkRFRmd6dTlobjE1MGVfQ3BqRHoySVhVODRzNWxxbEFvRXBSa1IzcjNKTWRqVjJDT1lGZWlQSWlhanlLRktKNzRjNGpfUExESWZxSk1PVE5IdS1ZQTIyR0VaMnhKOUFpRlNXeHE5aVEtMzk1RHo0?oc=5
+- [Markets] Fed's Goolsbee: Job market is stable, but inflation is "way higher" than Fed's 2% target - investingLive
+  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU83ZWpIMDNCSW5VQmctdll0dTFHaE9pNVI3dUJ3SVlVOGprZVlRMV83bHhycVRTX2NoUmV1cWpLQ3pCYjhKLTNOT3NhQ3FScGctZk1FVXJPMFNoQlotYmFzYlUzUExmbEV4YjBXUUt3emgyd3YwM2JMeGpwUXIweUtRQUpERThHTDBfUzBPVE1ydDQ1cTBadDZLVlUwZHg2YjdacHVKWUxFQnB5TjEydmo2RTMyRG5YbEh5WS0yWkdhdw?oc=5
 
-- [Markets] PRESIDENT TRUMP OPENING COMMENTS: 'INTEREST RATES ARE TOO HIGH BECAUSE WE HAVE A VERY POLITICAL FED,' BUT NOT BLAMING THE CHAIRMAN - TradingView
-  Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxOWjlSZUJOV3RfcU01Z0tZZGFCekNOVmswWTB2RGQ0Y0Z6VzBkT2NrNGlINWNXamhSZGhGZlJtZkpkeldCTF8xNW5pOXl6TGtlZDRZbmNlaEF4Um9uNTEyMmpFME9tX0U0NHFic2xMcE0wUEpUOWpCSUhvSXM4VGR5ZDh3eGdOLWtzVllXdVR6bEtNcXllLVYyd3ljNk8wWjNGT3Y4VnVaNHItY3lvWGhxV24yZGJsVVdvSjlXb0stbm9sTkFnTnpHSHJoRWdaQkpIeVFWek93UmVSOVE0aDlkN3FpTnhuTFBnM2xfVHBtbFptbDBWNzk2ZjJKMDVWUjI3R21JdGdpRzF4bHFINXdYVUJCdw?oc=5
+- [Markets] President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFpvTWlhQ3lXU3BpQ1RNSUpvMzhKRDBwVDVTV2RsbnVucVJLRE9IMUZtbkVsOFpyQ3N1by1kcFNzTTBkcTl6M29BeUNyQkZYc3dZeXh0N0ttTElZcDIwYUJJcmpfSEJpYVJXa09PTDhFT3Q4WFVvYkd2SXF4ZFpXc2NXMThNVVExZnR2UEZrWDR3VEFXbGU5VHc3VEtUZEVj?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow, S&P 500 fall, Nasdaq wipes out 2026 gains as stocks head for worst week since 'liberation day' - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnF3c0R2N2dqVjFhMWNXRXZua1RMdmlsS2o3QzlpUXg2eGFYN1lyNHRzRWluT1FLMXdVS2dndHJZMVhFYmhNeEdSM1QwUTVqcF8yOHVIX1VyTHVlNjd3bTdkVFZKTDFkUzVZS2VobWx2TjZISmpDMjBfbjdrWHJqZHFnQld0YmFUNVJqOWxKTUs0dGljVXJWSjQ2aC03T1lISzhlZXVCWFBoOXhXbjVXYQ?oc=5
-
-- [Markets] Anthropic shares fall a day after blockbuster IPO - BBC
-  Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5
-
-- [AI] AI Shopping Agents May Shift Consumer Spending, Not Grow It - ETF Database
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOV05IN2sxUUhyWXF2RmF0N0YtVDZyUGRuZ2tQUHByd3ZmSkZjRXlJMEcxaTFSZVR6V3ZEdzFiUTJVbGJtTmVhWkx0bGd6Yk5mazhKaUdvWjdRaXZqUjhqcDRGQzZ5WGRwUEluMXJaOFk5QlBaQkFBc0ZBZU11SFFLTURzSTVsYmV5bXNxUHRTY0JlenpFZ0JKTGJ0cDcwOV9ybm9LbWpn?oc=5
+- [AI] AI agents gain ground with consumers - Axios
+  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZrX3FJdU1WU2NsSWM4eGgweHRZUzFZZFBhZXM4Nk0wUHRoRGh6bm5yNVFoam8zdEJMaTU1bDRabmZkZHRtNlh1cVlRSXJvUDBDaG5nRlVYejUxX05FS08wWUtJd2U1dnhTRTVpbDRxUGw4QnRjZXFJY2pWallVRkdETW5qc3d4ekRoRlJ1MUoydzlNbjRwMw?oc=5
 
 - [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
   Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq sink as Anthropic IPO fails to ease AI worries - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUExMEVRMDV4d0UzTmhxMENqY1ZOWFlrUDdIX2pDVFNfdWxIb3lLUUthalFJQ3lGUG4wS05CeldYdTZ1ZEVrWkd4YmoyWmpnVTlXN2tad3UzeTV0WDVPRThQMklDQ3pXOE55d2NTWldWQ0dYWW9aWDVFV3JHbzhxWU1fUHM4THBTdWF6b3JjeHZZT3ppNk8xUW5tend0SFZBelV0LWxoNk5RWTJBUzNEVHdHVEFFWHF6a2VQLVdMVUg0Q0Ez?oc=5
+- [Markets] Chips suffer worst week since 2001 as the Nasdaq nears a bear market - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5
+
+- [AI] Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day - SecurityWeek
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5
+
+- [AI] AI Shopping Agents May Shift Consumer Spending, Not Grow It - ETF Database
+  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOV05IN2sxUUhyWXF2RmF0N0YtVDZyUGRuZ2tQUHByd3ZmSkZjRXlJMEcxaTFSZVR6V3ZEdzFiUTJVbGJtTmVhWkx0bGd6Yk5mazhKaUdvWjdRaXZqUjhqcDRGQzZ5WGRwUEluMXJaOFk5QlBaQkFBc0ZBZU11SFFLTURzSTVsYmV5bXNxUHRTY0JlenpFZ0JKTGJ0cDcwOV9ybm9LbWpn?oc=5
 
 
 AI
-- US tech companies that build AI data centers in other countries will be penalized, Trump says - Yahoo
-  Summary: Yahoo
-  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPekhqekRvVkxUaUVEWWhUTk02d2NMNGNGQm13LVZDQjg2bmNFeUtTSV9BVlkxZzBBT05GLTJaWEpNbXBoZGl3NWVQMGxEUDQ1SkZmby11Yl94OUFHbUVEcnhVRWhJM1pWZmFrZmJDYUphdXI4dDB3dFJERHNiNVdpRmR0MGUwQnF4UVdpcFhWcXZoZw?oc=5
+- Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access - The Hacker News
+  Summary: The Hacker News
+  Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFZmbjVDQTBnN181azlaZXV4R0VMVkxuT0xtN0FnQ3JINzRpTEJwZ2N1TUlvMmVXb3NsVzJrMnJJYm82eEozZmRpYU9tQ1Y2VzJCRVVHUXNHZFN0cFpnTFkwWXJ4WTVyQzVueGNjQ28yN3ZOU0FrRUJFUWZjcVZUdlRR?oc=5
 
-- Trump says he plans to penalize US tech companies that build AI data centers in other countries - WBAL-TV
-  Summary: WBAL-TV
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFBaT2owVmM0Qkx4U1NHUmU3a0kycUdpT01HbUplUzdsNDhJamRiLU43dzFTcFJOVHZLNGdGWWd4WVRHVXhzYVlQM3FOYWRMcVJEb0lVOHFhSzJINHVGWXhMdVpFcU5xd3dYZlRpWFlkeWdsdFpNaW1iNEVFNVAyTmlJTlREMEQyb2Iw?oc=5
+- BBC Tests Generative AI for Black Friday TV Deals, Finds Dead Links and Sold-Out Listings: what 6 outlets left out - NewsCord
+  Summary: NewsCord
+  Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOUVCV3JTdEJMTTZjT1pLUTRQLWY4blptUV9iOXJhQVFHTkt3dlFwUGVnbkV0cFlfd3lxLVJCZzdkdXpPcDd1V2VJdTdzSHBIY2NwRUNXY1dNLW9tMzB4SmVKZ1V6UFd0T3UyOVFyRnF4OERaVjIyNTJuV2NLSmVlNWJmNWlpVERFaUJhUDA3elMzOXRPM2NtQXJidGFEcTFTejlNY0w2aTZIRmhBTXF1d0FfTlFLdkY0djNwLWhEa0NRNkRZaVVSS25hTVp3MXozSjN6ZjEyLW9qVE1GWkd1RWFFTTY5UnFR?oc=5
 
-- US tech companies that build AI data centers in other countries will be penalized, Trump says - News4JAX
-  Summary: News4JAX
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGd4d0IwMmJyalR0cmVFNEdDTXVjcUN6eVYyYzVYQ3FaOWxMSDZzMXRVaXNDWWV0dUx1cGs2R19wWGc1STFuYjlFdWgyOVpEbHV5M1pud0ROcDhKeTM3aGxqOS1BeFlZOE1BYWNHR1pCY2lCYk5zRmlxWmhMZmJIcnZ4cUVBYnFGQ1NFOG43QnV0YzBIdldCYjN5UjhDbjBfVXFybkYxNkhKd3I4eWw2OGJ5eEhIYmdxRXpCUXJFMUhKNlZ5MEdnc1FQeXY0RVlJVDBRcTdwREw?oc=5
+- Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com
+  Summary: Bloomberg.com
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5
 
 
 Markets
-- Fed minutes show growing unease about the outlook for inflation - MarketWatch
+- How a brutal week for stocks almost wiped out their gains for the entire year - MarketWatch
   Summary: MarketWatch
-  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5
+  Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWJPVFhtNmdWUEc3bGNLd0FKcjlxaDhPUGZaVUVRRzczVGdBT0VIX1FOMm9MdFZSVnlYTFd0cGFBOTRFdkdlUEszcHNLaVJvMzRDcWNDOWNKV1VsdFBjaVNkTVF1Wnd2akJBdlc4dmw3Q3NZbGlCM3A5SlpJZUdVVWNXRWd2ZEFrbnFIRDZCbE5VMVBWNHpwTmg3OUZRMy0za21nazZrRnZhQ2NGU0JnLUVUdFBHbkNSdEVaYg?oc=5
 
-- Fed's Goolsbee: Job market is stable, but inflation is "way higher" than Fed's 2% target - investingLive
-  Summary: investingLive
-  Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU83ZWpIMDNCSW5VQmctdll0dTFHaE9pNVI3dUJ3SVlVOGprZVlRMV83bHhycVRTX2NoUmV1cWpLQ3pCYjhKLTNOT3NhQ3FScGctZk1FVXJPMFNoQlotYmFzYlUzUExmbEV4YjBXUUt3emgyd3YwM2JMeGpwUXIweUtRQUpERThHTDBfUzBPVE1ydDQ1cTBadDZLVlUwZHg2YjdacHVKWUxFQnB5TjEydmo2RTMyRG5YbEh5WS0yWkdhdw?oc=5
+- President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation - The Motley Fool
+  Summary: The Motley Fool
+  Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmo2Q1RkQVhOVkxfV3FiUHBPOFg5SHhDbk4tVkEydXcxZm9sZ3VHdWJudU1pbTloYk82LWNBVUozU3R3WmM3TlBoUmtfRUZRa0tUN3BzT3NyZGxoWDFrLTJYUU1ZamF1YWRmb250TWYyX1FxTnltdnF3dmoyeGdXSFpnMk5YYzVJWlBLQ1ZnWDROc1FfZDBtdENRUjN5bDAtMGVUWXJ5bFc0OE5RdDBvREVuQ0pZcDJDVVpSelpWUTBnU051R1Z3Mk93MXJEV2s?oc=5
 
 - Fed minutes: Higher interest rates needed in December as inflation worries mount - AP News
   Summary: AP News
@@ -62,17 +58,17 @@ Markets
 
 
 Travel / Boop Relevance
-- JTA Cruise launches new online booking website - Travel Daily Media
-  Summary: Travel Daily Media
-  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0lvbmhrLUg1c3dXRG81N2JCRXlCeGM4dUJvdzhNZHM4VTJ2Yk5xYUVqWFpTOHpFd08wWEQ5eTQ5ZkNmVjE2aWs2OUNRYWQyX294aUVpc0ljSHBUMWtJMnIxSHFDZEwyMFpKWjY2Z09EZEN5OXFMbllUdjVTdVdLTFZ0TzhHWjA?oc=5
-
-- Booking builds one partner division to sell travel under banks' and airlines' brands - MarketScale
+- Booking merges partner teams into one division for banks, airlines and travel sellers - MarketScale
   Summary: MarketScale
   Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVJtR3Y5ZFFucXlneW9ldHJuWGxhNnJVekNpUGVvRmRUU2hJSHJyOWRjZHRWR3hXb2ZQTVNIb1hBT2h0MmR2TW56OFMxVURjNWFrNHJScHpNanBnZlpPT0lmdVlxNHVxSVU1cnpQQXpteS1kYWZBUnhQUWYwSWZuYmY3UFB2TUM3MF96YVZkdGZOS1ptQi1BV1RfSUFVbG9iRG5GTWlERkV5Rkl5X1ZSRWpxNWk2UEl3MFg3WW9wU1FaS1phd1pfaTNYTTZBdw?oc=5
 
 - AI agents could take over travel bookings and payments by 2032, finds study - Fast Company Middle East
   Summary: Fast Company Middle East
   Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzhWczVtT2wzZmJvVWNmdDZ5NS1pSmJycDFYQTl0LXZuUFlyelVBMDZ4WE90eFZDZnVmY2Y1aktMd1Q5X25LeDdrLTE2Y3RtTFBOd25NbG5MZ2llYkFlNEt4cGJKUGszeGtZVVlLdDRNYllkdTZ4dXF5LUhpZnFwb2tObmtRSUFucndJSFhCc21OckRrTW5SVER0akNjLWFrekF2SVBmb2lpUQ?oc=5
+
+- Booking Holdings expands B2B travel technology offering - Marketing Tech News
+  Summary: Marketing Tech News
+  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDZjVVZtSm5qdWpxMjhLM3J2elRTa0R6aUwyalRkVUNvSzhtMzVNVzNxZU0xX1BtZnJZOGJqT3Jhd1RydmZWaUhUMTVVdlBQLUxwZUN4WHotUi1TNEpWMkNmQjBVenQ3bW14eWM2YUUyTl8xVGFvQ195TURGTEFrTGNqc3dGRHdwNmpzNkhXVWtIdDRHaXRpZnQ3RQ?oc=5
 
 
 Bottom Line
