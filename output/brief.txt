@@ -1,78 +1,78 @@
-Morning Brief — November 22, 2026
+Morning Brief — November 23, 2026
 
 Chestnut Hill Weather
-- 43° to 60° today. Right now it's 60° and feels like 58°.
-- Around 8 AM: 48° | 2 PM: 60° | 8 PM: 52°.
+- 42° to 66° today. Right now it's 54° and feels like 49°.
+- Around 8 AM: 54° | 2 PM: 66° | 8 PM: 50°.
 - Wear: light layer, umbrella.
 
 Breaking News
-- [Markets] Quantum Computing Stocks Sink as Investors Brace for Key Inflation Data Next Week - TipRanks
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXdXVUR3dUpZYTgyMFIwdkhoZWZPV0w5U0FNOGlfZHpoejBPSnFjUU5mcVBRTXhzWGZ5ckJUX0UteDdoRXBPQmc5MmxhY2wzTnRLd2d1WnNkaXJLZVRGdGg4YjlMZjAxNWxMTzFndGpuV1N2ejNEZkMyQmxDZ1ZOZWRtbjh6dVlwYXdMR3FkYTVwa01uZ0ZyRzdmNUM0WWU5MDVuak8ybUpvTlpPeElVOQ?oc=5
+- [Markets] Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5
 
-- [Markets] Markets News, Oct. 14, 2026: Nasdaq, S&P 500 End Lower After Hot Inflation Reading Lifts Rate Hike Expectations; AI Stocks Extend Declines - Investopedia
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmxyZXpiY2JFbHhocEM3VWVscnhIMEh6X01Qb0RkenBHNTYxZXhIbW1OUmRxYU5sZTN3OXJDeW9ZZURzTklGVmVPeWs5R3J6SWIzdktTT0xoNDVkX1dYOVZDaUpFMWRubFlOR0dYekx6N08wTlNSMzVnb0ptbm14NEI5cGY2eGg3eWxmbnBVRzg?oc=5
+- [Markets] Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5
 
-- [Markets] The Fed is too busy fighting inflation to rescue the stock market - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5
+- [AI] Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch
+  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5
 
 
 Must Read Today
-- [Markets] The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash. - The Motley Fool
-  Link: https://news.google.com/rss/articles/CBMi4AJBVV95cUxOejN6QzBKa0w3SEFZdHV2aWNuSWNDcS00SWpwZ0c1OVhTZ3VGRTAyaWFaSzRWYnpVYVhCMmZjeURhY2R4VW1zNDNwU3VlWWxNVkVEZ05pNEdUNy1IWTBJU1M5MlNpTGRTMHBjZVZZSGdGdDktQUlkaC1NNUdLVE0xNWJUd2txNnJmWWg0Tl9kQ0ZmaW10T3g2QUlnX0tWZjBkUXlnZ2otQnZaZThnNDdmbjJDSXdzQlRMb2syTXIwS1l6OU4wbEhlSHc3TnVqdjRuVThSQ1d0Rm56V3lvQ0RWR1pBMU16eV9TVUV1Rm5QWEpFNEdrRVhTdjJ0bllfQmJ6bkRQbmh6TzRnNGdBakpYNzZiSDlGZERDX1hVdGNNWldmdGpXcjdRSWt4T0xURmJ3TVhxX295dTJldC1FenRxMVFjOGtPSkxDbGpDV0MxaXFhVFl0eVltcXExWGRJak5Z?oc=5
+- [Markets] Stock Market Today: Dow logs 1,450-point gain, S&P 500 and Nasdaq surge to best day since April 2025 after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5
+
+- [AI] Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0hZcjZiRHRpbG8zSElQUml0TlZfQkxhdGRncEVhWVNYM3dRVVh5SWRicjRxSmsyMVNUQWRkMmNWN3Bnenp6V3RfUXNZVC1PVGtwekIyZ2dJZ1dHeDQwWEo2b3dEMXY2eE5rQzdlN1BIcUZXeGZlVTZWV1Q3d1pscGlKQkVyUW1Ed19ObnU3SklneFIzMURvajBXUkxidFZUdG9hR3RZeExMdXNzNjJaczRCWnVVTGVCQkRVYkZSWERQSUNOaGtqYk9FVElDRERuMXNzUnhaWnFKVXE1?oc=5
+
+- [AI] EU Targets AI Shopping Agents in Digital Consumer Overhaul - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFjR2NyN1JHczZHeUNfdUZuU1c0V3RjemtNWWNyZnpmS1hheFpYWTFmcUk4MDlEaE5RVUg4Z0RDdkRWQU9WRlFodzdYYTBZVlZjUU93R2prZ3VlY2MyTUYteGwyUkd1M3VMdzYtWWJBX29XcVZxeVdYbnRxVEttSWZ0aXh1SVJ0YVg2aEhXeGJ1U3F4UXBXUkhfMHV6NFdtWDRNOXRwMEVTMjRvNmNmT2swOUxwREE?oc=5
 
 - [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
   Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- [Markets] 10-Year TIPS Pay 2.77% Above Inflation. Here’s How Dividend Stocks Compare - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkl0UVZLNmdGaDFGbV9tVTB4QTRVMkcwcHZxd2lpbmtTNFp5WkhDaWJ3QS1UcVNVNUZZbk14YUs0d21lamZMZWxwZnJqVUJLblp6bS0wbkZxS2NUNEx5cUc1TEtSVGRzR0JxZk10ZjdnQ3g1ZEI2cEs1NHZKLUpUcUEydFoxZXdf?oc=5
-
-- [AI] Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVJSXZOc19yY1dPSG12MGpNT29BU3g1X1c2TjliWWE4V0tGejk1cWdlRUJaZUI5bmhyT0RFTVZlWDNidmEwX01XYU1kT3ZVdFlVX2YzTGZqQnJEdlBVeEhZQTJXT2JmNkdWZ1J3b3FQeTh2N3VvWmJQNFMweEJpV3NhbEkxWGVQWUN4NmZsOXNHOHJWZE1VUUFXNHlRUHliakRwakRKbTl4ZDZYUUE?oc=5
-
-- [AI] ’Black Friday’ brings consumer spending into focus for AI-rocked market By Reuters - Investing.com
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTJHT041LURtRnZfWTc1NjNBNFVVYVRPR2ZuWmZRNFdYS2JmQU1rZkoyLW01V3Bna08wWkNwV1FKZFEyZDZPQzRKeUV6Z2JWV0s2VU53R2dhemxtN3dDMVlZNC1hUWFQYVRpSFI4RHYyd0g5TUdMTENiRWtJM0pLcXdHWktTSS1XeGZXVmtjZjFVQ2I2cjlOUjFpZWNuY0FnRWYxWUJvb3BuYjlXNDJUeXpQUExDRk5qREhwZGFVMWw0TW8?oc=5
+- [AI] EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards - Reuters
+  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pELTVieEVteWV5TWE5cU80T1M4MmNHVmxQVjNmb0tkQ3diUHRFSTg0X1NJTnhEMGZHcS1CaFZfRHUyeWUyQ0RSMWVOa2drMEY0VG1Ba3puU0FmamtxdzF3dFFLaXl0TGloeVIteHFxMkNiRlFLMU5Yc0FUeDNvVzJZS0lLS2t1TWo5Tmk1RWJjMGlHQ2Q2eXlwc1NRU0lXNEFxODVLZ1FmQm4xLUR0QWFoRTRTS1FqSE5FRGVfUzNPaFZGUlNJREtSb0ZjUQ?oc=5
 
 
 AI
-- AI agents gain ground with consumers - Axios
-  Summary: Axios
-  Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZrX3FJdU1WU2NsSWM4eGgweHRZUzFZZFBhZXM4Nk0wUHRoRGh6bm5yNVFoam8zdEJMaTU1bDRabmZkZHRtNlh1cVlRSXJvUDBDaG5nRlVYejUxX05FS08wWUtJd2U1dnhTRTVpbDRxUGw4QnRjZXFJY2pWallVRkdETW5qc3d4ekRoRlJ1MUoydzlNbjRwMw?oc=5
+- QCon San Francisco 2026: Securing AI Agents in Production - infoq.com
+  Summary: infoq.com
+  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQk5UTjF2OEh6cVRfWC1NNDNyNTZpeDNWRU5kMHdDY01OY0VlWWtHR0pMQmp6RnZrRXRyNmhuc0FKZHdYYjdCS05vdlVncHhTQUZqRGR2cnBjUDdGOXh4WUd2b2xFTXItQUE?oc=5
 
-- AI Shopping Agents May Shift Consumer Spending, Not Grow It - ETF Database
-  Summary: ETF Database
-  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOV05IN2sxUUhyWXF2RmF0N0YtVDZyUGRuZ2tQUHByd3ZmSkZjRXlJMEcxaTFSZVR6V3ZEdzFiUTJVbGJtTmVhWkx0bGd6Yk5mazhKaUdvWjdRaXZqUjhqcDRGQzZ5WGRwUEluMXJaOFk5QlBaQkFBc0ZBZU11SFFLTURzSTVsYmV5bXNxUHRTY0JlenpFZ0JKTGJ0cDcwOV9ybm9LbWpn?oc=5
+- Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks - The Block
+  Summary: The Block
+  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclQ1YmJSNE9IR096WUg3WE02bnJBeTlMbkhxbW1QWDRkTlNYNEk5cmVHM1h1Y2pla0x4WnNfVl9vQU5odnNHQ05KLXp3VUM4QjUxbkJ3ZmhJOHRzbUtIN0Z1NXhyOWVtbjhmd0ttV3B3RDZra0ZWa1pnZzY4WVNOZExiejNpYjBZV1Rwdll3OFBzSkwyc1pqN1pwTExyM3UwVmJsbDVpTlpDQU94QkQwbEVNWldrcmFiRGl2UFNEQUtKcW5uVE5pUUNFOU1JT200T2t1Zy1KbXZmaXJNZnNwOEJQZw?oc=5
 
-- Nvidia China Chip Halt Puts AI Infrastructure Stocks In Focus - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2V4dW16RGgyaXlrdVoxYW9RSzJ6YnpVU01sajhOVUVIejMtSVIza2JlN01zVk1ReWtfRm52Q0NmcDg4VUt2dDZuUWZ4eEh4d2pkaTBQa0xZZ0Z0ZklFRHZFcnEtMHltZXphRHFxbzVWX29XQ0QwYWx3ZjJMR0RGUDFHY2VHTXJXRnlyZ1kzYXVlQVpoMlE?oc=5
+- Prevent AI Agents From Going Rogue By Sending Them To Human Psychologists For Needed Therapy - Forbes
+  Summary: Forbes
+  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUhPOGY3emM3Z3ZRd19UcExwMVNCdjhsWXAtZ1FYVzM3OElidUF1a0R6VWtIMkg2TnlhZ2JvaWowcnZBcXBzVnplSWVhTHVVbDJZYUowcjQ4S1BaQzhGM211UUJSOGZDQXV5UXpiMXBpamlqdlFZMjhZaVNJQjN5aWphYmNkcVl0Z1llTlVDb1A5ZHhueWl4N2FIV1pKVDF2QW15Y0lMdlFMWmZBMjJFSE5ielZDeHZCVFJMMWlSTFhZbVJCWDM1cHE2QUNFWXdjQ25VNE1aTTFyU2tz?oc=5
 
 
 Markets
-- Watch Fed’s Inflation Fight May Require More Hikes - Bloomberg.com
-  Summary: Bloomberg.com
-  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPbXZDS0RPQmNCdFFFZjNTWUhMWV9EQ3JIQnM2eDg2dVB0T2RYVmRaTmtKeUhrNDdCREVTMld5Wm9vZXJEZEZJN0huVUxRQmROOGxwVURXY3dROEpFMGZ2dnVUR21UWWcwOHdzalRjMm83X243Z1VObU11dHlmLU5DVUdLVm9jbUYtdnl3THVlUkltSWRtNzBuc0t5YzR4RmNQ?oc=5
+- How the Fed will react to wobbling markets - Axios
+  Summary: Axios
+  Link: https://news.google.com/rss/articles/CBMia0FVX3lxTFBZVUtuazNiSm0yUXFTTF9sODVSLUdUeC1GSk1OUGhGOF9PX1dyZFA2TnNROU4wSmgyYXMxSmt6WU96UHhHX2d3R3lHeVdOWFI3MkJXQ19YNGJnSGs1b2JyVTcxV21nWElkV29J?oc=5
 
-- GLOBAL MARKET CALL: Stocks Are Cheaper Everywhere - Yardeni QuickTakes
-  Summary: Yardeni QuickTakes
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNBdUxFWGJWVjBXbE1NeExCdXlJc0tKSm9oalo4Q3VPSk5yNFFwVGdsYnRKWk51c183VVBSTFBvOWttTWlIQzZtV1BNOTdIUFViRVJSVVlIRHp5cUpjZW9zd0ZZV0FDQWVMREZaMUg4WlN1MFVzWkJTb1JoYkdDTkNwZnR3VXNjaXR3?oc=5
+- U.S. Futures Rally as Tech Stocks Bounce After Brutal Selloff; PCE Inflation Data Awaited - Barchart.com
+  Summary: Barchart.com
+  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1NYWnE2QWFRQXo5ZVdVMmVDWlJXLVRFcXhLWnM5ck5IOEdKY0tOT0NtV29pRGZrc1pfd2RUUU1tN0FtaUJLSzNmSEVOdndfdlFQN2R1UVlHa0ZtSDRDb2gwdmNOdlNCX3VVNTBmUjlzZU5IRzNnQzgwWERHS18zRmt2VndyTk1CNngtRU1lc29kMnhxcmhsbE1INVpVSzFkRmNuc2J3VnU4TGNPWjF5Qkxsb1dsNHFDSjVkYUo0M3U4YUZzTmIwSVk4RQ?oc=5
 
-- Peter Schiff Warns Fed’s Inflation Fight Means ‘Greater Financial Crisis' Than 2008 - Yahoo Finance
-  Summary: Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOLS10UHVHZTJZekExR0JhekVHQlYyN2w5RkFnZzNjNVVRVVBYV0gwY0NvSXpCTnpFa1dFVU1vSzRhNUF6UEdhaHpWMjRSa2YxQXJRcGFaNGdqbk9BUW5CSVBEa3NfeHJjcjdGNUpZY0JEYy1aTVVLNGloTGdiSF9xTTJSYnJhQWR3d0tNWFRmRE1PRlpSR2xXTW1ab2hBZw?oc=5
+- As long as interest rates go up the AI trade is still at risk, says Breakout Capital's Ruchir Sharma - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlZUZ2w3UjRzVnhmVi16TkFTT1lqN2hWa0hNYXg5QnJzQU5kZXJDdnhsMzJhZ3cyS09Zcko3Q3lVSV9MOUVlbGlrajl6NmV6aDZvdFJsdHRmem9WdzBnOTZjOXZmaV9KLW1IU29oSGV2U1RMMm81all6UzZmNkQtcDdDdjhDa0tDbnJ2S0JiaVhBYkUxU1I0Y2JTUWZNZzFTN0xVMm13Z2dwbFVmYWo5MzFLMmp0SlM3b0ZhczZtdHVsV1RrNF92M1kwZm8wLVJqbWJLRUlUNlc?oc=5
 
 
 Travel / Boop Relevance
-- Carbook seeks to make car booking, intercity travel easier through digital platform - The Business Standard
-  Summary: The Business Standard
-  Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWNBNTJBWlVvZTAtT284X2ZtOExOeGhZWjJUUGx1MWFKY2kxeFczaGxQd096RW9jN0VLUFJTX1dLTFJvc29Qem5qN1pac3lOdUg5c0JlNmxPZkh1N1JrdWt1YjgtTkhscHI0R3V0UXZ5OTNkQ3FOQ2VmV3FsM29YeEs0NlNkNVhRdktZUVdvZ044M0RTRHNBSURvbGdsYWlRY0JyYXlEd0MzWnloVzh5MUFsX19DNXZ0SkNsOGd6Zw?oc=5
+- Agoda 2027 Asia Travel Pulse: 53% of Asian travelers plan with AI but 89% want the final say on hotel bookings - The Malaysian Reserve
+  Summary: The Malaysian Reserve
+  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd1hEY0VhVkVXaHg4ZnYwV3lReS1YRV9sbW1FNS1vQ2RZODcxMzA2VmRJRVlpVkZkNDRzS3hyVG1MMUNEUHlOU3d5R0YwdXduQXl0eHhRTkRXcmp0d2dkRHNHNzF2TmE5WTI5Z0dPSzUySnYtNDJ0VmZTQndQWnNZaXJ0c2NFSWhXa1cxeHVPY2JHYVBsZ1R6NVZ1UXJ3dmtxWTlXNUxfXzVqMGh0X2xzaEd6aXpGNUM3UlJjNHJaUEtJcWFhT2Fvcms5UGhCckxGeGN0NnkwRVMwU3JiUDVPcU5Wd0pMdw?oc=5
 
-- Is ChatGPT Getting Into Travel Bookings? OpenAI Acquires AI Travel Startup Odessia - Travel Market Report
-  Summary: Travel Market Report
-  Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUo3NnB1LVV5M1hqSGU5ZWFMOU1oZmJkQ2hyaUFfandQMEpJVzNUOEswWHJLczlNbVlHSnN5czY0bklSY1JEZlM0MFc3U1I5enUycVFYalQ5NWo1QXhQOVFwSFVUTWpvMFZ5VWh4M0tlYUdTUW1wcFRiQU8tWVRTcXlLR1BzZDFaX19NeEZ4OWhLVlZ2NXY1WWtqeHI2bEtDOWJJMGJDenVrR09Dc3VkWENZaU5hV1hibHNVcGgwT1lqZ1VGT3Z3SkNlelpZQ0ZxdDdJ?oc=5
+- United Airlines blocks AI agents from booking flights - Travel Weekly Asia
+  Summary: Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXFfb1Bxc2o1UGNobzl5SE02YXhXN0hPVkxLTmNGS2NKOHBzZktqcUk3MVlBQW1Ia21aT2RDTC12VFp6bHBCVl9vRjBsRGp2NE56WWJQSndiSHQwZUtXQTlwRkFOdElBRHpneWR2azFfdWVkMm9BbTAyRXVDS2JaWWlDVlNNTUxVNnVUNVhOdWY1dXhCTTBaYVdQQ2NvYTVkYXVIaU9oS2Q3anJoMnN2NERR?oc=5
 
-- Online Travel Market Outlook: Digital Booking Platforms and Global Tourism Growth Opportunities - Vocal
-  Summary: Vocal
-  Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZnVBeDd2amRyOGdVRlRYeVhHZmdtUEk3SlJXclZJT0tSeVdEUUlHY1NsQmQ5X05vNExIaGxDWlNrcGdhdk9lUkticjBfTGVzZ0FFQkVhMG1vWmlCRkRLcFkxdVBpUmRBdWN6TzVuSXBqQTltdkJ4dXQtZjFaSmdFTzk3aGhKT0RHZzg3VFNpb0hJUktvVy1MNGpDUHUtVnl0RkFab0h0X1oyUEdrUEdUc0Jucjl2VG83SnlkS0x3SEw?oc=5
+- Sabre rolls out travel booking plug-in for Musk’s Grok chatbot - Travel Weekly Asia
+  Summary: Travel Weekly Asia
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOG1YRUZnLVpXQkhmVkMwbFZzVTREZ0txMlVLaGxueGg2ZXFtTGJOMGZkRTIwUjJQSEtfbUVjNlJQNXBMN1FxUEhhYkxPN1pfTUlIaml1U18xS0JzZGtsYzN0d3ktNkdMWFhKbG5lWXp1TUZfYWdXcFNvM28zWkRBaHRSMnJHWHBVU1h2VV9GWHBxd09XejFsZWVhOWZZamhnZ2hLTklILVVjeDZhTldIeEhocW5zdUc3SV9pVF9Gd0c0MWc?oc=5
 
 
 Bottom Line
