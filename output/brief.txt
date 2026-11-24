@@ -1,78 +1,78 @@
-Morning Brief — November 23, 2026
+Morning Brief — November 24, 2026
 
 Chestnut Hill Weather
-- 42° to 66° today. Right now it's 54° and feels like 49°.
-- Around 8 AM: 54° | 2 PM: 66° | 8 PM: 50°.
-- Wear: light layer, umbrella.
+- 31° to 43° today. Right now it's 39° and feels like 30°.
+- Around 8 AM: 39° | 2 PM: 43° | 8 PM: 32°.
+- Wear: coat.
 
 Breaking News
-- [Markets] Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5
+- [Markets] Stock Market Today: S&P 500, Nasdaq log worst day since July as AI trades stumble; small caps enter correction territory as inflation data suggests more Fed hikes ahead - MarketWatch
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTl3VU1HdHRqYTFhQmYxN2owODJXaE1kRjNaaW0zalNSSkkzdVRyT3M0a0xEYjUyOG9mcXF0SXRadUxLV0d3R2ZFYVNkWWZlMEJ3V1BBMlFXOUlqZTdVUjFEWElMWWdTQ3FwMHEzSXZabkFIcHREbW4zRmpjbWUwTTMtOTExd3hVdWxCTGZGalRWWXNsNkF0RnlLb2Rkelk4bndLTnBzMjgyanZ3ajdyd3dPdmo?oc=5
 
-- [Markets] Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC
-  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5
+- [AI] ‘Privacy must be built into consumer-facing agentic products’: Meta Muse AI has officially launched in the UK — but British data watchdogs are keeping a close eye on where your data goes - TechRadar
+  Link: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPdzZUQXJPVkI2SlRLZmJ4VkRUX2JOcm4xNEQ0NTIwclJydTVCWEJqR1pZMTVQTVVUeEZsM2hmek1zcGFwZVJZMHdfQTFNNUxqLTRvbWZJVnFZajQ5SFpVck1sek9MVE5vQjFPekl3RXRqaFBHMEZtcFpqaTZSUE9ZdGdvaGV4R2lacHZSNmJqS1FNVy1UeHpQMEZLQ1paVG15N05QY1haVUEtUHlLMzYwOERDVTJwbGoxVkhlT2l4SXVydHRqdVNYZTY5UTJYZ0lJZU02eVFqYURDeEVDY3ZSWGQ2d2pWZ1dwOTdxSmF6eWRucE5VY1EzTksxOE1pUENHNmtfYlpWbm8xLUJ1dU9fT1BObklvYTFhLXNOZGpuemswekJ5UkhiLUtZMG9UX2JLRWFsU3N4UWE3Z09Dd1NWOTY3d01sZ296MW5IdHBsNXE?oc=5
 
-- [AI] Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch
-  Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5
+- [AI] How Investors Are Reacting To Oracle Stock Securing AI Funding - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjNVR09QWnMwQnJMZURzWXAtUkpkMldZSHNvR201bWtYZnhmOW50YVlMWTh1dDBjZTJHLVdaNFNyZjczVHpGVVI0blhLWnNZRm1ieTVmUVpFbzNlZmhUcXJrekRvTkVDWk1pT19jVWt0a3c3bFd6TFFxU0dsbE9SbkpzWW9UUUJQdVJTT3FsaGJ6aVBFNzM5a3Axckt3UllMZ0VTS3dXVQ?oc=5
 
 
 Must Read Today
-- [Markets] Stock Market Today: Dow logs 1,450-point gain, S&P 500 and Nasdaq surge to best day since April 2025 after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5
+- [Markets] Stock market today: Dow gains, S&P 500 and Nasdaq decline as chip stocks tumble, investors test AI appetite - Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5
 
-- [AI] Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday - MarketWatch
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0hZcjZiRHRpbG8zSElQUml0TlZfQkxhdGRncEVhWVNYM3dRVVh5SWRicjRxSmsyMVNUQWRkMmNWN3Bnenp6V3RfUXNZVC1PVGtwekIyZ2dJZ1dHeDQwWEo2b3dEMXY2eE5rQzdlN1BIcUZXeGZlVTZWV1Q3d1pscGlKQkVyUW1Ed19ObnU3SklneFIzMURvajBXUkxidFZUdG9hR3RZeExMdXNzNjJaczRCWnVVTGVCQkRVYkZSWERQSUNOaGtqYk9FVElDRERuMXNzUnhaWnFKVXE1?oc=5
+- [AI] What United Airlines banning AI agents from booking flights means for your travel plans - Fox News
+  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQdFpRbk0zczZTTE5WeXUtNEtKYWtDSzdhbW9wbERuQzZ2MFRYQWNwV0hNV095NHBZT3FXWVBVb0pxc2trUFpjblZvdVZueFR2Vk5laFpnZzhZTk5pRy1kV1JOSUs0ZC1mUVQ2SGRsOXZBUTdRMHJ2ZGd2ZWpJVGxFMENSOFpoM1lxczFKaU1QZzFmcHZqcWRkM3BkMDR1Z9IBowFBVV95cUxOUTVZeXpPMllRa0sxRllQbWxPR0hBaml0c0ZvY1pEa0ZRN1pNM0E2RXE1SFZzTDhNeVJUdHNvbTNQWUExMWxqTnhfUWVWOW5STDZGSkpxSXJEdlFsUjQ3UU1VRTBCZEdWb21jbGZUQW9TdDVPSkllT1dGLWxLR3R4Q0ZpRUtDT3dHVS1ZenBpMU9XMG5RcUloR0ZNVkMyeUg3SDhr?oc=5
 
-- [AI] EU Targets AI Shopping Agents in Digital Consumer Overhaul - PYMNTS.com
-  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFjR2NyN1JHczZHeUNfdUZuU1c0V3RjemtNWWNyZnpmS1hheFpYWTFmcUk4MDlEaE5RVUg4Z0RDdkRWQU9WRlFodzdYYTBZVlZjUU93R2prZ3VlY2MyTUYteGwyUkd1M3VMdzYtWWJBX29XcVZxeVdYbnRxVEttSWZ0aXh1SVJ0YVg2aEhXeGJ1U3F4UXBXUkhfMHV6NFdtWDRNOXRwMEVTMjRvNmNmT2swOUxwREE?oc=5
+- [AI] The global AI data center debate explained: How tech infrastructure is straining electricity and water resources - NBC News
+  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFdxbDI3YmxHeTdfV1ExX0ZTakZ0Z3U1Yy1LSDVXSzJkblhIaDdTXzYtcTJubkpIOU9xWG9SM084VjZyZ2stSHpYTVlrOWJOVW1vMW10U2xjZU5FUGh0dm9wUEFENU45cHpKRG5jZHNva3VtUWRCQ1phVXhxS3lJQTZhMmZFOWJIZXNibGlkZFVnbzJPREtIanMwaEwwWHVBbi1zVm1zWVZNNWhUdkhSa2ljUEk?oc=5
 
-- [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
+- [AI] UK Warns Tech Giants AI Agents May Fall Under Financial Regulation - PYMNTS.com
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2FmSmp6U0lJTUU2Qkh3N1RHNXVCTEZLWm80dHVHakFNdzdnWk4tUVdJLWJzY1NMMTJzQ3d3SGROZm5vUkMwRXZZbHJhYzdLYlpDTWNRbW53Vlhad3pSZXFVejRrQUF6RmIwNUdjcThBdmRRcFRUZ2Jxd3BwZHJnekQwOE4tc1NxTzJjUzBuSGZ2UDQ1NzFJREhMR1ZzOS1xQmc?oc=5
 
-- [AI] EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards - Reuters
-  Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pELTVieEVteWV5TWE5cU80T1M4MmNHVmxQVjNmb0tkQ3diUHRFSTg0X1NJTnhEMGZHcS1CaFZfRHUyeWUyQ0RSMWVOa2drMEY0VG1Ba3puU0FmamtxdzF3dFFLaXl0TGloeVIteHFxMkNiRlFLMU5Yc0FUeDNvVzJZS0lLS2t1TWo5Tmk1RWJjMGlHQ2Q2eXlwc1NRU0lXNEFxODVLZ1FmQm4xLUR0QWFoRTRTS1FqSE5FRGVfUzNPaFZGUlNJREtSb0ZjUQ?oc=5
+- [Markets] Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower - AP News
+  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5
 
 
 AI
-- QCon San Francisco 2026: Securing AI Agents in Production - infoq.com
-  Summary: infoq.com
-  Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQk5UTjF2OEh6cVRfWC1NNDNyNTZpeDNWRU5kMHdDY01OY0VlWWtHR0pMQmp6RnZrRXRyNmhuc0FKZHdYYjdCS05vdlVncHhTQUZqRGR2cnBjUDdGOXh4WUd2b2xFTXItQUE?oc=5
+- How Meta is using Instagram to get an ad boost from its Muse personal AI agent - CNBC
+  Summary: CNBC
+  Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBMMjAzN3hjODZ3LUpzY3ROZFo3NVBOWkdSOHBkb2FFdjg5Z1pnWUJEYjhOOE1PRmVaTUIzSl9kTjhTd1RoOHdYWUJtaU5ZdGVUN1JBT3pSU0ktZGM4OTJkZTVTcUNiYW1aOHJkUE4wQ2VYN09sYVHSAXtBVV95cUxPNzNkU3JlZDhvd2VwUFNYQ3o1WDJmYW1hejF5cVVEQTZkLWxiVXRCZ1ZMbzQzQXhQRUtLUVdNWkM1czdHemN4OVFzcGljMFVOOUlES005MnFpOEJXX2FHRDBZcWM2MDJodHpfekdtRGNtc3ZvNVhlVExDem8?oc=5
 
-- Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks - The Block
-  Summary: The Block
-  Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclQ1YmJSNE9IR096WUg3WE02bnJBeTlMbkhxbW1QWDRkTlNYNEk5cmVHM1h1Y2pla0x4WnNfVl9vQU5odnNHQ05KLXp3VUM4QjUxbkJ3ZmhJOHRzbUtIN0Z1NXhyOWVtbjhmd0ttV3B3RDZra0ZWa1pnZzY4WVNOZExiejNpYjBZV1Rwdll3OFBzSkwyc1pqN1pwTExyM3UwVmJsbDVpTlpDQU94QkQwbEVNWldrcmFiRGl2UFNEQUtKcW5uVE5pUUNFOU1JT200T2t1Zy1KbXZmaXJNZnNwOEJQZw?oc=5
+- Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving - WIRED
+  Summary: WIRED
+  Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE5raGMwUGJ3QjQwRzZaMTJEb2tUWUhETlBpWUxuTFNmUWdjWG1qM1VEaXM5Yml2SjZLSW9MOWd3SVdKaEthOHgwaVNVWE13N2VGbkJDNmZfVE5rang3cGN0V2c5SW1URGc0QU0xOXNWUldlU1E?oc=5
 
-- Prevent AI Agents From Going Rogue By Sending Them To Human Psychologists For Needed Therapy - Forbes
-  Summary: Forbes
-  Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUhPOGY3emM3Z3ZRd19UcExwMVNCdjhsWXAtZ1FYVzM3OElidUF1a0R6VWtIMkg2TnlhZ2JvaWowcnZBcXBzVnplSWVhTHVVbDJZYUowcjQ4S1BaQzhGM211UUJSOGZDQXV5UXpiMXBpamlqdlFZMjhZaVNJQjN5aWphYmNkcVl0Z1llTlVDb1A5ZHhueWl4N2FIV1pKVDF2QW15Y0lMdlFMWmZBMjJFSE5ielZDeHZCVFJMMWlSTFhZbVJCWDM1cHE2QUNFWXdjQ25VNE1aTTFyU2tz?oc=5
+- First CJEU generative AI case: Advocate General considers AI training and press publishers' rights - Dentons
+  Summary: Dentons
+  Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGUtZkw5aDJyek5LY0VxYUVGV3I2VjN4dHdteUdKVV9NVEIxR0lEQTh6RU5YZ1pEQjl1Yk9xNnk0dzZKRFgxZjY0SUhEUU5lZGtJTTJhS2gzQklyTWpnS2piM015R0JyMVNET3NTeHpRQUtpUjJkb2NsdUhQMkRtUkxjNDZsRGFNZmNqdTFBUHdnNmN6dEVlNkxaeW9pX0RDcmJRSFRHdk5jdTV0aV9kWDVULWhxQkxEd01uRTlQSmFRVWladW5hM2wtc1VRaWJrOWlEanZ1bVU2Qy1lWWJOa3dzWVFBLTVUWHpWb2U5UQ?oc=5
 
 
 Markets
-- How the Fed will react to wobbling markets - Axios
-  Summary: Axios
-  Link: https://news.google.com/rss/articles/CBMia0FVX3lxTFBZVUtuazNiSm0yUXFTTF9sODVSLUdUeC1GSk1OUGhGOF9PX1dyZFA2TnNROU4wSmgyYXMxSmt6WU96UHhHX2d3R3lHeVdOWFI3MkJXQ19YNGJnSGs1b2JyVTcxV21nWElkV29J?oc=5
+- Stock Market Today: Nasdaq, S&P 500 Fall After Monday’s Big Gains as Nvidia Leads AI Stock Sell-Off - Investopedia
+  Summary: Investopedia
+  Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5
 
-- U.S. Futures Rally as Tech Stocks Bounce After Brutal Selloff; PCE Inflation Data Awaited - Barchart.com
-  Summary: Barchart.com
-  Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1NYWnE2QWFRQXo5ZVdVMmVDWlJXLVRFcXhLWnM5ck5IOEdKY0tOT0NtV29pRGZrc1pfd2RUUU1tN0FtaUJLSzNmSEVOdndfdlFQN2R1UVlHa0ZtSDRDb2gwdmNOdlNCX3VVNTBmUjlzZU5IRzNnQzgwWERHS18zRmt2VndyTk1CNngtRU1lc29kMnhxcmhsbE1INVpVSzFkRmNuc2J3VnU4TGNPWjF5Qkxsb1dsNHFDSjVkYUo0M3U4YUZzTmIwSVk4RQ?oc=5
+- Stock Market Today: Nasdaq Skids As Nvidia Dives; New Trump Tariffs Loom; Anthropic Plunges - Investor's Business Daily
+  Summary: Investor's Business Daily
+  Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2JvQ055ajNFZ29vRlJjbHBETk9sZ1BJWnRobDlsd3dpOURQeEdhZ2NBdXg5YWhQLWVlQ1A2MU1udDRKc19JOHdKY2NYVnhVUlZScGllVEVtQTZCWUpsbVhyTHlMX0R4R19UT3hrWHZYaDR0NDVycU45UGg2ek1jaTRnNUxBTFZkQlpGSHZWTzVjWU95VUpJa1RKMk1VY2hqWHhrZg?oc=5
 
-- As long as interest rates go up the AI trade is still at risk, says Breakout Capital's Ruchir Sharma - CNBC
+- Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC
   Summary: CNBC
-  Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlZUZ2w3UjRzVnhmVi16TkFTT1lqN2hWa0hNYXg5QnJzQU5kZXJDdnhsMzJhZ3cyS09Zcko3Q3lVSV9MOUVlbGlrajl6NmV6aDZvdFJsdHRmem9WdzBnOTZjOXZmaV9KLW1IU29oSGV2U1RMMm81all6UzZmNkQtcDdDdjhDa0tDbnJ2S0JiaVhBYkUxU1I0Y2JTUWZNZzFTN0xVMm13Z2dwbFVmYWo5MzFLMmp0SlM3b0ZhczZtdHVsV1RrNF92M1kwZm8wLVJqbWJLRUlUNlc?oc=5
+  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5
 
 
 Travel / Boop Relevance
-- Agoda 2027 Asia Travel Pulse: 53% of Asian travelers plan with AI but 89% want the final say on hotel bookings - The Malaysian Reserve
-  Summary: The Malaysian Reserve
-  Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd1hEY0VhVkVXaHg4ZnYwV3lReS1YRV9sbW1FNS1vQ2RZODcxMzA2VmRJRVlpVkZkNDRzS3hyVG1MMUNEUHlOU3d5R0YwdXduQXl0eHhRTkRXcmp0d2dkRHNHNzF2TmE5WTI5Z0dPSzUySnYtNDJ0VmZTQndQWnNZaXJ0c2NFSWhXa1cxeHVPY2JHYVBsZ1R6NVZ1UXJ3dmtxWTlXNUxfXzVqMGh0X2xzaEd6aXpGNUM3UlJjNHJaUEtJcWFhT2Fvcms5UGhCckxGeGN0NnkwRVMwU3JiUDVPcU5Wd0pMdw?oc=5
+- Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
+  Summary: GeekWire
+  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- United Airlines blocks AI agents from booking flights - Travel Weekly Asia
-  Summary: Travel Weekly Asia
-  Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXFfb1Bxc2o1UGNobzl5SE02YXhXN0hPVkxLTmNGS2NKOHBzZktqcUk3MVlBQW1Ia21aT2RDTC12VFp6bHBCVl9vRjBsRGp2NE56WWJQSndiSHQwZUtXQTlwRkFOdElBRHpneWR2azFfdWVkMm9BbTAyRXVDS2JaWWlDVlNNTUxVNnVUNVhOdWY1dXhCTTBaYVdQQ2NvYTVkYXVIaU9oS2Q3anJoMnN2NERR?oc=5
+- Holiday Air Travel Faces Delays as Airline Technology Issues Persist - WJR-AM
+  Summary: WJR-AM
+  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxORHI4cGVUSkkyYnBPVE0xME1uWXJDeTViNmVTY28wLTFvYTNXRnJiNWotTHJSbWd5SFFScFB2R1h1SWR0SllTSUVDM0w3aXRieFZJTm9ESjktWlNIMWlHek81cVRUTG4wVTdYVnRLMjJsV19qNERNdTUtdlp3MEx2S1d5UG4tQW53VHcyWG10UkVjcjNFcmcyNU1Wd29tVVR5SEE?oc=5
 
-- Sabre rolls out travel booking plug-in for Musk’s Grok chatbot - Travel Weekly Asia
-  Summary: Travel Weekly Asia
-  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOG1YRUZnLVpXQkhmVkMwbFZzVTREZ0txMlVLaGxueGg2ZXFtTGJOMGZkRTIwUjJQSEtfbUVjNlJQNXBMN1FxUEhhYkxPN1pfTUlIaml1U18xS0JzZGtsYzN0d3ktNkdMWFhKbG5lWXp1TUZfYWdXcFNvM28zWkRBaHRSMnJHWHBVU1h2VV9GWHBxd09XejFsZWVhOWZZamhnZ2hLTklILVVjeDZhTldIeEhocW5zdUc3SV9pVF9Gd0c0MWc?oc=5
+- Booking Holdings launches global B2B division to expand travel technology and AI solutions - ET TravelWorld
+  Summary: ET TravelWorld
+  Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUE9oZlNaTWY3clBFNTJ2YkxCdG8tM1Jpb3NCLWZ3RVBlbko5alRSMW9hVS02RGd2aTRja181Z3FNNWZlRFZTTjVlRGhibUFZYlFUZEVHNDUtRHU5aU9LVlh1QTNrUVI2bmlMTUFUS0ZZMmRWb2xTOWRXOXBWTzFrbnNBdUpkOWc3eXhnY01fN0dMXzJ1ZjJ0NC1BZUFlbUtNQmQ2d3ZBWE5hdEdQRUNUV21QcTBhMkQyUmdWQ0NEMERhbThfelZaS2dMYlB5Skp6MmtnV0VvZWszMEllWmtLVmdHc2JHMDZlUW1LQlEtZkZVUdIB9wFBVV95cUxNclFZbk5DamdFU0tmV0dDWWJHc25ZMjZEYW15ZXlMR1BqOWIyQ1ZOSXVlNnYwSEhWdlpmb2dwUHhhU3gwUmRoeHltcG5ZdGNDb0ZfRmk5TFlTR3UtWHM4NGc4SHdaWDV0cXE2aExRM29tQ3B4VGxzM2hYcnhONzNadFgxY3lveXV0R2NqVHVqY1FpTlpITjVqY0llcFhGRk16Y1BqUlVDVmV0WEl3aG9kMlYtR1FkQW9JUHRlTngtZ2ZfNVAxTUlvX0xNd1czaE00WUVXV1VCNExTZ1RTRVdEUjZLcEFxNkNHRGgzeTRpUWJhZmZrNkZ3?oc=5
 
 
 Bottom Line
