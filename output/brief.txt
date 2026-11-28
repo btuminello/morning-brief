@@ -1,78 +1,74 @@
-Morning Brief — November 27, 2026
+Morning Brief — November 28, 2026
 
-Chestnut Hill Weather
-- 43° to 56° today. Right now it's 54° and feels like 51°.
-- Around 8 AM: 47° | 2 PM: 54° | 8 PM: 45°.
-- Wear: light jacket, umbrella.
 
 Breaking News
+- [AI] Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots - The Decoder
+  Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2lqQlhlRHFGbHdncGpUY1dpaGZtMmNWQlhiT2hrWFF6WXEyd252NVVaOVJaejc2WHJ4c3RIVVJDWHFrT1ZsaWpKX3R0S1liRkZoWjcyQkdjQUcyck9CcDZxSzV5MmNBc2VIX2I5cnFzY2pCckZQZ1UwRTRYN0luNGtDb0lqeXdwaWxWMXhJYlRhaXM3RU8xTnVFUWJIRmJXSmhERkp2d1RPNzZxQV9BM25CSG9LZGc?oc=5
+
+- [Travel / Boop Relevance] In 2000, Deep Kalra left behind a career in banking to launch MakeMyTrip—betting on online travel when Indian e-commerce was still in its infancy. By pivoting early to capture the NRI market from the US, he turned a dot-com startup into an internet powerhous - LinkedIn
+  Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDEyX1NndlY0WFUzYldibEFuWFFDMnhMLUdWTE9vQ2IwcVcxQ0dhandnSzJkRS1pV0NxMmwtanRfSGMwQTNmTm5GdzlSdml5X1htXzR4MTg3dDJ2eF90dmxLVEFGbnlTUFRQcVdIOFlXR1FmNGQzLTRzN0hpNk96QzI3Rm5ua1p0Ym81SDVESWNfX3hHUTk2ZExDb0ItQjRybHpab2dhOUU1dw?oc=5
+
 - [Markets] Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates. - MarketWatch
   Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5
-
-- [Markets] Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg
-  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5
-
-- [Markets] Stock market today: Dow, S&P 500, Nasdaq end holiday week with gains as AI stocks rebound - Yahoo Finance
-  Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5
 
 
 Must Read Today
 - [Travel / Boop Relevance] Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia - GeekWire
   Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5
 
-- [AI] Frozen language model helps predict materials properties with roughly 95% less training time - Tech Xplore
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmJBU3BzM2tibldta1NZektaSkxkVmJMalJDUUw0OW53aWYxMXdLekFRVVZQblQwNnFoTkd4ZmNYcVZzN3ZTV0RRVUctcU5JZTZXRHE5YmpJMnZRZUpqSHcyR05CdzNnbFJmYkIwRXpzUGJiZmNUeVFlcEIzVzRreHZFN1FwY203ZlBTOFZR?oc=5
+- [AI] Polymarket says Delaware plans January bill to let AI agents run companies - Digg
+  Link: https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MaWNoWV9OamFENy1NRGxsNVBlNFQta1RvM05NQnRIVWJZRUxfelpoWDJZYmh3SFMzUkxnX1JxUjV4UQ?oc=5
 
-- [AI] AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth - CNBC
-  Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE54ZXNvblZCUW1PNHlzZml6b1BHQ2dTUHdCSkhpQXF6Qm1PQVVWYTFMTUxwa0U3WTFhQkwzbkd2OHYtM3RHMDBMVWtWaUdrcE1mWHlKOE1fbWd2OTZPUmk2VzVEb2RBSkdwZ19WcUFNSGdyQWZWbFY3dXhxUdIBgAFBVV95cUxNVmNNVzY0S1prMG1pVmR6WjM2WmVQaEY3SnRGR3JGVFFRNktENEk3SFlvb2FwODVEaEpHZ1oxcF93NEF0Ymk3ZVRGOVRmdG1lcXJtamhhR25qNUlSNWRJUkI3YUlWTjFEOW9VOGpwMm1oejhXYU5LZUZoQTVzYWFNZQ?oc=5
+- [AI] Banned Nvidia Blackwell AI racks surface in China — data center tied to $14M loan and alleged spy Alice Huang - Tom's Hardware
+  Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnN1Qkh4anJiLTlnS2huakZXUWFsU05xYUU2aWZQejA1NTY0SWQ5RUZvNFJvQnhicndFbUVXN1NUaWFxQ25TRFBiR3B1eG5tdXYyTWdYcHdxT0JVZWxqeTA5c0UtcGpRSE9yUVYzTmdLbGI2TzY4SWF1YzctOUxVcUh3TlRTNURycHZXeUlPNTd4U3JHSXVDUHR2NEs3YUVYNjVfRm5YTkFLNVNackhwQjh1TkRPZlQyMjFtZDV2c1BVRWNHU2pWdHZOOWZ1MjhaOEg2Z3MzNWRfdDNhckxqaHhLcm1jQTRfbEFIZW5UQ2h4YkkzU1V4S1RWTjM0Y1U4NE9yWjl3OA?oc=5
 
-- [AI] AI Agents Will Take The Middleman's Chores, Not Its Risks - Forbes
-  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnpyWUk4U1R4ZnRfN2NyVkdFX0g2djNSY2M5Y0ZBeklYRnpZSUJmQkNUcENBN3czempKeVlURHVSUTdTUm9Ed3QzU0VUNlRGZnA3UWRuZFlHSE1mbWl6bFQ5a1ZRRUxVcWRac1Jpa2ZDVlhtUmxLMmFxMVRxZG5fMWRLQ3hwQ2o1czRVRXhzUjRWbUxac08wbmdZYWd1SDBVOHlnX1oxam9YNHFZQnR3?oc=5
+- [AI] First holiday shopping season with AI agents making purchases - KTVU
+  Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNS3Jxc194bmRRLVBmWndtWHFlWU9GRy1JTndNVlBRdjVuSjlMcFVqdFByeWRxWWdBYjFqRkUxR0t5UGdxZVFEa3QxclQ1YVpncnNfS0FPNTdpVzTSAWBBVV95cUxPbHFlc1hQV0d3NXJvcW1zcU93V0F3aFM4dTc1cG1ndUx2d1VZM1JVcWNFQUZjeGwxbGNPZ19BXzRNaEJTek0tTWpFYWdRMm43MXhubGU1X2ItNHpGLWU5R3Y?oc=5
 
-- [AI] Black Friday will put AI shopping agents to the test. Consumers aren’t buying it yet - Fortune
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEU4blA5ZW44bFZfcHR4NjVVODA4bjdIaEw3eXg5WW5Vc0hLT1VQaUtQWThPbjV0OG9HQUp2MUEwemJHQTZSWk9rSlJndHJib2t0UG91WHUxZmhzSUVCeEh5TFE2M2VqY3lMdk1nc0draW5xS3Rrc1pQOXlrVjhtRWV4amQwQQ?oc=5
+- [AI] The Promise and Challenges of AI Agents for Businesses - Kiplinger
+  Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUNKVkZpajJpZlhZX1g1UlJTRGk1NTJKX3RSR0VrRy1RNHl1QWRsOFF4RllqSU9aQVVCa0dfLVlfQzBkUTdUYUFmT0FraW8wZWRPUXR1cE9fZElyR1Z5bGZ0bnQ5Ri0zTHpJUnU0dlJmeFZvMTJBdGhDaExEVkxnWVJaVF8wMUU1anc?oc=5
 
 
 AI
-- Dante Security raises $10 million to keep tabs on AI agents, CTech reports - Digg
-  Summary: Digg
-  Link: https://news.google.com/rss/articles/CBMiREFVX3lxTE9wTkVnVVJoU2M1ZnZMUlQtZVNPdVNZREY2bDBBME9QSC1idDdvalZvdkNDSWJIWnA0TnVSRzB1Y2VNNktZ?oc=5
+- The Hot New Pinned iPhone Contact Is an AI Agent - Business Insider
+  Summary: Business Insider
+  Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVTJPRG5nZGVTUV8tY3pPZEM2a3RwMVpySjdRSFBuQlJmNms0QThsLU5GV0x0STZseGFwMG9MVTBTeEF6SWZnTzAyVThoWXUyYmVtNWFhT1FhRGlqQXdXdjRGQTcxZlFqOVNkSTZ6eFZETGtibDNGRzAydXlicEU?oc=5
 
-- Pizza history: AI agent’s cardless purchase is a first for UK - The Guardian
-  Summary: The Guardian
-  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG05enNvR29yXzZYN1FpcEZ3a0sxZFlvSTdieDA3cjE2Vm80TjJDcGVDdVRnYkp6RHN1a2N0N3ByaDRjb3ZoNHh0cUJHRHlKRTZRVVY4dVM3OGRWMjRjaUtSV1NwQ2h0UVZsNVBqZTlENV9xckpJLVdGbE1seVJadE8wR1lnZUxGUkd3RDhqeDBoX2FNY281cmJydmxPU0MtZFRNMzZGVmRIMTVHODh2OQ?oc=5
+- Black Friday will put AI shopping agents to the test. Consumers aren’t buying it yet - Fortune
+  Summary: Fortune
+  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEU4blA5ZW44bFZfcHR4NjVVODA4bjdIaEw3eXg5WW5Vc0hLT1VQaUtQWThPbjV0OG9HQUp2MUEwemJHQTZSWk9rSlJndHJib2t0UG91WHUxZmhzSUVCeEh5TFE2M2VqY3lMdk1nc0draW5xS3Rrc1pQOXlrVjhtRWV4amQwQQ?oc=5
 
-- ‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers - The Guardian
-  Summary: The Guardian
-  Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5
+- AI agents are coming for big business - Financial Times
+  Summary: Financial Times
+  Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWpwNG9lMGRsOV9qaWw2bDdaMlV4TzhXbVpQZGFCMjlaRWlmT2Nfc0U4WlFHclJldENnX0dKVmJVQ0FFaUh0V3RKWl9odFByV09VZ294dW9SQVFuMEJmbE9FVmVKZFIyRndfQjQ1UFVpZWxaV2swdTE5aU5OZkxLSjJvYjM?oc=5
 
 
 Markets
-- Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation - WSJ
-  Summary: WSJ
-  Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5
+- Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day - Yahoo Finance
+  Summary: Yahoo Finance
+  Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMzhoVzE0b3pzelI5M0ZIVTU2RDY1eDZRWV90UzhDTmhsUEI3T3NEcUFOR2pfYlFja0VNbjduUXRXZFQwZTZYTXp3TG9pQ3V3V1ZnMnNxRFBaVUlfNlpDRFYtNFFUS3lFZHpYSUZQelhXWGFOS0xkVDc2NlAzQ2R2cXo4cG1vcnRKMHBGTEg4RW1zOXRSaFRLX1VWdmFaSExnVVVMZkc5RVpRWGhZUzJEeDZDWXVzRmFubU9kNEFxanlIUTNjME50SG5BOXJFUHQyekpudHNXcVE2djhSU0dHUWNsb0dibzQ?oc=5
 
-- Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today - Kiplinger
-  Summary: Kiplinger
-  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmgxaWtuVUVLTkdrUC1ScUM3bmV3d3hjdXFiNThDeVI3eW12czZNeEtLbGtyWkx4LXNNRzlYTlpGOW02bjM5ZHgteC1RTlBTcF9UQ2dRSTNoX2MwN0N4TE0zaXNEZnRnUGRmSWFXV3pzRGR6OFNfNVpVZTVTWHo4WUdzejI0cVZrSUNjWlBhcTBoN3JOYzFiM1JVNFdCMU5KbndiU0ZNN1B6cHVrSzFLMnFQV3M?oc=5
-
-- Anthropic Jumps Back Above Its IPO Price As AI Stocks Rebound - Investor's Business Daily
+- Stock Market Week Ahead: Follow Throughs And Footholds - Investor's Business Daily
   Summary: Investor's Business Daily
-  Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclYxel8yMTAzRC1hZkxuOTllbXk0bS15RlBqWjBDTnBxc0ZmbkJfNlA1QlJYS3I3SWdIRURTWlFkNlI5aGh5ZnVmT2VIdDl2Q2JuQURUeGZLVXpKcFVxRTE0QTJleGUyWWhScm1ha2N0TXNaaEJmaFVvZWtiQnlGWmJURnM2RG5tMjNR?oc=5
+  Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnR4VE9Ga2RGdWx2S3oxWkhKRjdBajFGYzZqVVd4UUZnT1hEay0tUktCX0RUaWhocFhRWlZ4ZG1tWm9LaC1GRlZYd1RHNk5CZDl6YjBuQ252NXE1TUJNUXVTNGVXcDVuRkJIRVAzbzBtMF9FSTRRUXNJQzdySUhPOTFlN1g0RXZYdW1yX2wzSGw1bEZJSTUxNTAwTGxwRXVXQjNHclRfMjVjOVFpT045OA?oc=5
+
+- These tech stocks may let you play defense without giving up on AI - MarketWatch
+  Summary: MarketWatch
+  Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOalRaTURnT2pFYS1sUTNGckkzeEd3aE52bGFlb0lnTTJfcy1saXNYV0ZwOVZTdlkza2RwMWIwX1B2ZjVycGJObE50dmtNdVdPV1RkYlpWUUZ0VUNUalA3UTVtWWhTVmwzUjBIcU9rRHM0OGpPRlBJZEdzU2EzUU8tN1BWSVQ0V2tpM3pRMXE2SGVDQm5ZSzZBT1hyX3c0djlESWFIajdPNWtJUWZPZXc?oc=5
 
 
 Travel / Boop Relevance
-- Expedia to acquire Czech travel company that had landed in hot waters with airlines - The Seattle Times
-  Summary: The Seattle Times
-  Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3J4SkM4NzhBWVJyWmhmYlpDcTRjeWZqdE1HQjNzdlhtcXZMNDNiSlh0ZTlDazV1WUhPUnBpVUFRZE51YUpZLUZWMGUyODNHUWFjSTlLeXVBQ0RtdDQ3LTgwcVIxQzQ1Y0dDVHYyanJWYV9maHVXRFJlTWtrdjBoSnRvWi1jQWhvWnJnckU2Rko?oc=5
-
-- Sunny Escapes with Vacation Packages: AMA Travel - Global News
-  Summary: Global News
-  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTdTUld4RDVHYXc5UmE3QjZuazRCNU9OSFV4Y1hqbHlWNnF6blQwR2dtSzFRRVFhM0J6RkZPa1BLblVUT244eHhlTWZRUUlUa3E5enpjZ29VUkplMGJKWFR4N25uZnBTTHVCalJ0UkEyWXVHbGI3RjB5d1pkaWVVMmtTTFNxdkFSUlJKR0RR?oc=5
+- Travelers turn to AI chatbots to plan trips, but experts say verify bookings yourself - KSNV
+  Summary: KSNV
+  Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTdTaWhYcFhlc0N5R25vZWRDSVduWk5PNHd2UG9qWGJ3NE9XNFNsTjl1N3IyUHZ1T2MzZTBFdUt5Wk9jQ0VYeEdvUzNtOER6c19WMDVNS19McFRyci1NdklxZFdhd2RPSTlVM3lGLVVNV3lpaDBlVzJNU1FibHhTM1ZUVlYwMFZidU9wMVZxdXNhYjZDLXEzZWowWGxmYl9LbDE3N3kxRXdHaU5xMDQ3M2VqdktVZw?oc=5
 
 - United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf - The New York Times
   Summary: The New York Times
   Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5
+
+- Grok Bot adds travel bookings through Sabre, plus higher limits and new connectors - Crypto Briefing
+  Summary: Crypto Briefing
+  Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBOX05aeWRCbU85TmZFLVUyU25VdG9WeEd3ZWg4b25EUmJQZW5Zem9MdnU2akM1OFhCNVNmM0JHZkhYVjllQ0RhMjVrdVNSc1RhSEtIQ0VlV09EVHVpWk5sbWhRbHRmQlJFWmFVZTNMWUU2YUp1Y2xF?oc=5
 
 
 Bottom Line
